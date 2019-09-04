@@ -1,0 +1,206 @@
+---
+title: 'Lecture 3: Extracting and Parsing Unstructured Data'
+author: "Professor L. Jason Anastasopoulos"
+date: "9/04/2019"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Unstructured data and webscraping
+
+- Unstructured data is any data source which is not already in a database.
+
+- Many forms of unstructured data including: XML, HTML and JSON.
+
+- We will discuss each of these in turn and how to extract data from each of these sources.
+
+- Extraction of this kind of data from webpages is also called *webscraping*. 
+
+
+## JavaScript Object Notation (JSON)
+
+- JSON or JavaScript Object Notation is a file format that uses text and keys to transmit data.
+
+- Invented by programmer Douglas Crockford in the early 2000s.
+
+- It is generally a means for browsers to communicate with servers.
+
+## JSON Data Types
+
+- There are 5 types of JSON data types:
+1. Numbers
+2. Strings (text)
+3. Boolean (True/False)
+4. Arrays/Matrices
+5. Keys
+
+## JSON Sample
+
+- This is what JSON looks like:
+https://alexlitel.github.io/congresstweets/data/2019-08-27.json
+
+
+## Extracting JSON data with R
+
+- There are a number of packages to do this.
+
+- One of the easier ones to use is *jsonlite*. 
+
+- We will focus on using *jsonlite* to extract JSON from a database of congressional tweets.
+
+## Extracting data from Congressional tweets
+
+- "TweetsofCongress" is a massive database of Congressional tweets collected daily and stored in JSON format.
+
+https://github.com/alexlitel/congresstweets
+
+- Tweets by month and day can be found here: 
+
+https://alexlitel.github.io/congresstweets/
+
+## Let's build a database of tweets from yesterday (08/27)
+
+```{r}
+library(jsonlite)
+
+# url with JSON database of Congressional tweets from 08/07
+
+url <- 'https://alexlitel.github.io/congresstweets/data/2019-08-27.json'
+
+# read url and convert to data.frame 
+congresstweets <- fromJSON(txt=url)
+```
+
+## What does this dataframe look like?
+```{r}
+head(congresstweets)
+```
+
+
+## Other useful sources of JSON data
+
+- Govinfo API has an incredible wealth of information that you can access in JSON format.
+
+- Sign up with the API here: https://github.com/usgpo/api
+
+## Example of information that you can get using the API
+
+- Bill summaries
+
+```{r}
+url = "https://api.govinfo.gov/packages/BILLS-115hr1625enr/summary?api_key=DEMO_KEY"
+
+bill.summaries = 
+  fromJSON(txt = url)
+
+head(bill.summaries)
+```
+
+
+## Hyper Text Markup Language (HTML) 
+
+- Hyper Text Markup Language or HTML is the markup language that has served as the basis of all websites.
+
+- Webpages are formatted with a series of tags like the following:
+```{r}
+# <!DOCTYPE html>
+# <html>
+#  <head>
+#    <title>This is a title</title>
+#  </head>
+#  <body>
+#    <p>Hello world!</p>
+#  </body>
+#</html>
+```
+
+- Data can be extracted from between the tags.
+
+## Extensible Markup Language (XML)
+
+- Similar to HTML, but used primarily for data storage purposes like JSON.
+
+- Does NOT have pre-defined tags like XML (hence the eXtensible part).
+
+- Does have syntacical rules which are detailed here: https://www.w3schools.com/xml/xml_syntax.asp 
+
+
+## Example of XML document syntax and application
+
+- Syntax
+```{r}
+# <root>
+#  <child>
+#    <subchild>.....</subchild>
+#  </child>
+# </root>
+```
+
+
+## Example of XML document syntax and application
+
+- Application: creation of a note in XML.
+
+```{r}
+# <?xml version="1.0" encoding="UTF-8"?>
+# <note>
+#   <to>Tove</to>
+#   <from>Jani</from>
+#   <heading>Reminder</heading>
+#   <body>Don't forget me this weekend!</body>
+# </note>
+```
+
+
+
+
+## Parsing HTML and XML in R using Wickham's rvest package
+
+- Let's extract bill data from the govinfo repository: https://www.govinfo.gov/bulkdata
+
+- We will use *rvest* to accomplish this
+
+
+
+## First we need to figure out what tags we need to extract
+
+- First go to the page we want to extract data from: https://www.govinfo.gov/bulkdata/BILLSUM/116/hr
+
+- Use https://selectorgadget.com/ to figure out where the tags are that you want.
+
+## Next we will use rvest to get all the nodes that we want
+
+```{r}
+library(rvest)
+
+url<- "https://www.govinfo.gov/bulkdata/BILLS/115/1/hr/BILLS-115hr1000ih.xml"
+
+download.file(url, destfile = '/Users/jason/Dropbox/Teaching/Classes-2019-2020-UGA/Text Analysis/Lectures/Week 3 - Extracting Unstructured Data/billsums.xml')
+
+bill_text = xml2::read_html('/Users/jason/Dropbox/Teaching/Classes-2019-2020-UGA/Text Analysis/Lectures/Week 3 - Extracting Unstructured Data/billsums.xml')
+
+bill_text %>%
+  html_node("body") %>%
+  html_text()
+```
+
+## Now turn this into a document
+
+```{r}
+billtext = bill_text %>%
+  html_node("body") %>%
+  html_text()
+
+library(quanteda)
+
+billtext.corpus = corpus(billtext)
+billtext.token = tokens(billtext.corpus)
+
+billtext.token
+```
+
+
+```
