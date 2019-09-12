@@ -1,0 +1,131 @@
+---
+title: '[POLS 8500]: Problem Set 1'
+author: "Professor Jason Anastasopoulos"
+output:
+  html_document: default
+  html_notebook: default
+  pdf_document: default
+---
+
+For these exercises we will be using the movie reviews collected by Pang and Lee. The data can be directly loaded into R from here:
+https://anastasopoulos.io/s/movie_review.csv](Movie Reviews). These reviews are classified into positive and negative ratings. 
+
+### Due Date and Time
+
+Due on Wednesday, September 25th at 3:00PM
+
+### Guidelines
+
+All problem sets should be submitted as two files:
+
+1. A *R Markdown* file with the following format: "lastname_firstname_ps1.Rmd". Ie. for me this would be: "anastasopoulos_jason_ps1.Rmd"
+
+2. A compiled *R Markdown* file in HTML with the following format: "lastname_firstname_ps1.html" Ie. for me this would be: "anastasopoulos_jason_ps1.html"
+
+Please only fill in the sections labelled "YOUR CODE HERE"
+  
+### 1. Cleaning text (20 points)
+
+Using quanteda or another package of your choice please take the movie reviews and:
+
+- Create a corpus object
+- Tokenize terms for each review into 1-,2- AND 3-grams 
+- Remove punctuation.
+- Put words in lower case.
+- Remove stop words.
+
+```{r}
+
+##### YOUR CODE HERE ###################################
+
+
+
+
+
+
+##### YOUR CODE HERE ###################################
+```
+
+
+### 2. Document-Feature Matrices (20 points)
+Create two document-feature matricies using your pre-processed text data. 
+
+Create one document-feature matrix which uses only the text frequencies and call that document term matrix "reviewsDTM_F."
+
+Create another document-feature matrix which had TF-IDF weights and call that document term matrix "reviewsDT_TFIDF"
+
+```{r}
+##### YOUR CODE HERE ###################################
+
+
+
+
+##### YOUR CODE HERE ###################################
+```
+
+### 3. Plots (20 points)
+
+Using the "reviewsDTM_F" document feature matrix create two wordclouds: one wordcloud for the positive reviews  and another wordcloud for the negative reviews 
+
+Embed the images in a compiled HTML file from the R markdown or upload the images in PNG format to the ELC.
+
+```{r}
+##### YOUR CODE HERE ###################################
+
+
+
+
+##### YOUR CODE HERE ###################################
+```
+
+
+### 4. Extracting JSON formatted tweets from members of Congress (10 points)
+
+Using the *jsonlite* package in *R* create a CSV database of the tweets of members of congress on 9-11 from here: https://alexlitel.github.io/congresstweets/ 
+
+This CSV database should only have two columns: (1) screen name of the member of Congress and; (2) the text of the tweet
+
+
+```{r}
+##### YOUR CODE HERE ###################################
+
+
+
+
+##### YOUR CODE HERE ###################################
+```
+
+### 5. Creating a database of bill summaries from the 116th Congress (30 points)
+
+Several bill summaries from the 116th congress can be found here in XML format: https://www.govinfo.gov/bulkdata/BILLSUM/116/hr 
+Using the *rvest* package and any other packages that you find useful create a CSV database from the XML files which contains two columns:
+
+1. The title of the bill.
+2. The summary text of the bill.
+
+```{r}
+##### YOUR CODE HERE ###################################
+# HINTS: the title for each bill looks like this in the XML files: <title>Unpaid Intern Protection Act of 2019</title>
+# The text summary looks like this: 
+#<summary-text>
+#<![CDATA[
+#<p><b>Unpaid Intern Protection Act of</b> <b>2019</b></p> <p>This bill prohibits employers from discriminating against unpaid interns on the basis of (1) race, color, religion, sex, national origin, or age; or (2) disability, if such intern can perform the essential functions of the position with or without reasonable accommodation.</p> <p> The bill applies procedures from the Civil Rights Act of 1964, the Age Discrimination in Employment Act of 1967, and the Americans with Disabilities Act of 1990 to claims of employer discrimination of an unpaid intern. </p> <p>Federal courts may grant legal and equitable relief.</p> <p>The bill prohibits state immunity under the Eleventh Amendment to the Constitution from an action in a federal court for a violation of this bill.</p>
+#]]>
+#</summary-text>
+
+
+##### YOUR CODE HERE ###################################
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
