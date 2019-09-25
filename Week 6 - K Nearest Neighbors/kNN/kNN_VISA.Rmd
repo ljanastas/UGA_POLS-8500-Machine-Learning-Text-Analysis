@@ -1,0 +1,59 @@
+---
+title: 'KNN Tutorial: Classifying Visa Applications'
+author: "Jason Anastasopoulos"
+date: "2/25/2018"
+output: html_document
+---
+
+# K Nearest Neighbors Tutorial: Classifying Visa Decisions with kNN
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(pacman)
+pacman::p_load(ElemStatLearn,foreign,class,caret,ggplot2)
+
+visadata<-read.csv("/Users/jasona/Dropbox/Princeton-Classes-Spring-2018/Applied Machine Learning/WWS586A-Machine-Learning-Policy-Analysis/Data/us_perm_visas.csv")
+```
+
+There is lots of information available here in the visa data you can find more information about this large visa data set from the source [https://www.kaggle.com/jboysen/us-perm-visas/data](Visa Application Data).
+
+For this exercise, we are going to train a kNearest Neighbors classifier using some of the available visa data. In theory, such a classifier can be used to provide information to immigration officers in the Federal government about the likelihood that an applicant will, a priori, be likely to have their visa certified. 
+
+Thus the target variable is cerfication status or case status:
+```{r}
+table(visadata$case_status)
+```
+
+
+There are many different types of visas that are available in this data set. Let's a take a look at the different types that exist using ggplot.
+
+```{r}
+visa.types<-data.frame(
+  table(visadata$class_of_admission)
+)
+
+names(visa.types)<-c("Visa_Type","Number")
+
+visa.plot<-ggplot(data=visa.types, aes(x=Visa_Type, y=Number)) +
+  geom_bar(stat="identity")
+visa.plot + coord_flip()
+```
+
+
+The most popular visa type is the H-1B visa, which are visas that are required for foreign workers to have if they want to work in the United States for an extended period of time. So let's narrow down our data to only those particular visas and study them a bit more.
+
+Here we are narrowing down the data to only those visas that are H-1B's and had the status "Certified" or "Denied."
+
+```{r}
+h1bvisadata<-visadata[visadata$class_of_admission=="H-1B"&(visadata$case_status=="Certified"|visadata$case_status=="Denied")
+                        ,]
+
+attach(h1bvisadata)
+```
+
+
+
+
+
+
