@@ -1,0 +1,136 @@
+---
+title: "[POLS 9800] Naive Bayes and Text Data"
+author: "L. Jason Anastasopoulos"
+date: "10/02/2019"
+output: ioslides_presentation
+---
+
+
+## Can we predict whether a tweet will go viral?
+
+![Wordcloud for High Retweet Trump Tweets](./figs/high-retweet.png)
+
+## Can we predict whether a tweet will go viral?
+![Wordcloud for Low Retweet Trump Tweets](./figs/low-retweet.png)
+
+
+
+## Discriminative and Generative Classifiers (from Ng and Jordan (2002))
+
+- **Generative classifiers**: learn a model of the joint probability $p(x,y)$ using Bayes rule to calculate the posterior $p(y|x)$ and then pick the most likley label $y$. (eg). Naive Bayes, all Bayesian methods in general)
+
+- **Discriminative classifiers**: model the posterior $p(y|x)$ directly. (logistic regression, SVMs etc.)
+
+- Ng and Jordan (2002) find that for most kinds of data generative classifiers almost always perform better than discriminative classifiers, despite the fact that they tend to have higher MSE.
+
+- In my personal experience, the results have been mixed.
+
+## Naive Bayes
+
+$$
+P(C = k|D) = \frac{P(D|C = k)P(C=k)}{P(D)}
+$$
+
+- Given a document D, we want to figure out the probability of the document belonging to a class C.
+
+- We can do this by using Bayes theorem to directly calculate class probabilities given the words in a document
+
+## Bayesian statistics terminology
+
+- Before we discuss the naive Bayes algorithm it's useful to know a little bit about the components of Bayes theorem.
+
+$$P(C = k|D)$$ - is known as the **posterior**
+$$P(D |C = k)$$ - is known as the **likelihood**
+$$P(C = k)$$ - is known as the **prior**
+$$P(D)$$ - is known as the **marginal likelihood** or **evidence**.
+
+
+## For continuous distributions this is simply a probability model
+
+$$
+\pi(C | D) = f_{D|C}(D|C)\pi(C) / \int_{\Theta} f_{D|C}(D|C)\pi(C)
+$$
+
+## For discrete distributions this just comes down to multiplying probabilities
+
+$$
+P(C = k|D) = \frac{P(D|C = k)P(C=k)}{P(D)}
+$$
+
+- $D = \{w_{1},w_{2}, \cdots, w_{k}\}$
+- $C = \{1,0\}$ 
+
+
+## Thus...
+
+$$
+P(C = 1|D) = \frac{P(w_{1} \cap w_{2} \cap \cdots \cap w_{k} | C = 1) P(C = 1)}{P(w_{1} \cap w_{2} \cap \cdots \cap w_{k})}
+$$
+
+## Thus...
+Likelihood:
+$$P(D|C = 1) = \prod_{i=1}^W P(w_{i}|C =1)$$
+Prior:
+ $$P(C = 1)= \frac{\# D \in C_{1}}{\# D \in C_{1},C_{2}}$$ 
+
+Marginal likelihood:
+$$
+P(D) = \prod_{i=1}^W P(w_{i})
+$$
+
+## Assumptions
+
+If we assume that the words are independent conditional on a document class then:
+
+$$
+P(C = 1|D) = \frac{[P(w_{1}|C=1)P(w_{2}|C=1)\cdots P(w_{k}| C = 1)] P(C = 1)}{P(w_{1})P(w_{2})\cdots P(w_{k})}
+$$
+
+## Where
+
+ $$P(w_{i} | C = 1) = \frac{\# w_{i} \in C_{1}}{\# \mathbf{w} \in C_{1}}$$
+ $$P(C = 1)= \frac{\# D \in C_{1}}{\# D \in C_{1},C_{2}}$$
+ $$P(w_{i})= \frac{\# w_{i} \in C_{1},C_{2}}{\# \mathbf{w} \in C_{1},C_{2}}$$
+
+## Classification
+
+$$
+\arg\max_{k} C_{k} = P(C = k)\prod_{i=1}^W P(w_{i}|C =k)
+$$
+- For classification purposes, we can ignore the marginal likelihood and assign classes based on likehood and the prior.
+
+## Classification
+
+- An alternative means of expessing this is if:
+
+$$ P(C = k | D) > \frac{1}{k}$$
+
+- Assign document to class *k*.
+
+## Laplace Smoothing
+
+
+
+- Words with zero probability can seriously damage the performance of the classifier. 
+
+- To correct this problem we implement a *Laplace smoother* to ensure that there are no zero probability words. 
+
+- This amounts to simply adding 1 to each count; eg)
+
+$$P(w_{i} | C = 1) = \frac{(\# w_{i} \in C_{1}) + 1}{(\# \mathbf{w} \in C_{1}) + 1}$$
+
+## Example: Tweet Sentiment
+
+Recent Tweet from @POTUS: "We are going to reduce your taxes big league...I want to start that process so quickly...We've got to start the tax reductions."
+
+- $C = {+,-}$
+- $N = 1000 tweets$ 
+- 500 $+$ tweets, 500 $-$ tweets
+
+
+## Example: Tweet Sentiment
+Cleaned Tweet: "reduc tax big league start proces quick start tax reduc."
+
+- $C = {+,-}$
+- $N = 1000$  tweets
+- 500 $+$ tweets, 500 $-$ tweets
