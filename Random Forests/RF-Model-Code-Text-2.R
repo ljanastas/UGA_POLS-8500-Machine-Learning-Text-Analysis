@@ -1,7 +1,9 @@
 library(pacman)
 
 # This loads and installs the packages you need at once
-pacman::p_load(tm,SnowballC,foreign,plyr,twitteR,slam,foreign,wordcloud,LiblineaR,e1071,caret,rpart, quanteda)
+pacman::p_load(tm,SnowballC,foreign,plyr,
+               twitteR,slam,foreign,wordcloud,LiblineaR,e1071,
+               caret,rpart, quanteda, rpart.plot)
 
 
 trumptweets <- read.csv("https://www.ocf.berkeley.edu/~janastas/trump-tweet-data.csv")
@@ -19,7 +21,7 @@ trumptweets.tokens  = tokens(trumptweets.corpus, # This code cleans the text for
                              remove_numbers = TRUE,  
                              remove_punct = TRUE,
                              remove_symbols = TRUE,
-                             ngrams = 1:3,
+                             ngrams = 1:2,
                              remove_twitter= TRUE,
                              remove_url = TRUE)
 
@@ -96,22 +98,11 @@ rf_probs<-predict(rf_fit,data.frame(testdata))
 
 rf_class<-ifelse(rf_probs$predictions[,2] > 0.5, 1,0)
 
+predicted_class = factor(rf_class)
+true_class = factor(testdata$testY)
 
-# We can then manually assess performance 
-confusion<-table(rf_class, testdata$factor.testY.)
-confusion
-
-# Accuracy
-accuracy<-c(confusion[1,1]+confusion[2,2])/sum(confusion)
-accuracy
-
-# Specificity
-specificity<-confusion[1,1]/sum(confusion[1,])
-specificity
-
-# Sensitivity
-sensitivity<-confusion[2,2]/sum(confusion[2,])
-sensitivity
+cmat = confusionMatrix(predicted_class,true_class, positive = "1")
+cmat
 
 
 ################################################################################################
