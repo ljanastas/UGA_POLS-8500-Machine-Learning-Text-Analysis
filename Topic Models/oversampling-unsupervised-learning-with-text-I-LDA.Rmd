@@ -1,0 +1,363 @@
+---
+title: 'Dealing with Class Imbalances and Unsupervised Learning with Text'
+author: "L. Jason Anastasopoulos"
+date: "11/20/2019"
+output:
+  beamer_presentation: default
+  ioslides_presentation: default
+---
+```{r, echo=FALSE, cache=FALSE, include=FALSE}
+library(pacman)
+
+# This loads and installs the packages you need at once
+pacman::p_load(tm,SnowballC,foreign,plyr,twitteR,slam,foreign,wordcloud,LiblineaR,e1071, topicmodels, quanteda)
+
+```
+
+## Dealing with class imbalances
+- In machine learning it is common to have slightly imbalanced samples.
+
+- For example:
+    + May have 40% of "negative" movie reviews, 60% of "positive" reviews.
+    + May have 15% of "viral" tweets and 85% of "non-viral" tweets.
+  
+## This can become a serious problem with rare events in political science
+
+- Predictions with rare classes can pose big problems for training machine learning algorithms.
+    + eg) predicting civil wars, election anomalies etc. 
+
+- This is because the classifier simply does not get enough information from a positive or negative class.
+
+- As a result performance suffers greatly.
+
+- Luckily, there are ways that we can effectively deal with this.
+
+
+## Dealing with class imbalances
+
+- *Undersampling* - randomly remove observations from the class with a lot of observations.
+
+- *Oversampling* - randomly increase the number of observations in the class with fewer observations by sampling. This will result in copies being included in the sample.
+
+- *Synthetic sampling (SMOTE)* - Synthetically manufacture observations in the class with fewer observations using nearest neighbors classificaiton. 
+
+- Choice of method depends upon two things:
+    + Population considerations. 
+    + Performance.
+    
+## Population considerations
+
+- If you choose any of these methods to train your algorithms, it will affect the population that you are training your data on.
+
+- Let's take a civil war example where out of 10,000 documented military conflicts only 1% of those (100) are civil wars.
+
+- *Your goal*: What you would like to do is to predict the factors that relate to civil war.
+
+- Using a 30/70 split, you have 70 civil wars in your training data and 7,000 non-civil wars.
+
+- *Question*: Should you resample before or after splitting the training and validation data? Why?
+
+## Answer
+
+- You should resample AFTER dividing your training and test data.
+
+- ONLY resample on your training data!
+
+- Validation data should NOT BE RESAMPLED!
+
+## Population considerations: undersampling
+
+- This would require you randomly deleting about 6860 military conflics that are not civil wars.
+
+- The 70 remaining non-civil war conflicts will likely be representative, but information will be lost.
+
+## Population considerations: oversampling
+
+- This would require resampling the 70 observations until you got about 6930 or so civil wars included.
+
+- Lots of duplication.
+
+## Population considerations: synthetic sampling
+
+- Synthetic sampling would create synthetic cases using nearest neighbors. 
+
+- Most of your civil war data would be synthetic.
+
+## Let's do an example using R
+
+## Unsupervised Learning with Text
+
+- In general, the purpose of unsupervised learning is *dimensionality reduction*
+
+- Discovery of latent dimensions given some data.
+
+- Examples) K-means clustering, principal components analysis, multidimensional scaling, EM algorithm.
+
+## K-means clustering 
+
+- K-means clustering iteratively finds "groupings" of data using random intialization of clusters.
+
+- Applications: discovering latent groupings from data (ideological viewpoints, etc), learning features from images etc.
+
+- Closely related to EM algorithm which will be discussed later.
+
+## Principal components analysis
+
+<img src = "https://sebastianraschka.com/images/blog/2015/principal_component_analysis_files/2015-01-17-principal_component_analysis_89_0.png", width = 500, height = 300>
+
+- Uses matrix factorization to extract top "factors" that explain the most variance in the data.
+
+- Applications - construction of latent dimensions from a large group of items (eg psychometrics)
+
+
+## Multidimensional Scaling
+
+<img src = "https://grist.files.wordpress.com/2012/07/dw-nominate-1973-2004.png", width = 400, height = 400>
+
+- Multidimensional scaling via the NOMINATE procedure, short for "Nominal Three-Step Estimation" is similar to PCA and functions as a means of collapsing large matrices of vote data into two left right dimensions.
+
+## Unsupervised learning for text data
+
+- In general, we are interested in learning about latent similarities between documents.
+
+- Applications: are the issues  that presidents write executive orders for different? do experimental treatments change the issues discussed in open ended surveys? how are speeches by Republicans and Democrats different?
+
+## Unsupervised learning methods for text data
+
+- **Latent semantic analysis** - uses singular value decomposition (linera algebra) to measure similarity between documents.
+
+- **K-means clustering** - uses K-Means algorithm to measure similarity between documents.
+
+- **Topic modeling** - uses nonparametric Bayesian model to measure similarity between documents and measure topics.
+
+## Topic models: Motivation
+
+- What are the topics that a document is about?
+
+- Given one document, can we find other documents
+about the same topics?
+
+- How do topics change over time?
+
+- Flavors of topic models: correlated topic models, structural topic models, dynamic topic models, semi-supervised topic models.
+
+## Nonparametric Bayesian modeling
+
+- Topic models are **generative** which means that they model texts as if they were generated from a certain probability distribution.
+
+-Each document defines a distribution over (hidden) topics.
+
+-Assume each topic defines a distribution over words.
+
+-The posterior probability of latent variables given a corpus determines the collection into topics
+
+## The generative model
+
+- $D = \{d_{1},\cdots,d_{n}\}$ documents contain a vocabulary of $V = \{v_{1},\cdots,v_{w}\}$ terms.
+
+- Assume $K$ topics (pre-specified).
+
+- Each document has $K$-dimensional multinomial $\theta_{d}$ over topics with a
+common Dirichlet prior $Dir(\alpha)$
+
+- Each topic has a $V$-dimensional multinomial $\beta_{k}$ over words with a
+common symmetric Dirichlet prior $D(\eta)$.
+
+
+## What does a Dirichlet look like?
+
+<img src = "http://www.sumsar.net/images/posts/2015-04-17-the-non-parametric-bootstrap-as-a-bayesian-model/dirichlet_plot.png", width = 700, height = 400>
+
+- Dirichlet expresses probabilities on an N-dimensional simplex.
+
+- Parameters are vectors of length K or V, respectively such that: $\alpha,\eta \in \mathbb{R}^+$
+
+## Generative process
+
+For each **topic** $1 \cdots k$:
+ 1. Multinomial over words $\beta_{k} \sim Dir(\eta)$
+
+For each **document** $1\cdots d$:
+
+1. Multinomial over topics $\theta_{d} \sim Dir(\alpha)$
+
+2 For each word $w_{d,n}$:
+  a. Draw topic $Z_{d,n}\sim Mult(\theta_{d})$ with $Z_{d,n}\in [1..K]$
+  b. Draw a word $w_{d,n}\sim Mult(Z_{d,n})$
+ 
+## Generative process
+
+<img src = "https://filebox.ece.vt.edu/~s14ece6504/projects/alfadda_topic/main_figure_3.png", width = 700, height = 300>
+
+## Generative process
+
+<img src = "http://christofs.github.io/topic-modeling_EN/img/tm_steyvers2.png", width = 700, height = 300>
+
+
+## Inference problem
+
+
+$$
+  \displaystyle  P(\theta, z,\beta| w,\alpha,\eta) = \frac{P(\theta, z, \beta ; w,\alpha,\eta)}{\int\int \sum P(\theta,z,\beta, w,\alpha,\eta)}
+$$
+- Cannot do integral in the denominator
+
+- Need to use approx. inference (1) Gibbs sampling ; (2) variational inference
+
+
+## Quantiaties we need to calculate
+
+- Gibbs sampling aside, as Bayesians we need to calculate expected values of the parameters given the data.
+
+**Topic probability** of word *v* according to topic *k*:
+$$\bar{\beta}_{k,v} =  E[\beta_{k,v}|w_{1:D,1:N}] $$
+**Topic proportions of each document** *d*: 
+$$\bar{z}_{d,n,k} =  E[Z_{d,n} = k|w_{1:D,1:N}] $$
+
+**Topic assignment of each word** $w_{d,n}$:
+$$\bar{\theta}_{k,v} =  E[\theta_{d,k}|w_{1:D,1:N}] $$
+
+## Topic modeling in R
+
+```{r}
+library(topicmodels)
+
+data("AssociatedPress")
+AssociatedPress
+```
+
+- Load the "topicmodels" package.
+
+- Load the "AssociatedPress" corpus.
+
+## Estimating a topic model with 5 topics
+
+```{r}
+# set a seed so that the output of the model is predictable
+ap_lda <- LDA(AssociatedPress, k = 5, control = list(seed = 1234))
+ap_lda
+```
+
+## What are the topics for this model?
+
+```{r}
+terms(ap_lda, k=10) # top 10 words for each topic
+```
+
+## Let's find the topic distributions for each document
+
+```{r}
+posterior_inference <- posterior(ap_lda)
+posterior_topic_dist<-posterior_inference$topics # This is the distribution of topics for each document
+posterior_topic_dist[1:10,]
+```
+
+## Topic distribution for documents 1-3
+
+```{r}
+par(mfrow=c(1,3))
+hist(posterior_topic_dist[1,], col="blue",main="Document 1", xlab = "")
+hist(posterior_topic_dist[2,], col="blue",main="Document 2", xlab = "")
+hist(posterior_topic_dist[3,], col="blue",main="Document 3", xlab = "")
+```
+
+## Let's measure topic similarity between document 1 and documents 2 and 3
+```{r}
+doc_similarity<-function(doc1,doc2){
+  sim<-sum(
+    (sqrt(doc1) + sqrt(doc2))^2
+  )
+  return(sim)
+}
+```
+```{r}
+doc_similarity(posterior_topic_dist[1,],posterior_topic_dist[2,]) # Documents 1 and 2
+```
+```{r}
+doc_similarity(posterior_topic_dist[1,],posterior_topic_dist[3,]) # Documents 1 and 3
+```
+
+
+## Estimating a topic model with 10 topics
+
+```{r}
+ap_lda10<- LDA(AssociatedPress, 
+              k = 10, control = list(seed = 1234))
+ap_lda10
+```
+
+## What are the topics for this model?
+
+```{r}
+terms(ap_lda10, k=5)
+```
+
+## Let's find the topic distributions for each document
+
+```{r}
+posterior_inference <- posterior(ap_lda10)
+posterior_topic_dist<-posterior_inference$topics # This is the distribution of topics for each document
+posterior_topic_dist[1:5,]
+```
+
+## Topic distribution for documents 1-3
+
+```{r}
+par(mfrow=c(1,3))
+hist(posterior_topic_dist[1,], col="blue",main="Document 1", xlab = "")
+hist(posterior_topic_dist[2,], col="blue",main="Document 2", xlab = "")
+hist(posterior_topic_dist[3,], col="blue",main="Document 3", xlab = "")
+```
+
+## Let's measure topic similarity between document 1 and documents 2 and 3
+```{r}
+doc_similarity<-function(doc1,doc2){
+  sim<-sum(
+    (sqrt(doc1) + sqrt(doc2))^2
+  )
+  return(sim)
+}
+```
+```{r}
+doc_similarity(posterior_topic_dist[1,],posterior_topic_dist[2,]) # Documents 1 and 2
+```
+```{r}
+doc_similarity(posterior_topic_dist[1,],posterior_topic_dist[3,]) # Documents 1 and 3
+```
+
+## Model selection
+
+- How do we choose between estimating a 5, 10, 15, 20 or 50 topic model?
+
+- Most methods for model selection don't perform that well, but the one that is typically used and available in softward packages is **perplexity**.
+
+- With unlabled data density estimation can be used to assess models.
+
+## Perplexity
+
+- Comes from information theory
+
+- Measure of how well a probability distribution or probability model predicts a sample.
+
+- Low perplexity $=$ probability model does a better job.
+
+- Directly related to entropy
+
+## Perplexity
+
+
+$$
+perplexity(D_{test}) = \exp\left{ -\frac{\sumlog(p(w_{d}))}{\sum N_{d}} \right}
+$$
+
+## Perplexity
+
+```{r}
+perplexity(ap_lda)
+```
+
+
+```{r}
+perplexity(ap_lda10)
+```
+
