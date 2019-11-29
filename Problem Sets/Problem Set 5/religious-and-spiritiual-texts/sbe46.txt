@@ -1,0 +1,23079 @@
+
+    
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+  
+
+VEDIC HYMNS
+
+  
+
+PART II
+
+  
+
+SACRED BOOKS OF THE EAST, VOLUME 46
+
+  
+
+HYMNS TO AGNI (MANDALAS I-V)
+
+  
+
+Translated by
+
+  
+
+HERMANN OLDENBERG
+
+  
+
+Oxford: The University Press
+
+  
+
+[1897]
+
+ Scanned, proofed and formatted at sacred-texts.com, April-July 2008. This text is in the public domain in the US because it was published prior to 1923.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. vii]
+
+  
+
+CONTENTS.
+
+         	 
+
+      	 
+
+      	PAGE
+
+     
+     	INTRODUCTION
+
+      	<page xi>
+
+     
+     	 
+
+      	 
+
+     
+     	HYMNS, TRANSLATION AND NOTES:--
+
+      	 
+
+     
+     	Mandala I, 
+
+      	x
+
+      	<page 1>
+
+     
+     	 
+
+      	12
+
+      	<page 6>
+
+     
+     	 
+
+      	13 Apri Hymn
+
+      	<page 8>
+
+     
+     	 
+
+      	26
+
+      	<page 13>
+
+     
+     	 
+
+      	27
+
+      	<page 16>
+
+     
+     	 
+
+      	31
+
+      	<page 22>
+
+     
+     	 
+
+      	36
+
+      	<page 31>
+
+     
+     	 
+
+      	44
+
+      	<page 37>
+
+     
+     	 
+
+      	45
+
+      	<page 42>
+
+     
+     	 
+
+      	58
+
+      	<page 45>
+
+     
+     	 
+
+      	59
+
+      	<page 49>
+
+     
+     	 
+
+      	60
+
+      	<page 52>
+
+     
+     	 
+
+      	65
+
+      	<page 54>
+
+     
+     	 
+
+      	66
+
+      	<page 57>
+
+     
+     	 
+
+      	67
+
+      	<page 61>
+
+     
+     	 
+
+      	68
+
+      	<page 64>
+
+     
+     	 
+
+      	69
+
+      	<page 67>
+
+     
+     	 
+
+      	70
+
+      	<page 70>
+
+     
+     	 
+
+      	71
+
+      	<page 74>
+
+     
+     	 
+
+      	72
+
+      	<page 82>
+
+     
+     	 
+
+      	73
+
+      	<page 88>
+
+     
+     	 
+
+      	74
+
+      	<page 92>
+
+     
+     	 
+
+      	75
+
+      	<page 95>
+
+     
+     	 
+
+      	76
+
+      	<page 96>
+
+     
+     	 
+
+      	77
+
+      	<page 100>
+
+     
+     	 
+
+      	78
+
+      	<page 102>
+
+     
+     	 
+
+      	79
+
+      	<page 103>
+
+     
+     	 
+
+      	94
+
+      	<page 108>
+
+     
+     	[p. viii]
+
+      	 
+
+      	 
+
+     
+     	 
+
+      	 
+
+      	PAGE
+
+     
+     	Mandala I, 
+
+      	95
+
+      	<page 114>
+
+     
+     	 
+
+      	96
+
+      	<page 119>
+
+     
+     	 
+
+      	97
+
+      	<page 125>
+
+     
+     	 
+
+      	98
+
+      	<page 127>
+
+     
+     	 
+
+      	99
+
+      	<page 128>
+
+     
+     	 
+
+      	127
+
+      	<page 129>
+
+     
+     	 
+
+      	128
+
+      	<page 137>
+
+     
+     	 
+
+      	140
+
+      	<page 141>
+
+     
+     	 
+
+      	141
+
+      	<page 147>
+
+     
+     	 
+
+      	142 Apri Hymn
+
+      	<page 153>
+
+     
+     	 
+
+      	143
+
+      	<page 157>
+
+     
+     	 
+
+      	144
+
+      	<page 160>
+
+     
+     	 
+
+      	145
+
+      	<page 164>
+
+     
+     	 
+
+      	146
+
+      	<page 167>
+
+     
+     	 
+
+      	147
+
+      	<page 170>
+
+     
+     	 
+
+      	148
+
+      	<page 173>
+
+     
+     	 
+
+      	149
+
+      	<page 176>
+
+     
+     	 
+
+      	150
+
+      	<page 178>
+
+     
+     	 
+
+      	188 Apri Hymn
+
+      	<page 179>
+
+     
+     	 
+
+      	189
+
+      	<page 181>
+
+     
+     	II,
+
+      	1
+
+      	<page 186>
+
+     
+     	 
+
+      	2
+
+      	<page 193>
+
+     
+     	 
+
+      	3 Apri Hymn
+
+      	<page 198>
+
+     
+     	 
+
+      	4
+
+      	<page 202>
+
+     
+     	 
+
+      	5
+
+      	<page 206>
+
+     
+     	 
+
+      	6
+
+      	<page 209>
+
+     
+     	 
+
+      	7
+
+      	<page 211>
+
+     
+     	 
+
+      	8
+
+      	<page 213>
+
+     
+     	 
+
+      	9
+
+      	<page 215>
+
+     
+     	 
+
+      	10
+
+      	<page 217>
+
+     
+     	III,
+
+      	1
+
+      	<page 219>
+
+     
+     	 
+
+      	2
+
+      	<page 228>
+
+     
+     	 
+
+      	3
+
+      	<page 232>
+
+     
+     	 
+
+      	4 Apri Hymn
+
+      	<page 236>
+
+     
+     	 
+
+      	5
+
+      	<page 240>
+
+     
+     	 
+
+      	6
+
+      	<page 244>
+
+     
+     	 
+
+      	7
+
+      	<page 248>
+
+     
+     	 
+
+      	8
+
+      	<page 252>
+
+     
+     	 
+
+      	9
+
+      	<page 256>
+
+     
+     	[p. ix]
+
+      	 
+
+      	 
+
+     
+     	 
+
+      	 
+
+      	PAGE
+
+     
+     	Mandala III,
+
+      	10
+
+      	<page 259>
+
+     
+     	 
+
+      	11
+
+      	<page 261>
+
+     
+     	 
+
+      	12 To Indra-Agni
+
+      	<page 263>
+
+     
+     	 
+
+      	13
+
+      	<page 266>
+
+     
+     	 
+
+      	14
+
+      	<page 268>
+
+     
+     	 
+
+      	15
+
+      	<page 271>
+
+     
+     	 
+
+      	16
+
+      	<page 273>
+
+     
+     	 
+
+      	17
+
+      	<page 275>
+
+     
+     	 
+
+      	18
+
+      	<page 277>
+
+     
+     	 
+
+      	19
+
+      	<page 279>
+
+     
+     	 
+
+      	20
+
+      	<page 281>
+
+     
+     	 
+
+      	21
+
+      	<page 283>
+
+     
+     	 
+
+      	22
+
+      	<page 285>
+
+     
+     	 
+
+      	23
+
+      	<page 287>
+
+     
+     	 
+
+      	24
+
+      	<page 289>
+
+     
+     	 
+
+      	25
+
+      	<page 291>
+
+     
+     	 
+
+      	26
+
+      	<page 292>
+
+     
+     	 
+
+      	27
+
+      	<page 296>
+
+     
+     	 
+
+      	28
+
+      	<page 300>
+
+     
+     	 
+
+      	29
+
+      	<page 302>
+
+     
+     	IV,
+
+      	1
+
+      	<page 307>
+
+     
+     	 
+
+      	2
+
+      	<page 316>
+
+     
+     	 
+
+      	3
+
+      	<page 325>
+
+     
+     	 
+
+      	4
+
+      	<page 331>
+
+     
+     	 
+
+      	5
+
+      	<page 335>
+
+     
+     	 
+
+      	6
+
+      	<page 340>
+
+     
+     	 
+
+      	7
+
+      	<page 343>
+
+     
+     	 
+
+      	8
+
+      	<page 346>
+
+     
+     	 
+
+      	9
+
+      	<page 348>
+
+     
+     	 
+
+      	10
+
+      	<page 350>
+
+     
+     	 
+
+      	11
+
+      	<page 352>
+
+     
+     	 
+
+      	12
+
+      	<page 354>
+
+     
+     	 
+
+      	13
+
+      	<page 356>
+
+     
+     	 
+
+      	14
+
+      	<page 358>
+
+     
+     	 
+
+      	15
+
+      	<page 360>
+
+     
+     	V,
+
+      	1
+
+      	<page 363>
+
+     
+     	 
+
+      	2
+
+      	<page 366>
+
+     
+     	 
+
+      	3
+
+      	<page 371>
+
+     
+     	 
+
+      	4
+
+      	<page 375>
+
+     
+     	[p. x]
+
+      	 
+
+      	 
+
+     
+     	 
+
+      	 
+
+      	PAGE
+
+     
+     	Mandala V,
+
+      	5 Apri Hymn 
+
+      	<page 377>
+
+     
+     	 
+
+      	6 
+
+      	<page 379>
+
+     
+     	 
+
+      	7
+
+      	<page 382>
+
+     
+     	 
+
+      	8
+
+      	<page 385>
+
+     
+     	 
+
+      	9
+
+      	<page 387>
+
+     
+     	 
+
+      	10
+
+      	<page 389>
+
+     
+     	 
+
+      	11
+
+      	<page 391>
+
+     
+     	 
+
+      	12
+
+      	<page 393>
+
+     
+     	 
+
+      	13
+
+      	<page 395>
+
+     
+     	 
+
+      	14
+
+      	<page 397>
+
+     
+     	 
+
+      	15
+
+      	<page 399>
+
+     
+     	 
+
+      	16
+
+      	<page 401>
+
+     
+     	 
+
+      	17
+
+      	<page 403>
+
+     
+     	 
+
+      	18
+
+      	<page 405>
+
+     
+     	 
+
+      	19
+
+      	<page 407>
+
+     
+     	 
+
+      	20
+
+      	<page 410>
+
+     
+     	 
+
+      	21
+
+      	<page 412>
+
+     
+     	 
+
+      	22
+
+      	<page 413>
+
+     
+     	 
+
+      	23
+
+      	<page 414>
+
+     
+     	 
+
+      	24
+
+      	<page 415>
+
+     
+     	 
+
+      	25
+
+      	<page 416>
+
+     
+     	 
+
+      	26
+
+      	<page 418>
+
+     
+     	 
+
+      	27
+
+      	<page 420>
+
+     
+     	 
+
+      	28
+
+      	<page 423>
+
+     
+     	APPENDICES:--
+
+      	 
+
+     
+     	     I. Index of Words
+
+      	<page 427>
+
+     
+     	    II. List of the more important Passages quoted in   the Notes
+
+      	<page 487>
+
+     
+     	Transliteration of Oriental Alphabets adopted for the Translations of the   Sacred Books of the East
+
+      	497
+
+     
+   
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. xi]
+
+  
+
+INTRODUCTION.
+
+In preparing this volume, which contains the greater part of the Agni hymns of the Rig-veda, namely, those of the Mandalas I-V, the translator enjoyed the high advantage of Professor Max Muller's assistance, in the way stated in the Introduction to the first volume of Vedic Hymns, Sacred Books of the East, vol. xxxii, p. xxvii.
+
+H. O.
+
+     KIEL:
+ November, 1895.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 1]
+
+  
+
+VEDIC HYMNS.
+
+  
+
+MANDALA I, HYMN 1.
+
+  
+
+ASHTAKA I, ADHYAYA 1, VARGA 1-2.
+
+1 [*1]. I magnify [*2] Agni, the Purohita, the divine ministrant of the sacrifice, the Hotri priest, the greatest bestower of treasures.
+
+2. Agni, worthy to be magnified by the ancient Rishis and by the present ones--may he conduct the gods hither.
+
+3. May one obtain through Agni wealth and welfare day by day, which may bring glory and high bliss of valiant offspring.
+
+4. Agni, whatever sacrifice and worship [*1] thou encompassest on every side, that indeed goes to the gods.
+
+5. May Agni the thoughtful Hotri, he who is true and most splendidly renowned, may the god come hither with the gods.
+
+6. Whatever good thou wilt do to thy worshipper, O Agni, that (work) verily is thine, O Angiras
+
+7. Thee, O Agni, we approach day by day, O (god) who shinest in the darkness [*1]; with our prayer, bringing adoration to thee--
+
+8. Who art the king of all worship, the guardian of Rita, the shining one, increasing in thy own house.
+
+9. Thus, O Agni, be easy of access to us, as a father is to his son. Stay with us for our happiness.
+
+[p. 2]
+
+  
+
+NOTES.
+
+The hymn is ascribed to Madhukkhandas Vaisvamitra, and may possibly belong to an author of the Visvamitra family. See my Prolegomena, p. 261. Metre, Gayatri. The hymn has been translated and commented upon by M. M., Physical Religion, pp. 170-173.
+
+Verse 1 = TS. IV, 3, 13, 3; MS. IV, 10, 5. Verse 3 = TS. III, 1, 11, 1; IV, 3, 13, 5; MS. IV, 10, 4 (IV, 14, 16). Verse 4 = TS. IV, 1, 11, 1; MS. IV, 10, 3. Verse 7 = SV. I, 14. Verses 7-9 = VS. III, 22-24; TS. I, 5, 6, 2; MS. I, 5, 3.
+
+  
+
+Verse 1.
+
+Note [1:1:1:1]1. This verse being the first verse of the Rig-veda as we now possess it, seems already to have occupied the same position in the time of the author of the hymns X, 20-26. For, after a short benediction, the opening words of this collection of hymns are also agnim ile, 'I magnify Agni.' Comp. my Prolegomena, p. 231.
+
+Note [1:1:1:2]2. The verb which I translate by 'magnify'--being well aware that it is impossible to do full justice to its meaning by such a translation--is id. There seems to me no doubt that this verb is etymologically connected with the substantives ish, 'food,' id, ida, ira (not with the root yag of which Brugmann, Indogermanische Forschungen I, 171, thinks). We need not ask here whether the connection between id and ish is effected by a 'Wurzeldeterminativ' (root-determinative) d--in this case we should have here id for izhd, comp. nida for nizhda, pid for pizhd, &c.; see Brugmann's Grundriss, vol. i, 591--or whether id is a reduplicated present of id (of the type described by Brugmann, Grundriss, vol. ii, p. 854; comp. i'rte, &c.). The original meaning of i'de at all events seems to be 'I give sap or nourishment.' Now in the Vedic poetry and ritual, the idea of sap or nourishment is especially connected with the different products coming from the cow, milk and
+
+[p. 3]
+
+butter. The footsteps of the goddess Ida drip with butter. The words 'agnim ide' seem to me, consequently, originally to convey the idea of celebrating Agni by pouring sacrificial butter into the fire. There is a number of passages in the Rig-veda which, in my opinion, show clear traces of this original meaning of the verb. Thus we read X, 53, 2. yagamahai yagniyan hanta deva'n i'lamahai i'dyan a'gyena, 'let us sacrifice (yag) to the gods to whom sacrifice is due; let us magnify (id) with butter those to whom magnifying is due.' V, 14, 3. tam hi sasvantah i'late sruka' devam ghritaskuta agnim havya'ya volhave, 'for all people magnify this god Agni with the butter-dripping sacrificial spoon that he may carry the sacrificial food.' V, 28, I. deva'n i'lana havisha ghrita'ki, 'magnifying the gods with sacrificial food, (the spoon) filled with butter.' Comp. also I, 84, 18; VI, 70, 4; VIII, 74, 6; X, 118, 3. Then, by a gradual development, we find the verb id or the noun ilenya connected with such instrumentals as gira' or girbhih, 'to magnify by songs,' or stomaih 'by praises,' namasa by 'adoration,' and the like. The Rig-vedic texts, however, show us very clearly that even in such phrases the original meaning of id was not quite forgotten. For the word is not used indifferently of any praise offered to any god whatever. No god of the Vedic Pantheon is praised so frequently and so highly by the poets of the Rig-veda as Indra. Yet, with very few exceptions, the word id is avoided in connection with this god. The whole ninth Mandala contains nothing but praises of Soma Pavamana. Yet the word Id occurs, in the whole of this Mandala, in two passages only (5, 3; 66, 1) of which one is contained in an Apri verse transferring artificially to Soma such qualifications as belong originally to Agni. On the other hand, in the invocations addressed to Agni, this verb and its derivatives are most frequently used. We may conclude that the idea of celebration, as conveyed by these words, had a connotation which qualified them for the employment with regard to Agni, the god nourished by offerings of butter, much better than for being addressed to Indra, the drinker of the Soma juice, or to the god Soma himself.
+
+[p. 4]
+
+Last comes, I believe, the meaning of id as contained in a very small number of passages such as VII, 91, 2. indravayu sustutih vam iyana' mardikam itte suvitam ka navyam, 'Indra and Vayu! Our beautiful praise, approaching you, asks you for mercy and for new welfare.' Here the construction of id is such as if in English the phrase, 'men magnify the gods for obtaining mercy,' could be expressed in the words 'men magnify the gods mercy.'
+
+I conclude by quoting the more important recent literature referring to id: Prof. Max Muller's note on V, 60, 1 (S. B. E. vol. xxxii, p. 354); Physical Religion, p. 170; Bezzenberger, Nachrichten von der Gottinger Gesellsch. d. Wissensch. 1878, p. 264; Bechtel, Bezzenberger's Beitrage, X, 286; Bartholomae, ibid. XII, 91; Arische Forschungen, II, 78; Indogermanische Forschungen, III, 28, note 1; Brugmann, Indogermanische Forschungen, I, 171; K. F. Johansson, Indogermanische Forschungen, II, 47. Comp. also Bartholomae, Arische Forschungen, I, 21; III, 52, and Joh. Schmidt, Kuhn's Zeitschrift, XXXII, 389.
+
+  
+
+Verse 4.
+
+Note [1:1:4:1]1. 'Worship' is a very inadequate translation of adhvara, which is nearly a synonym of yagna, by the side of which it frequently stands. Possibly in the designation of the sacrifice as yagna the stress was laid on the element of prayer, praises, and adoration; in the designation as adhvara on the actual work which was chiefly done by the Adhvaryu.--Prof. Max Muller writes: 'I accept the native explanation a-dhvara, without a flaw, perfect, whole, holy. Adhvara is generally an opus operatum; hence adhvaryu, the operating priest.' Comp. Physical Religion, p. 171. Bury's derivation of adhvara from madhu (mdhu-ara, Bezzenberger's Beitrage, VII, 339) is much more ingenious than convincing.
+
+  
+
+Verse 7.
+
+Note [1:1:7:1]1. I have translated doshavastar as a vocative which, as is rendered very probable by the accent, was also the opinion of the diaskeuasts of the Samhita text.
+
+[p. 5]
+
+[paragraph continues] The author of the sacrificial formula which is given in Asval. Sraut. III, 12, 4 and Sankh. Grihy. V, 5, 4, evidently understood the word in the same way; there Agni is invoked as doshavastar and as pratarvastar, as shining in the darkness of evening and as shining in the morning. That this may indeed be the true meaning of the word is shown by Rig-veda III, 49, 4, where Indra is called kshapa'm vasta' 'the illuminator of the nights' (kshapa'm is gen. plur., not as Bartholomae, Bezzenberger's Beitrage, XV, 208, takes it, loc. sing.). The very frequent passages, however, in which case-forms of dosha' stand in opposition to words meaning 'dawn' or 'morning'--which words in most cases are derived from the root vas--strongly favour the opinion of Gaedicke (Der Accusativ im Veda, 177, note 3) and K. F. Johansson (Bezzenberger's Beitrage, XIV, 163), who give to doshavastar the meaning 'in the darkness and in the morning.' This translation very well suits all Rig-veda passages in which the word occurs. If this opinion is accepted, doshavastar very probably ought to be written and accented as two independent words, dosha' vastar. See M. M., Physical Religion, p. 173.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 6]
+
+  
+
+MANDALA I, HYMN 12.
+
+  
+
+ASHTAKA I, ADHYAYA 1, VARGA 22-23.
+
+1. We choose Agni as our messenger, the all-possessor, as the Hotri of this sacrifice, the highly wise.
+
+2. Agni and Agni again they constantly invoked with their invocations, the lord of the clans, the bearer of oblations, the beloved of many.
+
+3. Agni, when born, conduct the gods hither for him who has strewn the Barhis (sacrificial grass) [*1]; thou art our Hotri, worthy of being magnified [*2].
+
+4. Awaken them, the willing ones, when thou goest as messenger, O Agni. Sit down with the gods on the Barhis.
+
+5. O thou to whom Ghrita oblations are poured out, resplendent (god), burn against the mischievous, O Agni, against the sorcerers.
+
+6. By Agni Agni is kindled (or, by fire fire is kindled), the sage, the master of the house, the young one, the bearer of oblations, whose mouth is the sacrificial spoon.
+
+7. Praise Agni the sage, whose ordinances for the sacrifice are true, the god who drives away sickness.
+
+8. Be the protector, O Agni, of a master of sacrificial food who worships thee, O god, as his messenger.
+
+9. Be merciful, O purifier, unto the man who is rich in sacrificial food, and who invites Agni to the feast of the gods.
+
+10. Thus, O Agni, resplendent purifier, conduct
+
+[p. 7]
+
+the gods hither to us, to our sacrifice and to our food.
+
+11. Thus praised by us with our new Gayatra hymn, bring us wealth of valiant men and food.
+
+12. Agni with thy bright splendour be pleased, through all our invocations of the gods, with this our praise.
+
+  
+
+NOTES.
+
+This hymn is ascribed to Medhatithi Kanva. It is the opening hymn of a collection which extends from I, 12 to 23 (not, as Ludwig, III, 102, believes, from I, 2 to 17; see my Prolegomena, p. 220). That the authorship of this collection belongs indeed to the Kanva family, whose poetical compositions are found partly in the first and partly in the eighth Mandala, is shown by the text of 14, 2-5, and by other evidence; see Zeitschr. der Deutschen Morg. Gesellschaft, XXXVIII, 448.
+
+The metre is Gayatri. It is possible, though I do not think it probable, that the hymn should be considered as consisting of Trikas. Verse 1 = SV. I, 3; TS. II, 5, 8, 5; V, 5, 6, 1; TB. III, 5, 2, 3; MS. IV, 10, 2. Verses 1-3= SV. II, 140-142; AV. XX, 101, 1-3. Verse 2 = TS. IV, 3, 13, 8; MS. IV, 10, 1. Verse 3 = TB. III, II, 6, 2. Verses 6, 8, 9 = SV. II, 194-196. Verse 6 = TS. I, 4, 46, 3; III, 5, 11, 5; V, 5, 6, 1; TB. II, 7, 12, 3; MS. IV, 10, 2 (3). Verse 7 = SV. I, 32. Verse 10 = VS. XVII, 9; TS. I, 3, 14, 8; 5, 5, 3; IV, 6, 1, 3; MS. I, 5, 1.
+
+  
+
+Verse 3.
+
+Note [1:12:3:1]1. On vriktabarhis, comp. RV. I, 116, 1; M. M., vol. xxxii, pp. 84 seq., 109; Geldner, P. G., Vedische Studien, I, 152.
+
+Note [1:12:3:2]2. On i'dyah, comp. the note on ide I, 1, 1.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 8]
+
+  
+
+MANDALA I, HYMN 13.
+
+  
+
+ASHTAKA I, ADHYAYA 1, VARGA 24-25.
+
+  
+
+APRI HYMN.
+
+1 [*1]. Being well lighted, O Agni, bring us hither the gods to the man rich in sacrificial food, O Hotri, purifier, and perform the sacrifice.
+
+2. Tanunapat [*1]! make our sacrifice rich in honey and convey it to-day to the gods, O sage, that they may feast.
+
+3. I invoke here at this sacrifice Narasamsa [*1], the beloved one, the honey-tongued preparer of the sacrificial food.
+
+4. O magnified [*1] Agni! Conduct the gods hither in an easy-moving chariot. Thou art the Hotri instituted by Manus [*2].
+
+5. Strew, O thoughtful men, in due order [*1] the sacrificial grass, the back (or surface) of which is sprinkled with butter, on which the appearance of immortality [*2] (is seen).
+
+6. May the divine gates open, the increasers of Rita, which do not stick together, that to-day, that now the sacrifice may proceed.
+
+7. I invoke here at this sacrifice Night and Dawn, the beautifully adorned goddesses, that they may sit down on this our sacrificial grass.
+
+8. I invoke these two divine Hotris [*1], the sages with beautiful tongues. May they perform this sacrifice for us.
+
+9. Ila ('Nourishment'), Sarasvati, and Mahi ('the great one') [*1], the three comfort-giving goddesses, they who do not fail, shall sit down on the sacrificial grass.
+
+[p. 9]
+
+10. I invoke hither the foremost, all-shaped Tvashtri to come hither; may he be ours alone.
+
+11. O tree [*1], let the sacrificial food go, O god, to the gods. May the giver's splendour be foremost.
+
+12. Offer ye the sacrifice with the word Svaha to Indra in the sacrificer's house. Thereto I invoke the gods.
+
+  
+
+NOTES.
+
+The hymn is ascribed, as the whole collection to which it belongs, to Medhatithi Kanva (see the note on the preceding hymn). Its metre is Gayatri. Verses 1-4 = SV. II, 697-700. Verse 9 = RV. V, 5, 8. Verse 10 = TS. III, 1, 11, 1; TB. III, 5, 12, 1; MS. IV, 13, 10.
+
+The hymn belongs to the class of Apri hymns, which were classed by the ancient arrangers of the Samhita among the Agni hymns. The Apri hymns, consisting of eleven or twelve verses, were destined for the Prayaga offerings of the animal sacrifice (comp. H. O., Zeitschrift der D. Morg. Gesellschaft, XLII, 243 seq.). They were addressed, verse by verse in regular order, partly to Agni, partly to different spirits or deified objects connected with the sacrifice, such as the sacrificial grass, the divine gates through which the gods had to pass on their way to the sacrifice, &c. The second verse was addressed by some of the Rishi families to Tanunapat by some to Narasamsa; in some of the hymns we find two verses instead of one (so that the total number of verses becomes twelve instead of eleven) addressed the one to Tanunapat, the other to Narasamsa. Bergaigne (Recherches sur l'histoire de la Liturgie Vedique, p. 14) conjectures that some of the Rishi families had only seven Prayagas. This opinion is based on the identical appearance of four verses (8-11) in the Apri hymns of the Visvamitras (III, 4) and of the Vasishthas (VII, 2), and on the diversity of metres used in two other Apri hymns, IX, 5 and II, 3. To me this conjecture, though very ingenious, does not seem convincing.
+
+[p. 10]
+
+With the text of the Apri hymns should be compared the corresponding Praishas of the Maitravaruna priest, i. e. the orders by which this priest directed the Hotri to pronounce the Prayaga invocations. The text of these Praishas is given Taitt. Brahm. III, 6, 2.
+
+Comp. on the character and the historical and ritual position of the Apri hymns, Max Muller, Hist. Anc. Sansc. Literature, p. 403 seq.; Roth, Nirukta, notes, p. 121 seq.; Weber, Indische Studien, X, 89 seq.; Ludwig V, 315 seq.; Hillebrandt, Das Altindische Neu- und Vollmondsopfer, 94 seq.; Schwab, Das Altindische Thieropfer, 90 seq.; Bergaigne, Recherches sur l'histoire de la Liturgie Vedique, 13 seq.
+
+  
+
+Verse 1.
+
+Note [1:13:1:1]1. Comp. Delbruck, Syntactische Forschungen, I, 97.
+
+  
+
+Verses 2, 3.
+
+Note [1:13:2:1]1[1:13:3:1]. Does Tanunapat, lit. 'son of the body,' mean, as Roth and Grassmann believed, 'son of his own self' (comp. I, 12, 6. agnina agnih sam idhyate, 'by Agni Agni is kindled'), or is the meaning 'le propre fils' (Bergaigne, Rel. Vedique II, 100)? Narasamsa, which is nearly identical with the Avestic Nairyosanha, means 'the song of men,' or 'praised by men' (Bergaigne, l. l. I, 305; M. M.'s note on VII, 46, 4). In III, 29, 11 it is said of Agni: He is called Tanunapat as the foetus of the Asura; he becomes Narasamsa when he is born.' Of course an expression like this is by no means sufficient to prove that the sacrificial gods Tanunapat and Narasamsa, as invoked in the Apri hymns, are nothing but forms of Agni. Expressions which are constantly repeated in the Apri verses show that the work of Tanunapat, and likewise that of Narasamsa, consisted in spreading ghrita or 'honey' over the sacrifice.
+
+  
+
+Verse 4.
+
+Note [1:13:4:1]1. 'Magnified' is ilitah; comp. the note on I, 1, 1. The third, or if both Tanunapat and Narasamsa are invoked, the fourth verse of the Apri hymns is regularly addressed to Agni with this epithet ilita.
+
+[p. 11]
+
+Note [1:13:4:2]2. Manurhita, 'instituted by Manus,' not 'by men.' See Bergaigne, Religion Vedique, I, 6, 5 seq.
+
+  
+
+Verse 5.
+
+Note [1:13:5:1]1. On anushak, comp. Pischel, Vedische Studien, II, 125.
+
+Note [1:13:5:2]2. The last Pada is translated by Grassmann, 'wo der unsterbliche sich zeigt' (comp. Bergaigne, R.V. I, 194, note 1); by Ludwig, 'auf dem man das unsterbliche sieht.' To me it seems impossible to decide, so as to leave no doubt, whether amritasya is masculine or neuter. Comp. also Atharva-veda V, 4, 3; 28, 7; XIX, 39, 6-8, in which passages the phrase amritasya kakshanam recurs.
+
+  
+
+Verse 8.
+
+Note [1:13:8:1]1. The two divine Hotris are mentioned in the Rig-veda only in the eighth (or seventh) verse of the Aprisuktas and besides in two passages, X, 65, 10; 66, 13, which do not throw any light on the nature of these sacrificial gods. They are called gatavedasa VII, 2, 7, purohitau X, 70, 7, bhishaga Vag. Samh. XXVIII, 7. As regards the duality of these divine counterparts of the human Hotri priest, possibly the 'two Hotris' should be understood as the Hotri and the Maitravaruna; the latter was the constant companion and assistant of the former in the Vedic animal sacrifice. Comp. Schwab, Altindisches Thieropfer, 96, 114, 117, &c.; H. O., Religion des Veda, 391.
+
+Comp. on the two divine Hotris also Bergaigne, R.V. I, 233 seq.
+
+  
+
+Verse 9.
+
+Note [1:13:9:1]1. On Ila, see H. O., Religion des Veda, pp. 72, 326.--With regard to Mahi Bergaigne (Rel. Vedique, I, 322) has pronounced the opinion that 'Bharati et Mahi, qui, tantot se remplacent, tantot se juxtaposent tout en paraissant ne compter que pour une, se confondent aux yeux des rishis.' But Pischel (Ved. Studien, II, 84 seq.) has shown that the eminent French scholar was wrong, and that really Mahi ('the great one') is independent of Bharati. Pischel's
+
+[p. 12]
+
+own opinion that Mahi is a name of the goddess Dhishana, does not seem to me to be established by sufficient reasons.--On the meaning of these three goddesses Prof. Max Muller writes: 'I should not fix on Nourishment as the true meaning of Ila. Originally those three goddesses seem to be local: Ila, the land or daughter of Manu, the Sarasvati, and another river here called Mahi.'
+
+  
+
+Verse 11.
+
+Note [1:13:11:1]1. To me it seems evident that the tree, or, to translate more literally, the lord of the forest (vanaspati) invoked in this Apri verse can only be the sacrificial post (yupa) to which the victim was tied before it was killed. The yupa is called vanaspati in the Rig-veda (III, 8, t. 3. 6. ii) as well as in the more modern Vedic texts (for inst., Taitt. Samh. I, 3, 6, 1).--In the Apri hymn, IX, 5 (verse 10), the vanaspati is called sahasravalsa: with this should be compared III, 8, 11 (addressed to the yupa): vanaspate satavalsah vi roha sahasravalsah vi vayam ruhema, 'O lord of the forest, rise with a hundred offshoots; may we rise with a thousand offshoots!'--In the Apri hymn, X, 70 (verse 10), the rope (rasana) is mentioned by which the vanaspati should tie the victim; comp. with this expression the statements of the ritual texts as to the rasana with which the victim is tied to the yupa; Schwab, Das Altindische Thieropfer, 8r. Comp. also especially Taittiriya Brahmana III, 6, 11, 3.--In the Apri hymns the vanaspati is frequently invoked to let loose the victim; in connection therewith mention is made of the sacrificial butcher (samitri), see II, 3, 10; III, 4, 10; X, 110, 10, and comp. Vag. Samhita XXI, 21; XXVIII, 10. The meaning of these expressions becomes clear at once, if we explain the vanaspati as the sacrificial post. When they are going to kill the victim, they loosen it from the post; the post, therefore, can be said to let it loose. Then the butcher (samitri) leads the victim away. See the materials collected by Schwab, Thieropfer, p. 100 seq., and comp. also H. O., Religion des Veda, 257.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 13]
+
+  
+
+MANDALA I, HYMN 26.
+
+  
+
+ASHTAKA I, ADHYAYA 2, VARGA 20-21.
+
+1. Clothe thyself, with thy clothing (of light), O sacrificial (god), lord of all vigour; and then perform this worship for us.
+
+2. Sit down, most youthful god, as our desirable Hotri, through (our prayerful) thoughts [*1], O Agni, with thy word [*2] that goes to heaven.
+
+3. The father verily by sacrificing procures (blessings) for the son [*1], the companion for the companion, the elect friend for the friend.
+
+4. May Varuna, Mitra, Aryaman, triumphant with riches (?) [*1], sit down on our sacrificial grass as they did on Manu's.
+
+5. O ancient Hotri, be pleased with this our friendship also, and hear these prayers.
+
+6. For whenever we sacrifice constantly [*1] to this or to that god, in thee alone the sacrificial food is offered.
+
+7. May he be dear to us, the lord of the clan, the joy-giving, elect Hotri; may we be dear (to him), possessed of a good Agni (i. e. of good fire).
+
+8. For the gods, when possessed of a good Agni, have given us excellent wealth, and we think ourselves possessed of a good Agni.
+
+9. And may there be among us mutual praises of both the mortals, O immortal one, (and the immortals) [*1].
+
+10. With all Agnis (i. e. with all thy fires), O Agni, accept this sacrifice and this prayer, O young (son) of strength [*1].
+
+[p. 14]
+
+  
+
+NOTES.
+
+This hymn, as well as the whole collection to which it belongs, is ascribed to Sunahsepa Agigarti (comp. 24, 12.13). The metre is Gayatri. Bergaigne (Recherches sur l'histoire de la Samhita, II, 7) divides this hymn into Trikas, with one single verse added at the end. I cannot find sufficient evidence for this; the appearance in the Sama-veda (II, 967-9) of a Trika composed of the verses 10. 6. 7 of our hymn is rather against Bergaigne's opinion.
+
+  
+
+Verse 2.
+
+Note [1:26:2:1]1. Manmabhih may possibly mean, 'with thy (wise) thoughts;' comp., for instance, III, 11, 8. pari visvani sudhita agneh asyama manmabhih, 'may we obtain every bliss through Agni's (wise) thoughts,' or 'may we obtain all the blessings of Agni for our prayers.'
+
+Note [1:26:2:2]2. Vakas stands for vakasa. See the passages collected by Lanman, Noun-Inflection, 562, and comp. Roth, Ueber gewisse Kurzungen des Wortendes im Veda, 5; Joh. Schmidt, Die Pluralbildungen der indogermanischen Neutra, 304 seq. Ludwig also takes vakas as instrumental.
+
+  
+
+Verse 3.
+
+Note [1:26:3:1]1. Agni is the father, the mortal whose sacrifice he performs, the son.
+
+  
+
+Verse 4.
+
+Note [1:26:4:1]1. Can risadas be explained as a compound of ri (Tiefstufe of rai, as gu is the Tiefstufe of gau) and *sa'das, from the root sad, 'to be triumphant'? Prof. Aufrecht (Bezzenberger's Beitrage, XIV, 83; see also Neisser, Bezz. Beitr. XIX, 143) connects ri- with the Greek eri- (erikydes) &c.); our hypothesis has the advantage of not leaving the limits of Sanskrit.--Comp. M. M.'s note on V, 60, 7; Ludwig, Ueber die neuesten Arbeiten auf dem Gebiete der Rig-veda-Forschung (1893), p. 7.
+
+[p. 15]
+
+  
+
+Verse 6.
+
+Note [1:26:6:1]1. On sasvata tana see Lanman, 480, 515, 518.
+
+  
+
+Verse 9.
+
+Note [1:26:9:1]1. The comparison of verse 8 and the expression amrita martyanam in the second Pada of this verse seem to show that ubhayesham does not refer to two classes of mortals, the priests and their patrons, but to the mortals and the immortals. A genitive amritanam, which would make this meaning quite clear, can easily be supplied. A Dvandva compound amritamartya'nam, which one could feel tempted to conjecture, would have, in my opinion, too modern a character.--Prof. Max Muller writes: 'I should prefer amrita martyanam, not exactly as a compound, but as standing for amritanam martyanam. This seems to be Ludwig's opinion too.'
+
+  
+
+Verse 10.
+
+Note [1:26:10:1]1. In the translation of sahasah yaho I follow Geldner, Kuhn's Zeitschrift, XXVIII, 195; Ludwig's translation is similar.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 16]
+
+  
+
+MANDALA I, HYMN 27.
+
+  
+
+ASHTAKA I ADHYAYA 2, VARGA 22-24.
+
+A.
+
+1. With reverence I shall worship thee who art long-tailed like a horse, Agni, the king of worship.
+
+2. May he, our son of strength [*1], proceeding on his broad way, the propitious, become bountiful to us.
+
+3. Thus protect us always, thou who hast a full life, from the mortal who seeks to do us harm [*1], whether near or afar.
+
+4. And mayest thou, O Agni, announce to the gods this our newest efficient Gayatra song.
+
+5. Let us partake of all booty that is highest and that is middle (i. e. that dwells in the highest and in the middle world); help us to the wealth that is nearest.
+
+6. O god with bright splendour, thou art the distributor. Thou instantly flowest for the liberal giver in the wave of the river, near at hand.
+
+B.
+
+7. The mortal, O Agni, whom thou protectest in battles, whom thou speedest in the races [*1], he will command constant nourishment:
+
+8. Whosoever he may be, no one will overtake him, O conqueror (Agni)! His strength [*2] is glorious.
+
+9. May he (the man), known among all tribes [*3], win the race with his horses; may he with the help of his priests become a gainer.
+
+[p. 17]
+
+C.
+
+10. O Garabodha [*1]! Accomplish this (task) for every house [*2]: a beautiful song of praise for worshipful Rudra [*3].
+
+11. May he, the great, the immeasurable, the smoke-bannered, rich in splendour, incite us to (pious) thoughts and to strength.
+
+12. May he hear us, like the rich lord of a clan, the banner of the gods, on behalf of our hymns, Agni with bright light.
+
+13. Reverence to the great ones, reverence to the lesser ones! Reverence to the young, reverence to the old [*1]! Let us sacrifice to the gods, if we can. May I not, O gods, fall as a victim to the curse of my better [*2].
+
+  
+
+NOTES.
+
+The hymn is ascribed to Sunahsepa (see note on I, 26). The metre is Gayatri; the last verse is Trishtubh.
+
+The laws of arrangement of the Samhita show that this hymn, which has thirteen verses and follows after a hymn of ten verses belonging to the same deity, must be divided into a number of minor hymns. On the question of this division some further light is thrown by the metre. The first six verses and then again the verses 10-12 are composed in the trochaic form of the Gayatri metre; of the verses 7-9, on the other hand, not a single Pada shows the characteristics of that metre. I believe, therefore, that the verses 1-6 form one hymn by themselves, or possibly two hymns of three verses each. Then follow two hymns: verses 7-9, 10-12. As to verse 13, which is composed in a different metre, it is difficult to determine its exact nature. It may be a later addition: though in that case
+
+[p. 18]
+
+we shall hardly be able to explain why it was placed at the end of the hymns addressed to Agni, to which god it contains no reference whatever. Or it may form part of the hymn 10-12: in that case we should have to consider this whole hymn, which would then violate the rules of arrangement, as an addition to the original collection.
+
+We may add that the Sama-veda gives the first twelve verses of this Sukta so as to form four independent hymns: 1-3 = SV. II, 984-6; 4. 6. 5 = SV. II, 847-9; 7-9 = SV. II, 765-7; 10-12 = SV. II, 1013-15. Besides, verse 1 is found in SV. I, 17. Verse 4 = SV. I, 28; TAr. IV, 11, 8. Verse 7 = VS. VI, 29; TS. I, 3, 13, 2; MS. I, 3, 1. Verse 10 = SV. I, 15. Comp. Bergaigne, Recherches sur l'histoire de la Samhita, II, pp. 7-8; H. O., Prolegomena, 225-226.
+
+  
+
+Verse 2.
+
+Note [1:27:2:1]1. It requires a stronger belief in the infallibility of Vedic text tradition than I possess, not to change savasa into savasah. I do not think that I, 62, 9 (sanemi sakhyam svapasyamanah sunuh dadhara savasa sudamsah) furnishes a sufficient argument against this conjecture.
+
+  
+
+Verse 3.
+
+Note [1:27:3:1]1. Grassmann reads aghaayoh for the sake of the metre; Prof. Max Muller proposes aghayoh. I think that the missing syllable should be gained by disyllabic pronunciation of -at in martyat or rather martiat. Comp. my Prolegomena 185 and the quotations given there in note 1.
+
+  
+
+Verses 7-9.
+
+Note [1:27:7:1]1. It is not my intention to enter here into a new discussion on so frequently discussed a word as vaga. I have translated it in verses 7, 9 by 'race,' in verse 8 by 'strength.'
+
+Note [1:27:8:2]2. The expression used in verses 7 and 8 should be compared especially with VII, 40, 3. sah it ugrah astu marutah sah sushmi' yam martyam prishadasvah avatha, uta im agnih sarasvati gunanti na tasya rayah paryeta' asti.
+
+[p. 19]
+
+Note [1:27:9:3]3. Visvakarshani, a frequent epithet of Agni, here refers to the mortal hero protected by Agni; comp. I, 64, 14 (vol. xxxii, p. 108); X, 93, 10 (visvakarshani sravah).
+
+  
+
+Verse 10.
+
+Note [1:27:10:1]1. I think that Ludwig is right in taking Garabodha for a proper name.
+
+Note [1:27:10:2]2. Vise-vise may possibly depend on yagniyaya, so that we should have to translate: 'Administer this task: a beautiful song of praise to Rudra who is worshipful for every house.'
+
+Note [1:27:10:3]3. Rudra is here a designation of Agni, as the next verses show. Comp. Pischel-Geldner, I, 56.
+
+  
+
+Verse 13.
+
+Note [1:27:13:1]1. The word asina, 'old,' occurring only here, is doubtful. In III, 1, 6; IV, 33, 3; X, 39, 4, sana or sanaya stands in contrast with yuvan. Shall we conjecture namah a' sanebhyah?'
+
+Note [1:27:13:2]2. The last Pada of this verse, ma' gya'yasah samsam a' vrikshi devah ('May I not, O gods, neglect the praise of the greatest,' Muir, V, 12), offers some difficulty. It may be doubted whether a' vrikshi belongs to a-vrig or to a-vrask.
+
+Let us see what would be the meaning of the passage, if we were to decide for a-vrig. VIII, 101, 16 the cow speaks: devi'm devebhyah pari eyushim ga'm a' ma avrikta martyah dabhraketah, 'Me the goddess, the cow, who has come hither from the gods, the weak-minded mortal has appropriated.' Satapatha Brahmana XIV, 9, 4, 3. ya evam vidvan adhopahasam karaty a sa strinam sukritam vrinkte ' tha ya idam avidvan adhopahasam karaty asya striyah sukritam vringate, 'He who knowing this, &c., appropriates the good works of the women. But the women appropriate the good works of him who without knowing this,' &c. In Rig-veda X, 159, 5 also we probably have a form of a-vrig. There we find the triumphant utterance
+
+[p. 20]
+
+of a wife who has gained superiority over her fellow-wives: a avriksham anyasam varkah, 'I have won for myself the splendour of the other wives.' We may conclude from these passages that our Pada, if a' vrikshi is derived from a-vrig, would mean: 'May I not draw on myself the curse of my better.'
+
+On the other hand we have a great number of passages--they have been collected by Ludwig, IV, 249 seq.--in which the verb a-vrask appears. Referring the reader for fuller information to Ludwig, I content myself here with selecting one or two of these passages. Taitt. Samh. II, 4, 11, 4. devatabhyo va esha a vriskyate yo yakshya ity uktva na yagate. In translating this we should remember that vrask means 'to cut down;' a-vrask, therefore, must be 'to cut down so that the object reaches a certain destination.' I translate therefore: 'He who says, "I shall sacrifice," and does not sacrifice, is cut down for the deities,'--i. e. he is dedicated or forfeited to the deities and is thus destroyed (comp. a different explanation of a-vrask by Delbruck, Altindische Syntax, 143). In other passages not the dative but the locative is used for indicating the being to whom somebody is forfeited; see Atharva-veda XII, 4, 6. 12. 26; XV, 12, 6. 10.
+
+A Rig-vedic passage containing a-vrask (with the dative) is X, 87, 18. a' vriskyantam aditaye durevah, 'May the evil-doers be forfeited to Aditi.'
+
+Several times we find the first person aor. med. in the same form as in our passage, a vrikshi; see, for instance, the Nivid formula to the Visve devah, Sankhayana Srautasutra VIII, 21. In this Nivid, the text of which as given by Hillebrandt is not quite identical with that of Ludwig, we read according to Hillebrandt's edition: ma vo deva avisasa ma visasayur a vrikshi. This ma ... a vrikshi looks quite similar to our passage. The same may be said of Taittiriya Samhita I, 6, 6, 1. yat te tapas tasmai te mavrikshi. Considering such passages it is difficult not to believe that it is the verb a vrask which we have before us in our verse. It must be admitted indeed that the accusative
+
+[p. 21]
+
+samsam does not agree with the construction of the later Vedic passages. Can the accusative stand in the ancient language of the Rig-veda in the same connection in which we have found the dative and the locative? So that a-vrask (in the middle or passive) with the accusative would mean: to be cut down in the direction towards another being, i. e. being forfeited to that being? In that case the translation of our passage would be: 'May I not, O gods, fall as a victim to the praise (or rather, to the curse) of my better.' If this explanation of the accusative is thought too bold, we should propose to correct the text so as to get a dative or, which would suit the metre better, a locative: ma' gya'yasah samsaya (or samse) a' vrikshi devah.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 22]
+
+  
+
+MANDALA I, HYMN 31.
+
+  
+
+ASHTAKA I, ADHYAYA 2, VARGA 32-35.
+
+1. Thou, O Agni, (who art) the first Angiras Rishi, hast become as god the kind friend of the gods. After thy law the sages, active in their wisdom [*1], were born, the Maruts with brilliant spears.
+
+2. Thou, O Agni, the first, highest Angiras, a sage, administerest the law of the gods, mighty for the whole world, wise, the son of the two mothers [*1], reposing everywhere for (the use of) the living [*2].
+
+3. Thou, O Agni, as the first, shalt become [*1] manifest to Matarisvan, through thy high wisdom, to Vivasvat. The two worlds trembled at (thy) election as Hotri. Thou hast sustained the burthen; thou, O Vasu, hast sacrificed to the great (gods) [*2].
+
+4. Thou, O Agni, hast caused the sky to roar [*1] for Manu, for the well-doing Pururavas, being thyself a greater well-doer. When thou art loosened by power (?) [*2] from thy parents, they led thee hither before and afterwards again.
+
+5. Thou, O Agni, the bull, the augmenter of prosperity, art to be praised by the sacrificer who raises the spoon, who knows all about the offering [*1] and (the sacrifice performed with) the word Vashat. Thou (god) of unique vigour art the first to invite [*2] the clans.
+
+6. Thou, O Agni, leadest forward the man who follows crooked ways [*1], in thy company at the sacrifice [*2], O god dwelling among all tribes, who in the strife of heroes, in the decisive moment for the
+
+[p. 23]
+
+obtainment of the prize [*3], even with few companions killest many foes in the battle [*4].
+
+7. Thou, O Agni, keepest that mortal [*1] in the highest immortality, in glory day by day, (thou) who being thirsty thyself [*2] givest happiness to both races (gods and men), and joy to the rich.
+
+8. Thou, O Agni, praised by us, help the glorious singer to gain prizes. May we accomplish our work with the help of the young active (Agni). O Heaven and Earth! Bless us together with the gods.
+
+9. Thou, O Agni, in the lap of thy parents, a god among gods, O blameless one, always watchful, be the body's creator and guardian to the singer. Thou, O beautiful one, pourest forth all wealth.
+
+10. Thou, O Agni, art our guardian, thou art our father. Thou art the giver of strength; we are thy kinsmen. Hundredfold, thousandfold treasures come together in thee, who art rich in heroes, the guardian of the law, O undeceivable one.
+
+11. Thee, O Agni, the gods have made for the living as the first living [*1], the clan-lord of the Nahusha [*2]. They have made (the goddess) Ila the teacher of men (manusha), when a son of my father is born [*3].
+
+12. Thou, O Agni, protect with thy guardians, O god, our liberal givers and ourselves, O venerable one! Thou art the protector of kith and kin [*1] and of the cows, unremittingly watching over thy law.
+
+13 [*1]. Thou, O Agni, art kindled four-eyed, as the closest guardian for the sacrificer who is without (even) a quiver [*2]. Thou acceptest in thy mind the hymn even of the poor [*3] who has made offerings [*4], that he may prosper without danger.
+
+14. Thou, O Agni, gainest [*1] for the widely-renowned
+
+[p. 24]
+
+worshipper that property which is desirable and excellent. Thou art called the guardian and father even of the weak [*2]; thou instructest the simple, thou, the greatest sage, the quarters of the world [*3].
+
+15. Thou, O Agni, protectest on every side like well-stitched armour the man who gives sacrificial fees. He who puts sweet food (before the priests), who makes them comfortable in his dwelling, who kills living (victims), he (will reside) high in heaven [*1].
+
+16. Forgive, O Agni, this our fault (?) [*1], (look graciously at) this way which we have wandered from afar. Thou art the companion, the guardian, the father of those who offer Soma; thou art the quick one [*2] who makes the mortals Rishis [*3].
+
+17. As thou didst for Manus, O Agni, for Angiras, O Angiras, for Yayati on thy (priestly) seat, as for the ancients, O brilliant one, come hither, conduct hither the host of the gods, seat them on the sacrificial grass, and sacrifice to the beloved (host).
+
+18. Be magnified, O Agni, through this spell which we have made for thee with our skill or with our knowledge. And lead us forward to better things. Let us be united with thy favour, which bestows strength.
+
+  
+
+NOTES.
+
+The Rishi of the hymn is Hiranyastupa Angirasa. To him tradition ascribes the authorship of the collection I, 31-35, probably because in X, 149, 5 the poet invokes Savitri, 'as Hiranyastupa the Angirasa has called thee, O Savitri.' Vedic theologians of course tried to find out where this invocation of Hiranyastupa to Savitri was preserved, and the hymn, I, 35, seemed to agree best with the conditions
+
+[p. 25]
+
+of the case (comp. Zeitschrift der D. Morg. Ges. XLII, 230). By this and many similar cases it is made probable that at the time when the Anukramani was composed, all real knowledge as to authors to whom the collections of the first Mandala belong, was lost.
+
+The metre is Gagati; only the verses 8, 16, 18 are Trishtubh. Verse 1 = VS. 34, 12. Verse 8 = MS. IV, 11, 1. Verse 12 = VS. 34, 13. With verse 16 comp. AV. III, 15, 4.
+
+  
+
+Verse 1.
+
+Note [1:31:1:1]1. Vidmana'pasah seems to be nom. plur., not gen. sing. Comp. I, 111, 1. takshan ratham ... vidmana'pasah, 'they (the Ribhus), active in their wisdom, have wrought the chariot.'
+
+  
+
+Verse 2.
+
+Note [1:31:2:1]1. As to dvimata' sayuh, comp. III, 55, 6 (sayuh parastat adha nu dvimata'); Pischel, Vedische Studien, II, 50.--On Agni's two mothers and his double birth see Bergaigne, Religion Vedique, II, 52.
+
+Note [1:31:2:2]2. By 'living' I have translated ayu. See on this word, Bergaigne, Rel. Ved., I, 59 seq.
+
+  
+
+Verse 3.
+
+Note [1:31:3:1]1. Probably Bergaigne (Rel. Ved. I, 55, note 2) is right in conjecturing bhavah for bhava. In this case we should have to translate: 'Thou as the first hast become manifest to Matarisvan.'
+
+Note [1:31:3:2]2. I believe that to mahah we have to supply deva'n; see II, 37, 6; III, 7, 9; VI, 16, 2; 48, 4, &c. 'Can it not be an adverb? See vol. xxxii, p. 307; Lanman, p. 501,' M. M.
+
+  
+
+Verse 4.
+
+Note [1:31:4:1]1. Comp. V, 58, 6. let Dyu (sky) roar down, the bull of the dawn. V, 59. 8. may Dyaus Aditi (the unbounded) roar for our feast.
+
+[p. 26]
+
+Note [1:31:4:2]2. The translation of svatra is purely conjectural. It rests on the supposition that the word is related to susuve, savas, &c. (thus Grassmann). Boehtlingk-Roth connect it with svad, which is phonetically impossible; they give the meaning 'schmackhaft,' and paraphrase our passage: das mit einer Lockspeise (z. B. mit einem Spahn) von den Reibholzern abgenommene Feuer kann man hin and her tragen. Ludwig: mit Geprassel. I do not see how this translation would fit for a number of the passages in which the word occurs.
+
+  
+
+Verse 5.
+
+Note [1:31:5:1]1. With the third Pada compare VI, 1, 9. yah a'hutim pari veda namobhih.
+
+Note [1:31:5:2]2. Avivasasi cannot belong to the relative clause. The accent must be changed accordingly.
+
+  
+
+Verse 6.
+
+Note [1:31:6:1]1. It is very curious to find here Agni as the protector of the vriginavartani, the man who follows crooked ways. Ludwig tries to explain the passage by understanding the vidatha, in which Agni is here said to protect the sinner, as an asylum, but we have no reason to believe that the word could have this meaning. See the next note.
+
+Note [1:31:6:2]2. On the derivation and meaning of vidatha various opinions have been pronounced in the last years, which have been collected by Prof. Max Muller in his note on V, 59, 2 (vol. xxxii p. 349 seq.; see also Bartholomae, Studien zur indogermanischen Sprachgeschichte, I, 41). Without trying to discuss here all different theories, I immediately proceed to state my own opinion, though I am far from claiming certainty for it. It will, however, I believe, solve the difficulties tolerably well. I propose to derive vidatha from vi-dha; the dh was changed into d by the same 'Hauchdissimilationsgesetz' (Brugmann, Grundriss der vergleichenden Grammatik, vol. i, p. 355 seq.), according to which Arian *bhaudhati was changed into Sanskrit
+
+[p. 27]
+
+bodhati. No one will doubt that the operation of this 'Hauchdissimilationsgesetz' could be annihilated by opposite forces, but it must be admitted that the forms with 'Hauchdissimilation' could also remain intact. The verb vi-dha means 'to distribute, to arrange, to ordain;' thus the original meaning of vidatha must be, like the meaning of vidha'na, 'distribution, disposition, ordinance.' In V, 3, 6 we read vidatheshu ahnam: this phrase receives its explanation by VII, 66, 11. vi ye dadhuh saradam ma'sam a't ahah; ahoratra'ni vidadhat, X, 190, 2; masa'm vidha'nam, X, 1.38, 6; ritu'n ... vi dadhau, I, 95, 3. We may call attention also to VI, 51, 2. veda yah tri'ni vidathani esham deva'nam ganma, 'he who knows their threefold division, the birth of the gods;' VI, 8, 1. pra nu vokam vidatha gatavedasah, 'I will proclaim the ordinances of Gatavedas.' Within the sphere of the Vedic poets' thoughts, the most prominent example of something most artificially 'vihita' was the sacrifice (comp. vi ye dadhuh ... yagnam, VII, 66, 11; samsati uktham yagate vi u dhah, IV, 6, 11; [the moon] bhagam devebhyah vi dadhati a-yan, X, 85, 19; and the following very significant passage: yagnasya tva vidatha prikkham atra kati hotarah ritusah yaganti, Vag. Samh. XXIII, 57). Thus yagna and vidatha, 'sacrifice' and 'ordinance,' became nearly synonymous (comp. III, 3, 3, &c.). It would be superfluous to quote the whole number of passages which show this, but I believe that an attentive reader will discern at least in some of them the traces of the original meaning of vidatha; see, for instance, II, 1, 4; III, 28, 4.--Finally vidatha seems to mean 'the act of disposing of any business' or the like; this meaning appears, I believe, in passages like the well-known phrase, brihat vadema vidathe suvi'rah (comp. suvi'rasah vidatham a' vadema): 'may we with valiant men mightily raise our voice at the determining (of ordinances, &c.).' Thus the words vidatha and sabha' approach each other in their meaning; a person influential in council is called both vidathya and sabheya (see Boehtlingk-Roth, s. v. vidathya).
+
+Note [1:31:6:3]3. The exact meaning of paritakmya is not quite
+
+[p. 28]
+
+free from doubt. Comp. Bartholomae, Bezzenberger's Beitrage, XV, 203, note 1.
+
+Note [1:31:6:4]4. Prof. Max Muller translates this verse: 'Thou savest the man who has gone the wrong way in the thick of the battle, thou who art quick at the sacrifice; thou who in the strife of heroes, when the prize (or the booty) is surrounded (beset on all sides), killest,' &c.
+
+  
+
+Verse 7.
+
+Note [1:31:7:1]1. The phrase begins as if a relative clause were to follow attached to the words 'that mortal.' But, instead of this, afterwards a relative clause follows referring to 'thou, O Agni.'
+
+Note [1:31:7:2]2. Roth (Ueber gewisse Kurzungen des Wortendes, p. 4) and Bartholomae (Kuhn's Zeitschrift, XXIX, 559) think that a dative (like tatrishana'ya) is required; Agni gives comfort to both thirsty races, gods and men. Roth takes tatrishana[h] for an abbreviation of tatrishana'ya; Bartholomae conjectures tatrisha'ya. It would be more easy to change the form into a dative with the ending -a (= -ai); comp. Kluge, Kuhn's Zeitschrift, XXV, 309 Pischel-Geldner, I, 61; Aufrecht, Festgruss an Bohtlingk, I; J. Schmidt, Pluralbildungen, 234. But why not leave the nominative? Agni, being thirsty himself, quenches the thirst of other beings. Comp. J. Schmidt, Pluralbildungen, 309.
+
+  
+
+Verse 11.
+
+Note [1:31:11:1]1. Ayum ayave. See verse 2, note 2.
+
+Note [1:31:11:2]2. The names Nahus, Nahusha have much the same value as Manus, Manusha. But it seems that not all the Aryan tribes, but only a certain part of them, were considered as descendants of Nahus. Comp. Bergaigne, Rel. Vedique, II, 324.
+
+Note [1:31:11:3]3. The last words are very obscure. Mamaka occurs only in one other passage, belonging to the same collection of hymns, I, 34, 6: there the Asvins are invoked to bestow blessings on 'my son' (mamakaya sunave). 'When a son of my father is born' may mean 'When I am
+
+[p. 29]
+
+born,' or 'When a new issue is born within our tribe:' then--thus we may possibly supply--the goddess Ila, the teacher of mankind, will be the new-born child's teacher also. Another possible explanation would be to take Mamaka as a proper name. Or Prof. Max Muller may be right, who writes: 'Could not pituh yat putrah mamakasya ga'yate refer to Agni, who, in III, 29, 3, was called ilayah putrah. Her father and husband (Manu) is also the father of mankind, therefore of the poet who says: Whenever the son of my father is born, they made Ila (his mother) the teacher of man.'
+
+  
+
+Verse 12.
+
+Note [1:31:12:1]1. Trata' tokasya tanaye seems to be nothing else but trata' tokasya tanayasya, which would have had one syllable too much.
+
+  
+
+Verse 13.
+
+Note [1:31:13:1]1. Comp. on this verse, Pischel, I, 216 seq.
+
+Note [1:31:13:2]2. Agni is to protect the man who has no quiver, and cannot, therefore, protect himself. The four eyes of the divine guardian seem to signify that he can look in all directions, and perhaps also that he has the power of seeing invisible bad demons. The watchdogs of Yama also are four-eyed, X, 14, 10. 11; comp. H. O., Religion des Veda, 474, note 4. Comp. nishangin, Rig-veda III, 30, 15; V, 57, 2; X, 103, 3.
+
+Note [1:31:13:3]3. On kiri, comp. Pischel loc. cit.
+
+Note [1:31:13:4]4. Ratahavyah means either a man who has made offerings, or a god to whom offerings are made. That it stands here in the first sense is shown with great probability by VIII, 103, 13, where the kirih ratahavyah svadhvarah is described, the man who, though poor, makes offerings and is a good sacrificer. But if we are right in our translation of ratahavyah, the verb vanoshi cannot belong to the relative clause; I propose to read vanoshi without accent. The way in which Pischel tries to explain the accent of vanoshi, by taking the words kireh kit mantram manasa as a parenthesis, is too artificial.
+
+[p. 30]
+
+  
+
+Verse 14.
+
+Note [1:31:14:1]1. I think that we should here, as in verse 13, read vanoshi without accent.
+
+Note [1:31:14:2]2. This must be at least the approximate meaning of adhra. 'For adhrasya one expects radhrasya,' M. M.
+
+Note [1:31:14:3]3. I think that the quarters of the world have nothing to do here, but that instead of pra disah we should read (with Ludwig) pradisah. A similar mistake regarding the word pradis occurs several times in the text of the Rig-veda. I propose to translate the corrected text: 'Thou instructest the simple, well knowing the (divine) commandments.' Comp. vayunani vidva'n, dutyani vidva'n, &c.
+
+  
+
+Verse 15.
+
+Note [1:31:15:1]1. 'Der ist des himels ebenbild' (Ludwig). But this word upama' is, as far as we can see, not very ancient. I take upama', with Boehtlingk-Roth, as an adverbial instrumental like dakshina', madhya', &c. Prof. Max Muller translates 'close or near to heaven.'
+
+  
+
+Verse 16.
+
+Note [1:31:16:1]1. Sarani designates in the Atharva-veda VI, 43, 3 a fault or defect, the exact nature of which cannot be determined. Boehtlingk-Roth propose Widerspanstigkeit, Hartnackigkeit; Max Muller. Abweg, Fehltritt.
+
+Note [1:31:16:2]2. On bhrimi, comp. M. M.'s note on II, 34, 1.
+
+Note [1:31:16:3]3. Comp. III, 43, 5. kuvit ma rishim papiva'msam sutasya (supply karase), 'Wilt thou make me a Rishi after I have drunk Soma?'
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 31]
+
+  
+
+MANDALA I, HYMN 36.
+
+  
+
+ASHTAKA I, ADHYAYA 3, VARGA 8-11.
+
+1. We implore [*1] with well-spoken words the vigorous [*2] Agni who belongs to many people [*3], to the clans that worship the gods [*4], whom other people (also) magnify.
+
+2. Men have placed Agni (on the altar) as the augmenter of strength. May we worship thee, rich in sacrificial food. Thus be thou here to-day gracious to us, a helper in our striving for gain, O good one!
+
+ 
+
+3. We choose thee, the all-possessor, as our messenger and as our Hotri. The flames of thee, who art great, spread around; thy rays touch the heaven.
+
+4. The gods, Varuna, Mitra, Aryaman, kindle thee, the ancient messenger. The mortal, O Agni, who worships thee, gains through thee every prize.
+
+ 
+
+5. Thou art the cheerful Hotri and householder, O Agni, the messenger of the clans. In thee all the firm laws are comprised which the gods have made [*1].
+
+6. In thee, the blessed one, O Agni, youngest god, all sacrificial food is offered. Sacrifice then thou who art gracious to us to-day and afterwards [*1], to the gods that we may be rich in valiant men.
+
+ 
+
+7. Him, the king, verily the adorers approach reverentially. With oblations men kindle Agni, having overcome all failures.
+
+8. Destroying the foe [*1], they (victoriously) got through Heaven and Earth and the waters; they
+
+[p. 32]
+
+have made wide room for their dwelling. May the manly (Agni) [*2], after he has received the oblations, become brilliant at the side of Kanva; may he neigh as a horse in battles.
+
+ 
+
+9. Take thy seat; thou art great. Shine forth, thou who most excellently repairest to the gods. O Agni, holy god, emit thy red, beautiful smoke, O glorious one!
+
+10. Thou whom the gods have placed here for Manu as the best performer of the sacrifice, O carrier of oblations, whom Kanva and Medhyatithi, whom Vrishan and Upastuta [*1] (have worshipped,) the winner of prizes.
+
+ 
+
+11. That Agni's nourishment has shone brightly whom Medhyatithi and Kanva have kindled on behalf of Rita [*1]. Him do these hymns, him do we extol.
+
+12. Fill (us with) wealth, thou self-dependent one, for thou, O Agni, hast companionship with the gods. Thou art lord over glorious booty. Have mercy upon us; thou art great.
+
+ 
+
+13. Stand up straight for blessing us, like the god Savitri, straight a winner of booty, when we with our worshippers and with ointments [*1] call thee [*2] in emulation (with other people).
+
+14. Standing straight, protect us by thy splendour from evil; burn down every ghoul [*1]. Let us stand straight that we may walk and live. Find out our worship [*2] among the gods.
+
+ 
+
+15. Save us, O Agni, from the sorcerer, save us from mischief, from the niggard. Save us from him
+
+[p. 33]
+
+who does us harm or tries to kill us, O youngest god with bright splendour!
+
+16. As with a club [*1] smite the niggards in all directions, and him who deceives us, O god with fiery jaws. The mortal who makes (his weapons) very sharp by night, may that impostor not rule over us.
+
+ 
+
+17. Agni has won abundance in heroes, Agni prosperity (for Kanva). Agni and the two Mitras (i. e. Mitra and Varuna) have blessed Medhyatithi, Agni (has blessed) Upastuta in the acquirement (of wealth) [*1].
+
+18. Through Agni we call hither from afar Turvasa, Yadu, and Ugradeva. May Agni, our strength against the Dasyu, conduct Navavastva, Brihadratha, and Turviti [*1].
+
+ 
+
+19. Manu has established thee, O Agni, as a light for all people. Thou hast shone forth with Kanva, born from Rita, grown strong, thou whom the human races worship.
+
+20. Agni's flames are impetuous and violent; they are terrible and not to be withstood. Always burn down the sorcerers, and the allies of the Yatus, every ghoul [*1].
+
+  
+
+NOTES.
+
+The authorship of this hymn, and of the whole collection to which it belongs (I, 36-43), is ascribed to Kanva Ghaura. Numerous passages show indeed that it was the family of the Kanvas, or rather, to speak more accurately, a branch of that family, among which this group of hymns has been composed. But it is as great a mistake in this as in
+
+[p. 34]
+
+a number of similar cases to accept the founder of one of the great Brahmanical families as an author of Vedic poems. Comp. Zeitschrift der Deutschen Morg. Gesellschaft, XLII, 215 seq.
+
+The metre is alternately Brihati and Satobrihati, so that the hymn consists of strophes (Pragatha) of two verses. Verse 1 = SV. I, 59. Verse 9 = VS. XI, 37; TS. IV, 1, 3, 3 (V, 1, 4, 5); TAr. IV, 5, 2 (V, 4, 6); MS. II, 7, 3; IV, 9, 3. Verse 13 = SV. I, 57; VS. XI, 42; TS. IV, 1, 4, 2 (V, 1, 5, 3); MS. II, 7, 4. Verses 13, 14 = TB. III, 6, 1, 2; TAr. IV, 20, 1; MS. IV, 13, 1. Verse 19 = SV. I, 54.
+
+  
+
+Verse 1.
+
+Note [1:36:1:1]1. Literally, we entreat for you. Comp. on this use of the pronoun vah, Delbruck, Altindische Syntax, 206. See also Neisser, Bezzenberger's Beitrage, XX, 64.
+
+Note [1:36:1:2]2. The meaning of yahva cannot be determined with full certainty.
+
+Note [1:36:1:3]3. There is no sufficient reason to change with Ludwig (IV, 254) puruna'm to Puruna'm, and thus to convert the metrically correct Pada into an irregular one.--Comp. Bollensen, Zeitschrift der Deutschen Morgenl. Gesellschaft, XXII, 593.
+
+Note [1:36:1:4]4. On devayati'nam, comp. Lanman, p. 399.
+
+  
+
+Verse 5.
+
+Note [1:36:5:1]1. 'On thee all the eternal works are united, i. e. depend, which the gods have wrought; such as sun, stars, lightning.' M. M.
+
+  
+
+Verse 6.
+
+Note [1:36:6:1]1. With the third Pada compare the third Pada of verse 2. It is a galita.
+
+  
+
+Verse 8.
+
+Note [1:36:8:1]1. The word 'the foe' (vritra) alludes to the name of the demon conquered by Indra; see H. O., Religion des Veda, 135, note 2.
+
+[p. 35]
+
+Note [1:36:8:2]2. The metre would become more correct by reading vrishabhah instead of vrisha. Or Vrishani, 'with Vrishan'? Comp. verse 10.
+
+  
+
+Verse 10.
+
+Note [1:36:10:1]1. Medhyatithi or Medhatithi is very frequently mentioned in connection with Kanva.
+
+Vrishan is taken as a proper name by Boehtlingk-Roth and by Grassmann (not by Ludwig) in VI, 16, 15. Possibly they are right, but in no case can Vrishan of the sixth book, named by the side of Dadhyank and Atharvan, be identified with any probability with the Vrishan mentioned in our passage, who evidently belongs to the ancestors of the Kanvas.
+
+Upastuta is mentioned again together with Kanva and Medhyatithi in verse 17 of our hymn, together with Kanva in VIII, 5, 25. Comp. I, 112, 15; VIII, 103, 8; X, 115, 8. 9; Bergaigne, Rel. Ved., II, 448.
+
+  
+
+Verse 11.
+
+Note [1:36:11:1]1. Comp. I, 139, 2. yat ha tyat mitravarunav rita't adhi adada'the anritam svena manyuna; X, 73, 5. mandamanah rita't adhi.
+
+  
+
+Verse 13.
+
+Note [1:36:13:1]1. Angibhih can possibly mean 'who have salved themselves.' There is no reason to think of the anointing of the yupa (sacrificial post), to which Sayana refers the word.
+
+Note [1:36:13:2]2. On vi-hva, comp. Pischel-Geldner, I, 144. There must be a technical reason, unknown to me, for the connection in which this verb repeatedly occurs, as is the case in our passage, with the noun vaghat: comp. III, 8, 10 (see below); VIII, 5, 16. purutra' kit hi vam nara vihvayante manishinah vaghadbhih asvina a' gatam.
+
+  
+
+Verse 14.
+
+Note [1:36:14:1]1. The exact meaning of atrin is unknown.
+
+Note [1:36:14:2]2. Geldner's conjectures on duvas seem rather bold
+
+[p. 36]
+
+to me (Kuhn's Zeitschrift, XXVII, 233). Comp. vol. xxxii, pp. 203-206 (I, 165, 14).
+
+  
+
+Verse 16.
+
+Note [1:36:16:1]1. On ghaneva, see Lanman, Noun-Inflection, 334.
+
+  
+
+Verse 17.
+
+Note [1:36:17:1]1. On Medhyatithi and Upastuta, see the note on verse 10. Aufrecht (Kuhn's Zeitschrift, XXVI, 612) believes that in mitrota an abbreviation of the name Mitratithi (X, 33, 7) is contained; he translates: 'Agni has promoted Mitratithi, Medhyatithi, and Upastuta in the acquirement of wealth.' This is very ingenious, but I do not think that the reason which Aufrecht gives is sufficient: it cannot be understood, he says, why Mitra (or Mitra and Varuna) should be mentioned in a hymn exclusively addressed to Agni. But similar cases are quite frequent.--Prof. Max Muller writes: 'Could mitra stand for mitrani? Agni has protected his friends and also Medhyatithi.' Comp. also Lanman, p. 342.
+
+  
+
+Verse 18.
+
+Note [1:36:18:1]1. On Turvasa and Yadu, comp. Muir, V, 286; Bergaigne, II, 354 seq.; Zeitschr. der D. Morg. Ges. XLII, 220. There is not the slightest reason for Ludwig's statement (IV, 254) that this hymn is a 'gebet um sig fur den auf einem kriegszuge befindlichen Turvacakonig.'
+
+Ugradeva is not mentioned again. On Navavastva and Brihadratha, comp. X, 49, 6; VI, 20, 11; on Turviti, the materials collected by Bergaigne, Rel. Ved., II, 358 seq.
+
+  
+
+Verse 20.
+
+Note [1:36:20:1]1. See verse 14, note 1.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 37]
+
+  
+
+MANDALA I, HYMN 44.
+
+  
+
+ASHTAKA I, ADHYAYA 3, VARGA 28-30.
+
+1. Agni, at the rising of the dawn [*1] bring splendid wealth, immortal Gatavedas, to the worshipper, (and bring hither) to-day the gods awakening with the dawn.
+
+2. For thou art the accepted messenger, the bearer of sacrificial food, O Agni, the charioteer of worship. United with the two Asvins and with the Dawn bestow on us abundance of valiant heroes, and high glory.
+
+ 
+
+3. We choose to-day as our messenger Agni, the Vasu, the beloved of many, whose banner is smoke, whose ...  [*1] is light, at the dawning of the day, the beautifier of sacrifices [*2].
+
+4. I magnify at the dawning of the day Agni Gatavedas, the best, the youngest guest, the best receiver of offerings, welcome to pious people, that he may go to the gods [*1].
+
+ 
+
+5. I shall praise thee, O food on which everything lives, immortal one [*1], Agni, the immortal protector, O holy god, the best sacrificer, O bearer of sacrificial food.
+
+6. Be kind-spoken to him who praises thee, O youngest god, honey-tongued, the best receiver of offerings. Lengthening Praskanva's life, that he may reach old age, do homage [*1] to the host of the gods.
+
+ 
+
+7. The clans kindle thee, the all-possessing Hotri:
+
+[p. 38]
+
+therefore conduct hither speedily, much-invoked Agni, the provident gods--
+
+8. Savitri, the Dawn, the two Asvins, Bhaga, Agni [*1], at the dawning (of the day), (at the end) of night [*2]. The Kanvas, having pressed Soma, inflame thee, the bearer of sacrificial food, O best performer of worship.
+
+ 
+
+9. As thou, O Agni, art the lord of worship, the messenger of the clans, conduct hither to-day the gods awakening with the dawn, of sun-like aspect, that they may drink Soma.
+
+10. Agni, rich in splendour! thou hast shone after the former dawns, visible to all. Thou art the guardian in the hamlets, the Purohita; thou be-longest to men at the sacrifices [*1].
+
+ 
+
+11. O Agni, let us put thee down (on the altar) as Manus did, O god, to be the performer of the sacrifice, the Hotri, the wise priest, the quick immortal messenger.
+
+12. When thou, the Purohita of the gods, who art great like Mitra, goest on thy errand as messenger in their midst, then the flames of Agni shine like the roaring waves of the Sindhu [*1].
+
+ 
+
+13. Agni with thy attentive ears, hear me, together with the gods driven (on their chariots) [*1] who accompany thee. May Mitra and Aryaman sit down on the sacrificial grass, they who come to the ceremony early in the morning.
+
+14. May the Maruts, they who give rain, the fire-tongued increasers of Rita, hear my praise. May Varuna, whose laws are firm, drink the Soma, united with the two Asvins and with the Dawn!
+
+[p. 39]
+
+  
+
+NOTES.
+
+The hymn is ascribed to Praskanva Kanva, who is the reputed author of the whole group of the hymns, I, 44-50. It is certain that these hymns really belong to a branch of the great Kanva family, for which the name Praskanva is characteristic. Comp. my Prolegomena, p. 260.
+
+The metre is Barhata Pragatha. Verse 1 = SV. I, 40. Verses 1-2 = SV. II, 1130-1131. Verse 11 = TB. II, 7, 12, 6. Verse 13 = SV. I, 50; VS. 33, 15; TB. II, 7, 12, 5.
+
+This Agni-hymn contains a number of allusions which show that it was destined for the morning service. The same may be said of the next hymn, I, 45, and of the whole collection of Praskanva hymns, which are addressed exclusively to the devah prataryavanah, viz. Agni in his special character as a matutinal deity, the two Asvins, the Dawn, the rising Sun. From the mention of the Soma tiroahnya 45, 10; 47, 1, and from other circumstances, Bergaigne has very ingeniously drawn the conclusion that in the Praskanva collection an ancient Asvinasastra is preserved; see Recherches sur l'histoire de la Liturgie Vedique, 45.
+
+  
+
+Verse 1.
+
+Note [1:44:1:1]1. I believe that the text, I may perhaps not say requires, but very strongly invites, a slight correction. The tradition gives agne vivasvat ushasah kitram ra'dhah amartya. To connect vivasvat with ra'dhah and to make the genitive ushasah depend on ra'dhah would give an expression which is not, strictly speaking, impossible but in every case very unusual. Nothing, on the other hand, is more frequent than combinations of the locative of a noun derived from vi-vas with the genitive ushasah, 'at the rising of the dawn' (ushasah vyushtau, vyushtishu, vyushi; comp. the phrase vasto usra'h treated of by Kaegi, Festgruss an Bohtlingk, 48; vastoh usra'h, Bartholomae, Bezzenberger's Beitrage, XV, 185). I think that such
+
+[p. 40]
+
+a phrase should be restored in our verse, and propose to read agne vivasvan ushasah, &c. The word vivasvan occurs in VIII, 102, 22. agnim idhe vivasvabhih. The expression used here would thus be similar to that of III, 15, 2. tvam nah asya'h ushasah vyushtau ... bodhi gopa'h; comp. IV, 1, 5, &c.
+
+  
+
+Verse 3.
+
+Note [1:44:3:1]1. The meaning of bha'h-rigika is quite uncertain. The accent would well agree with the explanation of the word as a possessive compound; dhumaketum bha'h-rigikam would then be exactly parallel: whose banner is smoke, whose rigika is light. We have then go-rigika as an epithet of Soma, 'he whose rigika the cows are,' i. e. 'whose rigika is milk,' and avih-rigika as an epithet of Dadhikravan ('he whose rigika is visible'). All this taken together is clearly insufficient for giving a result, and there is scarcely a better prospect for etymological guesses. Bergaigne's (Rel. Ved., I, 206) translation of rigika by 'fleche' would do for bha'h-rigika, but it is not very tempting in the cases of go-rigika and avih-rigika. Roth (Zeitschrift der D. Morg. Ges. 48, 118) translates 'lichtglanzend.'
+
+Note [1:44:3:2]2. Pischel's explanation of adhvarasri (Vedische Studien, I, 53, 'Zum Opfer kommend') does not seem convincing to me.
+
+  
+
+Verse 4.
+
+Note [1:44:4:1]1. Ludwig's translation 'dasz er die gotter herbringe' is not exact. As to the real meaning of our passage, comp. VII, 9, 5. agne yahi dutyam ... deva'n akkha, 'Agni, go as a messenger ... to the gods.'
+
+  
+
+Verse 5.
+
+Note [1:44:5:1]1. Boehtlingk-Roth propose to read amritabhogana. I think the traditional text is right. Agni is called visvasya bhogana similarly, as it is said in I, 48, 10 (with regard to Ushas), visvasya hi pra'nanam gi'vanam tve. Amrita may be vocative s. neuter or masculine. Comp. Lanman, 339.
+
+[p. 41]
+
+  
+
+Verse 6.
+
+Note [1:44:6:1]1. Benfey (Quantitatsverschiedenheiten, IV, 2, 27) and Ludwig take namasya' for a first person.
+
+  
+
+Verse 8.
+
+Note [1:44:8:1]1. If the accusative agnim is right, as it probably is, Agni would be invoked to conduct Agni to the sacrifice. This is quite a possible idea. Comp. the formula of the 'devatanam avahanam,' 'agnim agna avaha, somam avaha; agnim avaha,' i. e. Agni, conduct hither Agni, conduct hither Soma, conduct hither Agni.' See Hillebrandt, Das Altindische Neu- und Vollmondsopfer, p. 84.
+
+Note [1:44:8:2]2. Lanman, 482, takes kshapah as an acc. plur. I think it is gen. sing., and the accent should be kshapah. Comp. VIII, 19, 31; III, 49, 4, and the phrase aktoh vyushtau.
+
+  
+
+Verse 10.
+
+Note [1:44:10:1]1. Prof. Max Muller translates: 'Thou art the guardian in the hamlets, the chief-priest; thou art the human chief-priest at the sacrifices.'
+
+  
+
+Verse 12.
+
+Note [1:44:12:1]1. With the third Pada comp. IX, 50, 1, where it is said that the mighty strength of Soma shows itself 'sindhoh urmeh iva svanah,' i. e. 'like the roar of the waves of the Sindhu.'
+
+  
+
+Verse 13.
+
+Note [1:44:13:1]1. I cannot follow the translation of Dr. Neisser, Bezzenberger's Beitrage, XVIII, 316.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 42]
+
+  
+
+MANDALA I, HYMN 45.
+
+  
+
+ASHTAKA I, ADHYAYA 3, VARGA 31-32.
+
+1. Sacrifice here, thou, O Agni, to the Vasus, the Rudras, and the Adityas, to the (divine) host that receives good sacrifices [*1], the Ghrita-sprinkling offspring of Manu [*2].
+
+2. The wise gods, O Agni, are ready to listen to the worshippers: conduct them hither, the thirty-three, O lord of red horses, thou who lovest our praises.
+
+3. As thou hast heard Priyamedha and Atri [*1], O Gatavedas, as thou hast heard Virupa and Angiras, thus hear the invocation of Praskanva, O lord of high laws.
+
+4. The Mahikerus [*1], the Priyamedhas have invoked for their protection the lord of worship, Agni with his bright splendour.
+
+5. O thou to whom Ghrita oblations are poured out, good (Agni), hear these praises with which the sons of Kanva invoke thee for their protection.
+
+6. O Agni, whose glory is brightest, beloved of many, the people in the clans invoke thee, the radiant-haired, to convey the sacrificial food.
+
+7. The priests have established thee, O Agni, in the striving for day [*1], as their Hotri, the ministrant, the greatest acquirer of wealth, with attentive ears, the most widely extended [*2].
+
+8. The wise who have pressed Soma have made thee speed hither to the feast (which is offered to the gods), bringing great light [*1] and sacrificial food, O Agni, on behalf of the mortal worshipper.
+
+[p. 43]
+
+9. O strength-made, good (Agni), make the gods who come in the morning, the divine host, sit down here to-day on our sacrificial grass, O Vasu, to drink the Soma.
+
+10. Sacrifice, O Agni, with joint invocations, and bring hither the divine host. This is the Soma, O rain-giving gods. Drink (the Soma) which has been kept over night [*1].
+
+  
+
+NOTES.
+
+The hymn is ascribed to Praskanva. It is evidently addressed to Agni in his matutinal character; comp. the note on I, 44. The metre is Anushtubh. Verse 1 = SV. I, 96. Verse 6 = VS. XV, 31; TS. IV, 4, 4, 3; MS. II, 13, 7.
+
+  
+
+Verse 1.
+
+Note [1:45:1:1]1. Comp. VIII, 5, 33. akkha svadhvaram ganam.
+
+Note [1:45:1:2]2. As to the gods being considered here as offspring of Manu, comp. especially X, 53, 6. manuh bhava ganaya daivyam ganam, 'become Manu, procreate the divine hosts.' See also Bergaigne, Rel. Vedique, I, 69.
+
+  
+
+Verse 3.
+
+Note [1:45:3:1]1. This passage is one of those which show that the Atris stood in especially friendly connection with the Kanvas. Of the Priyamedhas the same may be said, or perhaps we may even go further and consider them as one branch of the Kanvas. For a fuller discussion of these questions I refer to my paper, 'Ueber die Liedverfasser des Rig-veda,' Zeitschr. der D. Morg. Gesellschaft, XLII, 213 seq.
+
+  
+
+Verse 4.
+
+Note [1:45:4:1]1. Mahikeravah, which I have translated as a proper name, may be an adjective belonging to Priyamedhah. Possibly it is derived from the root kar, 'to praise:' 'the
+
+[p. 44]
+
+[paragraph continues] Priyamedhas with mighty hymns.' Comp. Bartholomae, Kuhn's Zeitschrift, XXVII, 341.
+
+  
+
+Verse 7.
+
+Note [1:45:7:1]1. As go-ishti means 'the striving for cows,' thus div-ishti means 'the striving for day,' or possibly 'the striving for heaven.' Ludwig (III, 383) takes it for 'morgenopfer,' and it is true that most of the passages, in which the word occurs, are addressed to matutinal deities. Thus our passage belongs to a hymn addressed to the matutinal Agni; I, 48, 9 is addressed to Ushas; I, 139, 4; VII, 74, 1; VIII, 87, 3 to the Asvins; IV, 46, I; 47, 1 to Vayu who was invoked in the Prauga-sastra belonging to the Pratah-savana, and who received the Soma offering before the other deities. There is, nevertheless, at least one passage which shows that Ludwig has gone too far: VIII, 76, 9. piba it indra marutsakha sutam somam divishtishu, 'Drink, O Indra, with the Maruts thy friends the Soma which has been pressed at the divishtis.' The Soma oblation offered to Indra Marutvat formed part of the second (midday) Savana.
+
+Note [1:45:7:2]2. 'Saprathastamam, the most renowned, repandu.' M. M.
+
+  
+
+Verse 8.
+
+Note [1:45:8:1]1. Comp. IV, 5, 1. katha' dasema agnaye brihat bha'h, 'how may we offer great light to Agni?'--which seems to mean, 'how may we make Agni brilliant?' Thus in our passage the meaning seems to be: the priests kindle Agni and perform oblations.
+
+  
+
+Verse 10.
+
+Note [1:45:10:1]1. The tirah-ahnya Soma, which was kept from one day to the next day (not, as Ludwig translates, 'der von vorgestern'), was offered to the Asvins at the Atiratra sacrifice. Comp. Rig-veda I, 47, 1; III, 58, 7; VIII, 35, 19; Katyayana Srautasutra XII, 6, 10; XXIV, 3, 42. There the commentary says, asvinasastrakayagasambandhinah kamasasthah somah purvadinanishpannatvat tirohnya ity ukyante.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 45]
+
+  
+
+MANDALA I, HYMN 58.
+
+  
+
+ASHTAKA I, ADHYAYA 4, VARGA 23-24.
+
+1. The strength-begotten immortal never grows tired [*1], when he, the Hotri, has become the messenger of Vivasvat [*2]. He passes through the air on the best paths. In the divine world he invites (the gods) with the sacrificial food.
+
+2. Seizing his own food the undecaying, greedy (Agni) stands on the brushwood wishing to drink. When he has been sprinkled (with ghee), he shines like a racer with his back [*1]. Thundering he has roared like the ridge of heaven.
+
+3. As soon as [*1] the Rudras, the Vasus have made him their Purohita, the immortal sitting down as Hotri, the conqueror of wealth, pressing forward like a chariot among the clans, among the Ayus [*2], the god in due course discloses desirable boons.
+
+4. Stirred by the wind he spreads among the brushwood lightly [*1],(driven forward) by the sacrificial ladles, with his sickle [*2], loudly roaring. When thou, O Agni, thirstily rushest on the wooden sticks like a bull [*3], thy course, O never-aging god with fiery waves, becomes black [*4].
+
+5. He who has fiery jaws, stirred by the wind, blazes down on the forest [*1] as a strong bull (rushes) on the herd. When he proceeds [*2] with his stream of light to the imperishable atmosphere, then what is moveable and immoveable (and) the winged (birds) are afraid.
+
+6. The Bhrigus have placed thee among men, who art beautiful like a treasure, who art easy to
+
+[p. 46]
+
+invoke for people; thee the Hotri, O Agni, the excellent guest, a delightful friend like Mitra to the divine race!
+
+7. I worship with good cheer Agni the steward [*1] of all treasures, whom the seven ladles [*2] (of the priests), the worshippers choose as the Hotri, the best sacrificer at the rites, and I pray for treasure [*3].
+
+8. Son of strength, great like Mitra, grant to-day flawless protection to us who magnify thee. Agni! guard from distress with strongholds of iron him who praises thee, O offspring of vigour!
+
+9. Be a shelter to him who praises thee, O resplendent one; be protection, generous giver, to the generous. Agni! guard him who praises thee from distress. May he who gives wealth for our prayer, come quickly in the morning [*1].
+
+  
+
+NOTES.
+
+The hymn is ascribed to Nodhas Gautama, who is considered as the Rishi of the whole collection, I, 58-64. This tradition is based on, and confirmed by, several passages of the text: I, 61, 14; 62, 13; 64, 1.
+
+The metre is Gagati verses 1-5, Trishtubh verses 6-9. None of the verses of this hymn occurs in the other Samhitas.
+
+  
+
+Verse 1.
+
+Note [1:58:1:1]1. I believe that Professor Aufrecht (Kuhn's Zeitschrift, XXV, 435) is right in reading nu' kit sahah-ga'h amritah nu tandate. Comp. as to nu' kit nu, I, 120, 2; VI, 37, 3; VII, 22, 8. Agni is frequently called atandrah dutah or similarly. Possibly we might read, instead of nu tandate, ni tandate, though parallel passages for the combination of this root with ni are not known.--Prof. Max
+
+[p. 47]
+
+[paragraph continues] Muller's opinion is different. He writes: We say, der Funke schlagt oder fangt. Why should not the Hindu have said that Agni strikes out. That would be vi tundate, Agni schlagt aus im Augenblick. But even ni tundate may have been used in the sense of the spark striking down on the tinder--the atasas, mentioned in verse 2--which he ignites. I should translate: 'The strength-begotten immortal strikes down or breaks forth (vi) quickly, whenever the Hotri (Agni) becomes the messenger of the sacrificer (?).'
+
+Note [1:58:1:2]2. I cannot follow Aufrecht in his translation 'zum boten des opfernden.' Comp. on Agni as the messenger of Vivasvat, Bergaigne, Rel. Vedique, I, 87; H. O., Religion des Veda, 122, 275.
+
+  
+
+Verse 2.
+
+Note [1:58:2:1]1. Literally, his back shines like a racer. On this kind of comparison, see Bergaigne, Melanges Renier, 86; Pischel, Vedische Studien, I, 107.
+
+  
+
+Verse 3.
+
+Note [1:58:3:1]1. Krana': comp. von Bradke, Dyaus Asura, Ahura Mazda und die Asuras, p. 36; Pischel, Vedische Studien, I, 70.
+
+Note [1:58:3:2]2. Bergaigne, Rel. Vedique, I, 59 seq.
+
+  
+
+Verse 4.
+
+Note [1:58:4:1]1. On vritha, see Geldner, Vedische Studien, I, 116; Neisser, Bezzenberger's Beitrage, XIX, 148 seq.
+
+Note [1:58:4:2]2. The meaning is: with his flames which are sharp like a sickle. Srini is written here as a paroxytonon; in several other passages it is an oxytonon. Such differences are not quite rare, and there is no reason for taking on this account srinya as an instr. plur. fem. of the adjective srinya, 'mit verkurzter Endung' (Geldner, loc. cit.). 'His sickle is the sharp edge of Agni.' M. M.--On guhu'bhih, comp. Pischel, Vedische Studien, II, 111.
+
+[p. 48]
+
+Note [1:58:4:3]3. As to vrishayase with the accusative, comp. Gaedicke, 74. RV. X, 44, 4. urgah skambham ... vrishayase.
+
+Note [1:58:4:4]4. With the last Pada comp. IV, 7, 9. krishnam te ema rusatah purah bha'h.
+
+  
+
+Verse 5.
+
+Note [1:58:5:1]1. That is, among the fuel.
+
+Note [1:58:5:2]2. I think that we have here probably--(though, of course, this explanation can be avoided)--an anacoluthon. The poet began with the nominative (abhivragan), and then he changed the construction and went on as if he had begun with the ablative, taking sthatuh karatham (comp. Lanman, 422) as the subject instead of Agni.--Patatrinah seems to be nom. pl.; comp. I, 94, 11 (see below).
+
+  
+
+Verse 7.
+
+Note [1:58:7:1]1. The translation of arati is only approximative and conjectural.
+
+Note [1:58:7:2]2. Comp. Pischel, Ved. Studien, II, 113.
+
+Note [1:58:7:3]3. Comp. III, 54, 3. saparya'mi prayasa ya'mi ratnam.
+
+  
+
+Verse 9.
+
+Note [1:58:9:1]1. The last Pada is the standing conclusion of the Nodhas hymns.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 49]
+
+  
+
+MANDALA I, HYMN 59.
+
+  
+
+ASHTAKA I, ADHYAYA 4, VARGA 25.
+
+1. The other Agnis (the other fires) are verily thy branches, O Agni. In thee all the immortals enjoy themselves [*1]. Vaisvanara! Thou art the centre [*2] of human settlements; like a supporting column thou holdest men [*3].
+
+2. The head of heaven, the navel of the earth is Agni; he has become the steward [*1] of both worlds. Thee, a god, the gods have engendered, O Vaisvanara, to be a light for the Arya.
+
+3. As in the sun the rays are firmly fixed, thus in Agni Vaisvanara all treasures have been laid down [*1]. (The treasures) which dwell in the mountains, in the herbs, the waters, and among men--of all that thou art the king.
+
+4. As the two great worlds to their son [*1], like a Hotri, like a skilful man, (we bring) praises--manifold (praises) to him who is united with the sun, to the truly strong one, new (praises) to Vaisvanara, the manliest god.
+
+5. Thy greatness, O Gatavedas, Vaisvanara, has exceeded even the great heaven. Thou art the king of the human tribes; thou hast by fighting gained wide space for the gods.
+
+6. Let me now proclaim the greatness of the bull whom the Purus worship as the destroyer of enemies [*1]. Agni Vaisvanara, having slain the Dasyu, shook the (aerial) arena and cut down Sambara.
+
+[p. 50]
+
+7. Agni Vaisvanara, extending by his greatness over all dominions, who is to be worshipped, the bright one, rich in loveliness, is awake (or, is praised) among the Bharadvagas, in the homestead of Purunitha Satavaneya, with his hundredfold blessings.
+
+  
+
+NOTES.
+
+The same Rishi as in I, 58. Metre, Trishtubh. None of the verses of this hymn occurs in the other Samhitas.
+
+  
+
+Verse 1.
+
+Note [1:59:1:1]1. Comp. VII, 11, 1. na rite tvat amritah madayante, 'the immortals do not enjoy themselves without thee.'
+
+Note [1:59:1:2]2. Literally, 'the navel.' Comp. Muir, V, 214.
+
+Note [1:59:1:3]3. Comp. IV, 5, 1 (see below). upa stabhayat upamit na rodhah.
+
+  
+
+Verse 2.
+
+Note [1:59:2:1]1. Comp. the remark on I, 58, 7 (note 1).
+
+  
+
+Verse 3.
+
+Note [1:59:3:1]1. I cannot follow Prof. von Roth (Zeitschrift der D. Morgenl. Gesellschaft, XLVIII, 116), who explains dadhire as a third person sing. of dhri.
+
+  
+
+Verse 4.
+
+Note [1:59:4:1]1. The incompleteness both of the construction and of the metre shows that the text of the first Pada is corrupt. I doubt whether it ever will be possible to restore the correct reading with full certainty, but I shall be glad if others succeed better than I did--and I may add, better than Prof. von Roth (Zeitschrift der D. Morg. Gesellschaft, XLVIII, 117 seq.) seems to me to have succeeded--in correcting and in interpreting the text. I think that after sunave
+
+[p. 51]
+
+rodasi clearly one syllable is wanted to complete the Pada: possibly we should read therefore sunave rodasyoh (comp. verse 2, Pada 2, aratih rodasyoh, which words form the end of the Pada). Agni, as is well known, is the son of the two worlds, the sunuh rodasyoh. In the beginning of the Pada brihati' must either refer to the two worlds: in this case we have to read brihatyoh (instead of brihati' iva); or brihati' may refer, as this adjective frequently does, to the girah, and we shall possibly have to read brihati'h vah (as to vah, comp. Delbruck, Altindische Syntax, 206). But of course all these are mere guesses. In every case the verb on which the accusative girah depends ('we bring,' or something like that) must be supplied.
+
+  
+
+Verse 6.
+
+Note [1:59:6:1]1. Or, as the killer of Vritra. See H. O., Religion des Veda, 135, note 2.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 52]
+
+  
+
+MANDALA I, HYMN 60.
+
+  
+
+ASHTAKA I, ADHYAYA 4, VARGA 26.
+
+1. Matarisvan brought (Agni) to Bhrigu as a gift precious like wealth, of double birth [*1], the carrier, the famous, the beacon of the sacrifice [*2], the ready and immediately successful messenger.
+
+2. Both follow his command, the Usigs [*1] offering sacrificial food, and the mortals. The Hotri (Agni) has sat down before daybreak among the clans, the lord of the clans, whose leave should be asked, the performer of worship.
+
+3. May our new, beautiful praise, born [*1] from our heart, reach him the honey-tongued (Agni), whom the human priests in our settlement [*2], the Ayus, offering enjoyment have engendered.
+
+4. The Usig [*1], the purifier, the Vasu has been established among men, the best Hotri among the clans, the domestic [*2] master of the house in the house: Agni has become the treasure-lord of treasures.
+
+5. Thus we, the Gotamas, praise thee, O Agni, the lord of treasures, with our (pious) thoughts, rubbing thee as (they rub down) a swift racer that wins the prize. May he who gives wealth for our prayer, come quickly in the morning [*1].
+
+  
+
+NOTES.
+
+Rishi and metre are the same. No verse occurs in the other Samhitas.
+
+  
+
+Verse 1.
+
+Note [1:60:1:1]1. The celestial and the terrestrial birth of Agni. Comp. Bergaigne, Rel. Ved., II, 52.
+
+[p. 53]
+
+Note [1:60:1:2]2. The text has vidathasya. Comp. I, 31, 6, note 2.
+
+  
+
+Verse 2.
+
+Note [1:60:2:1]1. On usig ('the willing one'), as denoting the mythical priests who have first established Agni and have sacrificed as the first, comp. Bergaigne, I, 57 seq. The ubhayasah seem to be these mythical ancestors and the actual sacrificers.
+
+  
+
+Verse 3.
+
+Note [1:60:3:1]1. I propose to read ga'yamana. Comp. I, 171, 2. stomah ... hrida' tashtah; II, 35, 2. hridah a' sutashtam mantram; VIII, 43, 2. agne ganami sushtutim; V, 42, 13. giram ... ga'yamanam, &c.--Comp. Lanman, 356.
+
+Note [1:60:3:2]2. On the meaning of vrigana, see Max Muller, vol. xxxii, pp. xx, 208, 304; Geldner, Vedische Studien, I, 139 seq., with my remarks, Gottinger Gelehrte Anzeigen, 1890, 410 seq.; Ludwig, Ueber Methode bei Interpretation des Rig-veda, 27 seq.; Colinet, Les Principes de l'Exegese Vedique d'apres MM. Pischel et Geldner, 28 seq.; von Bradke, Zeitschrift der Deutschen Morg. Gesellschaft, XLVIII, 500; Bechtel, Nachrichten der Gottinger Gesellschaft der Wiss., 1894, 392 seq.
+
+  
+
+Verse 4.
+
+Note [1:60:4:1]1. See verse 2, note 1.
+
+Note [1:60:4:2]2. Bartholomae's theory (Bezzenberger's Beitrage, XV, 194) that the stem damunas has been developed out of the phrase damu nah, 'in our house,' does not carry conviction.
+
+  
+
+Verse 5.
+
+Note [1:60:5:1]1. See I, 58, 9, note 1.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 54]
+
+  
+
+MANDALA I, HYMN 65.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA. 9.
+
+1 [*1]. Thee who hidest thyself in secret like a thief with an animal [*2] (which he has stolen)--who hadst harnessed [*3] adoration and carriedst adoration--
+
+2. The wise unanimously followed by thy foot-marks [*1]. All (gods) deserving worship (reverentially) sat down near thee.
+
+3. The gods followed the laws of Rita. There was an encompassing as the heaven (encompasses) the earth [*1].
+
+4. In the lap, in the womb of Rita, the waters nourish the fine child with praise, him who is well born.
+
+5. Like good fortune, like a broad abode, like the fertile hill [*1], like the refreshing stream,
+
+6. Like a racer urged forward in the race, like the rapids of the Sindhu [*1]--who can hold him back?
+
+7. (He is) the kinsman of the rivers, as a brother of his sisters. He eats the forests as a king (eats, i. e. takes the wealth of) the rich [*1].
+
+8. When he has spread through the forests, driven by the wind, Agni shears the hair of the earth.
+
+9. Sitting in the waters he hisses like a swan. (He is) most famous by his power of mind, he who belongs to the clans, awakening at dawn--
+
+10. A performer of worship like Soma, the god born from Rita, like a young (?) [*1] beast, far-extending, far-shining.
+
+[p. 55]
+
+  
+
+NOTES.
+
+The authorship of the whole collection, I, 65-73, is ascribed to Parasara Saktya. These hymns are addressed exclusively to Agni. The greater part of them (65-70) is composed in the Virag metre; comp. on this metre my Prolegomena, 95 seq. I have given there my reasons for considering that each verse consists of twenty, not of forty syllables.
+
+This section ascribed to Parasara has been treated of by Bollensen, Zeitschrift der D. Morg. Gesellschaft, XXII, 569 seq. No verse of these hymns composed in the metre Dvipada Virag (I, 65-70) occurs in the other Samhitas.
+
+  
+
+Verse 1.
+
+Note [1:65:1:1]1. Professor Max Muller proposes the following translation for verses 1 and 2: The wise (gods) together followed thee (Agni) when in hiding, by means of footsteps, as one follows a thief by the animal; they followed thee who accepts and carries adoration (to the gods). All the worshipful gods sat down (reverentially) near thee.
+
+Note [1:65:1:2]2. There is no reason for reading with Bartholomae (Studien zur indogermanischen Sprachgeschichte, I, 48) pasva'n (gen. plur.) na tayum.
+
+Note [1:65:1:3]3. Ludwig proposes yuvanam, which is quite unnecessary.--See also Gaedicke, 173.
+
+  
+
+Verse 2.
+
+Note [1:65:2:1]1. We have here the well-known myth of the hidden Agni discovered by the gods. The 'wise ones,' (dhi'rah) are no doubt the searching gods, the same who are called yagatrah in the last Pada, and who are expressly designated as deva'h in verse 3. Comp. Bergaigne, I, 110.
+
+  
+
+Verse 3.
+
+Note [1:65:3:1]1. Regarding the construction, see Gaedicke, 192.--Professor Max Muller's opinion on this phrase differs from
+
+[p. 56]
+
+mine. He writes: 'I should prefer parishti. But parishti seems to mean a running about, reconnoitring, searching. "There was searching on earth as in heaven," lit. earth, like heaven, was reconnoitring-ground.'
+
+  
+
+Verse 5.
+
+Note [1:65:5:1]1. Comp. VIII, 50, 2. girih na bhugma'. I believe that Boehtlingk-Roth, Bollensen, and Grassmann are right in correcting our passage accordingly; ranva', prithvi', sambhu follow the gender of the corresponding substantives, and the same may be expected here. Comp. Lanman, 530. The meaning is that Agni yields nourishment to all beings as a mountain fertilises the country by the waters which come down from it; comp. VIII, 49, 2. gireh iva pra rasah asya pinvire datrani purubaogasah.
+
+  
+
+Verse 6.
+
+Note [1:65:6:1]1. Regarding the construction, comp. Gaedicke, 252 seq.; Bergaigne, Melanges Renier, 95. Joh. Schmidt (Die Pluralbildungen der indogerm. Neutra, 305) and Ludwig (V, 524) are wrong in taking kshodah as a locative or as an instrumental respectively.
+
+  
+
+Verse 7.
+
+Note [1:65:7:1]1. Comp. Pischel-Geldner, Vedische Studien, I, p. xvi.
+
+  
+
+Verse 10.
+
+Note [1:65:10:1]1. Can sisva be the nominative of a stem sisvan which stands by the side of sisu as ribhvan of ribhu? Prof. Max Muller proposes: 'Large like a cow with young, like a pregnant cow.'
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 57]
+
+  
+
+MANDALA I, HYMN 66.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA 10.
+
+1. Like unto excellent wealth, like unto the shine of the sun, like unto living breath, like unto one's own [*1] son--
+
+2. Like unto a quick takvan [*1] he (Agni) holds the wood, like milk, like a milch cow [*2], bright and shining.
+
+3. He holds safety, pleasant like a homestead, like ripe barley, a conqueror of men,
+
+4. Like a Rishi uttering (sacred) shouts, praised among the clans; like a well-cared-for race-horse [*1], Agni bestows vigour.
+
+5. He to whose flame men do not grow accustomed [*1], who is like one's own mind [*2], like a wife on a couch, enough for all (happiness).
+
+6. When the bright (Agni) has shone forth, he is like a white (horse [?]) [*1] among people, like a chariot with golden ornaments, impetuous in fights.
+
+7. Like an army which is sent forward he shows his vehemence, like an archer's shaft with sharp point.
+
+8. He who is born is one twin; he who will be born [*1] is the other twin--the lover of maidens, the husband of wives [*2].
+
+9 [*1]. As cows go to their stalls, all that moves and we, for the sake of a dwelling, reach him who has been kindled.
+
+10. Like the flood of the Sindhu [*1] he has driven forward the downwards-flowing (waters) [*2]. The cows lowed at the sight of the sun [*3].
+
+[p. 58]
+
+  
+
+NOTES.
+
+The same Rishi and metre.
+
+  
+
+Verse 1.
+
+Note [1:66:1:1]1. Comp. I, 166, 2; 185, 2; X, 39, 14. The second passage (nityam na sunum pitroh upasthe dya'va rakshatam prithivi nah abhvat) would be sufficient to show that we cannot translate 'wie ein uberlebender sohn' (Ludwig).
+
+  
+
+Verse 2.
+
+Note [1:66:2:1]1. We do not know what animal the takvan is. Comp. I, 134, 5 with M. M.'s note.
+
+Note [1:66:2:2]2. See Bergaigne, Mel. Renier, 101; Gaedicke, 253.
+
+  
+
+Verse 4.
+
+Note [1:66:4:1]1. Comp. X, 101, 7. prinita asvan hitam gayatha.
+
+  
+
+Verse 5.
+
+Note [1:66:5:1]1. Comp. VII, 4, 3. durokam agnih ayave susoka.
+
+Note [1:66:5:2]2. Prof. Max Muller believes that kratu here means, 'like kartri, a sacrificer, so that kratuh na nityah sounds like sunuh na nityah, one's own sacrificing son. But all this is very obscure.'
+
+  
+
+Verse 6.
+
+Note [1:66:6:1]1. The second Pada is translated by Grassmann: 'wie Licht in Hausern;' by Ludwig: 'fast weiss, bei den menschenstammen.' I think that there can be no doubt that the words svetah na contain a comparison like all the other comparisons of which these hymns are full; this comparison is unduly effaced in Ludwig's translation. Nor is Grassmann right in translating svetah bei 'Licht;' the word is an adjective meaning 'white' and nothing else. We must supply here, as in many passages, a substantive, and I do not see any reason why this should not be that
+
+[p. 59]
+
+substantive with which sveta is most frequently combined in the Rig-veda, namely asva; comp. I, 116, 6; 118, 9 [119, 10]; VII, 77, 3; X, 39, 10. In V, 1, 4 it is said of Agni: svetah vagi' gayate agre ahnam, 'the white racer is born in the beginning of the days.'
+
+  
+
+Verse 8.
+
+Note [1:66:8:1]1. The traditional text is yamah ha gatah yamah ganitvam. Ludwig translates 'bewaltiger des gebornen, bewaltiger auch des, was erst geboren wird.' It will scarcely be necessary to state the reasons which make against this translation. Yamah ... yamah evidently means: 'the one twin ... the other twin.' Now if we leave the text unchanged, we cannot but translate: 'the one twin is he who has been born, the other twin is that which will be born'--which sounds very strange. In I, 89, to we have aditih gatam aditih ganitvam; IV, 18, 4. antah gateshu uta ye ganitvah; X, 45, 10. ut gatena bhinadat ut ganitvaih. In all these cases gata and ganitva stand parallel; there is no such difference as in our passage, according to the traditional text, between him (masc.) who is ... and that (neuter) which will be ... Thus I propose to read ganitvah, of which conjecture Ludwig has thought also (see his note, IV, 259): that present Agni who has been born, and that future Agni who will be born, are twins.--Prof. Max Muller has discussed this passage in his Science of Language, II, 630 seqq. He interprets the twin who has been born as Agni representing the morning; the twin who will be born as the evening.
+
+Note [1:66:8:2]2. The maidens very probably are the dawns (comp. Prof. Max Muller's discussion quoted in the last note). Are the wives the sacrificial ladles which approach Agni, or the offerings of ghee, or the prayers? See Bergaigne, Rel. Vedique, II, 9 seqq.
+
+  
+
+Verse 9.
+
+Note [1:66:9:1]1. This verse is very obscure, and I am quite aware of the merely tentative character of the translation which
+
+[p. 60]
+
+[paragraph continues] I propose. I leave vah untranslated (comp. Delbruck, Altindische Syntax, 206), which must be done in most of the numerous verses beginning with the words tam vah. I then read karatha (comp. 68, 1; 70, 3. 7). Vasatya' seems to be either a dative similar to the newly-discovered datives in -a of a-stems, or we possibly should read vasatyai (vasatya' in the Samhita-patha).--Prof. Max Muller thinks of a correction karamah and would translate: 'To him (whom you know--vah) when lighted we go for our dwelling, as the cows reach their home.'
+
+  
+
+Verse 10.
+
+Note [1:66:10:1]1. Comp. above, 65, 6.
+
+Note [1:66:10:2]2. Or the downwards-streaming libations of Ghrita and the like? Comp. below, I, 72, 10 with note 4.
+
+Note [1:66:10:3]3. Comp. below, 69, 10.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 61]
+
+  
+
+MANDALA I, HYMN 67.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA 11.
+
+1. Victorious [*1] in the forests, a friend among men, he demands obedience like a king, the undecaying one [*2].
+
+2. Like good peace, like fortunate wisdom, may he (Agni) be a kind Hotri, a carrier of offerings.
+
+3. Having taken in his hand all manly powers, he has made the gods fear, when sitting down in his hiding-place.
+
+4. There the thoughtful men find him, when they have recited the spells which they had fashioned in their heart.
+
+5. As the goat [*1] (supports) the earth [*2], thus he supports the earth [*2]; he upholds the sky by his efficacious spells.
+
+6. Protect the dear [*1] footsteps of the cattle [*2]. O Agni, thou who hast a full life, thou hast gone from covert to covert [*3].
+
+7. He who has seen him the hidden one, he who has got near to the stream of Rita [*1]--
+
+8. They who get him off, doing service to Rita, to him [*1] he then indicates riches.
+
+9. He who grows up with might within the plants, and within the children [*1], and within the sprouting grass [*2]--
+
+10. The splendour [?] in the home of the waters [*1], the full-lived. The sages made him as if building a seat.
+
+[p. 62]
+
+  
+
+NOTES.
+
+The same Rishi and metre.
+
+  
+
+Verse 1.
+
+Note [1:67:1:1]1. 'Gayuh: aus gyayuh, wie der compar. gyayan gyeshthah zeigt,' Ludwig. But what shows that gyayan is the comparative of gayuh and that the utterly impossible change of gy into g is possible? Ludwig's translation 'uberwindend' is right; comp. I, 119, 3.
+
+Note [1:67:1:2]2. I propose to read aguryah. Prof. Max Muller conjectures--as Roth (Pet. Dict.) has done--that srushti may mean 'obedient, servant;' he translates: 'He desires a servant (or worshipper) who is not aged.'
+
+  
+
+Verse 5.
+
+Note [1:67:5:1]1. On the mythical goat whose office it is to support the worlds, comp. I, 164, 6; VIII, 41, 10; X, 82, 6; Bergaigne, III, 21; H. O., Religion des Veda, 72.
+
+Note [1:67:5:2]2. For 'earth' the text has two different words, ksha'm and prithivi'm. Prof. Max Muller conjectures dya'm for ksha'm: 'He, Agni, supports the earth, as the buck the sky.'
+
+  
+
+Verse 6.
+
+Note [1:67:6:1]1. Literally, 'the dear footsteps;' but the meaning of priya may be compared to that of the Homeric filos, his own.
+
+Note [1:67:6:2]2. One could be tempted to refer the word pasu to Agni, whose footsteps (pada'ni) the 'wise ones' follow (65, 2), and whom they find out in his hiding. Thus we could translate, 'Look at the dear footsteps of the beast.' But the comparison of 70, 6 makes it more probable that the imperative ni pahi is addressed to Agni. I believe therefore that Grassmann is right in translating 'Die lieben Statten der Heerden schutze.' Ludwig's translation is
+
+[p. 63]
+
+similar to this. Prof. Max Muller translates: 'Observe the footsteps of the animal (the stolen animal of the thief Agni).'
+
+Note [1:67:6:3]3. With guha' guham comp. I, 53, 7. yudha' yudham, pura' puram.
+
+  
+
+Verse 7.
+
+Note [1:67:7:1]1. Dha'ram ritasya: comp. V, 1 2, 2. ritasya dha'rah anu trindhi purvi'h, 'open the many streams of Rita;' VII, 43, 4. ritasya dha'rah sudughah duhanah, 'milking the streams of Rita flowing with plenty.' The stream of Rita seems to mean the stream of blessings (such as rain, ghee, &c.) which flows to mankind according to the eternal laws of Rita.
+
+  
+
+Verse 8.
+
+Note [1:67:8:1]1. The poet passes over from the plural to the singular.
+
+  
+
+Verse 9.
+
+Note [1:67:9:1]1. Bollensen's conjecture praga'su (instead of praga'h uta) seems very probable to me. Prof. von Roth (Ueber gewisse Kurzungen des Wortendes, p. 2) takes a different view.
+
+Note [1:67:9:2]2. Comp. I, 95, 10 (see below); VII, 9, 3. apa'm garbhah prasvah a' vivesa, 'the son of the waters has entered upon the sprouting grass.'
+
+  
+
+Verse 10.
+
+Note [1:67:10:1]1. 'Why not kitih apam dame, that is, the (burning) pile in the home of the waters.' M. M.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 64]
+
+  
+
+MANDALA I, HYMN 68.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA 12.
+
+1. Cooking [*1] (the oblations?) the quick one has approached the sky. He has revealed the nights and what stands and moves [*2]--
+
+2. When he the god, alone of all these gods [*1] encompassed (the others) by his greatness.
+
+3. When thou, O god, hadst been born living from the dry (wood), then all (gods and men?) were pleased with thy wisdom.
+
+4. They all obtained the name of divinity, of immortality [*1], serving the Rita in due way.
+
+5. The instigations of Rita, the thought of Rita [*1]: they all performed the works of [?] the full-lived one [*2].
+
+6. Bestow wealth, thou who art the knowing one, on him who worships thee or who does service to thee [*1].
+
+7. He who sits down as the Hotri among the offspring of Manu: he verily is the master of all these riches.
+
+8. They longed together for the seed in their bodies [*1], and the wise ones were concordant among each other in their minds.
+
+9. They took pleasure in his will, as sons (take pleasure) in their father's (will), the quick ones who have listened to his command.
+
+10. He who is rich in food has opened the gates of wealth [*1]. The householder (Agni) has adorned the sky with stars.
+
+[p. 65]
+
+  
+
+NOTES.
+
+The same Rishi and metre.
+
+  
+
+Verse 1.
+
+Note [1:68:1:1]1. Boehtlingk-Roth are wrong in deriving srinan (which should more correctly be written srinan, comp. my Prolegomena, 477) from the root sri. They supply an object like sokih and translate: 'Licht verbreitend hebt er sich zum Himmel.'
+
+Note [1:68:1:2]2. Lanman, 422.
+
+  
+
+Verse 2.
+
+Note [1:68:2:1]1. Bollensen conjectures deva'nam devah (instead of devah deva'nam) which seems to be right (comp. below, 69, 2), though this conjecture is not absolutely necessary (see my Prolegomena, 97):
+
+  
+
+Verse 4.
+
+Note [1:68:4:1]1. Amritam belongs to na'ma; comp. V, 57, 5. amritam na'ma bhegire; X, 123, 4. vidat gandharvah amritani na'ma.
+
+  
+
+Verse 5.
+
+Note [1:68:5:1]1. With ritasya dhitih comp. I, 71, 3; IV, 23, 8; IX, 76, 4; 97, 34; 111, 2.--Prof. Max Muller thinks that rita should be taken as a name of Agni: 'for the righteous (Agni) are the prayers, for the righteous the devotion.'
+
+Note [1:68:5:2]2. Is visva'yuh an adverb meaning 'eternally'? As visva'yu is an epithet of Agni frequently used in the Rig-veda and especially in the Parasara hymns (see 67, 6. 10; 68, 5; 73, 4), one feels tempted to read visva'yoh (comp. IV, 42, 1. rashtram kshatriyasya visva'yoh).
+
+  
+
+Verse 6.
+
+Note [1:68:6:1]1. Comp. III, 59, 2. yah te aditya sikshati vratena.
+
+[p. 66]
+
+  
+
+Verse 8.
+
+Note [1:68:8:1]1. Some light is thrown on this obscure verse by the hymn, I, 72, a hymn belonging, as our hymn does, to the Parasara collection. It is shown by the second verse of that hymn (see below), that the searching ones, 'amurah,' are the gods who seek Agni. It seems probable, consequently, that the 'seed' is Agni (comp. I, 164, 35, where Soma is said to be vrishnah asvasya retah, 'the seed of the manly horse'). Of the same searching gods in I, 72, 5 the expression samganana'h is used; comp. sam ganata in our passage.
+
+  
+
+Verse 10.
+
+Note [1:68:10:1]1. Ra'yah must be a genitive; comp. I, 72, 8. rayah durah vi ritagna'h aganan. Probably the accent should be rayah; comp., however, Lanman, 431.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 67]
+
+  
+
+MANDALA I, HYMN 69.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA 13.
+
+1. Bright, flaming, like the lover of the Dawn [*1], he has, like the light of the sky, filled the two (worlds of Heaven and Earth) which are turned towards each other.
+
+2. As soon as thou wert born thou hast excelled by thy power of mind; being the son of the gods thou hast become their father.
+
+3. (Agni is) a worshipper (of the gods), never foolish, (always) discriminating; (he is) like the udder of the cows; (he is) the sweetness of food [*1]--
+
+4. Like a kind friend to men, not to be led astray [*1], sitting in the midst, the lovely one, in the house;
+
+5. Like a child when born, he is delightful in the house; like a race-horse which is well cared for [*1], he has wandered across the clans [*2].
+
+6. When I call (to the sacrifice) the clans who dwell in the same nest with the heroes, may Agni then attain all divine powers [*1].
+
+7. When thou hast listened to these heroes, no one breaks those laws of thine.
+
+8. That verily is thy wonderful deed that thou hast killed [*1], with thy companions, (all foes), that, joined by the heroes, thou hast accomplished thy works [*2].
+
+9. Like the lover of the Dawn [*1] resplendent and bright, of familiar form: may he (thus) pay attention to this (sacrificer).
+
+[p. 68]
+
+10. Carrying (him) they opened by themselves the doors (of heaven). They all shouted at the aspect of the sun [*1].
+
+  
+
+NOTES.
+
+The same Rishi and metre.
+
+  
+
+Verse 1.
+
+Note [1:69:1:1]1. The lover of the Dawn is here the Sun. See Pischel, Vedische Studien, I, 31.
+
+  
+
+Verse 3.
+
+Note [1:69:3:1]1. Agni is the sweetness of food (comp. V, 7, 6. sva'danam pituna'm); it is not probable that sva'dma and u'dhah should depend on viganan, as Ludwig believes.
+
+  
+
+Verse 4.
+
+Note [1:69:4:1]1. I adopt Boehtlingk-Roth's conjecture ahuryah. Ahu'ryah would mean, 'he who is to be led astray.'
+
+  
+
+Verse 5.
+
+Note [1:69:5:1]1. See above, 66, 4.
+
+Note [1:69:5:2]2. 'He has overcome the (hostile) clans.' M. M.
+
+  
+
+Verse 6.
+
+Note [1:69:6:1]1. Perhaps devatva' is an instrumental, as Ludwig takes it. In this case we should have to translate: 'may Agni by his divine power attain everything.'--Prof. Max Muller translates this verse: 'When I with my men call the clans of the same nest (the gods), Agni will obtain all divine honours.'
+
+  
+
+Verse 8.
+
+Note [1:69:8:1]1. The first hemistich of this verse has eleven syllables instead of ten and shows the regular Trishtubh type. The same irregularity occurs in 70, 4. 10. As I have shown in my Prolegomena, p. 97, this metrical irregularity does not necessitate corrections of the text,
+
+[p. 69]
+
+and the comparison of X, 147, 1 (see next note), where it is said ahan yat vritram ... viveh apah, seems even to confirm the traditional reading. It cannot he denied, however, that the double yat and the use of ahan without an object raises some suspicion. In I, 34, 3; 186, 4 we have samane ahan. Possibly we may read, tat tu te damsah ahan samane, 'this wonderful deed of thine has been accomplished on one and the same day (with that mentioned in verse 7).' I am fully aware of the uncertainty of such guesses. The removal of yat has already been proposed by Bollensen (Zeitschrift der Deutschen Morg. Gesellschaft, XXII, 592).
+
+Note [1:69:8:2]2. Here we may correct the text with greater certainty than in the first hemistich, or to speak more accurately, we shall have to correct not the traditional text itself, but that ancient grammatical commentary on the text which has been preserved to us in the Padapatha. The words viverapamsi of the Samhitapatha are written in the Padapatha viveh rapamsi. Now we read IV, 19, 10. apamsi ... narya aviveshih, 'thou hast performed manly works.' In X, 147, 1 we have ahan yat vritram naryam viveh apah: here the adjective narya clearly shows that apah is a blunder for apah, and we must translate, 'when thou hast killed Vritra and performed thy manly work.' This passage shows that in X, 76, 3 also viveh apah should be corrected (v. apah). Thus we have three passages in which aviveshih or viveh has the object apah, apamsi, and we may infer with full certainty that in our passage viverapamsi does not correspond to a Padapatha reading viveh rapamsi but viveh apamsi. The same may be said with regard to VI, 31, 3 (mushayah kakram aviveh rapamsi; Samh. avive rapamsi).
+
+  
+
+Verse 9.
+
+Note [1:69:9:1]1. Comp. above, verse 1.
+
+  
+
+Verse 10.
+
+Note [1:69:10:1]1. Comp. above, 66, 10.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 70]
+
+  
+
+MANDALA I, HYMN 70.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA 14.
+
+1. May we, the poor [*1], succeed in many (pious) thoughts [*2]. May Agni with his pure splendour attain everything--
+
+2. He who understands the divine laws and the birth of the human race.
+
+3. He who is the child of the waters, the child of the trees, the child of that which stands, and the child of that which moves.
+
+4. Even in the rock (they have done homage [?]) to him, in his dwelling [*1]. (He is) like a protector [?] [*2] of the clans, the immortal one, he who is of a good mind.
+
+5. For he, Agni, (shows himself as) an earth-protecting (lord) of riches [*1] to the man who satisfies him with well-spoken (prayers).
+
+6. Protect, O knowing one, these beings, thou who knowest the birth of gods and men [*1].
+
+7. He whom many nights (and dawns), in their different forms [*1], may increase, whom that which moves [*2] and that which stands (increases), the god penetrated by Rita--
+
+8. That Hotri who has sat down in the sun [*1], has been successfully worshipped [*2] (by the human sacrificers), he who truly accomplishes all his works.
+
+9. On the cows, on the trees thou hast conferred excellence. May all men bring us tribute in the sun [*1].
+
+[p. 71]
+
+10. In many places men have worshipped thee. They have brought (thee) to different places [*1] as sons (divide) the property of an aged father [*2].
+
+11 [*1]. (He is) like a greedy man [*2] who goes straight (to his aim), like a mighty archer, like a fearful avenger [?] [*3], impetuous in contests [*4].
+
+  
+
+NOTES.
+
+The same Rishi and metre.
+
+  
+
+Verse 1.
+
+Note [1:70:1:1]1. I adopt Bergaigne's opinion on the word ari (see Religion Vedique, II, 218 seq.).
+
+Note [1:70:1:2]2. The Padapatha has manisha' instead of manisha'h. See my Prolegomena, 385; Lanman, 363. Prof. Max Muller proposes to translate: 'May we by wisdom overcome many enemies!' He writes: 'Is not vanema almost a standing formula as applied to enemies? Let us conquer the enemies. The enemies are masculine in VII, 48, 3. visvan aryah ... vanvan, feminine in VI, 16, 27. vanvantah aryah aratih. VIII, 39, 2. visvah aryah aratih. X, 133, 3. visvah aratayah aryah. IV, 50, 11. gagastam aryah vanusham aratih (repeated VII, 97, 9; cf. I, 29, 4).' For my translation I refer to II, 5, 7. stomam ... vanema; II, 11, 12. dhiyam vanema; I, 122, 14. aryah girah; X, 148, 3. aryah va girah abhi arka vidva'n.
+
+  
+
+Verse 4.
+
+Note [1:70:4:1]1. Or: even in the rock (they have done homage) to him, and in the (human) dwelling? I believe we must supply a verb on which the dative asmai depends. Ludwig proposes to read duronam: 'within the stone is his dwelling.' Comp. II, 1, 1; VI, 48, 5.
+
+Note [1:70:4:2]2. I do not understand visa'm na visvah. Ludwig translates 'er ist der menschen allgemeiner, unsterblicher
+
+[p. 72]
+
+fursorger.' But visva does not mean 'allgemein,' and Ludwig omits na, 'like.' One should expect a phrase like visa'm na vispatih, which of course is metrically impossible. Is it too bold to correct visvah into vispa'h, a word hitherto not found in the texts, but formed exactly like stipa', pasupa', tanupa' and others?--Prof. Max Muller takes asmai as dependent on svadhi'h and visvah as belonging at the same time to amritah and to visa'm. He translates: 'To him also who dwells in the rock and in the house, every immortal like every one among men is well disposed.'
+
+  
+
+Verse 5.
+
+Note [1:70:5:1]1. Comp. VII, 10, 5. sa hi kshapavan abhavat rayina'm.
+
+  
+
+Verse 6.
+
+Note [1:70:6:1]1. Most probably we have here not the accusative martan but the genitive martam, which was confounded by the arrangers of the traditional text with the accusative and treated according to the Sandhi rules which govern the ending -an. See . Lanman, Noun-Inflection, 353 Bartholomae, Studien zur indogermanischen Sprachgeschichte, I, 48.
+
+  
+
+Verse 7.
+
+Note [1:70:7:1]1. Lanman (p. 422) takes kshapah virupah as accusatives, and translates, 'Whom through many nights and mornings all beings worship.' I believe that they are nominatives, and that we should accentuate kshapah. As virupa is a regular epithet of naktosha'sa, I think that kshapah is to be understood as an elliptic plural similar to the elliptic duals usha'sa or ahani (comp. Delbruck, Altindische Syntax, 102), and that it means, 'the nights (and mornings).'--Comp. VI, 38, 4. vardhan ma'sah saradah dya'vah indram, 'May months, years, days increase Indra's greatness.'
+
+Note [1:70:7:2]2. Of course ka ratham is a mistake for karatham, as first pointed out by Benfey.
+
+[p. 73]
+
+  
+
+Verse 8.
+
+Note [1:70:8:1]1. On the locative svar, see Lanman, 488; Joh. Schmidt in Kuhn's Zeitschrift, XXVII, 306; Bartholomae in Bezzenberger's Beitrage, XV, 42. Comp. X, 61, 14. svah na ye trishadhasthe nisheduh.
+
+Note [1:70:8:2]2. Comp. X, 53, 2. aradhi hota nishada yagiyan.
+
+  
+
+Verse 9.
+
+Note [1:70:9:1]1. Is it not more probable that tribute was brought to Agni (comp. V, 1, 10) than to the human worshippers? Possibly we should change svah nah (svar nah of the Samhitapatha) into svarnah, a vocative of the stem svarnri = svarnara. The translation would be, 'All men have brought tribute to thee, O sun-hero!'
+
+  
+
+Verse 10.
+
+Note [1:70:10:1]1. Comp. V, 11, 4. agnim narah vi bharante grihegrihe.
+
+Note [1:70:10:2]2. Regarding the metre, comp. above, 69, 8, note 1.
+
+  
+
+Verse 11.
+
+Note [1:70:11:1]1. This verse may possibly be a later addition. See Bergaigne, Recherches sur l'Histoire de la Samhita, I, 61.
+
+Note [1:70:11:2]2. On gridhnu, comp. Pischel, Ved. Studien, I, 231.
+
+Note [1:70:11:3]3. Comp. I, 32, 14. aheh yata'ram.
+
+Note [1:70:11:4]4. See above, 66, 6.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 74]
+
+  
+
+MANDALA I, HYMN 71.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA 15-16.
+
+1. The loving (women) have (amorously) excited [*1] their lover, as wives of the same nest (house) their own husband. The sisters have delighted in the dark and in the red (goddess) [*2], as the cows in the brightly shining dawn.
+
+2. Our fathers, the Angiras [*1], have broken even the strong fortresses by their hymns, the rock by their shouting. They have opened to us the path of the great heaven; they have obtained day and sun and the shine of the dawn [*2].
+
+3. They founded the Rita; they set into motion the thought of it [*1]. Thus then the widely-spread (prayers) [*2] of the poor [*3] which seek to obtain (wealth), which are free from thirst [*4], the active, approach [*5] the tribe of the gods [*6], strengthening them by offering them delight.
+
+4. When Matarisvan had produced him by attrition, he, the reddish, the noble one, who was brought to many places [*1], has come to every house. Then the Bhrigu-like [*2] has undertaken the messengership [*3] (for the mortal) as for a mightier king, being attached to him.
+
+5. When he had created sap to the great father Heaven, the knowing one stealthily approached the speckled (cows). The archer fiercely shot an arrow at him. The god turned his impetuous power against his daughter [*1].
+
+6. Augment, O Agni, twofold the strength of
+
+[p. 75]
+
+the man who worships [*1] thee in his house, or offers adoration to the loving one [*2] day by day. May he whom thou incitest be united with riches [*3].
+
+7. Every nourishment goes towards Agni [*1], as the seven young [*2] rivers (flow) into the ocean. Our strength does not shine from kinsmen [*3]. Do thou therefore who knowest this, procure among the gods kindness for us.
+
+8 [*1]. When the sharp splendour [*2] reached the lord of men to incite him [*3], the bright sperm poured down from Heaven (or, from the god Dyaus) [*4], Agni produced [*5] and furthered the blameless, young, well-wishing host [*6].
+
+9. He who traverses the paths quickly [*1] like thought, the Sun alone rules over wealth altogether. (There are) the two kings Mitra and Varuna with graceful hands [*2], who watch over the beloved ambrosia [*3] in the cows.
+
+10. Do not forget, O Agni, who art a sage possessed of knowledge [*1], our paternal friendship. Old age impairs the appearance (of men) as a cloud (covers the sun or the sky). Before this curse (attains us), think thou (of us) [*2].
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Trishtubh.
+
+Though the hymns 71-73 are not composed in the Virag metre like the preceding hymns, it is shown by 'manifold evidence that they had the same origin. Verse 8 = VS. XXXIII, 11; TS. I, 3, 14, 6; MS. IV, 14, 15.
+
+  
+
+Verse 1.
+
+Note [1:71:1:1]1. Comp. Geldner, Vedische Studien, II, 134.
+
+Note [1:71:1:2]2. if the text is correct, the 'sisters' may either
+
+[p. 76]
+
+be the ten fingers which generate Agni by attrition (III, 29, 13; IV, 6, 8), or the streams of water among which Agni grows up, or streams of Ghrita or the like (comp. II, 5, 5 see below). Why these sisters are said to delight in the dark and in the bright goddess, the Night and the Dawn, remains doubtful.
+
+But I think there are reasons which strongly recommend a correction of the text. In III, 55, II we read sya'vi ka ... arushi ka svasarau, 'the two sisters, the dark one and the red one.' Is it not probable that in our passage also it is the sisters who are described as dark and red? The dark goddess and the red goddess of course are Night and Dawn, and Night and Dawn, as is well known, are sisters in Vedic poetry. And furthermore the 'sisters' are described in our verse as amorously exciting the god Agni: for it cannot well be doubted that the svasarah of the third Pada are identical with the usati'h of the first: similarly it is said in 70, 7--in a hymn belonging to the same collection with out Sukta--that the Nights and Dawns augment Agni's greatness; in other passages Agni is represented as beloved by the Dawn, or as suckled by Night and Dawn (Bergaigne, Religion Vedique, II, 14. 15). The 'sisters' then are stated in our verse to delight (agushran), probably in Agni: now we read in II, 2, 2. abhi tva naktih ushasah vavasire agne vatsam na svasareshu dhenavah, 'The Nights and Dawns, Agni, have lowed at thee as the milch-cows in their stalls at their calves;' comp. Bergaigne, II, 15. Thus everything is clear, if we take the usati'h and the svasarah for the bright and dark goddesses, i. e. for the Dawns and Nights. The correction of the text to which this interpretation leads, is svasarah sya'vih arushih agushran, 'the dark and the red sisters have delighted (in Agni).' It is easy to understand that the corruption of the text was occasioned by the simile of the fourth Pada. The words ushasam na ga'vah seemed to demand a parallel nominative and a parallel accusative in the third Pada. The nominative was svasarah, but there was no accusative. Thus probably arose the reading sya'vim arushim.
+
+[p. 77]
+
+  
+
+Verse 2.
+
+Note [1:71:2:1]1. On the Angiras as the fathers of the priestly tribes, see H. O., Religion des Veda, 278.
+
+Note [1:71:2:2]2. The phrase ushasah ketuh occurs several times in the Rig-veda. I think that ketum usra'h means exactly the same; it has been shown by Kaegi, Festgruss an Boehtlingk, p. 49, and by Bartholomae, Bezzenberger's Beitrage, XV, 185, that a genitive sing. usra'h existed.
+
+  
+
+Verse 3.
+
+Note [1:71:3:1]1. Ludwig refers asya to the sacrificer, Bollensen to Agni, and so does Sayana. I believe that asya should be explained as ritasya; the phrase ritasya dhiti is frequently used, comp. IV, 23, 8; IX, 76, 4; 97, 34; 111, 2. See also Ludwig's note on III, 31, 1 (vol. v, p. 65).--Prof. Max Muller refers rita to Agni. 'One might translate it by righteous: They established the righteous (Agni), they moved his mind (made him attend?).'
+
+Note [1:71:3:2]2. The substantive (of feminine gender) which is to be supplied to didhishvah, atrishyantih, &c., seems to me to be girah or the like. Aryah stands frequently together with girah.--Prof. Max Muller writes: 'Could not ari be a feminine like karshani and vis; see before, I, 70, I. We should then translate, and then the people emulous, widely spread, never flagging [the stones also are called atrishitah atrishnagah, X, 94, 11], and active go towards the gods.'
+
+Note [1:71:3:3]3. See above, 70, 1, note 1.
+
+Note [1:71:3:4]4. Are the prayers called 'free from thirst' because they are accompanied by libations of Ghrita, Soma, &c.?
+
+Note [1:71:3:5]5. I believe that deva'n ganma depends both on akkha and on vardhayantih.
+
+Note [1:71:3:6]6. Deva'n, or rather deva'm, is gen. plur.; see above, 70, 6, with note 1.
+
+  
+
+Verse 4.
+
+Note [1:71:4:1]1. The place in which vibhritah stands would seen to show that it is an epithet of Matarisvan, and so it is understood by Ludwig and by Bergaigne (Rel. Ved. I, 54).
+
+[p. 78]
+
+[paragraph continues] But it is Agni himself, not Matarisvan, who is very frequently mentioned as vibhrita or the like. As we read here, vibhritah ... grihe-grihe, it is said in V, II, 4. agnim narah vi bharante grihe-grihe, 'the men carry Agni hither and thither, to every house;' comp. I, 70, 10; III, 55, 4; X, 1, 2; 45, 2; 80, 4. Thus I believe the poet means to say that Matarisvan first kindled Agni, in one place of course, and that Agni then was brought to many places, to all human dwellings. I think that the text indeed can be understood in this way, if we suppose that the author, for the sake of the metre, allowed himself a hyperbaton or synchysis.
+
+We must not omit to mention that the first Pada of I, 148, 1 is nearly identical with our passage: mathit yat im vishtah matarisva. This Pada is deficient by one syllable. If we were to read vibhritah, as in our passage, this would lead indeed to the conclusion that there is no hyperbaton in our verse--for the verse, I, 148, 1, could not be explained in that way--but that vibhritah refers to Matarisvan. I think, however, that it is more than doubtful that the verse, I, 148, 1, really ought to be corrected in this way; whatever may have been the original form of that verse, it is quite possible, and even probable, that it differed from our passage just in that one word.
+
+Note [1:71:4:2]2. The exact meaning of Bhrigavana is doubtful. It is, of course, derived from Bhrigu as vasavana, takavana, from vasu, taku. Agni is called Bhrigavana also in IV, 7, 4. Comp. Bergaigne, I, 54.
+
+Note [1:71:4:3]3. With the words a' dutyam vivaya comp. IV, 9, 6. veshi it u asya dutyam.
+
+  
+
+Verse 5.
+
+Note [1:71:5:1]1. This difficult verse evidently treats of the incest which the father Dyaus has committed with his daughter. Compare on this subject Bergaigne, Rel. Ved. II, 109 seq. Agni seems to be represented here as stimulating the desire of the father; the 'sap' (rasa) probably is the sperm, comp. I, 105, 2.
+
+[p. 79]
+
+In the second Pada, Agni, having done, as it seems, some mischief, goes away to the speckled cows.' We cannot say who these speckled cows were; they evidently are identical with those mentioned in another passage treating of the same story, X, 61, S.--Bergaigne paraphrases the second Pada of our verse, wrongly in my opinion, 'Agni sort furtivement de cette fille, de cette vache, prisani'.'
+
+The archer who shoots at Agni (third Pada) is not better known to us than the speckled cows. Bergaigne's opinion, 'que cet archer n'est autre que le pere lui-meme,' is not very convincing.
+
+  
+
+Verse 6.
+
+Note [1:71:6:1]1. The traditional reading vibha'ti ('he who shines for thee in his house') gives no satisfactory sense. I propose to read vidha'ti. Cf. I, 120, 1. katha' vidhati apraketah.
+
+Note [1:71:6:2]2. I have some doubts as to the correctness of usatah (Samhitapatha, usato) anu dyu'n. Usat, of course, is an epithet not of the days, but of Agni. But then we expect the dative. Correcting the text (usate) is all the easier, because before a following vowel the dative and the genitive were, in the original pronunciation, identical (usata'anu; see my Prolegomena, 447 sqq.); the spellings of the Samhitapatha, usato anu and usate anu, belong to the inventions of Vedic grammarians.
+
+Note [1:71:6:3]3. Literally, May he whom thou incitest drive on the same chariot with riches. Comp. such expressions as rathi'h rayah and the like.
+
+  
+
+Verse 7.
+
+Note [1:71:7:1]1. Comp. IV, 44, 2. yuvoh vapuh abhi prikshah sakante; VII, 90, 5.
+
+Note [1:71:7:2]2. Comp. I, 26, 10, note 1.
+
+Note [1:71:7:3]3. Ludwig: nicht unter unsern freunden ward auszfundig gemacht die kraftspeise. Grassmann: nicht bei Verwandten ward uns Nahrung sichtbar. Wilson: Our food is not partaken of by our kinsmen. Griffith: Not by our brethren was our food discovered.--Ludwig and Grassmann translate as if the text had gamishu. What the
+
+[p. 80]
+
+instrumental means is shown, I believe, for instance, by IV, 14, 2. vi su'ryah rasmibhih kekitanah, 'the sun shining with his rays.' Thus in our passage the poet seems to me to say, 'We have no strong kinsmen who might add lustre to our strength. Agni, procure thou strength to us.' Comp. X, 23, 7. vidma hi te pramatim deva gamivat, 'for we know, O god, thy providing care like that of a kinsman.'--Prof. Max Muller proposes the translation: 'Our wealth is not known by our kinsmen, i. e. we cannot support them as we ought.'
+
+  
+
+Verse 8.
+
+Note [1:71:8:1]1. The poet returns here to the myth of which he had spoken in verse 5. Should the order of the verses be changed?--On our verse, compare Geldner, Ved. Studien, II, 34.
+
+Note [1:71:8:2]2. Tegas seems to be here a synonym of retas, as in the later language.
+
+Note [1:71:8:3]3. Is the lord of men Agni? See the third Pada.--Ishe I consider, with Geldner, as an infinitive.
+
+Note [1:71:8:4]4. My translation rests on the supposition that dyauh is to he corrected into dyoh; thus the ablative is obtained, of which the word abhi'ke is usually accompanied (comp. Lanman, 433; Collitz, Bezzenberger's Beitrage, X, 15). If we leave the reading dyauh, this nominative will be the subject of the verb a'nat. Then tegah must be accusative dependent on a'nat, and we can scarcely avoid making nripatim to depend on the infinitive ishe. This is the way which Geldner has followed in interpreting this passage. But I cannot consider this separation of nripatim from the verb a'nat very probable.
+
+Note [1:71:8:5]5. The exact meaning of ganayat seems to be here, 'he caused them to be born.' Comp. Satapatha Brahmana I, 7, 4, 4. yatha tad deva retah praganayan (comp. Aitareya Brahmana III, 34; see also Rig-veda X, 61, 7).
+
+Note [1:71:8:6]6. This may be the host of the seven Rishis. Comp. III, 31, 1-5; IV, 1, 12 seq. (?). Or the Maruts are alluded to (comp. below, 72, 4), though that seems to me less probable.
+
+[p. 81]
+
+  
+
+Verse 9.
+
+Note [1:71:9:1]1. Literally, in one day. But sadyah has already in the Rig-veda the secondary meaning 'immediately, quickly.'
+
+Note [1:71:9:2]2. Comp. III, 56, 7. ra'gana mitra'-varuna supani'.
+
+Note [1:71:9:3]3. See below, 72, 6.
+
+  
+
+Verse 10.
+
+Note [1:71:10:1]1. Comp. VII, 18, 2: there the words abhi viduh kavih san are identical with our text.
+
+Note [1:71:10:2]2. Of the second hemistich Prof. Collitz has treated in Bezzenberger's Beitrage, X, 15, note. He paraphrases the meaning in the following way: 'Der Sinn des ganzen Verses ist: unsere Freundschaft mit dir, Agni, stammt aus alter Zeit. Nun sagt man zwar "im Alter andert sich das Aussehn wie das der Wolke." Aber stehe du uns bei vor diesem Fluche.' I do not believe that this interpretation, though very ingenious, gives the real meaning of the Vedic poet.--Comp. I, 179, I. mina'ti sriyam garima' tanu'nam.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 82]
+
+  
+
+MANDALA I, HYMN 72.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA 17-18.
+
+1. He has brought down (i. e. surpassed) the wisdom of many a worshipper [*1], he who holds in his hand all manly power. Agni has become the lord of treasures, he who brought together all (powers of) immortality.
+
+2 [*1]. All the clever immortals when seeking did not find the calf though sojourning round about us. The attentive (gods), wearying themselves, following his footsteps [*2], stood at the highest, beautiful [*3] standing-place of Agni.
+
+3. When the bright ones [*1] had done service [*2] to thee, the bright one, Agni, with Ghrita through three autumns, they assumed worshipful names; the well-born shaped their own bodies.
+
+4. Acquiring (or, exploring?) for themselves the two great worlds, the worshipful ones brought forward their Rudra-like powers [*1]. The mortal, when (beings) were in discord [*2], perceived and found out Agni standing in the highest place.
+
+5. Being like-minded they [*1] reverentially approached him on their knees. Together with their wives they venerated the venerable one [*2]. Abandoning their bodies they made them their own [*3], the (one) friend waking when the (other) friend closed his eyes [*4].
+
+6. When the worshipful (gods) have discovered the thrice seven secret steps [*1] (or, places) laid down in thee, they concordantly guard with them immortality.
+
+[p. 83]
+
+[paragraph continues] Protect thou the cattle and that which remains steadfast [*2] and that which moves.
+
+7. Knowing, O Agni, the established orders [*1] of (human) dwellings, distribute in due order gifts [*2] that they may live. Knowing the ways which the gods go [*3], thou hast become the unwearied messenger, the bearer of oblations.
+
+8. They who knew the right way and were filled with good intentions, beheld from heaven the seven young [*1] (rivers) and the doors of riches. Sarama found the strong stable of the cows from which human clans receive their nourishment [*2].
+
+9. The Earth has spread herself far and wide with them who are great in their greatness, the mother Aditi, for the refreshment of the bird [*1], with her sons who have assumed all powers of their own dominion [*2], preparing (for themselves) the way to immortality.
+
+10. When the immortals created the two eyes of heaven [*1], they placed fair splendour in him (Agni) [*2]. Then they rush down [*3] like streams let loose. The red ones have recognised, O Agni, those which are directed downwards [*4].
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 1 = TS. II, 2, 12, 1. Verse 3 = TB. II, 4, 5, 6. Verses 8-9 = TB. II, 5, 8, 10.
+
+  
+
+Verse 1.
+
+Note [1:72:1:1]1. The meaning seems to me to be: by his wisdom he excels all human wisdom. Prof. Max Muller translates: 'Agni, who holds in his hand all that men desire, conquers
+
+[p. 84]
+
+[paragraph continues] (or, wins for himself) the praises of many a wise worshipper.' And the last Pada: 'he who brought together all immortal blessings.'--On sasvat, see VI, 61, 1; VII, 18, 18; VIII, 23, 28.
+
+  
+
+Verse 2.
+
+Note [1:72:2:1]1. Here we have again the myth of the hidden Agni whom the gods seek. Agni is meant by the calf.
+
+Note [1:72:2:2]2. Going on foot, Sayana.
+
+Note [1:72:2:3]3. I follow Sayana, Bollensen, and Ludwig in taking ka'ru as a locative.
+
+  
+
+Verse 3.
+
+Note [1:72:3:1]1. 'Was not Sayana right in taking this verse as referring to the Maruts? Cf. VI, 48, 21.... sugata also is an epithet of the Maruts, I, 88, 3; 166, 12.' M. M.
+
+Note [1:72:3:2]2. As to the subjunctive, comp. Delbruck, Syntaktische Forschungen, I, p. 67. The Taittiriya Brahmana (II, 4, 5, 6) reads saparyan.
+
+  
+
+Verse 4.
+
+Note [1:72:4:1]1. I follow the Padapatha which has rudriya. But possibly we may have the nom. plur. rudriyah: 'the worshipful Rudriyas (i. e. Maruts) rushed forward.'
+
+Note [1:72:4:2]2. The translation of nemadhita is in jeopardy.
+
+  
+
+Verse 5.
+
+Note [1:72:5:1]1. Probably the mortals, as Ludwig understands it. Comp. martah, verse 4.
+
+Note [1:72:5:2]2. The venerable one is Agni.
+
+Note [1:72:5:3]3. Possibly the text is corrupt. In IV, 24, 3 we read ririkva'msah tanvah krinvata tra'm, 'abandoning (i. e. risking) their bodies they took him (Indra) for their protector' (comp. I, 100, 7). Should sva'h have supplanted another word, for instance, tra'm? As the pronoun sva very frequently stands in apposition with tanu', it may have found its way also into passages to which it did not belong.
+
+[p. 85]
+
+Note [1:72:5:4]4. The meaning seems to be that whenever the attention of one of the friends relaxed, another friend watched instead of the first. See Zeitschrift der Deutschen Morgenl. Gesellschaft, XLIV, 328; Bartholomae, Studien zur indogerm. Sprachgeschichte, I, 95.
+
+  
+
+Verse 6.
+
+Note [1:72:6:1]1. Sayana explains the trih sapta pada' as the three times seven kinds of sacrifices, the seven Pakayagnas, the seven Haviryagnas, the seven Somayagnas. But this later system of the twenty-one forms of sacrifice can scarcely have existed at the time of the Rig-veda Samhita. Three times seven is a favourite number in Rig-vedic mysticism; comp. I, 191, 12. 14; IV, 1, 16; VII, 87, 4; VIII, 46, 26; 69, 7; 96, 2; IX, 70, 1; 86, 21; X, 64, 8; 90, 15: Possibly three times seven pieces of wood (samidhah) are alluded to, comp. X, 90, 15, but everybody who has studied Bergaigne's Arithmetique mythologique (Rel. Ved. II, 114 seq.; see especially p. 122) will admit that there are ever so many possible interpretations of a passage like this. Prof. Max Muller's translation is: 'The worshipful gods found in thee the twenty-one words which are hidden in thee. They guard with them the immortal (Agni).'--Instead of avidan (Padapatha) I think we must read avidan.
+
+Note [1:72:6:2]2. Ludwig certainly is wrong in translating 'hute du den wandel von tier and pflanze.' The author of this group of hymns is very fond of the phrase sthatuh karatham and the like; see I, 68, 1; 70, 3. 7. Tire same phrase, in one or the other of its possible shapes, has evidently been used by him here also. The plural masculine sthatri'n is indeed very strange. Possibly J. Wackernagel is right in reading sthatri'n (Kuhn's Zeitschrift, XXV, 287; comp. Lanman, p. 422); the reading sthatri'n may be due to the neighbourhood of pasu'n. This sort of blunder is very frequent in the text of the Rig-veda. Prof. Max Muller suggests: the stabled cattle and what moves about (in the meadows).
+
+[p. 86]
+
+  
+
+Verse 7.
+
+Note [1:72:7:1]1. On vayuna, comp. Pischel, Ved. Studien, I, 295. 300. 'The thoughts of human beings.' M. M.
+
+Note [1:72:7:2]2. Surudh: Pischel, Ved. Studien, I, 32. 50.
+
+Note [1:72:7:3]3. 'Which lead to the gods?' M. M.
+
+  
+
+Verse 8.
+
+Note [1:72:8:1]1. Comp. I, 26, 10, note 1.--'Beheld the seven young rivers coming down from heaven.' M. M.
+
+Note [1:72:8:2]2. See Delbruck, Syntaktische Forschungen, I, 87.
+
+  
+
+Verse 9.
+
+Note [1:72:9:1]1. The bird seems to be Agni.
+
+Note [1:72:9:2]2. The Padapatha gives su-apatya'ni. There is no doubt a word su-apatya, 'blessed with good offspring.' This is frequently used together with such nouns as rayi, kshaya, ish; it stands in several passages by the side of pragavat. See I, 117, 19; II, 2, 12; 4, 8; 9, 5; III, 3, 7; 16, 1; IV, 2, 11; X, 30, 12. But from this word should be distinguished sva-patya, derived from sva-pati (X, 44, 1, &c.), 'a man's own dominion,' or 'own rulership;' comp. gaspatya. This word is found here, and in some other passages, for instance, VII, 91, 3. visva it narah svapatya'ni kakruh, 'the heroes have exercised all the powers of their own dominion;' VIII, 15, 10. satra' visva svapatya'ni dadhishe, 'thou hast assumed (Indra) all powers of thy own dominion altogether.'--Ludwig translates correctly, 'alle selbstherlichkeit.'
+
+The Taittiriya Brahmana reads kakruh for tasthuh. This reading evidently rests on Rig-veda IV, 34, 9; VII, 91, 3. There is no reason, however, for preferring this to the traditional reading of our Rik-text.
+
+  
+
+Verse 10.
+
+Note [1:72:10:1]1. The sun and the moon? This very natural explanation will scarcely be modified on account of passages like the following (Satapatha Brahmana I, 6, 3, 38):
+
+[p. 87]
+
+[paragraph continues] 'These are the two eyes of the sacrifice, the (oblations of butter called) Agyabhagas.'
+
+Note [1:72:10:2]2. Comp. below, 73, 4.
+
+Note [1:72:10:3]3. It is not necessary to change the text; I believe, however, that the conjecture adhah ksharanti (they stream downwards) would not be quite improbable. Comp. my Prolegomena, p. 369, note 1.--The subject seems to be the streams of sacrificial libations.
+
+Note [1:72:10:4]4. Both expressions, 'the red ones' and 'those which are directed downwards,' are feminine. The red ones may be the dawns. But these cannot be called 'directed downwards.' I take, therefore, the one noun as a nominative, the other as an accusative. Cannot 'those which are directed downwards' be the libations of Ghrita and the like, which the dawns see?--Prof. Max Muller translates: 'People recognised the red netherward mares (of thee), O Agni.' He supplies gvalah or takes arushih as mares, cf. V, 56, 6.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 88]
+
+  
+
+MANDALA I, HYMN 73.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA 19-20.
+
+1. He who gives vigour like wealth acquired by the fathers [*1], who is a good guide like the instruction of a sage, who is pleased (by worship) like a comfortably resting guest [*2], (Agni) has crossed the (sacrificial) seat of the worshipper like a Hotri.
+
+2. He who being truthful like the god Savitri [*1] protects by his power of mind all settlements [*2], praised by many like impetuous splendour [*3], the truthful one has become dear like vital breath and worthy to be searched for [*4].
+
+3 [*1]. (Agni) who possessing every refreshment dwells on the earth like a god, like a king who has made himself (valiant) friends [*2], like heroes who sit in front and under shelter, like a blameless wife beloved by her husband--
+
+4. Thee, O Agni, who art constantly kindled in the house, men have worshipped in their firm dwellings. They have placed in him rich splendour [*1]. Be thou possessed of all life, a supporter of riches [*2].
+
+5. May the liberal givers, O Agni, attain nourishment, may the rich [*1] who bestow gifts (on us) attain to a full span of life. May we win in battles the booty of him who does not give [*1], obtaining a (rich) share before the gods, that we may win glory [*2].
+
+6. The lowing milch-cows of Rita, assigned by Heaven, were exuberant with their full udders. The rivers imploring the favour (of the gods) from afar
+
+[p. 89]
+
+have broken through the midst of the rock with their floods.
+
+7. Imploring favour from thee, O Agni, the worshipful (gods) have won glory in the sky. They have made Night and Dawn of different shapes; they have joined the black and red colour (to Night and Dawn).
+
+8. And may we, our liberal givers and ourselves, be the mortals whom thou furtherest to wealth, O Agni [*1]. Like a shadow thou followest the whole world, having filled the two worlds (Heaven and Earth) and the air [*2].
+
+9. May we, O Agni, guarded by thee, conquer with our racers the racers, with our men the men, with our heroes the heroes (of our enemies). Being masters of the riches which their fathers [*1] have conquered, may our rich (givers) reach a hundred winters.
+
+10. May these hymns, O Agni, worshipper (of the gods), be grateful to thee, to thy mind and heart. May we be able to bridle thee, the well-harnessed wealth [*1], acquiring the glory which the gods have assigned us.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 5 = MS. IV, 14, 15. Verse 7 = TB. II, 7, 12, 5. Verse 10 = MS. IV, 14, 15.
+
+  
+
+Verse 1.
+
+Note [1:73:1:1]1. Agni is compared to wealth acquired by the fathers, being himself pitrivitta, found by the forefathers
+
+[p. 90]
+
+of the Brahmanic tribes. Prof. Max Muller proposes to translate: 'wealth inherited from the fathers.'
+
+Note [1:73:1:2]2. Comp. VII, 42, 4, and see also VI, 16, 42.
+
+  
+
+Verse 2.
+
+Note [1:73:2:1]1. The first Pada is identical with the fourth of IX, 97, 48. There the expressions are referred to Soma.
+
+Note [1:73:2:2]2. On vrigana, comp. the quotations given above, I, 60, 3, note 2; cf. IX, 87, 2. vriganam rakshamanah.
+
+Note [1:73:2:3]3. Comp. I, 64, 9. amatih na darsata'.
+
+Note [1:73:2:4]4. Comp. II, 4, 1 (see below).
+
+  
+
+Verse 3.
+
+Note [1:73:3:1]1. The first three Padas are nearly identical with III, 55, 21.
+
+Note [1:73:3:2]2. As to the meaning of hitamitra, comp. X, 108, 3. mitram ena dadhama; see also X, 132, 5, and H. O., Religion des Veda, 186, note 1.
+
+  
+
+Verse 4.
+
+Note [1:73:4:1]1. Comp. I, 72, 10 (see above).
+
+Note [1:73:4:2]2. I cannot accept Pischel's translation of dharunah rayina'm, 'der Reichtum fliessen lasst' (Vedische Studien, I, 40).--'Be thou, who art rich in all food, the protector of riches.' M. M.
+
+  
+
+Verse 5.
+
+Note [1:73:5:1]1. On suri and ari, see Bergaigne, Rel. Ved. II, 218 seq. Aryah may also be nom. pl. and mean '(we) the poor ones.'
+
+Note [1:73:5:2]2. 'May we win in battles the booty of the enemy, setting aside a share for the gods to their glory.' M. M.
+
+  
+
+Verse 8.
+
+Note [1:73:8:1]1. In the first Pada one syllable is wanting. Perhaps the acc. plur. ya'n had here dissyllabic value.
+
+Note [1:73:8:2]2. The last Pada is identical with the second of X, 139, 2.
+
+[p. 91]
+
+  
+
+Verse 9.
+
+Note [1:73:9:1]1. Comp. above, verse 1, note 1.
+
+  
+
+Verse 10.
+
+Note [1:73:10:1]1. Comp. sakema vaginah yamam, II, 5, 1; agne sakema te vayam yamam devasya vaginah, III, 27, 3. As sudhur and sudhura are epithets of horses, the poet of course could say, sakema sudhurah yamam te. But Agni is not only a horse; he is also wealth (II, 1, 12; IV, 2, 5, &c.). The combination of the two metaphors explains the curious expression sudhurah rayah.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 92]
+
+  
+
+MANDALA I, HYMN 74.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA 21-22.
+
+1. Going forward to the sacrifice let us repeat a prayer to Agni who hears us, may he be afar or with us--
+
+2. He who foremost [*1] in ... [*2], when the human tribes met (in battle), has preserved his home to the worshipper.
+
+3. And let the people say 'Agni is born, the slayer of foes (or, the slayer of Vritra), he who wins the prize in every battle.'
+
+4. The man in whose home thou art a messenger, and to whose sacrificial food thou eagerly comest for feasting, to whose worship thou impartest wonderful power--
+
+5. Such a man the people call a giver of good oblations, O Angiras, a friend of the gods, O son of strength [*1], and a possessor of a good Barhis (or sacrificial grass).
+
+6. And thou shalt conduct them hither, the gods [*1], that we may praise them, that they may eagerly come, O resplendent one, to the sacrificial offerings.
+
+7. No noise [*1] of the horses of the moving chariot [*2] is heard any way, when thou goest on thy messengership, O Agni.
+
+8. When guarded by thee the racer becomes fearless; the worshipper, O Agni, who is behind, gains the advantage [*1] over him who is ahead.
+
+[p. 93]
+
+9. And thou winnest, O Agni, brilliant, high bliss in strong heroes from the gods, O god, for the worshipper.
+
+  
+
+NOTES.
+
+This hymn opens the section ascribed to Gotama Rahugana, and belonging indeed, as several passages show, to the family of the Gotamas (comp. Zeitschrift der D. Morg. Gesellschaft, XLII, 221). The metre is Gayatri.--Verse 1 = VS. III, 11; TS. I, 5, 5, 1; MS. I, 5, 1 (I, 5, 5. 6). Verses 1-3 = SV. II, 729. 730. 732. Verse 3 = TS. III, 5, 11, 4; MS. IV, 10, 3.
+
+  
+
+Verse 2.
+
+Note [1:74:2:1]1. Or purvyah, 'the old Agni,' cf. IX, 96, 10? (M. M.)
+
+Note [1:74:2:2]2. I have left untranslated the obscure word sni'hitishu (Sayana, vadhakarinishu). It seems to be identical with snehiti, which occurs VIII, 96, 13. apa snehitih nrimanah adhatta (the Sama-veda has the reading snih degrees). Here the verb apa adhatta (comp. VI., 20, 5; X, 164, 3) and the comparison of the second hemistichs of the two following verses, 14 and 15, seem to show that the word means some kind of hostile powers, which would do very well for our passage.--In Taittiriya Aranyaka IV, 23 the word sni'hiti occurs in an enumeration of the 'terrible substances' (ghora'h tanuvah) of Agni.--Comp. Ludwig, Ueber die neuesten Arbeiten auf dem Gebiete der Rig-veda-Forschung, p. 93.
+
+  
+
+Verse 5.
+
+Note [1:74:5:1]1. See above, I, 26, 10, note 1.
+
+  
+
+Verse 6.
+
+Note [1:74:6:1]1. See Delbruck, Syntaktische Forschungen, I, 20, 111.
+
+[p. 94]
+
+  
+
+Verse 7.
+
+Note [1:74:7:1]1. On upabdi, which literally means the noise produced by going, see Joh. Schmidt, Kuhn's Zeitschrift, XXV, 55; Hubschmann, Das indogermanische Vocal-system, 124.
+
+Note [1:74:7:2]2. Yoh (comp. X, 176, 3?) seems to be a genitive of yu, 'the going one;' comp. sva-yu, subham-yu; Lanman, 401.
+
+  
+
+Verse 8.
+
+Note [1:74:8:1]1. The last syllable of asthat has the value of two syllables.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 95]
+
+  
+
+MANDALA I, HYMN 75.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA .3.
+
+1. Accept gladly our most widely-sounding [*1] speech, the most agreeable to the gods, thou who, in thy mouth, offerest the sacrificial food (to the gods).
+
+2. And may we then pronounce to thee, O highest Angiras, Agni, best worshipper, a prayer agreeable to thee and successful.
+
+3. Who is thy kinsman among men, O Agni? Who performs worship to thee [*1]? Who art thou, and where dost thou rest?
+
+4. Thou, O Agni, art the kinsman, the dear friend ('Mitra') of men, a friend who is to be magnified by his friends.
+
+5. Sacrifice for us to Mitra and Varuna. Sacrifice to the gods, (a sacrifice conforming to) the great Rita [*1]. Sacrifice, O Agni, to thy own house.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 1 = TB. III, 6, 7, 1; MS. III, 10, 1 (IV, 13, 5). Verses 3-5 = SV. II, 885-887. Verse 5. = VS. XXXIII, 3; TB. II, 7, 12, 1.
+
+  
+
+Verse 1.
+
+Note [1:75:1:1]1. Comp. VI, 68, 9. manma ... saprathah.
+
+  
+
+Verse 3.
+
+Note [1:75:3:1]1. May we not take dasu-adhvara as a compound with governed final member, like vidadvasu, sadadyoni &c.?
+
+  
+
+Verse 5.
+
+Note [1:75:5:1]1. Comp. Gaedicke, Der Accusativ im Veda, 159.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 96]
+
+  
+
+MANDALA I, HYMN 76.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA 24.
+
+1. What supplication is to thy mind's taste [*1]? What (pious) thought may be, O Agni, most agreeable to thee? Or who has won for himself thy wisdom by sacrifices? Or with what thoughts may we worship thee [*2]?
+
+2. Come hither, Agni, sit down here as a Hotri. Become our undeceivable leader [*1]. May Heaven and Earth, the all-embracing, protect thee. Offer the sacrifice to the gods that they may be highly gracious to us.
+
+3. Burn down all sorcerers, O Agni; become a protector of the sacrifices against imprecations. And. conduct hither the lord of Soma (Indra) with his two bay horses. We have prepared hospitality for him, the good giver.
+
+4. With words procuring offspring, carrying thee (to our sacrifice) with my mouth [*1], I call [*2] thee hither, and thou shalt sit down here with the gods. Perform the service of a Hotri and of a Potri [*3], O worshipful one. Be thou a giver and a father [*4] of riches.
+
+5. As thou didst perform sacrifice to the gods with the sacrificial food of the wise Manu [*1], a sage together with sages, thus, O highly truthful Hotri, perform thou the sacrifice to-day, O Agni, with thy joy-giving sacrificial ladle [*2].
+
+[p. 97]
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Trishtubh.
+
+  
+
+Verse 1.
+
+Note [1:76:1:1]1. Sayana takes vara in the sense of 'holding back' (comp. I, 143, 5), and makes manasah depend on varaya. He says, 'he agne te tava manaso varaya nivaranayasmasv. avasthapanaya kopetir bhuvat kidrisam upagamanam bhavet.' The modern translators are evidently right in assigning to vara the meaning of 'wish' or the like (comp. VII, 59, 2. yah vah varaya da'sati), but they differ as to whether manasah should be taken as belonging to varaya or to upetih. Ludwig translates, 'Welches nahen des geistes ist gegenstand der wal dir?' Grassmann, 'Welch Nahen ist nach deines Herzens Wunsche?' My opinion is that the tradition of the text is not quite free from suspicion. My doubts are based on VI, 21, 4. kas te yagnah manase sam varaya, 'What sacrifice (O Indra) is agreeable to thy mind, to thy wish?' Here we have a question addressed to the god, beginning with kas te, quite similar to the question of our poet, which begins with ka' te. We have the word sam, as in our passage samtama. We have varaya exactly as in our passage. We have, by the side of varaya, a case-form of manas as in our passage. But we have the dative manase instead of the genitive manasah. We may add that there are some other passages in which a dative of a similar meaning stands likewise by the side of varaya: thus, VIII, 82, 3. aram varaya manyave bhuvat te indra sam (comp. bhuvat agne samtama in our passage) hride, 'May it be, O Indra, according to thy wish and thy mood, may it be agreeable to thy heart;' VIII, 84, 4. varaya deva manyave, 'to thy wish, O god, to thy mood.'
+
+All this tends to raise the supposition that in our
+
+[p. 98]
+
+passage also we should read manase varaya, which datives seem to depend on samtama. We should then translate, 'What supplication, what (pious) thought may be, O Agni, most agreeable to thy mind and to thy wish?'
+
+Note [1:76:1:2]2. This seems to be a Pada of the defective type, with four syllables before the caesura and ending as if there were five syllables before the caesura; comp. my Prolegomena, 68 seq. It would be easy, however, to restore the normal metrical form, for instance, by reading tubhyam instead of te.
+
+  
+
+Verse 2.
+
+Note [1:76:2:1]1. Purah-eta', literally, 'he who goes before somebody.'
+
+  
+
+Verse 4.
+
+Note [1:76:4:1]1. It would be unnatural to give to the medium a' huve the passive sense and not to translate it, as it must be translated in so many passages, 'I call (thee) hither.' But, if so, it is very difficult to avoid the conclusion that vahnih asa' ('he who carries somebody with his mouth;' comp. I, 129, 5; VI, 11, 2; 16, 9; VII, 16, 9; X, 115, 3 see vol. xxxii, pp. 42 seq.) refers here not to Agni, the divine carrier, but to the human priest, who with his mouth, i. e. by his songs, carries Agni to his sacrifice. Vahni is used very frequently indeed of human worshippers, and generally the transferring of epithets of the divine priest Agni to human priests, and vice versa, is quite to the taste of Vedic poets.--Comp. on a' huve and vahnih asa', Neisser, Bezzenberger's Beitrage, XVIII, 320 seq.; XX, 69, and below, I, 127, 8, note 1; S. B. E., vol. xxxii, p. 42. See also Delbruck, Altindische Syntax, 473, who very rightly observes: es liegt kein Grund vor, dem huve den Character einer ersten Person zu versagen.
+
+Note [1:76:4:2]2. On the accent of huve, on which Ludwig bases very bold conclusions, see Delbruck, Altindische Syntax, 41; Weber, Indische Studien, XIII, 73.
+
+Note [1:76:4:3]3. Comp. X, 3, 3.--On the priestly functions of the
+
+[p. 99]
+
+[paragraph continues] Potri, see Weber, Indische Studien, X, 141, 366, 376 seq.; H. O., Religion des Veda, 391.
+
+Note [1:76:4:4]4. On these vocatives, see Delbruck, Altindische Syntax, 106.
+
+  
+
+Verse 5.
+
+Note [1:76:5:1]1. Manus is here a proper name; comp. Bergaigne, I, 65 seq. On his priestly character, comp. H. O., Religion des Veda, 275.
+
+Note [1:76:5:2]2. On guhva, comp. Pischel, Ved. Studien, II, 113. The ladle is meant for the flame of Agni.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 100]
+
+  
+
+MANDALA I, HYMN 77.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA 25.
+
+1. How shall we sacrifice to Agni? What words, agreeable to the god, shall be addressed to him, the luminous one, who, being immortal and righteous, the Hotri, the best sacrificer, conveys the gods to the mortals [*1]?
+
+2. Bring hither by adoration the Hotri who is most beneficial in sacrifices and righteous. When Agni repairs to the gods on behalf of the mortal [*1], may he be attentive in his mind, and may he perform the sacrifice [*2].
+
+3. For he is wisdom [*1], he is manly, he is straightforward; like Mitra he has become the charioteer of the mysterious [*2]. Therefore the Aryan clans [*3], longing for the gods, address him, the wonderful one, as the first at the sacrifices.
+
+4. May that Agni, the manliest of men, triumphant with riches [?] [*1], come with help to our words, to our devotion, and (to the devotion) of those most powerful liberal givers who bent on the prize [*2] have constantly stirred up our prayers [*3].
+
+5. Thus Agni, the righteous Gatavedas, has been praised by the priestly Gotamas [*1]. May he augment their splendour and their strength. He the knowing one gains increase according to his desire.
+
+  
+
+NOTES.
+
+The same Rishi and metre.
+
+  
+
+Verse 1.
+
+Note [1:77:1:1]1. The construction is yah krinoti deva'n martyeshu. Comp., for instance, X, 40, 2. kah vam ... krinute sadhasthe
+
+[p. 101]
+
+[paragraph continues] a'. Ludwig translates: der unter den sterblichen der unsterbliche hotar ... schafft die gotter.--'Could it be ishkrinoti?' M. M.
+
+  
+
+Verse 2.
+
+Note [1:77:2:1]1. The third Pada of this verse has nine syllables instead of eleven. If we read, as several times must be done, martyaya for martaya, we get ten syllables, and the Pada may belong to the defective type mentioned above, 76, 1, note 2.
+
+Note [1:77:2:2]2. Ka seems to me to stand here, as it several times does, in the first of the members of sentence connected by it. See Delbruck, Altindische Syntax, 475. Prof. Max Muller believes that it depends on yat: yat veh, yat ka sa bodhati, 'Bring hither the Hotri ... so that Agni may invite the gods ... and that he (the mortal or Agni) may be attentive, &c.'
+
+  
+
+Verse 3.
+
+Note [1:77:3:1]1. Grassmann gives to kratu here and in a number of other passages the meaning 'der Starke.' This is inadmissible; comp. Bergaigne, III, 304.
+
+Note [1:77:3:2]2. Here we have again a Pada of ten syllables (see verse 2, note I), unless bhut has dissyllabic value. Prof. Max Muller translates this Pada: 'like a friend he is the charioteer of enormous wealth.'
+
+Note [1:77:3:3]3. Comp. I, 96, 3 (see below).
+
+  
+
+Verse 4.
+
+Note [1:77:4:1]1. On risa'das, comp. above, I, 26, 4, note 1.
+
+Note [1:77:4:2]2. Comp. I, 92, 8. There Ushas receives the epithet va'gaprasuta.
+
+Note [1:77:4:3]3. Comp. VII, 87, 3. spasah Varunasya ... ye ishayanta manma.
+
+  
+
+Verse 5.
+
+Note [1:77:5:1]1. This is again a Pada of ten syllables.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 102]
+
+  
+
+MANDALA I, HYMN 78.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA 26.
+
+1. O Gatavedas, who dwellest among all tribes, we the Gotamas (praise) thee with our song--we praise thee aloud with (songs full of) splendour.
+
+2. Gotama [*1] desirous of riches exalts thee, as thou art, with his song. We praise thee aloud with (songs full of) splendour.
+
+3. We call thee, such as thou art, the highest winner of booty, as Angiras did. We praise thee aloud with (songs full of) splendour.
+
+4. (We praise) thee, the greatest destroyer of enemies (or, of Vritra), who hurlest the Dasyus away--we praise thee, such as thou art, aloud with (songs full of) splendour.
+
+5. We the Rahuganas [*1] have recited a honey-sweet speech to Agni. We praise thee aloud with (songs full of) splendour.
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Gayatri.
+
+  
+
+Verse 2.
+
+Note [1:78:2:1]1. This probably means, 'the descendant of Gotama.' See Zeitschrift der D. Morg. Gesellschaft, XLII, 202.
+
+  
+
+Verse 5.
+
+Note [1:78:5:1]1. The Rahuganas seem to be a branch of the Gotamas; see Asvalayana Srautasutra XII, 11, 1.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 103]
+
+  
+
+MANDALA I, HYMN 79.
+
+  
+
+ASHTAKA I, ADHYAYA 5, VARGA 27-28.
+
+  
+
+I.
+
+1. The golden-haired in the expanse [*1] of the atmosphere, the roaring [*2] snake, is hasting (through the air) like the wind; the brightly resplendent watcher of the dawn [*3], he who is like the glorious, ever active and truthful (goddesses) [*4].
+
+2. By thy goings the beautifully-winged (birds) were disparaged [*1]; the black bull [*2] has roared, when here [*3] (all this happened). He has come as if with the bounteous smiling (women) [*4]. The mists fly, the clouds thunder.
+
+3. When they have led him, who swells [*1] with the milk of Rita, on the straightest paths of Rita, then Aryaman, Mitra, and Varuna, he who walks round the earth [*2], fill the leather-bag (the cloud) in the womb of the lower (atmosphere [?]) [*3].
+
+  
+
+II.
+
+4. Agni, who art lord of booty, rich in cows, young son of strength [*1], bestow on us, O Gatavedas, great glory.
+
+5. Being lighted, a Vasu, a sage, Agni who is to be magnified by (pious) words, O (god) with many faces, shine to us so that riches may be ours.
+
+6. Reigning [*1] by night by thy own power, O Agni, and at the break of dawn, O god with sharp teeth, burn against the sorcerers.
+
+[p. 104]
+
+  
+
+III.
+
+7. Bless us, O Agni, with thy blessings, when our Gayatra song is brought forward (to thee), thou to whom reverence is due in all our prayers.
+
+8. Bring us wealth, O Agni, which may be always conquering, excellent and invincible [*1] in all battles.
+
+9. Bestow on us, Agni, through thy kindness [*1] wealth which may last all our life [*2], and have mercy [*3] on us that we may live.
+
+  
+
+IV.
+
+10. O Gotama [*1], bring forward purified words, bring songs to the sharp-flaming Agni, desirous of his favour.
+
+11. May he who tries to harm us, whether nigh or afar, fall down. Do thou lead us alone to increase.
+
+12. The thousand-eyed Agni, who dwells among all tribes, scares away the Rakshas. The praiseworthy Hotri (Agni) is praised [*1].
+
+  
+
+NOTES.
+
+The same Rishi. Metre, 1-3 Trishtubh; 4-6 Ushnih; 7-12 Gayatri.
+
+What in the traditional text is one hymn, consists really of four independent hymns of three verses each. This is to be concluded from the well-known laws of arrangement of the Samhita, and is confirmed by the change of metre and by the reception of two of the four hymns into other Vedic Samhitas: the second (verses 4-6) is found in the Sama-veda II, 911-913; Vag. Samhita XV, 35-37; Taitt.
+
+[p. 105]
+
+[paragraph continues] Samhita IV, 4, 4, 5; Maitr. Samhita II, 13, 8; the third (verses 7-9) in the Sama-veda II, 874-876. Besides, verses 1-2 occur Taitt. Samh. III, 1, 11, 4-5; verse 2, Maitr. Samh. IV, 12, 5; verse 4, Sama-veda I, 99; verses 8, 9, Maitr. Samh. IV, 12, 4; verse 9, Maitr. Samh. IV, 10, 6; Taitt. Br. II, 4, 5, 3.
+
+  
+
+Verse 1.
+
+Note [1:79:1:1]1. As to visara I think we should compare VII, 36, 1. vi sa'nuna prithivi' sasre urvi', 'The wide earth has expanded with her surface.' Prof. Max Muller observes with regard to this Pada: when the sky sends forth the rain, the lightning appears.
+
+Note [1:79:1:2]2. On dhuni, see vol. xxxii, p. 112 (I, 64, 5), and Geldner, Vedische Studien, I, 268. I do not take the word with Geldner for an epithet of Vata, the wind, but of the snake, i. e. Agni, who very probably is to be understood here as in the whole Trika, as the fire of the lightning.
+
+Note [1:79:1:3]3. Perhaps we have here again a Pada of ten syllables, of the type which occurs several times in the preceding hymns. Or possibly the text should be corrected: ushasale na navedah, 'a knower (of sacrifices, comp. IV, 23, 4; V, 12, 3) like the dawns,' or ushasam navedah (with dissyllabic -am), 'a knower of the dawns.'--See Lanman, p. 565.
+
+Note [1:79:1:4]4. The waters? Or the dawns?
+
+  
+
+Verse 2.
+
+Note [1:79:2:1]1. On the nasalization of aminantan in the Samhita text, see my Prolegomena, p. 471.
+
+Note [1:79:2:2]2. I. e. Parganya, the thundering cloud. Comp. V, 83, 1; VII, 10t, 1; Bergaigne, Rel. Vedique, III, 27 seq.
+
+Note [1:79:2:3]3. Regarding yadi idam, comp. IV, 5, 11. There the verb belonging to yadi must be supplied; in the same way our passage must be interpreted also, unless we resort to changing the text and accentuating the verb nonava, in which case the translation would be, 'when the black bull has bellowed here.'
+
+[p. 106]
+
+Note [1:79:2:4]4. The women may be the showers of rain. Or they could be understood as the dawns,. comp. ushasah navedah, verse 1.
+
+  
+
+Verse 3.
+
+Note [1:79:3:1]1. I propose to read piyanam.
+
+Note [1:79:3:2]2. On parigman, see Joh. Schmidt, Kuhn's Zeitschrift, XXV, 86; Bartholomae, Bezzenberger's Beitrage, XV, 27 seq.; Bergaigne, Rel. Ved. II, 505; and compare especially X, 93, 4. The word evidently is connected not with the verb gam, but with ksham, 'the earth,' of which we find the genitives gmah and gmah.
+
+Note [1:79:3:3]3. It does not seem probable to me that upara means here the lower pressing-stone, as Grassmann, Ludwig, and Pischel (Vedische Studien, I, 109) suggest (Grassmann: den Schlauch beim untern Pressstein. Ludwig: den schlauch ... an des steines ort. Pischel: sie legen das Fell mitten auf den Stein). I propose to supply ragasah; comp. I, 62, 5. ragah uparam; IV, 1, 11. ragasah asya yonau, and especially IV, 17, 14, where we find the 'womb of the atmosphere' (ragasah asya yonau) mentioned, quite as in our passage, together with the leather-bag (tvak), i. e. the cloud.--Bergaigne (Rel. Ved. II, 505) translates and explains, 'arrose la peau dans le sejour de l'inferieur,' c'est-a-dire fait couler les eaux du ciel pour l'Agni terrestre.
+
+  
+
+Verse 4.
+
+Note [1:79:4:1]1. See above, I, 26, 10, note 1.
+
+  
+
+Verse 6.
+
+Note [1:79:6:1]1. Ragan seems to be the participle of rag; comp. VIII, 19, 3i. kshapah vastushu ragasi. Now it is very improbable that of this participle a vocative should occur; see Lanman, 509. I believe, therefore, that we should accentuate ra'gan (comp. the remarks of Bartholomae, Bezzenberger's Beitrage, XV, 204).
+
+  
+
+Verse 8.
+
+Note [1:79:8:1]1. Comp. IX, 63, 11. rayim ... dushtaram.
+
+[p. 107]
+
+  
+
+Verse 9.
+
+Note [1:79:9:1]1. As to suketuna, comp. I, 159, 5.
+
+Note [1:79:9:2]2. Comp. VI, 59, 9. rayim visva'yuposhasam.
+
+Note [1:79:9:3]3. Mardikam is a second object of dhehi, not an epithet of rayim. Comp. VIII, 7, 30.
+
+  
+
+Verse 10.
+
+Note [1:79:10:1]1. Comp. above, 78, 2, note 1.
+
+  
+
+Verse 12.
+
+Note [1:79:12:1]1. On the use of the middle of gri with passive meaning, comp. Delbruck, Altindische Syntax, 264.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 108]
+
+  
+
+MANDALA I, HYMN 94.
+
+  
+
+ASHTAKA I, ADHYAYA 6, VARGA 30-32.
+
+1. We have sent forward [*1] with thoughtful mind this song of praise like a chariot to the worthy Gatavedas. For blissful is his care for us in his companionship. Agni! May we suffer no harm in thy friendship.
+
+2. He prospers for whom thou performest the sacrifice; he dwells untouched [*1]; he acquires abundance of heroes. He is strong; no distress overtakes him. Agni! May we suffer no harm in thy friendship.
+
+3. May we be able to light thee. Prosper our prayers. The gods eat the sacrificial food that is offered in thee. Bring thou hither the Adityas, for we long for them. Agni! May we suffer no harm in thy friendship.
+
+4. Let us bring fuel and prepare sacrificial gifts for thee, awaking thy attention at each joint [*1] (of the month). Help forward our prayers that we may live. Agni! May we suffer no harm in thy friendship.
+
+5. (He is) the shepherd of the clans [*1]; by his nightly light the creatures walk, the two-footed and four-footed. Thou art the bright, great splendour of dawn. Agni! May we suffer no harm in thy friendship.
+
+6. Thou art the Adhvaryu and the ancient Hotri, the Prasastri [*1], the Potri, the born Purohita [*2]. Knowing the duties of every priest thou givest
+
+[p. 109]
+
+success, O wise one. Agni! May we suffer no harm in thy friendship.
+
+7. Thou who art beautiful, of like appearance on all sides, thou shinest forth even when afar like lightning. Thou seest, O god, even over the darkness of night. Agni! May we suffer no harm in thy friendship.
+
+8. May the chariot of him who presses Soma, be to the front [*1], O gods. May our curse overcome the malicious ones. Accept (O gods) this prayer and make it prosper. Agni! May we suffer no harm in thy friendship.
+
+9. Strike away with thy weapons those who curse us, the malicious ones, all ghouls, be they near or afar. And make a good path to the sacrifice of him who praises thee. Agni! May we suffer no harm in thy friendship.
+
+10. When thou hast yoked to thy chariot the two ruddy, red horses, whom the wind drives forward, and thy roaring is like that of a bull, then thou movest the trees with thy banner of smoke [*1]. Agni! May we suffer no harm in thy friendship.
+
+11. And when thy grass-consuming sparks are scattered, the winged (birds) [*1] also fear the noise. Then all goes well with thee and thy chariots. Agni! May we suffer no harm in thy friendship.
+
+12. He makes Mitra and Varuna get refreshing drink. He mysteriously turns away the anger of the Maruts [*1]. Be merciful towards us. May their mind be again (as it was before). Agni! May we suffer no harm in thy friendship.
+
+13. Thou art god of the gods, a wonderful Mitra (i. e. friend, of the gods) [*1]. Thou art the Vasu
+
+[p. 110]
+
+of the Vasus, welcome at the sacrifice. May we be under thy most wide-reaching protection. Agni! May we suffer no harm in thy friendship.
+
+14. That is thy glorious (nature) that when kindled in thy own house, and fed with Soma, thou art awake [*1], the most merciful one. Thou bestowest treasures and wealth on the worshipper. Agni! May we suffer no harm in thy friendship.
+
+15. May we be of those to whom thou, O possessor of beautiful wealth, O Aditi [*1], art pleased to grant sinlessness in health and wealth [*2], and whom thou wilt quicken with glorious strength and with abundance of progeny.
+
+16. Do thou, O Agni, thou who knowest (how to grant) happiness, prolong our life here, O God! May Mitra and Varuna grant us this, may Aditi, the Sindhu, the Earth, and the Sky [*1]!
+
+  
+
+NOTES.
+
+This hymn with the whole collection which it opens is ascribed to Kutsa Angirasa. The metre is Gagati; the two last verses, as is frequently the case in Gagati-hymns (see H. O., Prolegomena, 144 seq.), are composed in Trishtubh. The hymn has been translated by Prof. Max Muller, Physical Religion, p. 173.--Verse 1 = MS. II, 7, 3; SV. I, 66; AV. XX, 13, 3. Verses I, 3, 4 = SV. II, 414. 416. 415.
+
+  
+
+Verse 1.
+
+Note [1:94:1:1]1. Prof. Max Muller translates, 'Let us build up this hymn of praise.' To me it rather seems that the reading should be, as Boehtlingk-Roth have proposed, s. v. sam-hi, sam ahema. Comp. I, 61, 4. asmai it u stomam sam
+
+[p. 111]
+
+hinoini ratham na tashta-iva, 'to him I send forward a song of praise as a carpenter (fits out) a chariot.' Compare besides, IX, 71, 5; I, 184, 4; II, 19, 7; VI, 45, 14, &c.
+
+  
+
+Verse 2.
+
+Note [1:94:2:1]1. Comp. vol. xxxii, p. 65, I, 37, 1 note.
+
+  
+
+Verse 4.
+
+Note [1:94:4:1]1. Parvan, 'joint,' seems to refer here, as it very frequently does in the later Vedic and post-Vedic texts, to the joints of the month, the sacrificial days of the full and change of the moon (the parvana-sacrifices). As to the temporal use of the instrumental, comp. rituna and ritubhih; Delbruck, Altindische Syntax, p. 130.
+
+  
+
+Verse 5.
+
+Note [1:94:5:1]1. Ludwig proposes the correction of visa'm gopa'h into visa'm gopah (genitive). But I think it will be sufficient to write asya accented. As to visa'm gopa'h, comp. 96, 4.
+
+  
+
+Verse 6.
+
+Note [1:94:6:1]1. The Prasastri (or Upavaktri), literally, 'the commander,' is the same priest who is more usually designated as the Maitravaruna. All the priests mentioned here (with the exception of the Purohita, see next note) belong to the ancient system of the 'seven Hotris,' enumerated, for instance, II, 1, 2. Comp. H. O., Religion des Veda, 383 seq.
+
+Note [1:94:6:2]2. The Purohita or house-priest does not, properly speaking, belong to the number of the priests officiating at a sacrifice (ritvigah), though of course the Purohita could act as a ritvig. Geldner (Vedische Studien, II, 144) seems to be wrong in concluding from our passage that 'already in the Rig-veda the Purohita, being the superintendent of the holy service, was a real ritvig, i. e. officiating priest.' Comp. H. O., loc. cit., 374 Seq.; 379, note 2.
+
+[p. 112]
+
+  
+
+Verse 8.
+
+Note [1:94:8:1]1. On pu'rvah, comp. I, 34, 10; V, 31, 11.
+
+  
+
+Verse 10.
+
+Note [1:94:10:1]1. The regular accentuation of a determinative compound ('banner of smoke') would be dhumaketuna. But it is very natural that the traditional text gives the accent of the Bahuvrihi ('he whose banner is smoke') which so frequently occurs.
+
+  
+
+Verse 11.
+
+Note [1:94:11:1]1. As to patatrinah, comp. above, I, 58, 5.
+
+  
+
+Verse 12.
+
+Note [1:94:12:1]1. Most probably the meaning is not that the Maruts are expected to turn away the anger of somebody else, but that the anger of the Maruts shall be turned away by Agni, Comp. I, 171, I; VI, 66, 5; VII, 58, 5; Bergaigne, Religion Vedique, II, 401. It seems, consequently, that we should read avayata'.--On avayatahelah, scil. Indra, see vol. xxxii, p. 292 (I, 171, 6), and also IV, 1, 4; VI, 66, 5.
+
+The genitives Mitrasya Varunasya may be understood as depending, together with Marutam, on helah. In this case the translation would be: 'He mysteriously turns away the anger of Mitra and Varuna and of the Maruts in order that (men) may get refreshing drink.'
+
+  
+
+Verse 13.
+
+Note [1:94:13:1]1. On the frequent identification of Agni with Mitra, see Bergaigne, Religion Vedique, III, 134 seq.
+
+  
+
+Verse 14.
+
+Note [1:94:14:1]1. On the root gar used with regard to Agni, see the remarks of Dr. Neisser in Bezzenberger's Beitrage, XIII, 297 seq.
+
+[p. 113]
+
+  
+
+Verse 15.
+
+Note [1:94:15:1]1. Agni is invoked here by the name of Aditi, with an evident allusion to the goddess Aditi, as granting freedom from bonds, which is the original meaning of Aditi. Comp. M. M., vol. xxxii, pp. 241, 260, 262; H. O., Religion des Veda, p. 204.
+
+Note [1:94:15:2]2. Comp. III, 54, 19. On sarvatat (sarvatati), see M. M.'s note, vol. xxxii, p. 260, note a, and compare Darmesteter, Haurvatat et Ameretat, p. 80. See also Lanman, p. 386.
+
+  
+
+Verse 16.
+
+Note [1:94:16:1]1. The last hemistich is the regular conclusion of the Kutsa hymns.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 114]
+
+  
+
+MANDALA I, HYMN 95.
+
+  
+
+ASHTAKA I, ADHYAYA 7, VARGA 1-2.
+
+1. Two (sisters) of different shapes wander along, pursuing a good aim. The one and the other suckles the calf [*1]. With the one (the calf) is golden, moving according to its wont [*2]. With the other it is seen clear, full of fine splendour.
+
+2. The ten unwearied [*1] young women [*2] have brought forth this widely-spread germ of Tvashtri [*3]. Him, the sharp-faced (Agni) who is endowed with his own splendour, the shining one, they [*4] carry around among men.
+
+3. They celebrate his three births: one in the sea, one in heaven, one in the waters [*1]. In the eastern region [*2] he commanding determines the seasons of the dwellers on earth by his present power [*3].
+
+4. Who among you has understood this hidden (god)? [*1] The calf has by itself given birth to its mothers [*2]. The germ of many (mothers), the great seer, moving by his own strength, comes forward from the lap of the active ones [*3].
+
+5 [*1]. The fair (child Agni) grows up visibly in them in his own glory, standing erect in the lap of the down-streaming (waters). Both (Heaven and Earth) fled away in fear of (the son of) Tvashtri [*2], when he was born, but turning back they caress the lion.
+
+6. They caress him both, like two kind women; like lowing cows they have approached him in their own way. He has become the lord of all
+
+[p. 115]
+
+powers [*1], he whom they anoint with sacrificial gifts from the right side [*2].
+
+7. He raises his arms again and again like Savitri [*1]. He the terrible pressing on ranges both wings [*2] (of his army). He raises up his bright vesture from himself alone [*3]. He gives new garments to his mothers.
+
+8. He assumes his fierce appearance which is above (i. e. the lightning?), being united with the cows [*1], the waters in his seat. The prayer purifies the bottom of the seer (?) [*2]. This was the meeting among the gods [*3].
+
+9. The wide space encompasses thy base, the resplendent foundation [*1] of the buffalo. Agni! Being kindled protect us with all thy undeceivable guardians who are endowed with their own splendour.
+
+10. On the dry ground he produces a stream [*1], a course, a flood. With his bright floods he reaches the earth. Whatever is old he receives into his belly. He moves about within the young sprouting grass [*2].
+
+11. Thus, O Agni, being strengthened by fuel, shine thou to us with wealth-giving shine, O purifier, for the sake of glory. May Mitra and Varuna grant us this, may Aditi, Sindhu, the Earth, and the Sky!
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Trishtubh.--Verse 1 = VS. XXXIII, 5; TB. II, 7, 12, 2. Verse 2 = TB. II, 8, 7, 4. Verse 5 = TB. II, 8, 7, 4; MS. IV, 14, 8.
+
+  
+
+Verse 1.
+
+Note [1:95:1:1]1. The two females are evidently Night and Dawn
+
+[p. 116]
+
+[paragraph continues] (comp. below, 96, 5). The calf is Agni whose bright appearance by night is contrasted here with his paler splendour by day (comp. below, 127, 5). The explanation of Professor Hillebrandt (Vedische Mythologie, I, 331) that 'das von ihnen wechselnd gesaugte Kalb der bald als Sonne bald als Mond erscheinende Lichtgott, d. h. Agni ist,' does not seem convincing to me.
+
+Note [1:95:1:2]2. I cannot follow Hillebrandt (loc. cit. 335) in translating svadha'van 'an Labung reich.'
+
+  
+
+Verse 2.
+
+Note [1:95:2:1]1. On feminine nominatives in -asah like atandrasah, see Lanman, Noun-Inflection, 362.
+
+Note [1:95:2:2]2. The ten young women are the fingers which produce the fire by the attrition of woods.
+
+Note [1:95:2:3]3. On Tvashtri as the father of Agni, see Hillebrandt, Vedische Mythologie, I, 522 seq.; Bergaigne, Rel. Ved., III, 47 seq.
+
+Note [1:95:2:4]4. Hillebrandt (loc. cit.) takes the ten fingers as the subject of pari nayanti, which does not seem probable.
+
+  
+
+Verse 3.
+
+Note [1:95:3:1]1. It is surprising that Agni's birth in the sea and his birth in the waters are distinguished. The poet's meaning is not quite clear. Prof. Max Muller thinks of the rising sun and the lightning in the clouds. Comp. H. O., Religion des Veda, 107.
+
+Note [1:95:3:2]2. We ought to read pradisam; comp. IV, 29, 3; IX. IX. 111, 3.
+
+Note [1:95:3:3]3. Comp. X, 85, 18, where it is said of the moon that she 'is born again, determining the seasons.' Thus it is possible that the poet understands here Agni as dwelling in the moon as light. Comp. on this identification Bergaigne, I, 159, and Hillebrandt, Ved. Mythologie, I, 330 seq. But this interpretation of our passage is by no means certain.
+
+  
+
+Verse 4.
+
+Note [1:95:4:1]1. Possibly we should correct kah idam vah ninyam; comp. VII, 56, 4; 61, 5. The translation would be: 'Who
+
+[p. 117]
+
+among you has understood this secret?'--the secret that a calf should give birth to cows.
+
+Note [1:95:4:2]2. In my opinion the mothers are the waters; the calf is Agni. The meaning must be, consequently, that, as Agni is born from the waters thus the waters are born from Agni. Agni--we may try to interpret the poet's meaning--sends his smoke to the sky. The smoke is charged to clouds; the clouds send forth water. Exactly the same meaning seems to be expressed in I, 164, 51. Comp. also Manu III, 76. agnau prastahutih samyag adityam upatishthate, adityag gayate vrishtir vrishter annam tatah pragah.--Prof. Max Muller observes: 'The mothers are day and night, or heaven and earth. The calf, the son, Agni, being born of the night gives birth to the day, and beings born of the day (in the evening) gives birth to the night. Or it may be that Agni, light, makes Dyaus and Prithivi to be visible.'--Prof. Hillebrandt's interpretation of our verse is quite different; see Vedische Mythologie, I, 33.5.
+
+Note [1:95:4:3]3. I. e. the fire is born from the waters.
+
+  
+
+Verse 5.
+
+Note [1:95:5:1]1. Comp. Hillebrandt, Ved. Myth., I, 371, 523.
+
+Note [1:95:5:2]2. I. e. the son of Tvashtri (see above. verse 2) considered as identical with his father. Comp. Bergaigne, III, 47, and see also Aufrecht, Kuhn's Zeitschrift, I, 356.
+
+  
+
+Verse 6.
+
+Note [1:95:6:1]1. On daksha and its relation to kratu, comp. Geldner, Vedische Studien, I, 267.
+
+Note [1:95:6:2]2. The poet seems to play upon words; 'power' is daksha, 'from the right side' dakshinatah (i. e. approaching respectfully, dakshinikritya).
+
+  
+
+Verse 7.
+
+Note [1:95:7:1]1. Comp. Bergaigne, Rel. Ved., III, 46.
+
+Note [1:95:7:2]2. Observe the dual form sikau ending in -au, not in -a. Comp. Lanman, Noun-Inflection, 576. Prof. Max
+
+[p. 118]
+
+[paragraph continues] Muller translates here: He the terrible tries and stretches out the hems of his sleeves.' This may indeed be the meaning of sik.
+
+Note [1:95:7:3]3. See Geldner, Vedische Studien, II, 189.
+
+  
+
+Verse 8.
+
+Note [1:95:8:1]1. The cows of course are intended for the sacrificial food coming from the cow, such as milk and butter.
+
+Note [1:95:8:2]2. The two nominatives, kavih and dhi'h, can scarcely be right. The subject seems to be the prayer which cleanses, as it were, Agni, and thus augments his splendour (comp. IV, 15, 6; VIII, 103, 7). Possibly we should read kaveh budhnam. Comp., however, IX, 47, 4. svayam kavih vidhartari vipraya ratnam ikkhati yadi marmrigyate dhiyah. In this difficult verse so much is clear that the seer (kavih) is subject, and that he is stated to purify the prayers.
+
+Note [1:95:8:3]3. The meaning seems to be that at the sacrificial fire all gods assemble.
+
+  
+
+Verse 9.
+
+Note [1:95:9:1]1. On dha'man, comp. M. M., vol. xxxii, p. 383 seq.--Prof. Max Muller proposes the following translation: 'Thy wide effulgence goes round the firmament, the firm seat of the strong one (buffalo).'
+
+  
+
+Verse 10.
+
+Note [1:95:10:1]1. Ludwig takes srotah as a locative. But it is very improbable that we should have here a survival of the ancient locatives of stems in -s without a case-ending (Joh. Schmidt, Kuhn's Zeitschrift, XXVII, 306; Brugmann, Grundriss der vergl. Grammatik, vol. ii, p. 611). In Ludwig's opinion 'it follows from the corresponding gatum urmim that srotas stands for srotasi as dhanvan for dhanvani.' But this is not convincing.
+
+Note [1:95:10:2]2. On Agni as inhabiting the sprouting grass, comp. III, 5, 8; VII, 9, 3. 'I believe this refers to the blades of grass used as tinder to catch the sparks of fire.' M. M.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 119]
+
+  
+
+MANDALA I, HYMN 96.
+
+  
+
+ASHTAKA I, ADHYAYA 7, VARGA 3-4.
+
+1. Being born by strength [*1] in the ancient way, lo! he (Agni) has assumed instantly all the qualities of a sage. The Waters and the Dhishana [*2] have furthered the friend (Mitra [*3]). The gods have held Agni as the giver of wealth.
+
+2. By the ancient Nivid [*1], by Ayu's [*2] wisdom he has procreated these children of men. With his irradiating look [*3] (he has procreated) the Sky and the Waters. The gods have held Agni as the giver of wealth.
+
+3. The Aryan clans magnified [*1] him as the first performer of sacrifices, as receiving offerings, as striving forward, the son of strength, the Bharata [*2], the bestower of mighty rain (?) [*3]. The gods have held Agni as the giver of wealth.
+
+4. He, Matarisvan [*1], the lord of bountiful prosperity, has found a path for (his?) offspring, he who has found the sun, the shepherd of the clans, the begetter of the two worlds. The gods have held Agni as the giver of wealth.
+
+5. Night and Dawn, who constantly destroy each other's appearance, suckle one young calf [*1] unitedly [*2]. The piece of gold [*3] shines between Heaven and Earth. The gods have held Agni as the giver of wealth.
+
+6. (He is) the base of wealth, the assembler of all goods [*1], the beacon of sacrifice, the fulfiller of thought, the bird [*2]. In order to guard their immortality
+
+[p. 120]
+
+the gods have held him, Agni, as the giver of wealth.
+
+7. Him who is now and who was formerly the abode of wealth, the earth [*1] (i. e. the dwelling-place or support) of what is born and of what will be born, the shepherd and guardian of what is and of much that comes into being. The gods have held Agni as the giver of wealth.
+
+8. May (Agni,) the giver of wealth, present us with quick wealth. May the giver of wealth (present us with wealth) united with strong men [*1]. The giver of wealth (should grant us) food together with valiant heroes. The giver of wealth should grant us long life.
+
+9 = 95, 11.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verses 1, 2 = MS. IV, 10, 6. Verse 5 = VS. XII, 2; XVII, 70; TS. IV, 1, 10, 4; 6, 5, 2; 7, 12, 3; MS. II, 7, 8.
+
+  
+
+Verse 1.
+
+Note [1:96:1:1]1. I. e. by the attrition of the woods, as sahasah putrah.
+
+Note [1:96:1:2]2. Two new discussions on dhishana have been given by Hillebrandt (Ved. Mythologie, I, 175 seq.; comp. the criticisms of Ludwig, Ueber die neuesten arbeiten auf dem gebiete der Rgveda-forschung, 85 seq.) and Pischel (Ved. Studien, II, 82 seq.). Hillebrandt arrives at the conclusion that dhishana is the Earth (in the dual, Heaven and Earth; in the plural, Heaven. Air, and Earth), and besides the Vedi, i. e. the excavated spot of ground which serves as a kind of altar for the sacrifice. Similar is
+
+[p. 121]
+
+[paragraph continues] Pischel's opinion. He believes that the singular dhishana is everywhere to be interpreted as a proper name: the name of a goddess of wealth and prosperity. The dual dhishane means 'Heaven and Earth:' thus the original meaning of dhishana must have been, as Pischel concludes, either Heaven or Earth. He tries to show that it is Earth, and so does Prof. Hillebrandt. The goddess of wealth originally was a goddess of the earth conceived as the liberal giver of wealth. This goddess, Prof. Pischel thinks, was closely related to, or even identical with, the goddess Aditi, whom the same scholar also believes to be a personification of the Earth.
+
+I must confess that even this close agreement of these two distinguished scholars has failed to convince me. It is quite true that the dual dhishane means Heaven and Earth, and it is possible that the singular may, at least in some passages, mean the Earth. But I cannot believe that this is the original meaning of the word. Originally, in my opinion, dhishana was an implement used at the sacrifice, more especially at the Soma sacrifice. The adri (Soma-stones) are said to rest in the lap of the dhishana (I, 109, 3). In a Yagus Mantra referring to the sacrificial preparation of Soma (Vagasaneyi Samhita VI, 26) the dhishana, or more exactly the Dhishanas, as goddesses (dhishanas ka devi'h), are mentioned together with the sacrificial fire, the waters, and the gra'vanah, the stones. In a similar connection we find a Yagus formula pronounced when the Adhvaryu began to beat the Soma plants with the Upamsusavana stone (see Weber, Indische Studien, X, 370). There the Soma was addressed first, and then the two Dhishanas: 'Do not be afraid, do not be terrified, assume sap (O Soma!). O two Dhishanas! Being firm show firmness!' (Vagasaneyi Samhita VI, 35). Here the Satapatha Brahmana (III, 9, 4, 18) says, that some authorities refer the last words to the two boards (phalake) on which the pressing-stones rest (see Hillebrandt, Ved. Mythologie, I, 149 seq.). But the author of the Brahmana himself declares that Heaven and Earth are addressed; for as to the boards
+
+[p. 122]
+
+used for pressing the Soma, it would be of no consequence if they were broken.--Other passages in which the dhishanah are mentioned in connection with the preparation of the Soma, are Rig-veda IX, 59, 2; X, 17, 2. In the last passage the lap of the Dh.' is mentioned as in I, 109, 3 (see above). The dhishana was anointed, I, 102, 1. The dhishana is mentioned in connection with the waters which were fetched by the Adhvaryus and used at the sacrifice, X, 30, 6, and in connection with the sacrificial fire, III, 2, 1, and in our passage. I have therefore no doubt that according to the original meaning the Dhishana was, as stated above, a sacrificial implement used chiefly, though not exclusively, at the pressing of the Soma. I do not venture to determine the exact nature of this implement, but I think that from the passages collected above it will be evident that it was a sort of support on which the pressing-stones rested. A similar support may have been used for the vessel containing the sacrificial water, and for the sacrificial fire. This support was considered as yielding the Soma to Indra, as strengthening Indra, as inciting Indra and the gods to liberality towards men. Thus we have a goddess Dhishana who wears the aspect of a goddess of wealth. She is invoked as one of the Gnas in I, 22, 10 with Hotra Bharati. Finally the Earth, the support of everything, was likened to this support of the pressing-stones and of the Soma; and Heaven and Earth were then considered as the two Dhishanas.
+
+Note [1:96:1:3]3. Comp. above, 94, 13, note 1.
+
+  
+
+Verse 2.
+
+Note [1:96:2:1]1. On the solemn formulas of invocation, called Nivids, see Haug's Aitareya Brahmana, p. 32 seq.; Weber, Indische Studien, IX, 355; H. O., Religion des Veda, 387, note 2. Of course, the Nivids which Sankhayana (Srautasutra VIII, 16-25) gives, cannot be those to which the poets of the Rig-veda several times allude.
+
+Note [1:96:2:2]2. On Ayu as one of the mythical ancestors of
+
+[p. 123]
+
+mankind, nearly related to Manu, see Bergaigne, Religion Vedique, I, 59 seq.
+
+Note [1:96:2:3]3. Ushas is called vivasvati, III, 30, 13 (cf. Bergaigne, I, 86); we are justified, consequently. in translating vivasvata kakshasa, 'with the irradiating look.' But in giving this translation we should not forget that the poet no doubt at the same time intended to allude to the name of Vivasvat, the father of Yama.
+
+  
+
+Verse 3.
+
+Note [1:96:3:1]1. The text has ilata. Comp. above, I, 1, 1, note 2.
+
+Note [1:96:3:2]2. Agni seems to be called Bharata as belonging to the people of Bharatas. Comp. H. O., 'Buddha, sein Leben, seine Lehre, seine Gemeinde' (first edition), p. 414 seq. More usually Agni is designated as Bha'rata.
+
+Note [1:96:3:3]3. Sripradanum. On da'nu, the meaning of which I consider to be 'rain' or the like, comp. the discussion of Prof. Max Muller, vol. xxxii, 113 seq. The exact meaning of sripra, which should not be compared with the Greek liparos, cannot be determined. The etymology is a very unsafe guide in such questions, and neither the connection with the root srip, 'to creep,' 'to crawl,' nor with the noun sarpis, 'butter,' seems to lead to a satisfactory result. The passages in which sripra or compounds of this adjective occur, point to a meaning like 'great,' 'mighty,' 'fine.' Thus sriprabhogas seems to be something like purubhogas or subhogas; Indra's arms (karasna) are called both sripra (VIII, 32, 10) and prithu (VI, 19, 3); finally sripradanu, which is used here as an epithet of Agni, and VIII, 25, 5 of Mitra and Varuna, does not seem to differ very much from suda'nu.
+
+  
+
+Verse 4.
+
+Note [1:96:4:1]1. Matarisvan, the messenger of Vivasvat, who carried the fire from heaven to earth, was originally distinct from Agni, but is identified with him in several passages. See M. M., Physical Religion, p. 152; Bergaigne. Religion Vedique, I; 52 seq.; H. O., Religion des Veda, 122.
+
+[p. 124]
+
+  
+
+Verse 5.
+
+Note [1:96:5:1]1. Comp. above, 95, 1, and I, 113, 2. rusadvatsa. The calf, of course, is Agni.
+
+Note [1:96:5:2]2. Literally, 'turned towards each other.'
+
+Note [1:96:5:3]3. The gold is again Agni.
+
+  
+
+Verse 6.
+
+Note [1:96:6:1]1. The first Pada is identical with X, 139, 3.
+
+Note [1:96:6:2]2. I prefer with Ludwig to take veh as a nominative (comp. Lanman, Noun-Inflection, 375) instead of a genitive.
+
+  
+
+Verse 7.
+
+Note [1:96:7:1]1. Compare the very obscure verse X, 31, 5. iyam sa' bhuya ushasam iva ksha'h, 'may she be the earth, as it were, of the dawns.' 'She' may possibly be the earth, which would be designated here as a dwelling-place or support of the dawns.
+
+  
+
+Verse 8.
+
+Note [1:96:8:1]1. Prof. Max Muller proposes another translation of sanara. He writes: 'One expects an opposition between tura and sanara. Sanara can hardly be the same as viravat in the next line. I should like to take sanara as a variety of sana and sanatana. Give us fleeting, i. e. daily wealth, and give us old, i. e. lasting wealth!'
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 125]
+
+  
+
+MANDALA I, HYMN 97.
+
+  
+
+ASHTAKA I, ADHYAYA 7, VARGA 5.
+
+1. Driving away evil [*1] with thy light, Agni, shine upon us with wealth--driving away evil with thy light.
+
+2. Longing for rich fields, for a free path, and for wealth, we sacrifice--driving away evil with thy light.
+
+3 [*1]. When he stands forth as the most glorious one among them [*2], and when our liberal lords excel--driving away evil with thy light--
+
+4. When through thee, Agni, the liberal lords, and when through thee we may multiply with offspring--driving away evil with thy light--
+
+5. When the rays of the mighty Agni go forth on all sides--driving away evil with thy light--
+
+6. For thou indeed, (O god) whose face is turned everywhere, encompassest (the world) everywhere--driving away evil with thy light.
+
+7. Do thou carry us, as with a boat, across hostile powers, (O god) whose face is turned everywhere--driving away evil with thy light.
+
+8. Do thou carry us across (evil) to welfare, as across a stream with a boat [*1]--driving away evil with thy light.
+
+[p. 126]
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Gayatri. The hymn is addressed to Agni Suki.--Verses 1-8 = AV. IV, 33, 1-8: TA. VI, 11, 1-2. Verse 1 = TA. VI, 10, 1.
+
+  
+
+Verse 1.
+
+Note [1:97:1:1]1. Lanman (Sanskrit Reader, p. 363) translates: 'Driving away with flames our sin.' But agha is not exactly sin.
+
+  
+
+Verse 3.
+
+Note [1:97:3:1]1. In this verse as well as in the verses 4 and 5--all commencing with the words pra yat--the principal clauses are wanting. As to 3 meaning, however, these clauses are supplied by the refrain; 'driving away evil' of course means 'may he drive away evil.'
+
+Note [1:97:3:2]2. 'Among them' seems to mean among the liberal lords.'
+
+  
+
+Verse 8.
+
+Note [1:97:8:1]1. Cf. Lanman, p. 434.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 127]
+
+  
+
+MANDALA I, HYMN 98.
+
+  
+
+ASHTAKA I, ADHYAYA 7, VARGA 6.
+
+1. May we dwell in the favour of (Agni) Vaisvanara. He indeed is a king, leading all beings to gloriousness [*1]. As soon as born from here he looks over this whole world. Vaisvanara unites with the Sun [*2].
+
+2. Agni who has been looked and longed for [*1] in Heaven, who has been looked for on Earth--he who has been looked for, has entered all herbs. May Agni Vaisvanara, who has strongly been looked for, protect us from harm by day and by night.
+
+3. Vaisvanara! May this be true of thee: may wealth and liberal givers attend us! May Mitra and Varuna grant us this, may Aditi, the Sindhu, the Earth, and the Sky!
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Trishtubh.--Verse 1 = VS. XXVI, 7; TS. I, 5, 11, 3; MS. IV, 11, 1. Verse 2 = VS. XVIII, 73; TS. I, 5, 11, 1; IV, 4, 12, 5; 7, 15, 6; TB. III, 11, 6, 4; MS. II, 13, 11.
+
+  
+
+Verse 1.
+
+Note [1:98:1:1]1. Comp. VI, 70, 1. bhuvananam abhisriya. Abhisri' seems to mean, going or leading towards (abhi) gloriousness (sri'). Prof. Pischel's opinion on the word is different; see Vedische Studien, I, 53 seq.
+
+Note [1:98:1:2]2. As to yatate, comp. V, 4, 4, yatamanah rasmibhih su'ryasya; IX, 111, 3. sam rasmibhih yatate darsatah rathah.
+
+  
+
+Verse 2.
+
+Note [1:98:2:1]1. On the disappearance of Agni who is looked for everywhere, see M. M., Physical Religion, 254 seq.; Bergaigne, Rel. Vedique, II, 75.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 128]
+
+  
+
+MANDALA I, HYMN 99.
+
+  
+
+ASHTAKA I, ADHYAYA 8, VARGA 7.
+
+1. Let us press Soma for Gatavedas [*1]. May he burn down the property of the niggard [*2]. May he, Agni, bring us across all troubles, across all difficulties, as across a stream with a boat.
+
+  
+
+NOTES.
+
+The Rishi is Kasyapa Marika. Metre, Trishtubh.--Verse 1 = TA. X, 1.
+
+  
+
+Verse 1.
+
+Note [1:99:1:1]1. This is one of the very rare passages in which Agni standing alone and not accompanied by Indra or the Maruts &c. is mentioned as drinking Soma. It seems as if this verse were not composed for the regular Soma sacrifice, but for a special occasion.
+
+Note [1:99:1:2]2. Cf. Delbruck, Syntakt. Forschungen, I, 112.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 129]
+
+  
+
+MANDALA I, HYMN 127.
+
+  
+
+ASHTAKA II, ADHYAYA 1, VARGA 12-13.
+
+1. I deem Agni to be the munificent Hotri, the Vasu, the Son of strength [*1], Gatavedas, like a priest, Gatavedas [*2]: the best performer of the sacrifice, the god who with his upright body that is turned towards the gods, and with his flame longs for the shine of the (boiling) ghee [*3], of the butter that is offered in (the fire).
+
+2. May we, the sacrificers, call thee hither, the best of sacrificers [*1], the first of the Angiras, O priest, with our prayers, with priestly prayers, O bright one [*2]: thee who like the heaven encompassest the earth [*3], the Hotri of human tribes, the manly flame-haired, whom these folks--whom all folks should favour in order to speed him (to our sacrifice).
+
+3. He indeed, shining mightily with his shining strength [*1], becomes the conqueror of deceitful foes [*2]--like an axe, the conqueror of deceitful foes [*2]. He at whose onslaught [*3] even what is strong melts away [*4], steady things (waste away) like forests (which are burnt or bend down in the storm) [*5]. Conquering he holds himself back; he does not proceed [*6]. As with a conquering bow-man he proceeds [*6].
+
+4. Even what is firm gives way before him: thus it is known. With hottest kindling-sticks [*1] one worships him [*2] for winning his favour, one worships Agni for winning his favour. He who dives into many forests as if carving the wood with his flame, destroys even firm food [*3] with his strength--he destroys even what is firm with his strength.
+
+[p. 130]
+
+5. Let us place that power [*1] of his in our neighbourhood [*2]--(that power) which is more visible by night than by day [*3]--(more visible) than by day to the unremitting [*4] (worshipper). Therefore his life is a firm hold [*5], like (a father's) safe refuge to a son: (the fires) that never grow old, tending to blessings enjoyed or not enjoyed (before) [*6]--the fires that never grow old, tending (to such blessings).
+
+6. He indeed makes a mighty noise like the host of the Maruts, ... [*1] on the rich fields, ... [*1] on the ... [*1]. He, the seizer, ate the offerings [*2], he who has deservedly become the banner of the sacrifice. And when he joyously and joyfully (proceeds), all followed gladly on his path; men (have followed) his path as for a triumphal procession.
+
+7. When forsooth the Kistas [*1] striving for heaven, when the Bhrigus have addressed him paying reverence--the Bhrigus producing him by attrition, with worship: Agni is the lord of goods, the bright one, who is their [*2] supporter. May the wise one accept the wonted coverings [*3]; may the wise one accept them.
+
+8. We invoke thee, the lord of all people, the common master of the house of all, to enjoy (the sacrifice): (we call) thee who truly art carried by prayers as by a vehicle [*1] to enjoy (the sacrifice): the guest of men in whose presence (they live) as before a father's (face), and all those immortals (attain) to strength, and the offerings among the gods (attain) to strength.
+
+9. Thou, O Agni, art born, the mightiest by might [*1], for the divine world, the strongest one, like wealth for the divine world. For thy delight is most strong, and thy power is most brilliant. And
+
+[p. 131]
+
+they walk around thee [*2], O (god) who never growest old, like obedient (servants), O (god) who never growest old.
+
+10. Let your praise go forth to the great Agni, who is mighty in his might, who awakens at dawn, like a winner of cattle [*1]--let it go forth to Agni. When (the worshipper) rich in offerings has loudly praised him [*2] in all lands [*3], he wakes [*4] like a singer in front of the dawns [*5], the flaming one (?), the Hotri (in front) of the dawns [*5].
+
+11. Thus being seen by us, bring near to us, O Agni, graciously united with the gods, benignantly, great wealth benignantly. Make us behold great (bliss of valiant offspring [*1]), O mightiest one, that we may obtain such enjoyment. Produce great bliss of valiant offspring, O bountiful Lord, (as fire is produced) by attrition, for those who praise thee, like a strong hero in thy might.
+
+  
+
+NOTES.
+
+The Rishi is Parukkhepa Daivodasi, the metre Atyashti (verse 6 Atidhriti).--Verses 1-3 = SV. II, 1163-1165. Verse 1 = SV. I, 465; VS. XV, 47; TS. IV, 4, 4, 8; MS. II, 13, 8; AV. XX, 67, 3.
+
+  
+
+Verse 1.
+
+Note [1:127:1:1]1. There is no doubt that the reading of the Rig-veda text vasum is correct; the Sama-veda has vasoh. Comp. H. O., Prolegomena, p. 280.
+
+Note [1:127:1:2]2. 'Is it a play on the word? Like a priest knowing all things?' M. M.
+
+Note [1:127:1:3]3. There is a metrical irregularity in this Pada; it has six syllables instead of five before the caesura. The text, however, seems to be correct.
+
+[p. 132]
+
+  
+
+Verse 2.
+
+Note [1:127:2:1]1. The first Pada is Trishtubh instead of Gagati. It would be easy to correct huvemahi, but that form is never found in the Rig-veda, though both huvema and havamahe are frequent. Thus it is very probable that we have here a metrical irregularity of the type described by H. O., Prolegomena, p. 117.
+
+Note [1:127:2:2]2. Comp. VIII, 60, 3. viprebhih sukra manmabhih.
+
+Note [1:127:2:3]3. If the explanation of parigman which we have adopted (see above, I, 79, 3, note 2) is correct, it will be impossible, of course, to accept Bergaigne's opinion (Rel. Ved., II, 505, note I) that the accusative dya'm is governed by parigmanam.
+
+  
+
+Verse 3.
+
+Note [1:127:3:1]1. In the second Pada one syllable is wanting. The text seems to be correct, and the irregularity apparently is the typical one described by H. O., Prolegomena, p. 68 seq.: the Pada has the tetrasyllabic beginning (before the caesura), and it goes on as if the beginning had been pentasyllabic. Several Padas of the same irregular structure occur in our hymn, thus in verse 9: tvam (read tuam) agne || sahasa sahantamah; verse 10: pra vah mahe || sahasa sahasvate; ushah-budhe || pasu-se na agnaye.
+
+Note [1:127:3:2]2. The comparison parasuh na, 'like an axe,' raises doubts as to the correctness of druham-tarah. Parasuh seems to point to a compound containing the element dru, 'wood;' comp. below, 130, 4; VII, 104, 21. The second member of the compound would be han, which is frequently used with the meaning of cutting wood (II, 14, 2; X, 89, 7). Thus the reading would be dru-hantarah (comp. vritra-hantamah), 'a mighty wood-cutter.' As to this use of the comparative, see Delbruck. Altindische Syntax, p. 196.
+
+Note [1:127:3:3]3. Comp. V, 7, 2. yasya samritau.
+
+Note [1:127:3:4]4. Prof. Max Muller (Science of Thought, p. 325) . believes that the root sru occurs here in the sense of shaking. To me it seems that this sruvat is a misspelling
+
+[p. 133]
+
+for sruvat. The opinion of Pischel and Geldner (Vedische Studien, I, p. vi) is different.
+
+Note [1:127:3:5]5. The meaning of the comparison which I have indicated by the words in parentheses, becomes clear from VIII, 40, 1. vana-iva va'te it.
+
+Note [1:127:3:6]6. The two last Padas are very obscure. In the last Pada but one na would seem to be comparative, not negative, because it has the same meaning in the last Pada, and because its vowel does not coalesce with the following initial vowel (comp. Benfey's dissertation, 'Behandlung des auslautenden a in na "wie" and na "nicht."' But then instead of yamate a substantive meaning something like 'hero' would be required. And also instead of the instrumental dhanva-saha one should expect to find a nominative; comp. Benfey, Vedica and Linguistica, p. 180, note 1.--Prof. Max Muller translates: 'Holding out (or resisting) he stands firm, he does not budge; holding his bow he does not budge.'
+
+  
+
+Verse 4.
+
+Note [1:127:4:1]1. The words tegishthabhih aranibhih are repeated, probably by the same poet, below, 129, 5.
+
+Note [1:127:4:2]2. It may be observed that several times in the Parukkhepa hymns the parallelism between two subsequent Padas has corrupted the text, the reading of the one Pada being wrongly introduced into the other. For instances I refer to I, 129, 11, where the last vaso has been added from the preceding Pada, and to the last Pada but one of I, 135, 4. Possibly our Pada, which in its traditional form is metrically abnormal (comp., however, M. M.'s Hymns to the Maruts, 1st ed., p. cxii), has suffered damage in the same way. The comparison of I, 129, 5 would lead us to conjecture: tegishthabhih aranibhih na avase. 'One worships him in order that he may grant his favour as if (he were to help us) with hottest kindling-sticks. One worships Agni in order that he may grant his favour.'
+
+Note [1:127:4:3]3. Comp. IV, 7, 10. sthira' kit anna dayate vi gambhaih. The food is the wood which Agni consumes.
+
+[p. 134]
+
+  
+
+Verse 5.
+
+Note [1:127:5:1]1. See Prof. von Roth's translation of this verse, Zeitschrift der D. Morg. Gesellschaft, XLVIII, 117. On priksham, comp. M. M., vol. xxxii, p. 302; Pischel, Vedische Studien, I, p. 96 seq. The translation of such a word can only be tentative.
+
+Note [1:127:5:2]2. To uparasu something like vikshu (IV, 37, 3) seems to be supplied.
+
+Note [1:127:5:3]3. Comp. the Latin expression, 'argutius quam verius.' Pischel, Gottinger Gelehrte Anzeigen, 1884, p. 516 seq.; Delbruck, Altindische Syntax, p. 196.
+
+Note [1:127:5:4]4. Aprayus seems to be an anomalous formation, instead of aprayu, unless we have to read aprayuve. According to Pischel (Gottinger Gel. Anzeigen, 1890, p. 542), aprayushe would mean 'dem der da lebt.' But I do not think that this aprayus should be separated from aprayu, which, as may be seen from I, 89, I compared with III, 5, 6 and X, 4, 7, is identical in meaning with, and evidently etymologically related to, aprayukkhant.
+
+Note [1:127:5:5]5. Grabhanavat is the contrary of agrabhana, I, 116, 5.
+
+Note [1:127:5:6]6. Comp. III, 30, 7. abhaktam kit bhagate.
+
+  
+
+Verse 6.
+
+Note [1:127:6:1]1. Ludwig: 'in den bebauten fluren zu verehren, auf den wusten flachen zu verehren.' Prof. Max Muller observes with regard to ishtanih: 'it stanih, or ish + stanih (ish-karta), much thundering.' For a'rtana he proposes the translation, 'ploughed field.' I have left both words un-translated.
+
+Note [1:127:6:2]2. A'dat is imperfect of ad; there is a play upon words (a'dat and a-dadih).
+
+  
+
+Verse 7.
+
+Note [1:127:7:1]1. Who the Kistas (cf. Lanman, p. 346) are is not known. They seem, however, either to be identical with the Bhrigus or to be another ancient and probably mythical family of priests like them. They are mentioned also in VI, 67, 10.
+
+[p. 135]
+
+Note [1:127:7:2]2. 'Their' refers to 'goods.'
+
+Note [1:127:7:3]3. The fuel and libations with which Agni is covered?
+
+  
+
+Verse 8.
+
+Note [1:127:8:1]1. Va'has and its compounds, such as stomavahas, ukthavahas, girvahas, have been treated of by Dr. Neisser in his ingenious article on vahni, Bezzenberger's Beitrage, XVIII, 301 seq. (comp. on vahni, vol. xxxii, p. 37 seq.). Dr. Neisser tries to show that by the side of vahni, derived from vah = Latin vehere, and meaning 'draught-horse' (and besides--though Dr. Neisser does not admit this, see p. 316--'a person that drives in a chariot'), there existed a second substantive vahni connected with the Greek eyxesthai, and meaning both 'erhaben' and 'erhebend,' i. e. praising the gods (loc. cit., p. 314). With this second vahni he connects va'has and its compounds. One of the principal arguments of Dr. Neisser is the fact quite correctly stated by him (p. 301), that 'the word vahni very frequently associates itself to the term hotri, while it does not with the compounds havyavah and havyava'hana.' This fact, indeed, points to the conclusion that 'those compounds belong to another sphere of ideas than vahni' (p. 302). But Dr. Neisser seems to me to go too far in concluding that vahni, standing as an epithet of Agni, is not derived from vah = vehere. Agni's action consists not only in carrying the sacrificial food to the gods, but also in carrying the gods to the sacrifice of men, and in coming to that sacrifice himself with his chariot and his horses. Nor do the words stomavahas or ukthavahas, if derived from vah = vehere, necessarily presuppose the admissibility of expressions such as 'uktham (stomam) vahati viprah devan akkha' (p. 303), but those compounds may also rest on an idea conveyed by expressions such as 'uktham (stomah) vahati devan upa yagnam,' which idea is quite Vedic. Thus stomavahas in my opinion means, as an epithet of the god, 'carried by the stoma as by a vehicle' (comp. VII, 24, 5. esha stomah mahe ugra'ya va'he dhuri-iva atyah na vagayan adhayi). or, as an epithet of the human worshippers, fitting out the
+
+[p. 136]
+
+stoma as a vehicle.' I believe that the words in question can thus be explained in conformity with the whole range of Vedic thought, and the artificial distinction of two different substantives vahni, &c., will be avoided. For special indications pointing in the same direction, which are furnished by the passages which contain the words here treated of, I refer to Bergaigne, Religion Vedique, II, 286 seq., and to the article of Dr. Neisser himself, p. 321 seq.
+
+  
+
+Verse 9.
+
+Note [1:127:9:1]1. On the metrical irregularity, see above, verse 3, note 1.
+
+Note [1:127:9:2]2. Te seems to stand for the accusative, comp. Pischel, Zeitschrift der D. Morgenl. Gesellschaft, XXXV, 714 seq.; Delbruck, Altindische Syntax, 205. Or may the meaning be: and thy (worshippers) walk around thee ... like obedient (servants)?'
+
+  
+
+Verse 10.
+
+Note [1:127:10:1]1. On the metre, see above, verse 3, note 1. Prof. Max Muller translates, 'like a hunter for cattle.'
+
+Note [1:127:10:2]2. The phrase visvasu ksha'su goguve occurs also, V, 64, 2. The same hymn contains the word su-ketuna, which is found in the eleventh verse of our hymn.
+
+Note [1:127:10:3]3. Literally, 'on all earths.' Comp. X, 2, 6. nrivatih anu ksha'h.
+
+Note [1:127:10:4]4. Garate, 'he wakes,' at the same time can mean 'he sings,' and 'he is praised.' Comp. Neisser, Bezzenberger's Beitrage, X III, 298.
+
+Note [1:127:10:5]5. The translation 'dawn' is conjectural only. But it gives a good meaning in all the passages which contain the word rishuna'm (besides our passage, V, 25, 1; VIII, 71, 15; X, 6, 1). Prof. Max Muller translates the last two Padas: 'he sings like Rebha at the head of all singers, like a clever Hotri among the singers.'--Comp. Lanman, p. 424.
+
+  
+
+Verse 11.
+
+Note [1:127:11:1]1. I supply suvi'ryam; see the last Pada but one.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 137]
+
+  
+
+MANDALA I, HYMN 128.
+
+  
+
+ASHTAKA II, ADHYAYA 1, VARGA 14-45.
+
+1. He was born in Manu's firm law [*1], the Hotri, the best sacrificer, according to the will of the Usigs [*2], Agni, according to his own will. Always listening to him who wishes to be his friend, like a treasure to him who aspires to renown, the unbeguiled Hotri sat down in the abode of food (on the altar); enveloped [*3] (he sat down) in the abode of food.
+
+2. We render him attentive [*1], the promoter of sacrifice, on the path of Rita, by adoration with offerings, in the divine world, by (adoration) with offerings  [*2]. In bringing us vigour he never becomes worn out with this body of his: he whom Matarisvan (has brought) to Manu from afar, the god whom he has brought from afar.
+
+3. In his (own) way he moves in one moment round the terrestrial (space), the sudden devourer (emitting) his sperm, the bellowing bull emitting his sperm, the bellower [*1], looking round with a hundred eyes, the god who quickly courses in the forests [*2], taking his seat on the lower ridges, Agni, and on the highest ridges.
+
+4. This highly wise Purohita, Agni watches sacrifice and service [*1] house by house; by (the power of) his mind he is intent upon sacrifice. By (the power of) his mind helpful to him who desires food [*2], he looks on all creatures, since he has been born, the guest adorned with ghee, (since) the helpful carrier (of the gods) [*3] has been born.
+
+[p. 138]
+
+5. When through his (Agni's) power the bounties grow in strength, with the roar of Agni [*1] as with that of the Maruts [*2]--like bounties offered to a vigorous man: then he by his greatness stirs up the gift of goods. May he protect us from misfortune and injury, from evil spell and injury.
+
+6. The far-reaching [*1] steward [*2] has taken all goods [*3] in his right hand, and strongly advancing does not let them loose; desirous of glory he does not let them loose. For every supplicant [*4] thou hast carried the oblations to the gods [*5]. For every righteous one he procures a treasure; Agni opens both folds of the door (for him).
+
+7. He has been established as the most blissful one in the enclosures of men, Agni, at the sacrifices, like a noble lord of the clans, a beloved lord of the clans at the sacrifices: he rules over the oblations of men to which nourishing power has been imparted [*1]. May he protect us from harm that comes from Varuna, from harm [*2] that comes from the great god.
+
+8. They magnify Agni the Hotri, the dispenser of goods. They have roused the beloved, the most shining steward [*1] (of sacrifice); they have roused the carrier of oblations. The gods desirous of goods (have roused) him in whom all life dwells, who possesses all wealth, the Hotri, the worshipful sage, the lovely one for the sake of bliss; with praises (they have roused), desirous of goods, the lovely one.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 6 = TB. II, 5, 4, 4.
+
+[p. 139]
+
+  
+
+Verse 1.
+
+Note [1:128:1:1]1. As to dharimani, comp. IX, 86, 4, where it is said that the streams of Soma flow forward, 'dharimani;' Bergaigne, III, 219. 'Domain, precinct, sanctuary?' M. M.
+
+Note [1:128:1:2]2. The Usigas (comp. above, I, 60, 2, note 1) are closely related to the Bhrigus; they are considered as the first sacrificers, the first worshippers of Agni. See Bergaigne, I, 57 seq.
+
+Note [1:128:1:3]3. Enveloped in fuel and libations.
+
+  
+
+Verse 2.
+
+Note [1:128:2:1]1. Comp. M. M.'s note, vol. xxxii, p. 437.
+
+Note [1:128:2:2]2. Comp. Lanman, pp. 516, 518.
+
+  
+
+Verse 3.
+
+Note [1:128:3:1]1. Prof. Max Muller translates the second and third Padas: 'again and again shouting, bellowing forth his sperm, yea, placing his sperm with bellowing.'
+
+Note [1:128:3:2]2. Of course the fuel is alluded to.
+
+  
+
+Verse 4.
+
+Note [1:128:4:1]1. Yagnasya adhvarasya, 'sacrifice and service;' comp. above, I, 1, 4, note 1.
+
+Note [1:128:4:2]2. The translation is doubtful. If the denominative ishuy is derived from ishu, the meaning must be 'to fly like an arrow,' or possibly 'to shoot arrows.' But I do not think that the poet can have meant to say that Agni acts as a vedha'h and looks on all creatures 'for him who flies like an arrow,' or 'for him who shoots arrows.' We should rather have to write ishuyate without accent, so that the translation would be: 'By (the power of) his mind helpful (Agni) flies like an arrow; he looks on all creatures' (comp. VI, 3, 5, where it is said that Agni shoots arrows). But possibly ishuy, which is found only here, may be a synonym of ishudhy, see verse 6. It may be a denominative from ish, influenced by the type of verbs like riguy, kratuy,
+
+[p. 140]
+
+vasuy, &c. Then the accent can be retained, and the translation would be as given in the text ('to him who desires food').
+
+Note [1:128:4:3]3. On vahni, comp. above, I, 127, 8, note 1.
+
+  
+
+Verse 5.
+
+Note [1:128:5:1]1. The cerebral n in avena clearly points to the correction of the text agneh ravena.
+
+Note [1:128:5:2]2. The Maruts are called bhoga'h, V, 53, 16 (stuhi bhoga'n, 'praise the liberal ones'). Here we have the corresponding abstract noun.
+
+  
+
+Verse 6.
+
+Note [1:128:6:1]1. Vihayas (comp. Bergaigne, Religion Vedique, III, 287) seems to be formed like vimahas, viketas, vimanas. The meaning then will be 'of extended hayas.' The substantive hayas, which is not found in the texts separately, may be derived from gihite or from hinoti, and mean something like 'energy.' At all events it seems impossible to connect this adjective vihayas with the substantive vihayas, 'the aerial space,' belonging to the classical language.
+
+Note [1:128:6:2]2. Comp. the remark above, I, 58, 7, note 2.
+
+Note [1:128:6:3]3. I propose to read visva vi-hayah aratih vasu dadhe haste dakshine. Comp. IX, 18, 4. a' yah visvani va'rya vasuni hastayoh dadhe.
+
+Note [1:128:6:4]4. Comp. Pischel, Vedische Studien, I, 191.
+
+Note [1:128:6:5]5. Comp. VIII, 19, 1. devatra' havyam ohire.
+
+  
+
+Verse 7.
+
+Note [1:128:7:1]1. Ila' krita seems to be identical with ishkrita.
+
+Note [1:128:7:2]2. Regarding the metre, comp. Lanman, p. 383.
+
+  
+
+Verse 8.
+
+Note [1:128:8:1]1. Comp. I, 58, 7, note 1.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 141]
+
+  
+
+MANDALA I, HYMN 140.
+
+  
+
+ASHTAKA II, ADHYAYA 2, VARGA 5-7.
+
+1. For him who sits on the Vedi (i. e. on the sacrificial bed), whose foundations are pleasant, for the brilliant Agni bring forward [*1] a receptacle [*2], which is to him like a drink. Clothe  the bright one in prayer as in a garment, him whose chariot is light, whose colour is bright, the destroyer of darkness.
+
+2. He who has a twofold birth [*1], presses on towards the threefold food [*2]; what he has eaten grows again after a year [*3]. With the mouth and the tongue of the one he (shows himself as) the noble, manly one; with the other (mouth) the stubborn (Agni) wipes off the trees [*4].
+
+3. Both his mothers [*1], dwelling together, immersed in darkness, and affrighted, proceed towards the young child who stretches forward his tongue, who sparkling moves about thirstily, whom men should attach to themselves, who agitates (the world), the increaser of his father [*2].
+
+4. Thy speedy (teams) [*1] that strive to break loose for the benefit of the man who acts as men do, the swift ones, drawing black furrows-thy quick (horses), striving apart, the agile, swift runners, incited by the wind, are yoked.
+
+5. When he stroking his wide course proceeds panting, thundering, roaring, then those sparkling (rays) of his fly about wildly, displaying wondrous darkness, a large sight [*1].
+
+6. When he bends down over the brown (plants) [*1] like a busy (servant), he roars and approaches his
+
+[p. 142]
+
+wives like a bull. Displaying his power he adorns his bodies with beauty; like a terrible beast, difficult to seize, he shakes his horns.
+
+7. He clasps (the plants, &c.) that have been laid together and have been laid out [*1]. Knowing them, while they know him, and being their own (friend or lover) he lies on them. They grow again and attain godhead. They produce together another shape of the parents [*2].
+
+8. The long-haired virgins [*1] have embraced him. Having died they stand upright again for him (Agni) the living one (or, for him the Ayu). Delivering them of old age he proceeds roaring, procreating another vital spirit, an indestructible life.
+
+9. Licking everywhere the upper garment of the mother [*1], he spreads himself over the space with his mightily devouring warriors, giving strength to everything that has feet, licking and licking. The reddish white one [*2] follows her ways [*3].
+
+10. Shine, O Agni, among our liberal lords, for thou art a mightily breathing bull, a friend of the house. Throwing down the (mothers) of the young child [*1] thou hast shone, (a protector of thy friends) like a coat of mail in battles, hurrying around.
+
+11. May this well-composed (prayer), O Agni, be more welcome to thee than a badly-composed one--more welcome than even a welcome prayer. With the bright light of thy body win thou treasures for us.
+
+12. Grant us, Agni, for our chariot and for our house a ship which has its own rudders and which has feet [*1], which may save our strong men and our liberal lords and our people, and which may be a shelter for us.
+
+[p. 143]
+
+13. Approve, O Agni, our hymn alone. May Heaven and Earth and the Rivers, delightful by their own nature [*1], going their way [*2], (choose for us) bliss in cows and crops, long days; may the red (Dawns) choose food for us as a choice boon.
+
+  
+
+NOTES.
+
+The Rishi is Dirghatamas Aukathya, the metre Gagati; the two last verses are Trishtubh (comp. above the note on the metre of I, 94); the tenth verse, which is considered as either Gagati or Trishtubh, begins with one Gagati Pada which is followed by three Padas in Trishtubh.--No verse occurs in the other Samhitas.
+
+  
+
+Verse 1.
+
+Note [1:140:1:1]1. Pra bhara (Padap. pra bhara) and vasaya (Padap. vasaya) may be 1st person.
+
+Note [1:140:1:2]2. Possibly the 'womb' or 'receptacle' (yoni) here means ghrita or the like, for it is said of Agni that 'his womb is ghrita' (II, 3, 11), and he is called ghritayonih. This receptacle 'is to him like a drink,' because he consumes the ghrita by which he is surrounded.
+
+  
+
+Verse 2.
+
+Note [1:140:2:1]1. The terrestrial and the celestial birth. Comp. Bergaigne, I, 28 seq.
+
+Note [1:140:2:2]2. Bergaigne (I, 29) translates: '... s'elance trois fois sur la nourriture,' which he explains as referring to 'the three sacrifices of the morning, the midday, and the evening.' But tri-vrit clearly is an epithet of annam, not an adverb. The explanation of Sayana, who understands the threefold food as sacrificial butter, sacrificial cakes (purodasa), and Soma, may be correct.
+
+Note [1:140:2:3]3. On the locative samvatsare, comp. Delbruck, Altindische Syntax, p. 117.
+
+[p. 144]
+
+Note [1:140:2:4]4. The last words evidently refer to Agni's tongue, i. e. his flames, wiping off as it were the firewood. But it is not clear what the tongue of the other one is. Sayana thinks of the sacrificial spoon conceived as the tongue of the officiating priest: which is very artificial, but perhaps not too artificial for a verse like this.
+
+  
+
+Verse 3.
+
+Note [1:140:3:1]1. The 'two mothers' of Agni may be the two worlds (comp. Bergaigne, I, 238) or the two kindling-sticks. -Ubha' (masc.) instead of ubhe is to be remarked.
+
+Note [1:140:3:2]2. Agni increases the wealth of the worshipper who has lighted the fire and may thus be considered as Agni's father. Comp. Satapatha Brahmana XII, 5, 2, 15. Or the father may be Heaven; on Agni as imparting strength to Heaven, see I, 164, 51.
+
+  
+
+Verse 4.
+
+Note [1:140:4:1]1. The verse begins with feminines; the guvah (comp. I, 134, 1), literally the quick ones, seem to be something like the niyutah of Agni. Then follow masculines; the horses of Agni are male (comp. Bergaigne, I, 143).
+
+  
+
+Verse 5.
+
+Note [1:140:5:1]1. Comp. bhu'ri varpah karikrat, III, 58, 9.
+
+  
+
+Verse 6.
+
+Note [1:140:6:1]1. The brown ones, according to Sayana, are the plants. They are called brown (babhru) also in X, 97, 1. 'Are they the dry leaves in which the spark is caught?' M. M.
+
+  
+
+Verse 7.
+
+Note [1:140:7:1]1. Prof. Max Muller translates samstirah vishtirah, '(the flames) that are together and apart.'
+
+Note [1:140:7:2]2. The parents seem to be Heaven and Earth, as Sayana explains.--Possibly pitroh depends on saka (comp.
+
+[p. 145]
+
+pitroh saka, II, 17, 7; IV, 5, 10), being with their parents they produce a new shape.' Prof. Max Muller translates: 'They produce together a different shape of their parents.'
+
+  
+
+Verse 8.
+
+Note [1:140:8:1]1. Should not the plants again be referred to? 'I think it refers to the gvalas, the flames that are hidden under the ashes and are lighted again.' M. M.
+
+  
+
+Verse 9.
+
+Note [1:140:9:1]1. The mother is the Earth whose surface Agni licks.
+
+Note [1:140:9:2]2. I believe the Dawn is alluded to whom the Vedic poets represent now as preceding Agni, now as following him. See Bergaigne, II, pp. 14, 15.
+
+Note [1:140:9:3]3. For vartani'r aha of the Samhitapatha the Padapatha has vartanih aha; comp. Rig-veda Pratisakhya, Sutra 259. Vartani'h of course is correct. Comp. X, 172, I. ga'vah sakanta vartanim.
+
+  
+
+Verse 10.
+
+Note [1:140:10:1]1. The mothers of the young child are very probably the mothers of Agni represented as a young child. They may be the Waters which Agni leaves resting on the surface of the earth while he himself rises to heaven. Or the mothers may be the woods or plants which he burns and thus throws them down as it were.
+
+  
+
+Verse 12.
+
+Note [1:140:12:1]1. 'Which has feet in its own rudders,' M. M. That the ship has feet seems to mean only that it has the faculty of moving forward freely and quickly, and not that any real beings having feet are designated by this comparison. The ship that carries the worshippers across all dangers, is the protection and help which Agni grants, or the sacrifice which he helps to perform.
+
+[p. 146]
+
+  
+
+Verse 13.
+
+Note [1:140:13:1]1. Comp. Geldner, Vedische Studien, I, 275.
+
+Note [1:140:13:2]2. Yantah seems to be corrupt; one or two syllables are wanting. Something like yatayantah (IX, 39, 2) or vardhayantah, or, as Prof. Max Muller proposes, vyantah would do. He translates: 'May Heaven and Earth and the Rivers ... accepting (vyantah) sacrifices of milk and corn choose for us, and may the Dawns choose for us food as a boon for many days.'--Cf. Lanman, pp. 510, 539.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 147]
+
+  
+
+MANDALA I, HYMN 141.
+
+  
+
+ASHTAKA II, ADHYAYA 2, VARGA 8-9.
+
+1. Lo, that beautiful splendour of the god, when he was born of strength, has truly come to be a wondrous sight. Though he slinks away [*1], the prayer goes straight to him [*2]. They have led forward the flowing streams of Rita.
+
+2. The powerful one [*1], rich in food, the true (friend of men) has entered the wondrous (body) [*2]. His second (form of existence) is in the seven kind mothers [*3]. The ten young females [*4] have brought the third (form) of this bull forth, him the guardian, in order to milk him.
+
+3. When the rulers, the liberal lords brought him forth by their power out of the depth, out of the buffalo's shape [*1], when from of old [*2] at the purification of the sweet drink [*3] Matarisvan produces the hidden one (i. e. Agni) by attrition--
+
+4. When he is led forward from the highest father [*1], he climbs up the ... [*2], the plants in his (or, in their?) houses. When [*3] both (Heaven and Earth or the two Aranis?) promote his birth, then the youngest one became bright by his heat [*4].
+
+5. Then he entered upon the mothers [*1] in whom he the bright one grew up far and wide unimpaired [*2]. When he has climbed up to the former (mothers) who from of old incite (him) [*3], he runs down in the younger, later (or, nearer) ones.
+
+6 [*1]. Then in the strivings for the day [*2] they choose him Hotri. As if to swell their good fortune they
+
+[p. 148]
+
+strive towards him [*3], when praised by many he moves everywhere with wisdom and power to the gods and to the praise of mortals [*4] for (bringing them) refreshing drink.
+
+7. When he has scattered himself, the worshipful one, driven by the wind, like ... [*1], with the sound (which he produces) (?), he whom it is not possible to drive to a place (like cattle): on the flight of the burning one who speeds on his black way, whose birth is bright, who strays everywhere to the atmosphere ... [*2].
+
+8. Like a chariot that goes forward, he goes to Heaven with his ruddy limbs, adorned with his locks of flames [*1]. Then his black (clouds of smoke), O burning one (?), the liberal ones (?) (appear) [*2]. The birds flee as before the fierceness of a hero [*3].
+
+9. Through thee indeed, O Agni, Varuna whose laws are firm, Mitra and Aryaman, the givers of good rain, are glorious, when thou the mighty one hast been born, everywhere encompassing with wisdom (all beings), as the felly encompasses the spokes of a wheel.
+
+10. Thou, O Agni, youngest (god), furtherest treasures and (the friendship of) the gods for him who performs worship, who presses Soma. May we thus establish thee the young one, O young (son) of strength, possessor of great treasures, like the winner in a race [*1].
+
+11. Make good fortune [*1] swell for us like well-employed wealth belonging to the house, and like firm ability [*2]--(fortune) which can hold both races [*3] like reins: and being full-of good-will in (the sphere of) Rita, (fill our) praise of the gods (with rich reward).
+
+[p. 149]
+
+12. And may the brilliant, joyful Hotri with quick horses, with a shining chariot hear us. May he, the wise Agni, lead us on the best leading (paths) to happy welfare and to bliss.
+
+13. Agni has been praised with powerful [*1] songs, he who has been brought forward furthermore for sovereignty. May both those our liberal lords and we ourselves spread out [*2] (our power over all foes) as the sun (spreads out its light and by it destroys) the mist.
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Gagati; the two last verses again are Trishtubh.--None of its verses occurs in the other Samhitas.
+
+  
+
+Verse 1.
+
+Note [1:141:1:1]1. The meaning seems to be that if Agni be unwilling to officiate at the sacrifice, the prayer nevertheless reaches its aim and induces him to do his duty as the divine Hotri.
+
+Note [1:141:1:2]2. The verb sadh is very frequently connected with substantives such as dhiyah or the like. Comp. also matina'm ka sa'dhanam, X, 26, 4.
+
+  
+
+Verse 2.
+
+Note [1:141:2:1]1. It seems probable that prikshah is the nominative of priksha, and not the genitive of priksh. Comp. VI, 8, 1, where it is said of Agni 'prikshasya vrishnah arushasya.' On the meaning of priksha, see above, I, 127, 5, note 1.
+
+Note [1:141:2:2]2. The poet seems clearly to describe the second and third form of Agni's existence, his dwelling in the waters and his birth from the fire-sticks. But he is less explicit with regard to the first form. The epithet pituma'n
+
+[p. 150]
+
+would seem to point to Agni as the sacrificial fire and the receiver of offerings. But it is rather strange that this form of the god should be distinguished from the Agni procreated by the ten females, i. e. produced by the ten fingers, by the attrition of the kindling-sticks.--Prof. Max Muller differs from me in referring the words dasapramatim ganayanta yoshanah, not to the third form of Agni, but to Agni in general. He translates: 'The powerful one, rich in food, rests always on that wondrous sight (Agni on the altar, garhapatya Agni). The second rests in the seven kind mothers (vidyudrupa; Agni in the clouds); the third is for milking the powerful one (Agni as the sun, adityarupa)--the ten maidens (the fingers) have brought forth the guardian.'
+
+Note [1:141:2:3]3. Grassmann no doubt is right in proposing to read sapta siva'su. Of course the waters are alluded to.
+
+Note [1:141:2:4]4. Read dasa pramatim (Boehtlingk-Roth). On Agni as the son of the ten fingers, comp. Bergaigne, II, 7.
+
+  
+
+Verse 3.
+
+Note [1:141:3:1]1. The buffalo Agni was hidden in the depth. Comp. X, 8, 1. apa'm upa-sthe mahishah vavardha; I, 95, 9. budhnam vi-rokamanam mahishasya dha'ma.
+
+Note [1:141:3:2]2. The preposition anu seems to stand here with an ablative (pra-divah).
+
+Note [1:141:3:3]3. The literal meaning of madhvah a-dhave is indicated by passages such as I, 109, 4. a' dhavatam madhuna; IX, 11, 5. madhav a' dhavata madhu. Comp. also adhavaniya. On the washing of the Soma which is technically designated by the verb a-dhav, see H. O., Gottinger Gelehrte Anzeigen, 1890, p. 426 seq.; Hillebrandt, Vedische Mythologie, I, 216.--The purification of the sweet drink, at which Agni is produced, was probably achieved by the tempest.
+
+  
+
+Verse 4.
+
+Note [1:141:4:1]1. The highest father is Heaven.
+
+Note [1:141:4:2]2. The meaning of prikshudhah is unknown.
+
+[p. 151]
+
+Note [1:141:4:3]3. Yat is repeated twice, as yasya in X, 121, 2. yasya visve upa-a'sate pra-sisham yasya deva'h.
+
+Note [1:141:4:4]4. On ghrina', comp. Lanman, Noun-Inflection, 335.
+
+  
+
+Verse 5.
+
+Note [1:141:5:1]1. The mothers are the Waters.
+
+Note [1:141:5:2]2. The reading, very probably, ought to be vivavridhe.
+
+Note [1:141:5:3]3. Boehtlingk-Roth believe that the reading ought to be sanayuvah or sana-gurah. Sana-gurah (cf. sana-gura pitara, IV, 36, 3) seems to me quite possible, although there is no positive necessity for abandoning the traditional reading.--The 'former' mothers may be the heavenly Waters; the mothers in whom Agni runs down are the rivers. Prof. Max Muller adds that the former mothers may possibly be 'the burnt pieces of wood. Agni runs up in them, then leaves them to burn new pieces.'
+
+  
+
+Verse 6.
+
+Note [1:141:6:1]1. On the whole verse, compare Pischel, Vedische Studien, I, 217.
+
+Note [1:141:6:2]2. Comp. above, I, 45, 7, note 1.
+
+Note [1:141:6:3]3. The second Pada is translated by Pischel: 'Wie in einen Konig drangen sie in ihn, wenn sie (Trank)opfer darbringen.' But verse 11 shows that bhagam depends on paprikana'sah.
+
+Note [1:141:6:4]4. Comp. III, 16, 4. a' deveshu ... a' samse uta nrina'm.
+
+  
+
+Verse 7.
+
+Note [1:141:7:1]1. The translation of hvarah is quite uncertain. The same must be said of the rest of this Pada.
+
+Note [1:141:7:2]2. The sentence is incomplete.
+
+  
+
+Verse 8.
+
+Note [1:141:8:1]1. On sikvan (or sikvas), comp. M. M.'s note, vol. xxxii, p. 318; Hubschmann, Vocalsystem, p. 186. The translation is only tentative.--Two syllables are wanting;
+
+[p. 152]
+
+we may propose a reading like sikvabhih parishkritah (comp. H. O., Prolegomena, 76, note 3).
+
+Note [1:141:8:2]2. This passage is most obscure. The first words of the Pada are the same as above, 140, 5. The 'black ones' probably are the dark clouds of smoke that surround Agni. But it is very strange that these clouds should be designated as surayah, 'liberal ones.' And the vocative (?) dakshi (Padapatha dhakshi), instead of which we should at least expect daksho or dakshin, is no less strange. The text seems thoroughly corrupt.
+
+Note [1:141:8:3]3. See Lanman, p. 557.
+
+  
+
+Verse 10.
+
+Note [1:141:10:1]1. Comp. Geldner, Vedische Studien, I, 121.
+
+  
+
+Verse 11.
+
+Note [1:141:11:1]1. Comp. above, verse 6, Pada 2.
+
+Note [1:141:11:2]2. Comp. VIII, 24, 14. daksham prinkantam.
+
+Note [1:141:11:3]3. The human and the divine race. I do not believe that Dr. Neisser (Zur Vedischen Verballehre, 17) is right in interpreting yamati as an indicative.
+
+  
+
+Verse 13.
+
+Note [1:141:13:1]1. The translation of simivadbhih is only tentative. Simi (I, 151, 1) cannot be identical with sami.
+
+Note [1:141:13:2]2. Nih tatanyuh (nish tatanyuh, Samhitapatha) of course is derived from tan, not from stan. Comp. I, 105, 12. satyam tatana su'ryah; IV, 5, 13. su'rah varnena tatanan usha'sah, &c.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 153]
+
+  
+
+MANDALA I, HYMN 142.
+
+  
+
+ASHTAKA II, ADHYAYA 2, VARGA 10-11.
+
+  
+
+APRI HYMN.
+
+1. Being inflamed, Agni, bring hither to-day the gods to the man who holds forth the (sacrificial) ladle. Spin out the ancient thread (of sacrifice) [*1] for the sacrificer who has prepared Soma.
+
+2. Measure out, O Tanunapat [*1], the sacrifice rich in ghee, rich in honey, of a priest like me, of a sacrificer who has toiled hard.
+
+3. The brilliant, purifying, wonderful Narasamsa [*1] mixes the sacrifice with honey three times a day, the god worthy of worship among the gods.
+
+4. Agni, magnified [*1] by us, bring hither the bright, beloved Indra. For this my prayer is addressed [*2] to thee whose tongue is good.
+
+5. (Priests) hold forth the (sacrificial) ladle, strewing the sacrificial grass at the decorous service of the sacrifice;--I [*1] trim [*2] (the sacrificial grass) which best receives the gods with its wide extent, a big shelter for Indra.
+
+6 [*1]. May the divine doors open themselves, the increasers of Rita, the never sticking, large ones, the purifying, much-desired (doors), that the gods may come forth.
+
+7. May Night and Dawn, of glorious appearance, the two neighbouring (goddesses), wearing beautiful ornaments [*1], the young [*2] mothers of Rita, sit down together on the sacrificial grass [*3].
+
+8. May the two divine Hotris, eager in praising (the gods), the sages with lovely tongues, perform
+
+[p. 154]
+
+for us to-day this successful sacrifice which attains to Heaven.
+
+9. The brilliant (goddess) placed among the gods, among the Maruts [*1], Hotra Bharati [*2], Ila, Sarasvati, and Mahi [*3]: may these worshipful (goddesses) sit down on the sacrificial grass.
+
+10. May Tvashtri, inclined towards us, pour forth for us, in our navel [*1], that wonderful seed with many treasures [*2], plentiful by itself, for the sake of prosperity and wealth [*3].
+
+11. Letting go (the sacrificial food to the gods) sacrifice by thyself to the gods, O tree [*1]. May [*2] Agni make the offerings ready [*3], the god among the gods, the wise one.
+
+12. For Him who is accompanied by Pushan and by the Maruts, by the Visve devah, (by) Vayu [*1], who is moved by the Gayatra song, for Indra pronounce the Svaha over the offering.
+
+13. Come hither to the offerings over which the Svaha has been pronounced, in order to feast. Indra! Come hither! Hear our call! Thee they call at the worship.
+
+  
+
+NOTES.
+
+The hymn is an Aprisukta. The same Rishi. Metre, Anushtubh. The whole hymn is closely related to I, 13.--Verse 10: cf. VS. XXVII, 20; TS. IV, 1, 8, 3; MS. II, 12, 6.
+
+  
+
+Verse 1.
+
+Note [1:142:1:1]1. The third Pada of this verse is identical with VIII, 13, 14.
+
+  
+
+Verse 2.
+
+Note [1:142:2:1]1. Comp. I, 13, 2, note 1.
+
+[p. 155]
+
+  
+
+Verse 3.
+
+Note [1:142:3:1]1. Comp. I, 13, 2, note 1.
+
+  
+
+Verse 4.
+
+Note [1:142:4:1]1. 'Magnified' is ilitah; comp. the note on I, 1, 1. The verse is addressed to the Idah.
+
+Note [1:142:4:2]2. The text has akkha ... vakyate. To me there seems to be no doubt that this is the passive of vak, not of vank. Comp. the name of the priest akkhavaka, and the phrase akkhoktibhih matina'm, I, 61, 3; 184, 2. The same passive of vak is found III, 39, 1. matih hridah a' vakyamana (then follows akkha ... gigati); X, 47, 7 (stomah) ... manasa vakyamanah.--It may be observed that in our passage as well as in III, 39, 1 and X, 47, 7, the forms vakyate, vakyamana, vakyamanah are preceded by a vowel; and we may infer that the poet did not say ukyate, &c., in order to avoid the hiatus.
+
+  
+
+Verse 5.
+
+Note [1:142:5:1]1. The poet begins as if he intended to say, 'Priests ... lay down the sacrificial grass.' But he continues, I lay down.' Dr. Neisser (Bezzenberger's Beitrage, XX, 60) tries to explain the difficulty in a way in which I cannot follow him.
+
+Note [1:142:5:2]2. On the verb vrig technically connected with barhih, see Geldner, Vedische Studien, I, 152 seq., and compare vol. xxxii, I, 38, 1, note 2; I, 64, 1, note 2.
+
+  
+
+Verse 6.
+
+Note [1:142:6:1]1. With the whole verse compare I, 13, 6.
+
+  
+
+Verse 7.
+
+Note [1:142:7:1]1. Pischel's opinion (Vedische Studien, II, 113 seq.) that pesah means 'Gestalt,' 'Form,' 'Farbe,' 'rupa,' does not convince me.
+
+Note [1:142:7:2]2. See Geldner, Kuhn's Zeitschrift, XXVIII, 195.
+
+[p. 156]
+
+Note [1:142:7:3]3. Comp. VIII, 87, 4. a' barhih sidatam sumat. Geldner (Vedische Studien, II, 190) translates: 'das schone Opfergras.'
+
+  
+
+Verse 9.
+
+Note [1:142:9:1]1. 'Should we read marteshu for marutsu?' M. M. This conjecture seems perhaps rather bold.
+
+Note [1:142:9:2]2. Hotra Bharati, i. e. the personified Offering of the Bharatas, seems to be one goddess, more usually called simply Bharati. Comp. I, 22, 10; II, 1, 11; III, 62, 3; Bergaigne, Religion Vedique, I, 322; H. O., Religion des Veda, 243, note 2. Pischel's opinion (Vedische Studien, II, 85) is different.
+
+Note [1:142:9:3]3. See above, I, 13, 9, note 1.
+
+  
+
+Verse 10.
+
+Note [1:142:10:1]1. On the navel as the symbol of the connection between father and son, see Bergaigne, I, 35, 36, and comp. the well-known name Nabhanedishtha.
+
+Note [1:142:10:2]2. For puru va'ram very probably puruva'ram should be read (Grassmann). See II, 40, 4. puruva'ram ... rayas posham vi syatam na'bhim asme.
+
+Note [1:142:10:3]3. With the last Pada compare II, 40, 4, quoted in note 2, and II, 3, 9. praga'm Tvashta vi syatu na'bhim asme; see also Taittiriya Samhita IV, I, 8, 3. Tvashtri is generally considered as giving sons; see H. O., Religion des Veda, 234.
+
+  
+
+Verse 11.
+
+Note [1:142:11:1]1. Comp. I, 13, 11, note 1.
+
+Note [1:142:11:2]2. The second hemistich recurs I, 105, 14.
+
+Note [1:142:11:3]3. See Neisser, Zur Vedischen Verballehre, 22.
+
+  
+
+Verse 12.
+
+Note [1:142:12:1]1. The text has 'for Vayu,' not 'for (the god) accompanied by Vayu.' But there is no doubt that pushanvate, &c., refers to Indra, and that Vayu is named merely as a companion of Indra.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 157]
+
+  
+
+MANDALA I, HYMN 143.
+
+  
+
+ASHTAKA II, ADHYAYA 2, VARGA 12.
+
+1. I bring forward my most powerful, entirely new (pious) thought (i. e. hymn). the prayer of my words [*1] to Agni, the son of strength; he is the child of the Waters [*2], the beloved one, who together with the Vasus has sat down on the Earth as a Hotri observing the appointed time (for sacrificing).
+
+2. Being born in the highest heaven Agni became visible to Matarisvan. By the power of his mind, by his greatness when kindled, his flame filled Heaven and Earth with light.
+
+3 [*1]. His flames are fierce; never ageing are the flames of him who is beautiful to behold, whose face is beautiful, whose splendour is beautiful. The never sleeping, never ageing (rays) of Agni whose power is light, roll forward like streams across the nights (?) [*2].
+
+4. Him the all-wealthy, whom the Bhrigus have set to work on the navel of the earth, with the whole power of the world [*1]--stir up that Agni by thy prayers in his own house--(him) who alone rules over goods like Varuna.
+
+5. He who is not to be kept back like the roar of the Maruts, like an army [*1]that is sent forward, like the thunderbolt of heaven--Agni eats with his sharp jaws, he chews, he throws down the forests as a warrior throws down his foes.
+
+6. Would Agni eagerly come to our hymn? Would He the Vasu together with the Vasus fulfil our desire? Will He, the driver, stir our prayers
+
+[p. 158]
+
+that they may be successful? (Thus thinking) I praise Him whose face is bright, with this my prayer.
+
+7. He who has kindled him strives [*1] towards Agni as towards Mitra (or, towards a friend)--(to Agni) whose face shines with ghee, the charioteer of Rita. May he who when kindled becomes a racer [*2], shining at the sacrifices [*3], lift up our bright-coloured prayer.
+
+8 [*1]. Preserve us, O Agni, never failing with thy never-failing, kind and mighty guardians; protect our people all around with those undeceived, undismayed, never slumbering (guardians), O thou our wish [*2]!
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Gagati; the last verse Trishtubh. The hymn has been translated by Kaegi, Siebenzig Lieder des Rigveda, p. 100.--Verse 7 = TB. I, 2, 1, 12.
+
+  
+
+Verse 1.
+
+Note [1:143:1:1]1. Comp. VIII, 59, 6. vakah matim.
+
+Note [1:143:1:2]2. Agni who is considered as born from the Waters, is identified several times with a god who, like Matarisvan, in my opinion had an independent origin, with Apam napat ('Child of the Waters'). Comp. Bergaigne, Rel. Vedique, II, 17 seq.; H. O., Religion des Veda, 118 seq.
+
+  
+
+Verse 3.
+
+Note [1:143:3:1]1. There is no sufficient reason for transposing verses 3 and 4 (Kaegi).
+
+Note [1:143:3:2]2. Probably we should read ati aktu'n; comp. VI, 4, 5. ati eti aktu'n.--See Bergaigne, Melanges Renier, p. 96.
+
+[p. 159]
+
+  
+
+Verse 4.
+
+Note [1:143:4:1]1. Bhuvanasya seems to depend on magmana; comp. VII, 82, 5. bhuvanasya magmana.
+
+  
+
+Verse 5.
+
+Note [1:143:5:1]1. Pischel (Vedische Studien, I. 231) seems to me to be right in denying that sena ever means 'Geschoss,' and in translating sena srishta' 'exercitus effusus.' The opinion of Prof. von Bradke and Prof. Bloomfield is different; see Zeitschrift der Deutschen Morgenl. Gesellschaft, XLVI, 456; XLVIII, 549.
+
+  
+
+Verse 7.
+
+Note [1:143:7:1]1. The text adds the dativus ethicus vah, 'for you' (comp. Delbruck, Altindische Syntax, 206), which can scarcely be translated.
+
+Note [1:143:7:2]2. Geldner (Vedische Studien, I, 168) has shown that akra very probably means 'horse.' Agni is very frequently compared to a horse.--Comp. Ludwig, Ueber die neuesten Arbeiten auf dem Gebiete der Rigveda-Forschung, p. 54; Roth, Zeitschrift der D. Morg. Ges., XLVIII, 118.
+
+Note [1:143:7:3]3. See above, I, 31, 6, note 2.
+
+  
+
+Verse 8.
+
+Note [1:143:8:1]1. With Padas C D compare the verse VI, 8, 7. adabdhebhih tava gopa'bhih ishte asma'kam pahi trishadhastha suri'n.
+
+Note [1:143:8:2]2. 'What is ishte? Is it thou our wish, or thou our sacrifice?' M. M.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 160]
+
+  
+
+MANDALA I, HYMN 144.
+
+  
+
+ASHTAKA II, ADHYAYA 2, VARGA 13.
+
+1. The Hotri [*1] goes forward [*2] (in order to fulfil) his duty by his wonderful power, directing upwards the brightly adorned prayer. He steps towards the (sacrificial) ladles which are turned to the right [*3] and which first kiss his foundation [*4].
+
+2. They have greeted with shouts the streams of Rita [*1] which were hidden at the birthplace of the god, at his seat. When He dwelt dispersed in the lap of the waters, he drank the draughts by (the power of) which he moves [*2].
+
+3. Two (beings) of the same age [*1] try to draw that wonderful shape (Agni) towards themselves, progressing in turns towards a common aim [*2]. Then he is to be proclaimed by us like a winner [*3] (in a contest). The charioteer [*4] (governs all things) as if pulling in the reins of a draught-horse.
+
+4. He whom two (beings) of the same age [*1] serve, two twins dwelling together in one common abode, the gray one has been born as a youth by night as by day [*2], the ageless one who wanders through many generations of men.
+
+5. The prayers, the ten fingers [*1] stir him up. We, the mortals, call him, the god, for his protection. From the dry land he hastens to the declivities [*2]. With those who approached him he has established new rules [*3].
+
+6. Thou indeed, O Agni, reignest by thy own nature over the heavenly and over the terrestrial
+
+[p. 161]
+
+world as a shepherd (takes care of his cattle). These two variegated, great (goddesses) striving for gloriousness, the golden ones who move crookedly [*1], have approached thy sacrificial grass.
+
+7. Agni! Be gratified and accept graciously this prayer, O joy-giver, independent one, who art born in the Rita, good-willed one, whose face is turned towards us from all sides, conspicuous one, gay in thy aspect, like a dwelling-place rich in food [*1].
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Gagati.--No verse occurs in the other Samhitas.
+
+  
+
+Verse 1.
+
+Note [1:144:1:1]1. The Hotri is Agni.
+
+Note [1:144:1:2]2. Comp. III, 27, 7, where it is said of Agni: purastat eti mayaya.--The poet says eti pra, and not pra eti, in order to avoid the hiatus.
+
+Note [1:144:1:3]3. Comp. below, III, 6, 1. dakshina-va't.
+
+Note [1:144:1:4]4. 'Which first, i. e. at the time when the sacrificial vessels are put down, kiss his dhaman (foundation), i. e. the place of Agni.' Sayana.
+
+  
+
+Verse 2.
+
+Note [1:144:2:1]1. Comp. IX, 75, 3. abhi im ritasya dohanah anushata, and VIII, 12, 32. na'bha yagnasya dohana pra adhvare. I take dohanah as acc. plur. of an abstract noun dohana formed like garana, bhandana, &c. But possibly it might be the nom. plur. either of the same noun or of a nomen agentis dohana: 'the streams of Rita (the libations?) or the milkers of Rita, hidden at the birthplace of the god, have greeted him with shouts.' It would
+
+[p. 162]
+
+be difficult, however, to say why the milkers of Rita (i. e. the priests?) are called 'hidden at the birthplace of the god.' Prof. Max Muller thinks of a reading parivritah, 'surrounding Agni.' He refers the 'streams of Rita' (nom.) to the water, cf. I, 105, 12. ritam arshanti sindhavah.
+
+Note [1:144:2:2]2. Svadha'h adhayat ya'bhih i'yate. In my opinion svadha' means 'the inherent power,' 'the power of moving according to one's own will,' and then the drink which confers this power on a being, especially on the dead ancestors.--Comp. M. M., vol. xxxii, p. 32 seq.; H. O., Religion des Veda, 531, note 2.
+
+  
+
+Verse 3.
+
+Note [1:144:3:1]1. According to Sayana the two beings spoken of here and in the next verse are the Hotri and the Adhvaryu.
+
+Note [1:144:3:2]2. See I, 130, 5. ayungata samanam artham akshitam; III, 6i, 3. samanam artham karaniyamana.
+
+Note [1:144:3:3]3. On bhagah ni havyah, see Geldner, Vedische Studien, I, 121.
+
+Note [1:144:3:4]4. The charioteer is Agni.
+
+  
+
+Verse 4.
+
+Note [1:144:4:1]1. See verse 3, note 1.
+
+Note [1:144:4:2]2. Comp. Gaedicke, Der Accusativ, p. 175. He translates: 'bei Tage noch bei Nacht ergrauend.'
+
+  
+
+Verse 5.
+
+Note [1:144:5:1]1. Vris (apax legomenon) is ranged in the Nighantus among the angulinamani and explained by Sayana accordingly. The word seems indeed to mean 'finger.' Compare with our passage IX, 8, 4; 15, 8; 93, 1; 97, 57.
+
+Note [1:144:5:2]2. Comp. I, 33, 4. dhanoh adhi vishunak te vi ayan, and especially X, 4, 3. dhanoh adhi pravata yasi haryan. I cannot follow Pischel (Vedische Studien, II, 69 seq.) in explaining these passages. 'Over the heavenly expanse he hastens down towards us.' M. M.
+
+[p. 163]
+
+Note [1:144:5:3]3. See Pischel, Vedische Studien, I, 300. Like Pischel I do not know who 'they who approached Agni' are. Possibly the worshippers or priests are alluded to. 'He received new praises with (or from) those who approached him.' M. M.
+
+  
+
+Verse 6.
+
+Note [1:144:6:1]1. Sayana explains the two female beings here in question as Heaven and Earth. Does the 'crooked movement' refer to the daily revolution of the sky?
+
+  
+
+Verse 7.
+
+Note [1:144:7:1]1. The last Pada recurs X, 64, 11.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 164]
+
+  
+
+MANDALA I, HYMN 145.
+
+  
+
+ASHTAKA II, ADHYAYA 2, VARGA 14.
+
+1. Ask ye him. He has come. He knows. He the intelligent one moves forward; He moves along (his way) (?) [*1]. In him all commands, all wishes dwell. He is the lord of strength, of mighty power.
+
+2. They ask him. He himself [*1] does not ask in turn what he, the wise one, has grasped by his own mind alone [*2]. He does not forget the first word nor another word. Unconfused he adheres to his own power of mind.
+
+3. To him go the sacrificial ladles, to him go the racers [*1]. He alone may hear all my words. He who pronounces many praishas [*2], the conqueror, the accomplisher of sacrifices whose blessings are flawless, the young child has assumed vigour.
+
+4. When he has come together [*1] (with his companions [*2]), he goes to greet them [*3]. As soon as born he steals upon (his prey) together with his companions. He strokes the ... [*4] to give him delight and joy, when the loving ones [*5] approach him who stands on them [*6].
+
+5. He, the animal living in the water and walking in the forest [*1], has been placed on the highest skin [*2] (sky?). He has proclaimed his rules to the mortals: for Agni, the knowing one, is intent upon Rita (Right) and is true.
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Gagati; the last verse is Trishtubh.--No verse occurs in the other Samhitas.
+
+[p. 165]
+
+  
+
+Verse 1.
+
+Note [1:145:1:1]1. The Samhita text has sa' nv iyate, the Pada text, sah nu iyate. Comp. Pratisakhya 314. I propose to read sa'nu (= sa anu) iyate.
+
+  
+
+Verse 2.
+
+Note [1:145:2:1]1. See Geldner, Ved. Studien, II, p. 188.
+
+Note [1:145:2:2]2. Possibly we should read svena eva.
+
+  
+
+Verse 3.
+
+Note [1:145:3:1]1. The text (arvatih) implies that these race-horses are mares. Probably, as Sayana explains, the prayers (stutayah) are alluded to. See on the prayers compared with horses, Bergaigne, II, 284 seq.
+
+Note [1:145:3:2]2. Praisha is the technical designation of the sacrificial commands of one priest (or more especially, of the Maitravaruna) to another priest; comp. Schwab, Das Altindische Thieropfer, p. 90; H. O., Religion des Veda, 390.
+
+  
+
+Verse 4.
+
+Note [1:145:4:1]1. Sama'rata may be the third person of singular or of plural.
+
+Note [1:145:4:2]2. I supply 'with his companions' in consideration of the second Pada (yugyebhih). It is difficult to say who Agni's companions are (the flames? the officiating priests?).
+
+Note [1:145:4:3]3. Ludwig's conjecture, upa sta'yam karati, is very ingenious. 'He stealthily approaches them.'--On upastha'yam, comp. also Bollensen, Zeitschrift der Deutschen Morgenl. Gesellschaft, XLVII, 586.
+
+Note [1:145:4:4]4. The meaning of svantam, which occurs here and in the obscure passage X, 61, 21 (adha ga'vah upamatim kana'yah anu svantasya kasya kit para iyuh), is unknown. Possibly it is related to svatra, which means something like 'powerful' or 'prosperous.'
+
+[p. 166]
+
+Note [1:145:4:5]5. The prayers? The oblations?
+
+Note [1:145:4:6]6. Api-sthitam may have active or passive meaning, 'he who stands on somebody or something,' and 'he on whom somebody or something stands.'
+
+  
+
+Verse 5.
+
+Note [1:145:5:1]1. The first Pada (and probably also the fourth) belong to the metrical. type described by H. O., Prolegomena, p. 68 seq.: the first part, before the caesura, consists of four syllables; and then the Pada goes on as if it had the pentasyllabic opening.
+
+Note [1:145:5:2]2. After Agni's abode in the Waters and in the wood has been mentioned in the first Pada, the second Pada possibly refers to his heavenly abode to which the adjective upama (highest') seems to point. Thus the 'highest skin' would be the sky. But Sayana, who refers it to the Vedi, may possibly be right. His explanation would very well agree with the second hemistich.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 167]
+
+  
+
+MANDALA I, HYMN 146.
+
+  
+
+ASHTAKA II, ADHYAYA 2, VARGA 15.
+
+1. I praise Agni who has three heads and seven rays (or reins) [*1], who is without flaw, sitting in the lap of his parents [*2] and of whatever moves or is firm, who has filled (with his light) all the lights of Heaven.
+
+2. The big bull has grown up to them [*1]; the ageless one who from here (from this world) distributes his blessings, the tall has stood up erect. He puts down his feet on the surface of the wide (Earth); his red ones [*2] lick the udder (the cloud?).
+
+3. Walking towards their common calf the two well-established [*1] milch-cows [*2] walk about in different directions. They measure interminable paths; they have invested themselves with all great desires.
+
+4. Wise poets [*1] follow his track [*2] who in manifold ways protect the ageless one with their hearts. Wishing to acquire him they have searched the river [*3]. He the Sun [*4] became visible to them, to the men [*5].
+
+5. He is worthy to be looked for, round about in his race-courses, the noble who is to be magnified [*1], the great one [*2], in order that the small may live, as he, the all-visible liberal lord, has become a progenitor for those germs in many places.
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Trishtubh.--No verse occurs in the other Samhitas.
+
+[p. 168]
+
+  
+
+Verse 1.
+
+Note [1:146:1:1]1. Sayana refers the three heads of Agni to the three Savanas, or the three worlds, or the three sacrificial fires. The last explanation seems to be most probable. The seven reins (rays) are, according to Sayana, the seven metres or the seven flames of Agni. The last explanation is recommended by III, 6, 2 (see below). But it is possible also to think of the seven priests (sapta hotarah).--Comp. II, 5, 2 (see below), and Taitt. Samhita I, 5, 3, 2 (to which passage Ludwig refers): sapta te agne samidhah sapta gihva'h sapta rishayah sapta dha'ma priya'ni, &c.
+
+Note [1:146:1:2]2. The parents are Heaven and Earth.
+
+  
+
+Verse 2.
+
+Note [1:146:2:1]1. The text has the dual feminine; no doubt Heaven and Earth are meant.
+
+Note [1:146:2:2]2. The horses or flames of Agni.
+
+  
+
+Verse 3.
+
+Note [1:146:3:1]1. On su-meka, comp. the article of Prof. Windisch in Festgruss an Bohtlingk, p. 114.
+
+Note [1:146:3:2]2. The cows seem to be Night and Dawn; comp. above, I, 95, 1; 96, 5. Night and Dawn are called sumeke, I, 113, 3.
+
+  
+
+Verse 4.
+
+Note [1:146:4:1]1. The priests.
+
+Note [1:146:4:2]2. I have translated padam nayanti in the way indicated by Atharva-veda XI, 2, 13. viddhasya padani'hiva; comp. also Manu VIII, 44. Prof. Max Muller translates, 'Wise poets lead (Agni) to the ageless place, keeping many things in their heart--or, lead the ageless Agni to his place (the sacrifice).'
+
+Note [1:146:4:3]3. They have tried to find Agni in his proper dwelling, in the water.
+
+Note [1:146:4:4]4. The Sun is here identified with Agni.
+
+Note [1:146:4:5]5. On the form nri'n standing for different cases,
+
+[p. 169]
+
+compare Lanman, Noun-Inflection, 430; Bergaigne, Religion Vedique, I, 136, note 1; Pischel, Vedische Studien, I, 42, and Gottinger Gel. Anzeigen, 1890, p. 541 seq.; Hillebrandt, Zeitschrift der Deutschen Morgenl. Gesellschaft, XLVIII, 420. Here it seems most natural to take nri'n, as Pischel has proposed, as standing for the dative plural. Bartholomae (Studien zur indogermanischen Sprachgeschichte, I, 118, comp. p. 48), referring to III, 14, 4, believes that nri'n (or, more correctly, *nri'm), both here and there is genitive plural, and that Agni is called 'the sun of men' because men are able to light this sun themselves. To me it seems very doubtful that this is a Vedic idea, and as to the verse III, 14, 4, I believe that nri'n there is a regular accusative plural: Agni is called there, 'a sun that spreads out men over their dwellings.'
+
+  
+
+Verse 5.
+
+Note [1:146:5:1]1. Ilenyah. Comp. I, 1, 1, note 2.
+
+Note [1:146:5:2]2. Agni may be called mahah, 'the great one.' But it seems more natural to read mahe, the ancient pronunciation of which word before a word commencing with a vowel (maha') coincided, or nearly coincided, with that of mahah. The translation then would be: 'he who is to be magnified in order that the great and the small may live.'
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 170]
+
+  
+
+MANDALA I, HYMN 147.
+
+  
+
+ASHTAKA II, ADHYAYA 2, VARGA 16.
+
+1. How, O Agni, have the resplendent ones worshipped thee, aspiring through the powers of the Ayu [*1], when [*2] the gods, obtaining kith and kin of both races [*3] (human and divine?), rejoiced in the song of Rita (or Right) [*4]?
+
+2. Give heed to this my proffered hymn, O youngest one, which is most rich in liberal gifts [*1], O self-dependent one! The one abuses thee, the other praises thee: I thy reverer revere thy body, O Agni [*2]!
+
+3. Thy guardians, O Agni, who saw and saved the blind son of Mamata from distress [*1]--he the possessor of all wealth has saved them who have done good deeds [*2]. The impostors, trying to deceive, have not deceived.
+
+4. The niggard, O Agni, the harmful and malicious who injures us by falsehood: may the heavy spell recoil on him; may he injure his own body by his evil words [*1].
+
+5. And, O strong one, whatever mortal knowingly injures another mortal by falsehood: from such a one, O praised Agni, protect him who praises thee. Agni! Do not deliver us to distress.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 2 = VS. XII, 42; TS. IV, 2, 3, 4; MS. II, 7, 10. Verse 3 = RV. IV, 4, 13; TS. I, 2, 14, 5; MS. IV, 11, 5.
+
+[p. 171]
+
+  
+
+Verse 1.
+
+Note [1:147:1:1]1. The Ayu seems to be Agni himself. Or is it admissible to interpret ayoh as standing metri causa for ayavah? Then the hemistich would refer to the mythical sacerdotal tribe of the Ayus, the ancient worshippers of Agni. Comp., for instance, X, 7, 5; 46, 8. The translation would be, 'How, O Agni, have the resplendent Ayus worshipped thee, aspiring with their powers?'
+
+Note [1:147:1:2]2. 'Because.' M. M.
+
+Note [1:147:1:3]3. Comp. VIII, 103, 7. ubhe toke tanaye dasma vispate parshi ra'dhah maghonam.
+
+Note [1:147:1:4]4. As to ritasya sa'man, comp. Vag. Samh. XXII, 2, and ritasya slokah, Rig-veda IV, 23, 8. Our Pada recurs IV, 7, 7 with the reading ritasya dha'man.
+
+  
+
+Verse 2.
+
+Note [1:147:2:1]1. With vakasah mamhishthasya compare mamhishthabhih matibhih, VIII, 23, 23.
+
+Note [1:147:2:2]2. Cf. Aufrecht, Kuhn's Zeitschrift, III, 200.
+
+  
+
+Verse 3.
+
+Note [1:147:3:1]1. Dirghatamas the son of Mamata is the reputed author of this section of the first Mandala which belongs indeed to a family of priests claiming descent from him. The story of the blindness of Dirghatamas and of the distress into which he fell is told in the Mahabharata I, 4179 seq., ed. Calc.; comp. also Geldner, Vedische Studien, II, 145.
+
+Note [1:147:3:2]2. Considering the construction of the whole verse from the grammatical point of view only, one will scarcely be tempted to translate otherwise than we have done. But it is rather strange that Agni is represented here as saving those very guardians by the aid of whom he has saved Mamateya. The meaning which one should expect to find expressed, is rather that Agni, as he has saved Mamateya by his guardians, has saved also, and will save, all pious worshippers. This meaning may be established
+
+[p. 172]
+
+if we consider the construction of the verse as similar, for instance, to that of I, 37, 12 (vol. xxxii, p. 64): marutah yat ha vah balam ganan akukyavitana, 'O Maruts, with such strength as yours, you have caused men to tremble.' Thus we may, I believe, translate here, 'Agni! With such guardians as thine who have seen and saved the blind son of Mamata from distress, he, the possessor of all wealth (i. e. Agni), has saved all those who have done good deeds.' Bergaigne (III, 191) understands the verse in the same way.
+
+  
+
+Verse 4.
+
+Note [1:147:4:1]1. The Vedic idea of the evil deeds recoiling on the evil-doer himself has been treated of by Bergaigne, III, 190 seq.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 173]
+
+  
+
+MANDALA I, HYMN 148.
+
+  
+
+ASHTAKA II, ADHYAYA 2, VARGA 17.
+
+1. When Matarisvan ... [*1] had produced by attrition the Hotri, the ... [*2] who belongs to all gods, whom they have established among the human clans, shining like the sun, resplendent that (he might show his beautiful) shape--
+
+2. They did not deceive him [*1] who had granted a hymn (to the worshipper). Agni is my protection; therewith he is satisfied. They took pleasure in all his [*2] works--(in the works) of the singer who brought praise.
+
+3. Whom the worshipful (gods) [*1] took and placed in his own seat (as priest) with their praises: him they [*2] have carried forward, taking hold of him in their search, hastening like horses that draw a chariot.
+
+4. The marvellous one destroys many things with his jaws. Then [*1] the resplendent one shines in the forest. Then the wind blows after his flame day by day as after the arrow of an archer, after a weapon that has been shot.
+
+5. Him whom no impostors, no harmful foes [*1], no harm-doers may harm when he dwells in (his mother's) womb, him the blind ones bereft of sight did not damage by looking at him [*2]. His own friends have protected him.
+
+[p. 174]
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 1 = MS. IV, 14, 15.
+
+  
+
+Verse 1.
+
+Note [1:148:1:1]1. The first Pada is identical with the first Pada of I, 71, 4 (see our note there) with the exception of the word vishtah, instead of which that parallel passage has the reading vi-bhritah. It seems impossible to explain vishtah, and the concurrence of the metrical irregularity in the same part of the Pada--though metrical irregularities are not infrequent in this hymn--invites to a correction of the text. If vi-bhritah in I, 71, 4 (see note there) refers to Matarisvan, which I consider as doubtful, it would be easy to find for our passage an equivalent of that word little differing from the traditional vishtah, namely, visthitah: 'when Matarisvan, standing in different places, had produced him by attrition.' Of course whoever adopts a conjecture like this, can scarcely avoid understanding vi-bhritah in I, 71, 4 as an epithet of Matarisvan, not of Agni. Another way to correct our passage would be to put into the text a form derived from the root vish, 'to accomplish a work,' for instance, vishtya' (to be read as trisyllabic): 'when Matarisvan by his effort,' &c. Grassmann's vi-sitah is quite improbable.
+
+Note [1:148:1:2]2. Visva-apsum (Samhita text, visva'psum), evidently an epithet of Agni the Hotri, seems corrupt. Shall we read visva-psum ('endowed with all food')--comp. VIII, 22, 12. havam visvapsum visvavaryam--or visva-pusham (Samh., visvapusham, 'all-nourishing') or visva-apasam ('doing all works')? Also visva-psnyam may be thought of. It is impossible, of course, to arrive at any certain conclusion.
+
+  
+
+Verse 2.
+
+Note [1:148:2:1]1. 'He' seems to be Agni. Sayana, however, explains: dadanam id agnaye kurvanam eva mam. This would lead to a translation like this: '(The enemies) did
+
+[p. 175]
+
+not deceive (me, the worshipper) who had addressed a hymn (to Agni).'
+
+Note [1:148:2:2]2. On 'his' Sayana remarks, 'yagamanasya mama.' But the word may refer to Agni.
+
+  
+
+Verse 3.
+
+Note [1:148:3:1]1. There is no reason for abandoning here the usual meaning of yagniya. On the gods seeking after Agni, comp. Bergaigne, I, 110.
+
+Note [1:148:3:2]2. It is very probable, to say the least, that 'they' are again the gods.
+
+  
+
+Verse 4.
+
+Note [1:148:4:1]1. Is the first a't dissyllabic? More probably the Pada is deficient by one syllable.
+
+  
+
+Verse 5.
+
+Note [1:148:5:1]1. Two syllables are wanting before the caesura of the first Pada.
+
+Note [1:148:5:2]2. Was there a belief that a blind man by turning his blind eyes on somebody could do him harm? Possibly we might have to translate: 'Him (his foes) blind and bereft of sight did not damage though looking at him (i. e. though turning their blind eyes on him).'--Prof. Max Muller writes: 'Could it be: Even the blind saw, but did not injure him (andha'h apasyan na dabhan); abhikhya', when he was seen, no longer in the womb?'
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 176]
+
+  
+
+MANDALA I, HYMN 149.
+
+  
+
+ASHTAKA II, ADHYAYA 2, VARGA 18.
+
+1 [*1]. Towards great wealth this lord of the house [*2] advances [*3], the strong one in the abode of strong wealth. Let the stones honour him as he speeds forward.
+
+2. He the manly (bull) as of men so of the two worlds, whose stream is drunk by living beings [*1] in consequence of his renown--he who running forward has ripened in (his mother's) womb--
+
+3. He who lighted up the ... [*1] stronghold, the racer, the sage, like a ... [*2] horse, shining like the sun, endowed with hundredfold life.
+
+4. He who has a twofold birth (celestial and terrestrial), the flaming one has approached the threefold light, all spaces of the atmosphere, the Hotri, the best sacrificer, in the abode of the Waters.
+
+5. This is the Hotri having a twofold birth [*1] who has bestowed all the best gifts, out of desire of glory, on the quick mortal who worships him.
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Virag.--Verses 3-5 = SV. II, 1124-1126.
+
+  
+
+Verse 1.
+
+Note [1:149:1:1]1. My translation of this verse differs from that of Pischel, Ved. Studien, II, 100.
+
+Note [1:149:1:2]2. On patih dan, comp. Hubschmann, Vocalsystem, 142; Bartholomae, Arische Forschungen, I, 70; Joh. Schmidt, Kuhn's Zeitschrift, XXVII, 309; Pischel, Vedische Studien,
+
+[p. 177]
+
+[paragraph continues] II, 93 seq.; Bartholomae, Indogermanische Forschungen, III, 100 seq.
+
+Note [1:149:1:3]3. Comp. X, 93, 6. mahah sa rayah a' ishate.
+
+  
+
+Verse 2.
+
+Note [1:149:2:1]1. Comp. I, 80, 4, and similar passages, in which the waters are called giva-dhanyah, 'the prize (of contests) which living beings have gained.'
+
+  
+
+Verse 3.
+
+Note [1:149:3:1]1. We do not know what na'rmini is. Possibly in this word two words, na armini, are contained, so that the particle na would be repeated in each of the three Padas. The translation would then be: 'he who lighted up the armini (?) like a stronghold.'
+
+Note [1:149:3:2]2. I place no confidence in the attempts to find the meaning of a word like nabhanyah with the aid of etymology only. The same word occurs in I, 173, 1 as an epithet of the Saman which the priest, who is compared to a bird, sings (ga'yat sa'ma nabhanyam yatha veh). It occurs also in VII, 42, 1. pra krandanuh nabhanuyasya vetu. The connection in which these words stand, seems to show that the meaning is: 'the noise of the sacrificial fire shall arise;' very probably the fire is compared to a horse, and its noise to the neighing of that horse. Thus nabhanya would be in VII, 42, 1, quite as in our passage, an epithet of a horse. This epithet may refer either to the swift motion of the horse and of the Saman ascending to the gods, or more probably to the gay voice of the horse, the loud noise of the Saman.
+
+  
+
+Verse 5.
+
+Note [1:149:5:1]1. Two syllables are wanting in the first Pada.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 178]
+
+  
+
+MANDALA I, HYMN 150.
+
+  
+
+ASHTAKA II, ADHYAYA 2, VARGA 19.
+
+1. I thy indigent [*1] worshipper say much to thee, O Agni, dwelling in thy protection as (in the protection) of a great impeller [*2].
+
+2. Away even from the libation of a rich man who is feeble, who is a niggard, who never comes forward and does not care for the gods.
+
+3. The mortal (who worships thee?), O priest, is brilliant, great, most powerful in heaven. May we, O Agni, addicted to thee, be always foremost.
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Ushnih.--Verse 1 = SV. I, 97.
+
+  
+
+Verse 1.
+
+Note [1:150:1:1]1. On ari, see Bergaigne, Religion Vedique, II, 218.
+
+Note [1:150:1:2]2. Or, 'of the great impeller'--the Sun-god who impels or stimulates his horses? Comp. VI, 6, 6?
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 179]
+
+  
+
+MANDALA I, HYMN 188.
+
+  
+
+ASHTAKA II, ADHYAYA 5, VARGA 8-9.
+
+  
+
+APRI HYMN.
+
+1. Being kindled thou reignest to-day, a god with the gods, O conqueror of thousandfold (wealth)! As messenger, as a sage, carry the oblations (to the gods).
+
+2. O Tanunapat! For him who walks in righteousness the sacrifice is anointed with honey. May he [*1] grant thousandfold food.
+
+3. Receiving libations, worthy of being magnified [*1] bring hither to us the worshipful gods. Agni! Thou art a winner of thousandfold (bliss).
+
+4. They have spread with might the eastward-turned sacrificial grass, blessing (our tribe) with a thousand men [*1], (at the place) where you reign, O Adityas!
+
+5. The Prince, the Sovereign, the mighty ones, the eminent ones [*1], the (Divine) Doors, which are many and more than many, have sent forth streams of ghee.
+
+6. Adorned with gold, wearing beautiful ornaments you verily reign high [*1] in your splendour. Sit down here, ye two Dawns [*2].
+
+7. May the two fine-voiced divine Hotris, the sages, perform as the first this sacrifice for us.
+
+8. Bharati! Ila! Sarasvati! All ye (goddesses) whom I invoke, promote us to splendour.
+
+9. Tvashtri indeed, the eminent (god) has shaped all forms, all cattle. Do thou by sacrifice produce their increase.
+
+[p. 180]
+
+10. Yield up by thyself, O tree, (the sacrificial food) to the abode of the gods [*1]. May Agni make the offerings relishable.
+
+11. Agni going in front of the gods is anointed with this Gayatra song; he shines when Svaha is pronounced (over the oblations).
+
+  
+
+NOTES.
+
+The Rishi is Agastya, the metre Gayatri. This Apri hymn is closely related to hymn X, 110, the author of which no doubt knew and imitated our hymn.--No verses occur in the other Samhitas.
+
+  
+
+Verse 2.
+
+Note [1:188:2:1]1. I have taken dadhat as a third person, the subject being Tanunapat. But it may be a participle referring to yagnah: 'the sacrifice which procures thousandfold food is anointed with honey.'
+
+  
+
+Verse 3.
+
+Note [1:188:3:1]1. The text has i'dyah.
+
+  
+
+Verse 4.
+
+Note [1:188:4:1]1. 'This is the Dasavira sacrifice of the Saktyas. Ten valiant sons are born to those who perform it.' Pankavimsa Brahmana. XXV, 7, 4.
+
+  
+
+Verse 5.
+
+Note [1:188:5:1]1. These are evidently names of the divine doors.--As to the nominative durah, see Lanman, p. 486.
+
+  
+
+Verse 6.
+
+Note [1:188:6:1]1. On adhi-vi-rag, comp. IX, 75, 3. adhi triprishthah ushasah vi ragati.
+
+Note. [1:188:6:2]2. I. e. Dawn and Evening.
+
+  
+
+Verse 10.
+
+Note [1:188:10:1]1. Literally: 'to the abode, for the gods.' Comp. the corresponding verse (10) of the Apri hymn X, 110. deva'nam pa'thah.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 181]
+
+  
+
+MANDALA I, HYMN 189.
+
+  
+
+ASHTAKA II, ADHYAYA 5, VARGA 10-11.
+
+1. Agni! Lead us to wealth on a good path, O god who knowest all rules. Drive away from us sin which leads us astray. We will offer to thee the fullest praise.
+
+2. Agni! Thou who art young, help us safely across all difficulties. Be for us a broad, large, wide stronghold, for our kith and kin, with luck and weal [*1].
+
+3. Agni! Drive away from us all plagues. (Then) they shall plague [*1] peoples who do not stand under Agni's protection. (Give) us back again the earth, O god, together with all the immortals, O worshipful one, that it may go well with us.
+
+4. Protect us, Agni, with thy unwearied guardians, thou who flamest in thy beloved seat. May no danger, O youngest of the gods, attain thy praiser, not now nor in future, O mighty one!
+
+5. Do not deliver us, O Agni, to the harmful foe, to the greedy one, to the impostor, to misfortune. Do not surrender us, O mighty one, to one who has teeth, who bites, nor to one who has no teeth, nor to one who will hurt us.
+
+6. May a (god) like thee, O Agni, who art born according to Rita, being praised spread out a shelter for the body (of the worshipper that protects) from every one who tries to harm or to revile him. For thou, O god, art a descrier [*1] of everything that leads us astray.
+
+[p. 182]
+
+7 [*1]. Thou, O Agni, distinguishing both (kinds of men, the pious and the impious, or the Aryans and the Dasyus [*2]), eagerly approachest (Aryan) men at (the time of) the advancing (day) [*3], O worshipful one. At (the time of) rest thou hast become governable to the man (or, to Manu; or, thou art to be praised by men [*4]); thou art to be smoothed down like a horse [*5] by the Usigs.
+
+8. We have pronounced our invocations, I the son of Mana [*1], before this mighty Agni. May we obtain (our wishes) through a thousand Rishis. May we find a food-giving ... rich in quickening rain [*2].
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Trishtubh.--Verse 1 = VS. V, 36; VII, 43; XL, 16; TS. I, 1, 14, 3; 4, 43, 1; TB. II, 8, 2, 3; TA. I, 8, 8; MS. I, 2, 13; IV, 10, 2; 14, 3. Verse 2 = TS. I, 1, 14, 4; TB. II, 8, 2, 5; TA. X, 2, 1; MS. IV, 10, 1; 14, 3. Verse 3 = TB. II, 8, 2, 4; MS. IV, 14, 3.
+
+  
+
+Verse 2.
+
+Note [1:189:2:1]1. 'For health and wealth,' M. M.; see vol. xxxii, p. 193.
+
+  
+
+Verse 3.
+
+Note [1:189:3:1]1. If the accent is correct (Samh. abhyamanta, Pad. abhi amanta), the clause, though containing no subordinating word, must be understood as standing in logical dependence on the following, or--which in our case seems more probable--on the preceding clause. Examples of this kind have been collected by Delbruck, Altindische
+
+[p. 183]
+
+[paragraph continues] Syntax, p. 43.--That krishti'h should be nominative is very improbable; comp. Lanman, Noun-Inflection, 393. See also Leo Meyer, Kuhn's Zeitschrift, XVI, 9.
+
+  
+
+Verse 6.
+
+Note [1:189:6:1]1. Prof. Max Muller (vol. xxxii, p. 229) translates, 'For thou, god, art the deliverer from all assaults;' he derives vishpat 'from vi and spas, to bind.'
+
+  
+
+Verse 7.
+
+Note [1:189:7:1]1. This verse has been treated of by Geldner, Vedische Studien, II, 156, 158.
+
+Note [1:189:7:2]2. Geldner (loc. cit., 156) proposes two explanations for ubhayan. It may refer either to the pious and the impious spoken of in the preceding verses, or to prapitvam and abhipitvam, which words Geldner believes to be masculine. I do not attach such weight to the Avestic frapithwo (Vend. III, 3) as to draw, with Geldner, a conclusion from this word on the gender of the Vedic prapitva, and in every case I think that this explanation of ubhayan is very forced, while it is natural to refer ubhayan to the pious and impious, or as we may express it in conformity with Vedic ideas, to 'men' (comp. manushah Pada 2, manave Pada 3), i. e. Aryans, and Dasyus (see VIII, 50, 8; 98, 6; IX, 92, 5). Then ubhayan vi vidvan would have exactly the sane meaning as the words in I, 51, 8. vi ganihi a'ryan ye ka dasyavah.
+
+Note [1:189:7:3]3. On prapitva we have the two ingenious discussions of Geldner, Vedische Studien, II, 155 seq., and of Bloomfield in the fifth series of his Contributions to the interpretation of the Veda, p. 24 seq. In my opinion Bloomfield has not succeeded in proving that the words ending in -pitva (prapitva, abhipitva, sapitva, &c.) contain the stem pith, 'sap, drink, nourishment,' and that prapitva means the morning-pressure of Soma, which is usually designated as pratahsavana, abhipitva, the evening-pressure or the tritiya-savana. I do not think it necessary, however,
+
+[p. 184]
+
+to examine here the single points of his interesting and elaborate discussion, for it seems to me that Geldner has conclusively shown that the meaning of these words is different from what Bloomfield believes it to be: abhipitva, as Geldner (p. 155) states, is 'Erholung,' 'Rast,' and 'die Zeit des Rastens,' 'Feierabend,' 'Abend;' prapitva (p. 178), on the other hand. means 'Vorlauf,' 'das aufs Ziel Zugehen,' die vorgeruckte Tageszeit.'
+
+Note [1:189:7:4]4. Sa'syah, 'governable,' does not give an impossible meaning. But should we not have to correct samsyah 'thou art to be praised by men?'
+
+Note [1:189:7:5]5. On akrah, comp. Vedische Studien, I, 168, and above, I, 143, 7.
+
+  
+
+Verse 8.
+
+Note [1:189:8:1]1. Mana is another name of Agastya. See Zeitschrift der Deutschen Morg. Gesellschaft, XLII, 221.
+
+Note [1:189:8:2]2. On the last words of the hymn--the regularly repeated conclusion of the Agastya hymns--see M. M., vol. xxxii, p. xx, and also Bartholomae, Bezzenberger's Beitrage, XV, 212. I do not think it very probable that isha is here the name of an autumn month, as found iii the Satapatha Brahmana and others of the more modern Vedic texts; to me it would seem rather strange that such a prayer for the fertility of that month should have formed, among the Agastyas, the standing conclusion of their sacrificial hymns. But the names of the two months isha and urga seem to point to the existence of two adjectives meaning 'giving food' and 'giving sap.'--Then follows vrigana, used as a masculine. Geldner (Vedische Studien, I, 151) indicates the following passages, in which he believes that this masculine vrigana occurs: V, 44, 1; VI, 35, 5; VII, 32, 27; X, 27, 4; and the concluding Pada of the Agastya hymns. Of these passages the two first seem to be open to doubt as to the correctness of the text. In V, 44, 1 the true reading may be pratikinam vrishanam dohase; comp. verse 3, vrisha sisuh, and I, 173, 6, where possibly vrishanam should be read instead of vriganam (Gottinger
+
+[p. 185]
+
+[paragraph continues] Gelehrte Anzeigen, 1890, 417). In VI, 35, 5 I propose to read vrinagam (Gott. Gel. Anzeigen, loc. cit., 416). In VII, 32, 27 and X, 27, 4 vrigana (Padap. vriganah; the letter d follows) and vriganeshu seem to be masculine, though it is not absolutely impossible to see in these forms the nom. plur. and loc. plur. of the neuter vrigana. But I believe that any attempts to derive conclusions from these three passages on the meaning of the masculine vrigana are hopeless.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 186]
+
+  
+
+MANDALA II, HYMN 1.
+
+  
+
+ASHTAKA II, ADHYAYA 5, VARGA 17-19.
+
+1 [*1]. Thou, O Agni, the flaming one, (art born) from out the Heavens [*2], thou (art born) from out the Waters and the stone (the flint); thou (art born) from out the forests and the herbs; thou art born bright, O Lord of men, (as belonging) to men [*3].
+
+2 [*1]. To thee, O Agni, belongs the Hotri's and the Potri's office exercised at the appointed season; to thee belongs the office of the Neshtri; thou art the Agnidh [*2] for the righteous. To thee belongs the office of the Prasastri; thou actest as an Adhvaryu, and thou art the Brahman and the master of the house in our house [*3].
+
+3 [*1]. Thou, O Agni, art Indra, a bull among (all) beings. Thou art the wide-ruling Vishnu, worthy of adoration. Thou art the Brahman, a gainer of wealth, O Brahmanaspati [*2]. Thou, O Vidhartri (i. e. who keepest asunder all things), art united with Puramdhi (or the Liberality of the gods) [*3].
+
+4. Thou, O Agni, art the king Varuna whose laws are firm; thou becomest Mitra, the wondrous one, worthy of being magnified. Thou art Aryaman, the lord of beings, whom I may enjoy [*1]. Thou, O god, art Amsa [*2], desirous of distributing (goods) in the assembly [*3].
+
+5. Thou, O Agni, being Tvashtri, (grantest) to thy worshipper abundance in heroes. To thee, who art accompanied by the (divine) wives [*1], who art great like Mitra, belongs relationship [*2]. Thou,
+
+[p. 187]
+
+the quick inciter [*3], givest abundance in horses. Thou, rich in wealth, art the host of men [*4].
+
+6. Thou, O Agni, art Rudra, the Asura of the high Heaven [*1]; thou, being the host of the Maruts, rulest over nourishment. Thou goest along with the flame-coloured Winds, bringing happiness to our home. Thou, being Pushan, protectest thy worshippers by thy own might.
+
+7. Thou, O Agni, art a giver of wealth to him who does service to thee [*1]; thou art the god Savitri, a bestower of treasures. Thou, being Bhaga, O lord of men, rulest over wealth. Thou art a protector in his house to him who has worshipped thee. [*2].
+
+8. Towards thee, in the house, the lord of the clan, O Agni, the clans strive, towards thee, the bounteous king. Thou with the beautiful face possessest all things. Thou art equal to thousands, to hundreds, to ten (of others).
+
+9. Thee, O Agni, men (make) their father by their sacrifices [*1]; thee who shinest with thy body they (invite) to brotherhood by their (sacrificial) work. Thou becomest a son to him who has worshipped thee. As a kind friend thou protectest against attack.
+
+10. Thou, O Agni, art Ribhu, to be adored when near. Thou rulest over strength [*1], over wealth rich in food. Thou shinest [*2], thou burnest for the sake of giving (wealth). Thou art a hewer [*3], an expander of sacrifice.
+
+11. Thou, Agni, O god, art Aditi to the worshipper. Thou, being Hotra Bharati [*1], growest strong by prayer. Thou art Ida, living a hundred winters, for (the increase of) ability. Thou, the killer of Vritra, O Lord of wealth, art Sarasvati [*2].
+
+[p. 188]
+
+12. Thou, O Agni, well kept, art the highest vital power. In thy lovely colour and in thy appearance (dwell all) beauties. Thou art great strength that carries us forward. Thou art abundant wealth, extending on all sides.
+
+13. The Adityas have made thee, O Agni, their mouth; the bright ones have made thee their tongue, O Sage. The Rati-sak gods (i. e. the 'bounteous' gods) accompany thee at the sacrifices. In thee the gods eat the offering which is offered to them.
+
+14. In thee, O Agni, with (thy) mouth [*1] all the guileless [*2] immortal gods eat the offering which is offered to them. Through thee the mortals taste their drink. Thou hast been born, the bright one, as the child of the plants.
+
+15 [*1]. Thou art united with them and equal to them in strength, O well-born Agni, nay, thou surpassest them, O god, when thy power [*2] has expanded here in its greatness over Heaven and Earth, over both worlds.
+
+16. The liberal lords who pour out, O Agni, over thy praisers gifts at the head of which there are cows [*1], the ornament of which are horses: lead both ourselves and them to welfare. May we speak loud in the assembly [*2], rich in valiant men.
+
+  
+
+NOTES.
+
+The Rishi is Gritsamada, the metre Gagati.--Verse 1 = VS. XI, 27; TS. IV, 1, 2, 5; TA. X, 76, 1; MS. II, 7, 2. Verse 2 = RV. X, 91, 10. Verse 6 = TS. I, 3, 14, 1; TB. III, 12, 2, 1. Verse 13 = TB. II, 7, 12, 6.
+
+[p. 189]
+
+  
+
+Verse 1.
+
+Note [2:1:1:1]1. Among the numerous texts which treat of the different origins of Agni (see Bergaigne, I, 20 seq.), especially the following two verses may be compared with this passage: VI, 48, 5. yam a'pah adrayah vana garbham ritasya piprati sahasa yah mathitah ga'yate nribhih prithivya'h adhi sa'navi; X, 45, 1. divah pari prathamam gagne agnih asmat dviti'yam pari gatavedah triti'yam apsu nrimanah agasram indhana enam garate svadhi'h.
+
+Note [2:1:1:2]2. The text (dyubhih tvam asusukshanih) seems to be corrupt. I believe that tvam, which is so frequently repeated through this verse and through the next verses, has been put here in the wrong place, and that we should read, dyubhyah a' susukshanih.
+
+Note [2:1:1:3]3. With the last words of this verse, comp. the conclusion of verse 24.
+
+  
+
+Verse 2.
+
+Note [2:1:2:1]1. This whole verse is repeated, X, 91, 10.
+
+Note [2:1:2:2]2. In my opinion there is no doubt that instead of the traditional reading, agnit, the correct form is agni't. The word is a compound of agni and idh and means 'the inflamer of the fire.' Cf. M. M., Hist. of A. S. L., 1859, pp. 450, 469.
+
+Note [2:1:2:3]3. This is the most ancient list of the 'seven priests,' by the side of whom the griha-pati or 'master of the house' is mentioned as the eighth. Comp. the formula in which the Adhvaryu names the officiating priests, Katyayana IX, 8, 8 seq., and see the remarks of Weber, Indische Studien, X, 141, 376, and my own exposition, Religion des Veda, 383 seq., 396. The 'Brahman' mentioned in our verse is the Brahmanakkhamsin of the later ritual. Comp. Katyayana IX, 8, 11; Satapatha Brahmana IV, 6, 6, 5.
+
+  
+
+Verse 3.
+
+Note [2:1:3:1]1. On verses 3-6, see von Bradke, Dyaus Asura, p. 52 seq.
+
+[p. 190]
+
+Note [2:1:3:2]2. Brihaspati or Brahmanaspati is the Brahman among the gods. But it is doubtful whether the title of Brahman in this connection should be understood in the later technical sense of the word, as the Ritvig who has to superintend the whole sacrifice. Comp. H. O., Religion des Veda, 396, note 1.
+
+Note [2:1:3:3]3. Vidhartri seems to be here another name of Bhaga; (comp. VII, 41, 2. bhagam huvema ... yah vidharta'). It is known that no god is so frequently mentioned in connection with Puramdhi as Bhaga. The passages have been collected by Grassmann in his Dictionary, s. v. puram-dhi.
+
+  
+
+Verse 4.
+
+Note [2:1:4:1]1. Prof. von Bradke (Dyaus Asura, 53) believes that the text is corrupt; he thinks that the fourth Pada may have occupied the place of a lost continuation of the relative clause, yasya sam-bhugam. I cannot but share the feeling on which Prof. von Bradke's remark rests, though I do not believe that the solution of the difficulty which he proposes is very probable. Could not the correct reading be yasi (instead of yasya) sam-bhugam, 'thou goest to the enjoyment (of goods)?' Comp. VI, 71, 6, where the traditional text has vamasya hi kshayasya deva bhu'reh, and kshayasya doubtless should be changed into kshayasi.
+
+Note [2:1:4:2]2. On Amsa, as one of the Adityas, comp. Bergaigne, III, 39, 99.
+
+Note [2:1:4:3]3. Vidathe: comp. the note on I, 31, 6. It is tempting to conjecture vidhate (comp. verse 5), but there is no necessity for such a conjecture. Comp., for instance, VI, 24, 2. vidathe dati va'gam.
+
+  
+
+Verse 5.
+
+Note [2:1:5:1]1. Gnavah should be read without accent, as Grassmann, Prof. Weber, and M. Henry (Revue Critique, Jan. 12, 1891, p. 23) have seen. Cf. Lanman, 518, 519.
+
+Note [2:1:5:2]2. The meaning probably is, 'Thou art related to the other gods and to men,' or 'Thou art related to us.' Comp. VIII, 27, 10; 73, 12.
+
+[p. 191]
+
+Note [2:1:5:3]3. Agni seems to be identified here with Apam napat, who frequently is called asu-heman. Comp. Windisch, Festgruss an Roth, 143 seq.
+
+Note [2:1:5:4]4. The men, of course, are the Maruts, as is shown by the well-known use of sardhah (cf. vol. xxxii, p. 67 seq.).
+
+  
+
+Verse 6.
+
+Note [2:1:6:1]1. Comp. von Bradke, Dyaus Asura, J3 seq.
+
+  
+
+Verse 7.
+
+Note [2:1:7:1]1. As to aramkrite, cf. VIII, 67, 3.
+
+Note [2:1:7:2]2. Or, thou art a protector to him who has worshipped thee in his house.--Among the various ways for explaining or removing the metrical deficiency of the last Pada the correction dame a' (for dame) is recommended by verse 8.
+
+  
+
+Verse 9.
+
+Note [2:1:9:1]1. Ishtibhih, standing by the side of samya, seems to be derived from the root yag. Thus ige, igana stand by the side of sasame, sasamana.--Cf. ishtibhih matibhih, II, 18, 1.
+
+  
+
+Verse 10.
+
+Note [2:1:10:1]1. The names of the three Ribhus are Ribhu, Vaga, Vibhvan. The word va'ga used here evidently alludes to the second of these names.
+
+Note [2:1:10:2]2. Bergaigne (Religion Ved., II, 406) no doubt is right in believing that the verb vi bhasi ('thou shinest') alludes to the name Vibhvan. Comp. X, 91, 1. vibhuh vibha'va.
+
+Note [2:1:10:3]3. Vi-sikshuh again seems to convey an allusion to the Ribhu myth. When dividing the cup of Tvashtri into four cups, the Ribhus say, sakhe vi siksha (IV, 35, 3). This vi siksha and the corresponding adjective vi-sikshu should be derived from the root sas, 'to cut to pieces.'
+
+  
+
+Verse 11.
+
+Note [2:1:11:1]1. Here we have the three goddesses of the Apri hymns, Bharati, Ida, and Sarasvati. Of the goddess
+
+[p. 192]
+
+[paragraph continues] Bharati the full name is given, Hotra Bharati, i. e. 'the Offering of the Bharatas.' Comp. Bergaigne, I, 322 seq.
+
+Note [2:1:11:2]2. Comp. VI, 6.1, 7, where Sarasvati is called vritraghni'.
+
+  
+
+Verse 14.
+
+Note [2:1:14:1]1. Or 'through (thee who art their) mouth.'
+
+Note [2:1:14:2]2. Comp. I, 19, 3. visve deva'sah adruhah; vol. xxxii, pp. 53, 55.
+
+  
+
+Verse 15.
+
+Note [2:1:15:1]1. On this verse, compare Pischel, Vedische Studien, I, 97.
+
+Note [2:1:15:2]2. On prikshah, see above, I, 127, 5, note 1.
+
+  
+
+Verse 16.
+
+Note [2:1:16:1]1. On go-agra, compare Pischel, Vedische Studien, I, 51.
+
+Note [2:1:16:2]2. Vidathe: comp. the note on I, 31, 6.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 193]
+
+  
+
+MANDALA II, HYMN 2.
+
+  
+
+ASHTAKA II, ADHYAYA 5, VARGA 20-21.
+
+1. Increase Gatavedas by your sacrifice [*1], worship Agni for ever with your offering and your prayer [*2]--him who has been kindled, the receiver of good offerings, the solar hero, the heavenly Hotri, the charioteer [*3] in our settlements [*4].
+
+2. For thee Nights and Dawns have been lowing, O Agni, as milch-cows in the folds for their calf [*1]. A steward [*2], as it were, of Heaven, thou shinest on the human tribes, O bountiful one, on continuous nights [*3].
+
+3. The gods have set him to work, as a steward [*1] of Heaven and Earth, endowed with wonderful power, at the bottom of the air: Agni who is well known like a chariot [*2], brightly shining, deserving of praise like Mitra (or, like a friend) in (human) dwellings.
+
+4. They have established him who grows in the air, in his house, the serpent [*1] with beautiful splendour like gold [*2], the winged (son?) of Prisni [*3] who lights up with his eyes both tribes (of gods and of men), like a guardian of the way (?) [*4].
+
+5. May he, the Hotri, encompass the whole sacrifice. Men strive towards him with offerings and prayer. (Agni) with golden jaws [*1], hurrying around in the growing (plants) [*2], lighted up the two worlds like the Sky with the stars.
+
+6. Thus mayst thou, being brightly kindled for our welfare or being exhausted (?) [*1], shine upon us with thy wealth. Carry hither to us the two
+
+[p. 194]
+
+worlds for the sake of happiness, Agni, O god, that they may eagerly partake [*2] of the offering of the man (or, of Manus).
+
+7. Give us, Agni, mighty, give us thousandfold (gifts). Open strength for us like a door [*1] for the sake of glory. Make Heaven and Earth inclined towards us through (our) spell. Make the Dawns shine like the brilliant Sun.
+
+8. Being kindled after dawns and nights may he shine with his red light like the sun, Agni, being a good sacrificer with the help of the offerings of man (or, of Manus) [*1], the king of the clans, and the welcome guest of Ayu.
+
+9. Thus, O Agni, ancient one, our human prayer has prospered among the immortals who dwell in the great heaven. May the cow [*1] when milked, yield [*2] freely to the singer in our settlements hundredfold (wealth) of all kinds.
+
+10. May we, O Agni, (attain) bliss in valiant men by our racers, or may we shine over (all) people by our sacred spells. May our unconquerable lustre beam on high like the sun over the fivefold dwellings (of the five peoples).
+
+11. Be thou, O mighty one, worthy of praise among us, (thou) from whom the well-born, liberal (lords) have sought nourishment [*1], unto whom the strong ones, O Agni, go for sacrifice, who shinest in thy abode among (the worshipper's) own kith.
+
+12. May we both, O Gatavedas, the praisers and the liberal (lords), be in thy protection, O Agni. Help us to good, resplendent, abundant wealth which is accompanied by offspring, by good progeny.
+
+13 = II, 1, 16.
+
+[p. 195]
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 7 = TS. II, 2, 12, 6; MS. IV, 12, 2.
+
+  
+
+Verse 1.
+
+Note [2:2:1:1]1. In this Pada one syllable is wanting. It may be thought that the first word should be pronounced iagnena. For supplying the missing syllable by conjecture there would, however, be many ways. Comp. also H. O., Hymnen des Rig-veda, I, p. 79.
+
+Note [2:2:1:2]2. Tana gira': comp. I. 38, 13 (vol. xxxii, p. 82).
+
+Note [2:2:1:3]3. Dhuh-sadam. The exact meaning is, 'who occupies a decisive position.'
+
+Note [2:2:1:4]4. Vriganeshu: comp. I, 60, 3, note 2.
+
+  
+
+Verse 2.
+
+Note [2:2:2:1]1. Comp. VIII, 88, 1. abhi vatsam na svasareshu dhenavah indram girbhih navamahe.
+
+Note [2:2:2:2]2. See I, 58, 7, note 1.
+
+Note [2:2:2:3]3. See Lanman, p. 482; Gaedicke, p. 89. 'During continuous nights.' M. M.
+
+  
+
+Verse 3.
+
+Note [2:2:3:1]1. See I, 58, 7, note 1.
+
+Note [2:2:3:2]2. Cf. VIII, 84, 1. ratham na vedyam.
+
+  
+
+Verse 4.
+
+Note [2:2:4:1]1. I follow the conjecture of Bohtlingk-Roth, who propose to read hvaram. Comp. Atharva-veda IV, I, 2 (Asvalayana Srautasutra IV, 6, 3; Sankhayana Srautasutra V, 9, 7). surukam hvaram. The meaning of the word is conjectural; comp. I, 141, 7, note 1. If we read hvare, the translation could be 'brilliant like gold, in a hidden place.' (M. M.)
+
+Note [2:2:4:2]2. Comp. Pischel, Vedische Studien, I, 52.
+
+[p. 196]
+
+Note [2:2:4:3]3. Or, the winged (bird) of Prisni? No other passages which make Agni the son (or the bird) of Prisni are known to me.
+
+Note [2:2:4:4]4. The accent of pathas points to a genitive, dependent on payum, of a word which is, however, different from pa'thas. Grassmann thinks that pathas is a lengthening for pathas, but Lanman (Noun-Inflection, 470) is quite right in observing that this is hard to believe in the first syllable of a Pada. Should we not correct the text and read pathah (gen. sing. governed by payum)? The reading pathah may be due to the influence of the neighbourhood of payum.
+
+  
+
+Verse 5.
+
+Note [2:2:5:1]1. See vol. xxxii, p. 301.
+
+Note [2:2:5:2]2. Comp. X, 92, I. sushkasu harinishu garbhurat.
+
+  
+
+Verse 6.
+
+Note [2:2:6:1]1. Ludwig translates sam-dadasva'n: 'zum heile [dich selber] aufreibend;' Grassmann, 'oder seist erloschen du;' Gaedicke (p. 89), 'and wenn du verloschest;' Griffith, 'a liberal giver;' Neisser (Bezzenberger's Beitr. XIX, 286), 'deine Kunst zusammennehmend.' Sayana says, 'samdadasvan samyak prayakkhan.' Prof. Max Muller suggests, 'being a liberal benefactor.'
+
+Note [2:2:6:2]2. There was no reason for correcting deva-vitaye as Ludwig once proposed. He has himself abandoned this conjecture.
+
+  
+
+Verse 7.
+
+Note [2:2:7:1]1. As to this metaphor ('opening' strength or the like), comp. VIII, 5, 21. uta nah divya'h ishah ... apa dva'raiva varshathah, and the passages collected by Dr. Hirzel, Gleichnisse and Metaphern im Rig-veda (Leipzig, 1890), 103.
+
+  
+
+Verse 8.
+
+Note [2:2:8:1]1. The third Pada is repeated in X, 11, 5.
+
+[p. 197]
+
+  
+
+Verse 9.
+
+Note [2:2:9:1]1. The milch-cow of course is the prayer.
+
+Note [2:2:9:2]2. Ishani seems to be an infinitive like parshani neshani tarishani (Delbruck, Altindisches Verbum, 227; Neisser, Bezzenberger's Beitrage, XX, 43). I believe it to come from the root ish, 'to incite.' As to the syntactical peculiarities of these infinitives, comp. Delbruck, Altindische Syntax, 416.
+
+  
+
+Verse 11.
+
+Note [2:2:11:1]1. Ishay is a denominative from ish, as urgay is derived from u'rg (comp. Asvalayana Srautasutra V, 7, 3).
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 198]
+
+  
+
+MANDALA II, HYMN 3.
+
+  
+
+ASHTAKA II, ADHYAYA 5, VARGA 22-23.
+
+  
+
+APRI HYMN.
+
+1. Agni being kindled, set down on the earth, has stood up with his face towards all worlds. May the Hotri, the purifier, the ancient, wise one, may god Agni sacrifice to the gods, he who is worthy (of being the sacrificer).
+
+2. Narasamsa, anointing the abodes (of the sacrifice), equal by his greatness to the three heavens, endowed with beautiful light, moistening the offering, his mind being intent on scattering ghrita--may he anoint the gods on the summit of sacrifice.
+
+3. Being magnified [*1] in our mind, Agni, sacrifice for us to-day to the gods before the human (sacrificer) [*2], thou who art worthy (of being the sacrificer). Conduct hither the unshakable host of the Maruts. Sacrifice, O men, to Indra who sits on the Barhis.
+
+4. O divine Barhis! On this (Barhis) which is large, rich in valiant men, which has been spread on this Vedi (or sacrificial altar) rich in gain, ready for wealth, which is anointed with ghrita, sit down, O Vasus, O Visve devas, O Adityas [*1] worthy of worship!
+
+5. May the divine doors which are easily passable, open themselves wide when invoked with adoration. May they, the far-embracing, undecaying ones, open wide, purifying our glorious race [*1] which is rich in valiant men.
+
+6. May Dawn and Night, grown strong from of
+
+[p. 199]
+
+old, joyful like two birds (?) [*1], (do) their work well for us--they who weave, turned towards each other, the stretched-out warp, the ornamented form of the sacrifice [*2], (the two goddesses) flowing with plenty, rich in milk.
+
+7. May the two divine Hotris, the first ones, very knowing, very marvellous, perform the sacrifice rightly with their (sacrificial) verse. Sacrificing to the gods they anoint (them) [*1], observing the right time, on the navel of the Earth, over the three ridges (of the three worlds).
+
+8. May Sarasvati, the accomplisher of our prayer, may the goddess Ila, all-victorious Bharati--may the three goddesses, according to their wont, sit down on this Barhis and protect it, the faultless shelter.
+
+9. Through (the god's) hearing (our prayer) a manly son is born (to us), tawny-coloured, rich in gain, bringing vigour, loving the gods. May Tvashtri deliver for us a son, the navel (i. e. the tie that binds generations together), and may he then go to the abode of the gods.
+
+10 [*1]. May the tree (i. e. the sacrificial post) stand by, letting loose (the offering which goes to the gods). May Agni make the offering ready in consequence of our prayers. May the prescient divine butcher carry the thrice-anointed offering to the gods.
+
+11. He [*1] is joined with ghrita [*2]. His womb (on the altar) is ghrita. He rests on ghrita. His abode is ghrita. Carry hither (the gods) according to thy wont! Rejoice [*3]! Carry, O bull, the offering, over which the Svaha has been spoken, (to the gods).
+
+[p. 200]
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Trishtubh; verse 7: Gagati.--Verse 9 = TS. III, 1, 11, 2; TB. II, 8, 7, 4; MS. IV, 14, 8. Verse 11 = VS. XVII, 88; TA. X, 10, 2.
+
+  
+
+Verse 3.
+
+Note [2:3:3:1]1. The text has ilitah. Comp. above, I, 1, 1, note 2.
+
+Note [2:3:3:2]2. Comp. X, 53, I. ni hi satsat (scil. agnih) antarah pu'rvah asmat.
+
+  
+
+Verse 4.
+
+Note [2:3:4:1]1. It is very probable that the poet intends to distinguish the Vasus, the Visve devas, and the Adityas as three categories of gods. But then we should expect the accent a'dityah. Comp. VII, 51, 3. aditya'h visve marutah ka visve deva'h ka visve; X, 125, 1. aham rudrebhih vasubhih karami aham a'dityaih uta visvadevaih.
+
+  
+
+Verse 5.
+
+Note [2:3:5:1]1. Comp. the Grihya Mantra addressed to the Mekhala, of which it is said 'varnam pavitram punati nah agat,' Sankhayana Grihya II, 2, 1, &c.
+
+  
+
+Verse 6.
+
+Note [2:3:6:1]1. The meaning of vayya (comp. IX; 68, 8) is uncertain. Possibly it is derived from vi, 'the bird.' According to Sayana it would mean 'weavers' (vanakusale iva). Vayyeva may be vayye iva (dual feminine), in spite of the artificial theory of the Pragrihya vowels; see Lanman, p. 361; H. O., Hymnen des Rig-veda, I, 456. Or it may be vayya iva, dual masculine or singular feminine (comp. VII, 2, 6).
+
+Note [2:3:6:2]2. Comp. VII, 42, 1. adhvarasya pesah.
+
+[p. 201]
+
+  
+
+Verse 7.
+
+Note [2:3:7:1]1. Comp. VIII, 39, 1. agnih deva'n anaktu nah.
+
+  
+
+Verse 10.
+
+Note [2:3:10:1]1. With the first hemistich compare especially, III, 4, 10 (see below).
+
+  
+
+Verse 11.
+
+Note [2:3:11:1]1. 'He' of course is Agni.
+
+Note [2:3:11:2]2. Differing from M. M., vol. xxxii, p. 185, I take ghritam as an accusative.
+
+Note [2:3:11:3]3. Comp. III, 6, 9 (see below).
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 202]
+
+  
+
+MANDALA II, HYMN 4.
+
+  
+
+ASHTAKA II, ADHYAYA 5, VARGA 24-25.
+
+1. I call for you Agni, shining with beautiful shine, praised with beautiful praise [*1], the guest of the clans, the receiver of fine offerings, who is desirable like Mitra (or, like an ally), Gatavedas the god, among godly people.
+
+2. The Bhrigus worshipping him in the abode of the waters [*1] have verily [*2] established him among the clans of Ayu. Let him surpass all worlds, Agni, the steward of the gods [*3], the possessor of quick horses.
+
+3. The gods have established beloved Agni among the human clans as (people) going to settle (establish) Mitra [*1]. May he illuminate the nights that are longing (for him), he who should be treated kindly by the liberal (worshipper) in his house.
+
+4. His prosperity is delightful as good pasture (?) [*1]; delightful is his appearance when the burning one is driven forward, he who quickly shaking his tongue among the plants waves [*2] his tail mightily like a chariot-horse.
+
+5. When they praised [*1] to me the monstrous might of the eater of the forests [*2], he produced his (shining) colour as (he has done) for the Usigs [*3]. With shining splendour he has shone joyously, he who having grown old has suddenly become young (again).
+
+6. He who shines on the forests [*1] as if he were thirsty, who resounded like water on its path, like (the rattle of the wheels) of a chariot [*2]--he whose
+
+[p. 203]
+
+path is black, the hot, the joyous one has shone, laughing [*3] like the sky with its clouds.
+
+7. He who has spread himself burning over the wide (earth), moves about like an animal, free, without a keeper. The naming Agni, burning down the brushwood, with a black trail [*1], has, as it were, tasted the earth.
+
+8. Now in the remembrance of thy former blessings this prayer has been recited to thee at the third sacrifice [*1]. Give to us, Agni, mighty strength with a succession of valiant men, with plenty of food; (give us) wealth with good progeny [*2].
+
+9. Give, O Agni, such vigour to thy praiser together with his liberal (lords), that the Gritsamadas, rich in valiant men, victorious over hostile plots, attaining (their aim) in secret, may overcome through thee (their rivals) who get behind [*1].
+
+  
+
+NOTES.
+
+The Rishi is Somahuti Bhargava, the metre Trishtubh.--No verse occurs in the other Samhitas.
+
+  
+
+Verse 1.
+
+Note [2:4:1:1]1. To me there seems to be no doubt that the meaning of suvrikti is something like 'beautiful prayer,' beautiful song,' and then 'a god who is invoked with beautiful songs.' Thus suvriktayah or other cases of the same word stand by the side of stomah ... girah, VIII, 8, 22; of girah, I, 64, 1; VIII, 96, 10, comp. X, 64, 4; of brahma, VII, 31, 11; 97, 9; of stomaih, VII, 96, 1; of dhitibhih, VI, 61, 2; of akkhoktibhih matina'm, I, 61, 3, and so on. Comp. also VII, 83, 9. hava'mahe vam vrishana suvriktibhih; X, 41, 1. ratham ... suvriktibhih vayam vyushta ushasah havamahe; X, 80, 7. avokama suvriktim.
+
+[p. 204]
+
+This being the meaning of the word, I cannot think it probable--and herein I differ from the opinion pronounced by Prof. Max Muller, vol. xxxii, p. 109--that it stands in connection with the verb vrig in its well-known use referring to the Barhis. In my opinion (comp. also Geldner, Vedische Studien, I, 151) suvrikti may be connected with another use of vrig, with the meaning of this verb 'to draw a god towards himself, averting him from other sacrificers' (materials regarding this use of vrig have been collected by Geldner, loc. cit., 144). Or possibly the word may be derived, as Prof. von Roth believes, from rik (comp. suvita derived from i). It is true that the substantive rikti does not occur by itself: but, as Prof. Max Muller remarks (loc. cit.), this would not be fatal to Prof. von Roth's etymology, because many other words in the Veda occur as uttarapadas only. If we accept this theory, we should of course have to separate suvrikti from namovrikti and svavrikti.
+
+  
+
+Verse 2.
+
+Note [2:4:2:1]1. Comp. X, 46, 2. imam vidhantah apa'm sadhasthe.
+
+Note [2:4:2:2]2. Literally, 'doubly.' 'In two places, in the abode of the waters and among the clans of man.' M. M. Compare, however, X, 46, 2 (see last note).
+
+Note [2:4:2:3]3. Deva'nam aratih; comp. I, 58, 7, note 1.
+
+  
+
+Verse 3.
+
+Note [2:4:3:1]1. The meaning seems to be that people going to settle anywhere, secure safety by ceremonies addressed to Mitra, i. e. possibly by concluding alliances which stand under the special protection of Mitra. Comp. IV, 33, 10; H. O., Religion des Veda, 186, note 1.--Mitra is kshetrasa'dhas, VIII, 31, 14.
+
+  
+
+Verse 4.
+
+Note [2:4:4:1]1. Svasya-iva seems to be corrupt. Possibly we might read suyavasa-iva pushtih. In X, 11, 5 we read, sada asi ranvah, yavasa-iva pushyate. IV, 16, 15. okah na ranva' sudrisi-iva pushtih.--The translation of the traditional
+
+[p. 205]
+
+reading would be, 'His prosperity is delightful, like that of a person belonging to us.'
+
+Note [2:4:4:2]2. Bharibhrat seems to be a participle: but then dodhaviti must be accented (dodhaviti).
+
+  
+
+Verse 5.
+
+Note [2:4:5:1]1. On the verb pan, comp. Pischel, Vedische Studien, I, 199 seq.
+
+Note [2:4:5:2]2. Vanad seems to be, as Grassmann has seen, a compound of van, 'the forest' (comp. the genitive vana'm, the locative vamsu), and of ad. Of Agni is said several times 'vanani atti.'
+
+Note [2:4:5:3]3. On the mythical ancestors designated as the Usigas, see Bergaigne, I, 57 seq.
+
+  
+
+Verse 6.
+
+Note [2:4:6:1]1. The forests, of course, are the fuel.
+
+Note [2:4:6:2]2. To rathya-iva probably kakra' (nom. plur.) is to be supplied.
+
+Note [2:4:6:3]3. The 'laughing' of the sky is the lightning (Benfey, Vedica und Verwandtes, 138). The flames of Agni flash through the smoke as the lightning shines in the clouds.
+
+  
+
+Verse 7.
+
+Note [2:4:7:1]1. See Geldner, Vedische Studien, II, 29 seq.; Roth, Zeitschrift der Deutschen Morgenland. Gesellschaft, XLVIII, 107.
+
+  
+
+Verse 8.
+
+Note [2:4:8:1]1. The text has triti'ye vidathe (comp. I, 31, 6, note 2). Does this mean at the tritiya-savana? Three vidathas are spoken of also in VI, 51, 2; VII, 66, 10.
+
+Note [2:4:8:2]2. On the metrical irregularity, comp. H. O., Die Hymnen des Rig-veda, I, 67.
+
+  
+
+Verse 9.
+
+Note [2:4:9:1]1. 'May prevail, destroying through thee the neighbours lying in ambush.' M. M. To me guha seems to be connected with vanvantah.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 206]
+
+  
+
+MANDALA II, HYMN 5.
+
+  
+
+ASHTAKA II, ADHYAYA 5, VARGA 26.
+
+1. The brilliant Hotri [*1] has been born [*2], the father to protect the fathers [*3], aspiring after noble wealth. May we be able to bridle the strong (horse) [*4].
+
+2. He the leader of the sacrifice towards whom the seven reins (or rays) are stretched, the Potri promotes, as (he has done) for Manu, the divine eighth (rein); all those (reins he promotes) [*1].
+
+3. Or when he has run along, and has recited the sacred words [*1], and has pursued that (duty) [*2], he has encompassed every kind of wisdom as the felly (encircles) the wheel.
+
+4. For He has been born as the bright Prasastri, with bright power of mind. (A man) who knows his firm laws, mounts up on them as on the branches (of a tree) [*1].
+
+5. The lively milch-cows were attached to his, the Neshtri's, (bright) colour [*1]. Was it according to the wish of the three sisters who have gone there [*2]?
+
+6. When (coming) from the mother the sister has approached, bringing ghrita [*1], the Adhvaryu rejoices at their [*2] coming as corn (rejoices) at rain.
+
+7. May He the Ritvig (priest) himself make the Ritvig (serve) for his own refreshment [*1]. And may we readily gain the praise and the sacrifice [*2]; we have offered it.
+
+8. In order that He the knowing one (Agni) may readily serve all the worshipful (gods), this sacrifice, O Agni, which we have performed, rests in thee.
+
+[p. 207]
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Anushtubh.--Verse 3 = SV. I, 94; TS. III, 3, 3, 3; MS. II, 13, 5.
+
+  
+
+Verse 1.
+
+Note [2:5:1:1]1. As the Hotri is mentioned here, the following verses contain each the names of the other priests as given in II, 1, 2. Only the Agnidh is left out; possibly the words svah sva'ya dha'yase krinuta'm ritvik ritvigam (verse 7) contain an allusion to this priest, who may well be termed the Ritvig belonging to Agni and refreshing him.
+
+Note [2:5:1:2]2. With the first Pada of our verse, compare IX, 64, 10. induh pavishta ketanah.
+
+Note [2:5:1:3]3. The meaning seems to be: Agni, who has protected the fathers, has been born again, and will do the same for the present sacrificer.
+
+Note [2:5:1:4]4. The strong horse, of course, is Agni. Comp. III, 27, 3 (see below). On the construction (vaginah yamam), see Delbruck, Altindische Syntax, p. 417.
+
+  
+
+Verse 2.
+
+Note [2:5:2:1]1. On the seven rays or reins of Agni, see I, 146, 1, note 1. Besides the seven priests a mysterious eighth Ritvig priest is spoken of (X, 114, 9. kam ritvigam ashtamam su'ram ahuh); thus Agni has a mysterious eighth rasmi (ray or rein) besides the seven. Comp. Bergaigne, Religion Vedique, II, 144.
+
+  
+
+Verse 3.
+
+Note [2:5:3:1]1. Vokat brahmani: this seems to be an allusion to the Brahman priest (see verse 1, note 1).
+
+Note [2:5:3:2]2. Veh is third singular. See Joh. Schmidt, Kuhn's Zeitschrift, XXV, 91.
+
+  
+
+Verse 4.
+
+Note [2:5:4:1]1. Comp. VIII, 13, 6. vaya'h-iva anu rohate. Prof.
+
+[p. 208]
+
+[paragraph continues] Max Muller (vol. xxxii, p. 207) translates, 'springs up like young sprouts.'
+
+  
+
+Verse 5.
+
+Note [2:5:5:1]1. It is the Neshtri's office to lead the wife of the sacrificer to the place where the sacrifice is being performed. Thus Agni, the divine Neshtri, is represented as accompanied by female beings, by the 'milch-cows,' meaning the oblations of ghrita, &c., or possibly the dawns.
+
+Note [2:5:5:2]2. Are the 'three sisters' (comp. Bergaigne, 1, 321; II, 107) identical with the milch-cows spoken of in the first hemistich? Ludwig (vol. iv, p. 166) very appropriately calls attention to the fact that three cows were milked at the sacrifice of the full and the new moon. Comp. Hillebrandt, Altindisches Neu- and Vollmondsopfer, p. 12 seq. Three dawns are mentioned in VIII, 41, 3.
+
+  
+
+Verse 6.
+
+Note [2:5:6:1]1. The sister bringing ghrita seems to be the sacrificial spoon. Is the mother the milk-vessel or possibly the cow?
+
+Note [2:5:6:2]2. Does 'their' refer to the mother and the sister (cf. Delbruck, Altindische Syntax, p. 102)? Or are 'the three sisters who have gone there' referred to?
+
+  
+
+Verse 7.
+
+Note [2:5:7:1]1. The one Ritvig is Agni; the other possibly is the Agnidh who refreshes the Ritvig Agni. See verse 1, note 1.
+
+Note [2:5:7:2]2. After a't we should expect, instead of aram, another accusative, possibly rikam (see VII, 66, 11): 'may we master the praise, the sacrifice, and the verse.' Aram may have found its way into the text from verse 8.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 209]
+
+  
+
+MANDALA II, HYMN 6.
+
+  
+
+ASHTAKA II, ADHYAYA 5, VARGA 27.
+
+1. Accept, O Agni, this my piece of wood and this my sitting down (reverentially) [*1], and hear these words of mine.
+
+2. Let us worship thee, Agni, child of vigour, with this (piece of wood?) [*1], O winner of horses [*2], with this well-spoken (hymn), O well-born one.
+
+3. May we thus as thy devoted servants pay devotion by our words to thee who acceptest words (of prayer), to thee who aspirest after wealth, O giver of wealth.
+
+4. Thus be thou a liberal, bountiful lord, O lord of goods, O giver of goods. Drive hatred away from us.
+
+5. Thus (give) us [*1] rain from the sky; thus (give) us unattainable strength; thus (give) us thousandfold food.
+
+6. To him who magnifies thee, who desires thy help, O youngest messenger, (invoked) by our word, best sacrificing Hotri, come near.
+
+7. For thou, Agni, O sage, who knowest both races (of gods and of men), passest (to and fro) between them, like a messenger belonging to thy own people [*1], belonging to thy allies.
+
+8. Thus gladden (the gods) [*1] as the knowing one; sacrifice, O intelligent one, in due order, and sit down on this Barhis.
+
+[p. 210]
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Gayatri.--Verse 4 = VS. XII, 43; TS. IV, 2, 3, 4; MS. II, 7, 10.--The hymn has been translated by M. M., Selected Essays, II, p. 143.
+
+  
+
+Verse 1.
+
+Note [2:6:1:1]1. It does not seem probable that upasad is to be translated here according to its meaning in the later ritual, as one of the preparatory ceremonies of the Soma sacrifice. See Weber, Indische Studien, X, 363; Hillebrandt, Vedische Mythologie, I, 300.
+
+  
+
+Verse 2.
+
+Note [2:6:2:1]1. Aya' may be used adverbially: comp. III, 12, 2; VI, 17, 15; IX, 53, 2; 106, 14. But it is more probable that samidha or gira' should be supplied from verse 1. Comp. II, 24, 1. aya' vidhema gira'; IV, 4, 15. aya' samidha vidhema.
+
+Note [2:6:2:2]2. Comp. VIII, 61, 7. asvam-ishtaye.
+
+  
+
+Verse 5.
+
+Note [2:6:5:1]1. The conjecture sanah, proposed by Bohtlingk-Roth and Grassmann, is not necessary. The verb is to be supplied; comp. the passages collected by Pischel, Vedische Studien, I, 19.
+
+  
+
+Verse 7.
+
+Note [2:6:7:1]1. Ganyeva seems to be ganyah iva, comp. 11, 39, 1. duta'-iva havya ganya purutra'; IV, 55, 5. pa't patih ganyat amhasah nah.
+
+  
+
+Verse 8.
+
+Note [2:6:8:1]1. Comp. VII, 17, 4. yakshat deva'n amritan piprayat ka; VIII, 39, 9. yakshat ka piprayat ka nah.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 211]
+
+  
+
+MANDALA II, HYMN 7.
+
+  
+
+ASHTAKA II, ADHYAYA 5, VARGA 28.
+
+1. Bring us, O youngest god, Bharata [*1], Agni, the best, resplendent, much-desired wealth, O Vasu [*2]!
+
+2. May no malign power of a god or of a mortal overcome us. Help us across such hostile power.
+
+3. And may we dive with thee across all hostile powers as across streams of water.
+
+4. Bright, O purifier, worthy of adoration, Agni, thou shinest mightily; thou hast been worshipped by offerings of ghrita [*1].
+
+5. Thou, O Bharata [*1], Agni! hast been worshipped by us with offerings of heifers, of bulls, of eight-footed (cows) [*2].
+
+6. The old excellent Hotri who feeds on wood and drinks butter, he is the wonderful son of strength.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 1 = TS. I, 3, 14, 3; MS. IV, 11, 4. Verse 4 = TS. I, 3, 14, 5. Verse 6 = VS. XI, 70; TS. IV, 1, 9, 2; MS. II, 7, 7.
+
+  
+
+Verse 1.
+
+Note [2:7:1:1]1. Agni Bharata is Agni as the protector of the Bharata tribe or as invoked by that tribe.
+
+Note [2:7:1:2]2. With the beginning of this verse, I, 44, 4 should be compared.
+
+[p. 212]
+
+  
+
+Verse 4.
+
+Note [2:7:4:1]1. Comp. VIII, 19, 22. agnih ghritebhih a'hutah.
+
+  
+
+Verse 5.
+
+Note [2:7:5:1]1. See verse 1, note 1.
+
+Note [2:7:5:2]2. Roth (Petersb. Dictionary) supplies vagbhih or rigbhih; comp. VIII, 76, 12. va'kam ashta'padim. But there is no doubt that ashta'padi, standing by the side of vasa' and ukshan, has the same meaning as in the later ritual, viz. a cow with calf.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 213]
+
+  
+
+MANDALA II, HYMN 8.
+
+  
+
+ASHTAKA II, ADHYAYA 5, VARGA 29.
+
+1. As one who runs a race [*1] (praises) his chariots, praise thou the yoking of Agni (to the chariot of sacrifice), of the most glorious, bountiful (god)--
+
+2. Who is the best leader for his worshipper, who undecaying makes the malign decay [*1], the cheerful-faced who has been worshipped with offerings--
+
+3. He who is praised in the houses on account of his beauty in the evening and at dawn, whose law is not set at nought,
+
+4. The bright one who shines with his light as the Sun with his splendour, with his undecaying (flames) [*1], he who is anointed (with ghrita).
+
+5. The hymns have strengthened Agni the devourer [*1] along (the extent of) his own royalty [*2]. He has assumed every beauty.
+
+6. May we unharmed stand under the protection of Agni, Indra, Soma, of the gods; may we overcome our foes.
+
+  
+
+NOTES.
+
+The Rishi is Gritsamada; the metre is Gayatri, the last verse being Anushtubh, as is frequently the case in Gayatri hymns (see H. O., Hymnen des Rig-veda, I, 146).--No verse occurs in the other Samhitas.
+
+  
+
+Verse 1.
+
+Note [2:8:1:1]1. Vagayati means 'he strives for vaga,' vagayati 'he incites to quickness.' The accent is not always correct in the traditional text.
+
+[p. 214]
+
+  
+
+Verse 2.
+
+Note [2:8:2:1]1. Comp. II, 16, 1. indram aguryam garayantam.
+
+  
+
+Verse 4.
+
+Note [2:8:4:1]1. As to agaraih, 'the undecaying (flames),' comp. III, 18, 2; VI, 5, 4; 6, 2; VII, 3, 3; X, 87, 20.
+
+  
+
+Verse 5.
+
+Note [2:8:5:1]1. That Agni should be identified here with the Rishi Atri (see Bergaigne, II, 468) is very improbable. Possibly atri means simply 'the eater' (from ad), though the poet in calling him so may have intended to allude to the name of the Rishi.
+
+Note [2:8:5:2]2. Comp. I, 80, I seq. arkan anu svara'gyam; 84, 10 seq. vasvih anu svara'gyam.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 215]
+
+  
+
+MANDALA II, HYMN 9.
+
+  
+
+ASHTAKA II, ADHYAYA 6, VARGA 1.
+
+1. The Hotri who is found on the Hotri's seat has sat down (there), the fierce, the resplendent, the dexterous one, the protector of (his own) infallible laws [*1], the highest Vasu, he who brings thousandfold (gain), the pure-tongued Agni.
+
+2. Be thou our messenger, be our protector far and wide; be thou, O bull, a leader towards greater wealth. O Agni! for the continuation of our children and of ourselves be thou an unremitting, brilliant protector.
+
+3. May we worship thee at thy highest birth (-place), O Agni; may we worship thee with praises in thy lower abode. I honour the womb from which thou hast sprung. When thou hast been kindled, they have offered offerings in thee.
+
+4. Agni, being the best sacrificer perform thou the sacrifice with the oblation. With thy readiness to hear (us) hail our gift, the wealth (which we offer). For thou art the treasure-lord of treasures; thou art the deviser of brilliant speech.
+
+5. Thy wealth of both kinds [*1] never fails, when thou art born (kindled) day by day, "O wonderful one. Make thy singer, O Agni, rich in food; make him the lord of wealth with excellent offspring.
+
+6. With this face of thine, as a bounteous (lord), a sacrificer to the gods, the best performer of sacrifices with happiness, as an undeceivable guardian and far-reaching protector, shine among us, O Agni, with light and wealth.
+
+[p. 216]
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Trishtubh.--According to an observation of Bergaigne's, hymns of six verses composed in Trishtubh should precede hymns of the same extent composed in Gayatri. Though this law is not without exceptions (see H. O., Die Hymnen des Rigveda, I, 202 seq.), the suspicion is raised that the hymns 9 and 10 should each be divided into two Trikas.--Verse 1 = VS. XI, 36; TS. III, 3, 11, 2; IV, 1, 3, 3; MS. II, 7, 3. Verse 2 = TS. III, 5, 11, 2; MS. IV, 10, 4. Verse 3 = VS. XVII, 75; TS. IV, 6, 5, 4; MS. II, 10, 6. Verse 6 = TS. IV, 3, 13, 2; MS. IV, 10, 5.
+
+  
+
+Verse 1.
+
+Note [2:9:1:1]1. The long compound looks suspicious; possibly it should be read adabdhavratah pramatih.
+
+  
+
+Verse 5.
+
+Note [2:9:5:1]1. Vasu and dhana frequently receive the epithet ubhaya; see VI, 19, 10; VII, 82, 4; 83, 5; X, 84, 7. No doubt celestial and terrestrial goods are referred to, see II, 14, 11; V, 68, 3; VI, 59, 9; VII, 97, 10; IX, 19, 1; 100, 3.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 217]
+
+  
+
+MANDALA II, HYMN 10.
+
+  
+
+ASHTAKA II, ADHYAYA 6, VARGA 2.
+
+1. Agni is to be invoked as the first like a father, when he has been inflamed by Manus [*1] in the abode of Id [*2]. When he has invested himself with beauty, the wise immortal, he, the glorious strong (horse) is to be smoothed (by the worshippers as by grooms).
+
+2. Agni with bright splendour, mayest thou hear my call with all my prayers, thou a wise immortal. The two tawny (horses) draw thy chariot or the two red (horses), or He the wide-ranging one has made the two ruddy (horses draw his chariot) [*1].
+
+3. They have generated the well-born (Agni) in her who lies on her back [*1]. Agni became a germ in the manifoldly-adorned (wives) [*2]. Even in the ... [*3] the wise one dwells by night uncovered in his powers [*4].
+
+4. I besprinkle with my offering, with Ghrita, Agni who abides turned towards all beings, who widely extends throughout, who is mighty in his vigour, who shows himself most capacious by the food (which he consumes), and robust [*1].
+
+5. I besprinkle Him who is turned towards (us) from all sides; may he gladly accept that with his benevolent mind. Agni, who is like a beautiful youth, who has the appearance of one eagerly striving, is not to be touched, when he hurries around with his body.
+
+6. Mayst thou know the portion (belonging to thee), being strong through thy desire. With thee as our messenger may we speak like Manu. Gaining
+
+[p. 218]
+
+wealth [*1] I invoke with my (sacrificial) ladle, with my eloquence, the faultless Agni who mixes the honey-drink.
+
+  
+
+NOTES.
+
+The same Rishi and metre. On the position of this hymn in the collection and its division into Trikas, see the note on II, 9.--Verses 4-5 = VS. XI, 23-24; TS. IV, 1, 2, 4. 5; MS. II, 7, 2.
+
+  
+
+Verse 1.
+
+Note [2:10:1:1]1. Comp. VII, 2, 3. Manuna samiddham.
+
+Note [2:10:1:2]2. Id is a synonym of ida; ilah pade means the same as ilayah pade.
+
+  
+
+Verse 2.
+
+Note [2:10:2:1]1. I cannot accept Prof. Lanman's scansion of this Pada (Noun-Inflection, 342), uta arusha'ha kakre vibhritrah. In my opinion the only reading in conformity with the use of Vedic poets is uta'rusha' aha, &c.
+
+  
+
+Verse 3.
+
+Note [2:10:3:1]1. Comp. III, 29, 3 (see below). Of course the kindling-stick is alluded to.
+
+Note [2:10:3:2]2. The wives are the plants.--Comp. Lanman, p. 548.
+
+Note [2:10:3:3]3. The meaning of sirina (apax legomenon) is unknown. The Indian explanation ('night') of course is a guess, but this guess may be right.
+
+Note [2:10:3:4]4. 'Uncovered by the night,' M. M. On mahobhih, cf. vol. xxxii, p. 197.
+
+  
+
+Verse 4.
+
+Note [2:10:4:1]1. See vol. xxxii, p. 212.
+
+  
+
+Verse 6.
+
+Note [2:10:6:1]1. There is no reason for conjecturing dhanasa'm (Ludwig). Comp. X, 65, 10. indriyam somam dhanasa'h u imahe.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 219]
+
+  
+
+MANDALA III, HYMN 1.
+
+  
+
+ASHTAKA II, ADHYAYA 8, VARGA 13-16.
+
+1. Thou wilt have me, O Agni, as a strong (master) of Soma [*1]: therefore thou hast made me the carrier (of the gods?) to perform worship at the sacrifice [*2]. Sending my thoughts to the gods [*3] I make the (press-) stone ready [*4]; I toil, O Agni: find thou pleasure in thy own body [*5].
+
+2 [*1]. Eastward we have turned the sacrifice [*2]; may the prayer increase. They honoured Agni with fuel and adoration. They have taught (him) the sacrificial ordinances of the sages of Heaven [*3]. Though he (Agni) is clever and strong, they have sought a way for him.
+
+3. He has conceived freshness [*1], the wise one of pure [*2] powers, he who is by his birth well allied with Heaven and Earth. The gods have found Agni the conspicuous one in the waters, in the work [*3] of the sisters.
+
+4. The seven young (wives) [*1] made the blessed one grow who had been born white, ruddy in his growth. They ran up to him like mares [*2] to a newborn foal. The gods wondered at Agni at his birth.
+
+5. Spreading with his bright limbs to the aerial space, purifying his power [*1] by wise purifications, clothing himself in light, the life of the waters [*2], he creates mighty, perfect beauty.
+
+6. He has gone to (the waters) who do not eat, the undeceived ones, the young (daughters) of Heaven who are not clothed and (yet) are not naked.
+
+[p. 220]
+
+[paragraph continues] Here the former young (women) having the same origin, the seven sounds [*1] have conceived one germ.
+
+7. His compact masses assuming every shape are spread in the womb of ghee, in the streaming of honey. There the swelling milch-cows have stationed themselves. Great are the parents of the wonderfully mighty (Agni) who are turned towards each other [*1].
+
+8. Having been carried (in the waters) thou hast shone forth, O son of strength, assuming wonderful shapes brilliant and fierce. The streams of honey and ghee drip, where the male has grown by wisdom.
+
+9. By (his) nature he has found his father's udder [*1]; he has sent forth his streams and his showers [*2]. Walking [*3] hidden to his dear friends he has not been hidden to the young (daughters) of Heaven [*4].
+
+10. He bore (in his womb) the germ of the sire, of the father who begat him [*1]. He, being one, sucked many (nurses) rich in milk [*2]. Observe for this manly, bright one the two wives bound in kinship, belonging to men [*3].
+
+11. The great one has grown up in the wide unbounded space [*1]. The Waters (have made) Agni (grow): for many glorious ones [*2] (have come) together [*3]. He lay in the womb of Rita, the domestic (god) Agni, in the work [*4] of the uterine sisters.
+
+12. Like a horse that carries (the prize), in the assembly of the great (waters) [*1], visible to his son [*2], he whose ... is light [*3]: he who as father begat the ruddy cows [*4], he the son of the waters is the most manly, restless [*5] Agni.
+
+13. To him, the glorious son of the waters and of the plants, the blessed wood [*1] has given birth, in his many shapes. Even the gods, for they agreed in
+
+[p. 221]
+
+their mind, honoured him who had been born the most wonderful and strong.
+
+14. Mighty rays of light like brilliant lightnings, milking (the sap of) immortality in the boundless stable, accompanied Agni whose ... is light [*1], who had grown up in his own house, as it were in secret.
+
+15. I magnify thee, worshipping thee with offerings; I magnify (thee) desirous of thy friendship, of thy favour. Together with the gods give help to him who praises thee, and protect us with thy domestic faces.
+
+16. As thy followers, O Agni, best leader, winning all precious (treasures), pressing onward with fertile glory, may we overcome the godless who seek to combat us.
+
+17. Thou hast been here as the banner of the gods, Agni, joy-giving, knowing all wisdom. As the domestic (god) thou hast harboured the mortals. As the charioteer thou goest along straightway after the gods.
+
+18. The immortal, the king, has sat down in the dwelling of the mortals, performing the sacrifices [*1]. He the ghee-faced one has shone forth widely, Agni knowing all wisdom.
+
+19 [*1]. Come to us with thy gracious friendship, speeding, great, with thy great blessings. Bestow on us plentiful victorious wealth; make our share glorious and adorned with fine speech.
+
+20. These old births of thine, O Agni, and the recent ones I have told forth to thee the ancient one. These great libations (of Soma) have been prepared for the manly one; generation by generation Gatavedas has been placed (on the altar).
+
+21. Gatavedas, placed (on the altar) generation
+
+[p. 222]
+
+after generation, is kindled by the Visvamitras, the indefatigable (or everlasting). May we dwell in the grace of him the worshipful, yea, in his blissful kindness.
+
+22. Bring thou, O strong one, this sacrifice of ours to the gods, O wise one, as a liberal giver. Bestow on us, O Hotri, abundant food; Agni, obtain by sacrificing mighty wealth for us.
+
+23. Procure, O Agni, for ever, to him who implores thee, (the gift of) nourishment [*1], the wonderful acquiring of the cow. May a son be ours, offspring that continues our race. Agni, may this favour of thine abide with us!
+
+  
+
+NOTES.
+
+The Rishi is Visvamitra Gathina, the metre Trishtubh.--Verse 1 = MS. IV, 11, 2. Verse 19 = MS. IV, 14, 15. Verse 23 = SV. I, 76; VS. XII, 51; TS. IV, 2, 4, 3; MS. II, 7, 11; IV, 11, 1; 12, 3.
+
+Comp. on this hymn Geldner, Vedische Studien, I, 157 seq., and the article of Regnaud, Etudes Vediques, l'hymne III, 1 du Rig-Veda.
+
+  
+
+Verse 1.
+
+Note [3:1:1:1]1. Vakshi, which is very frequent as 2nd person of vah, occurs also as belonging to vas (see VII, 98, 2. pitim it asya vakshi), and in this sense no doubt it is to be understood in our passage.--Ludwig and Geldner take tavasam vakshi agne as a parenthesis. G. translates: 'Du hast mich zu deinem Somaschenken--denn dich gelustet nach dem starken, o Agni--bestellt, dass ich vor den Weisen opfern soll.' To me it seems more natural to understand the first Pada as one continual clause; vakshi is accented on account of the logical dependence in which this clause
+
+[p. 223]
+
+stands, the clause being considered, even without a subordinating word, as a dependent one. See Delbruck, Altindische Syntax, p. 42; A. Mayr, Sitzungsberichte der phil. hist. Classe der Kais. Akademie der Wissenschaften, Vol. LXVIII (Vienna, 1871), 248, 259.--If we were to consider vakshi as a locative infinitive (see Bartholomae's theory on such infinitives, Indogermanische Forschungen, II, 271 seqq.), the translation would be: 'Thou hast made me, O Agni, a strong carrier of Soma at the carrying (of the oblations),' &c. I do not think, however, this interpretation of vakshi very probable, nor is it, as far as I can see, favoured by any passage which contains the word.--For somasya tavasam, Prof. Max Muller suggests the translation 'strong of Soma,' i. e. full of Soma.
+
+Note [3:1:1:2]2. The text has vidathe.
+
+Note [3:1:1:3]3. The traditional text has akkha di'dyat, which means, 'shining towards or as far as the gods.' The verb di with akkha occurs still in two other passages of this Mandala, in 15, 5 and 55, 3. In the first of these passages the text seems to be correct: deva'n akkha di'dyanah, 'shining as far as the gods.' In the second passage I believe that we ought to read akkha didhye purvya'ni, 'I think of the ancient things,' or more exactly, 'I send my thoughts to the ancient things.' In the same way it seems to me very probable that in our verse di'dhyat would be the correct reading, for the participle refers to the priest who says of himself, 'I make the stone ready;' and this priest does not send his light (di'dyat) but his thoughts (di'dhyat) to the gods. Comp. I, 132, 5 = 139, 1. deva'n akkha na dhitayah; III, 4, 3, and numerous passages which represent the mati, the girah, &c., as going towards (akkha) the gods, such as III, 39, 1; 42, 3; VII, 10, 3; 36, 9; X, 43, 1; 47, 6.--Prof. von Roth (Zeitschrift der D. Morg. Ges., XLVIII, 108) speaks of the 'haufige Verwechslungen von Formen der beiden Wurzeln 2 di scheinen und 1 dhi wahrnehmen, denken.' The reading di'dyat in our verse, and didye III, 55, 3, may rest on the influence of III, 15, 3. deva'n akkha di'dyanah.
+
+[p. 224]
+
+Note [3:1:1:4]4. On the accent of yunge the same may be said as above (note 1) regarding the accent of vakshi.
+
+Note [3:1:1:5]5. I. e. cause the fire to flare up.
+
+  
+
+Verse 2.
+
+Note [3:1:2:1]1. The verses 2, 3, and 4 have been translated by Bergaigne, Religion Vedique, I, 109.
+
+Note [3:1:2:2]2. Many sacrificial rites are performed from west to cast; comp. with regard to the Barhis, I, 188, 4; X, 110, 4; with regard to the sacrificial ladle, III, 6, 1; V, 28, 1; to the Havirdhanas, Vagas. Samhita V, 17. Thus the whole sacrifice is spoken of as proceeding in an eastward direction; see X, 66, 12. pra'nkam nah yagnam pra nayata; X, 87, 9. yagnam pra'nkam ... pra naya.
+
+Note [3:1:2:3]3. Comp. Mahabharata XIV, 280. tasmat svayam sadhi yagne vidha'nam. Vidatha indeed is here an equivalent of vidhana.
+
+  
+
+Verse 3.
+
+Note [3:1:3:1]1. The meaning seems to be that Agni won vigour (mayah) by dwelling in the waters (see Pada 3); comp. the well-known words a'pah hi stha mayah-bhuvah (X, 9, I), 'for you, O waters, give vigour.'
+
+Note [3:1:3:2]2. More exactly, of purified faculties.
+
+Note [3:1:3:3]3. The accent apasi, instead of apasi, looks very suspicious. It is easy, but perhaps too easy, to correct apasi, as possibly in III, 6, 7. apah should be read for apah. (In I, 31, 8; 151, 4 Grassmann is wrong in assuming a neutral stem apas- 'die Arbeit.') To me Ludwig's conjecture upasi (in the lap of the sisters, i. e. of the waters) seems excellent. Upasi occurs in V, 43, 7; X, 27, 13 in the meaning of upasthe. Thus upasi svasrinam would be the same as apa'm upasthe; comp. I, 144, 2; VI, 8, 4; IX, 86, 25; X, 45, 3; 46, 1. 2, &c.--Comp. below, verse 11, note 4.
+
+  
+
+Verse 4.
+
+Note [3:1:4:1]1. Of course the seven wives are the rivers or waters.
+
+[p. 225]
+
+Note [3:1:4:2]2. I cannot adopt Prof. Weber's conjecture asvah (Altiranische Sternnamen, 10). His translation is: 'Die Gotter liefen zu dem wundersamen Agni bei seiner Geburt (neugierig) hinzu, wie die jungen Madchen zu einem neugebornen Kinde.'
+
+  
+
+Verse 5.
+
+Note [3:1:5:1]1. For kratum punanah, cf. III, 31, 16; VIII, 12, 11; 13, I; 53, 6.
+
+Note [3:1:5:2]2. I take pari as belonging to vasanah; sokih and a'yuh are objects. Comp. X, 16, 5. a'yuh vasanah; X, 53, 3. sah a'yuh a' aga't surabhih vasanah.
+
+  
+
+Verse 6.
+
+Note [3:1:6:1]1. The number of the seven sounds (comp. Sten Konow, Das Samavidhana-bra'hmana, p. 33, note 3) seems to be connected with the seven Rishis, see IX, 103, 3. va'nih rishinam sapta (comp. IX, 62, 17). The seven sounds seem to be identified with the seven rivers also in III, 7, 1 (see below). Comp. Bergaigne, Religion Vedique, II, 132; H. O., Religion des Veda, 117, note 1.
+
+  
+
+Verse 7.
+
+Note [3:1:7:1]1. Heaven and Earth.
+
+  
+
+Verse 9.
+
+Note [3:1:9:1]1. Comp. Bergaigne, Religion Vedique, II, 99.
+
+Note [3:1:9:2]2. See volume xxxii, 441 seq. (I, 2, 3, note 1).
+
+Note [3:1:9:3]3. Here I believe we have an anacoluthon. The poet seems to have intended to say, 'Him who walked ... the daughters of Heaven saw.'--Prof. Max Muller translates this hemistich: 'He found him (the father) moving along with dear friends, with the young maidens of Heaven--he was not hidden.'
+
+Note [3:1:9:4]4. Agni was hidden to the gods but not to the waters.
+
+  
+
+Verse 10.
+
+Note [3:1:10:1]1. The verse X, 3, 2, though very obscure, seems to contain a similar idea. Should the meaning be that
+
+[p. 226]
+
+[paragraph continues] Agni bears in his womb the Dawn, the daughter of Heaven?
+
+Note [3:1:10:2]2. The waters.
+
+Note [3:1:10:3]3. This phrase, which I have translated as literally as possible, is very obscure. The two wives seem to be wives of Agni. Are they Night and Dawn (the two sabardughe, III, 55, 12?), whose designation as 'belonging to men' seems not to be impossible? Or the two kindling-sticks (comp. V, 47, 5)? Or the two Darvis (V, 6, 9)?
+
+  
+
+Verse 11.
+
+Note [3:1:11:1]1. Comp. V, 42, 17. urau devah anibadhe syama.
+
+Note [3:1:11:2]2. This is feminine.
+
+Note [3:1:11:3]3. The phrase yasasah sam hi purvi'h occurs also X, 46, 10. It may have been, as Geldner believes, a proverbial locution. But the verb which it is most natural to supply, seems to be gam (i, ya), so that the meaning may have been: 'Many superior (wives) are wont to assemble,' i. e. where one such wife is, there will be many. This is applied here to the waters, in X, 46, 10 to such beings as ishah, utayah or the like. That yasas may be meant for the waters is shown by VII, 36, 6, where the yasasah vavasana'h, mentioned by the side of Sarasvati, evidently are the waters.--It should be observed that several expressions of this hymn have been made use of by the author of X, 46.
+
+Note [3:1:11:4]4. Or rather 'in the lap' (upasi). Comp. above, verse 3, note 3.
+
+  
+
+Verse 12.
+
+Note [3:1:12:1]1. With regard to akrah I adopt the translation proposed by Geldner (Ved. Studien, I, 168).--On the accent of mahi'nam, see Lanman, p. 398.
+
+Note [3:1:12:2]2. This seems to be the human worshipper. I cannot follow Prof. von Roth, Zeitschrift der D. Morg. Gesellschaft, XLVIII, 118, who explains sunave as a corrupt third person of the verb su.
+
+Note [3:1:12:3]3. See above, I, 44, 3, note 1.
+
+[p. 227]
+
+Note [3:1:12:4]4. The dawns.
+
+Note [3:1:12:5]5. Comp. above, I, 36, 1, note 2.
+
+  
+
+Verse 13.
+
+Note [3:1:13:1]1. Vana: the wood considered as a wife.
+
+  
+
+Verse 14.
+
+Note [3:1:14:1]1. See verse 12, note 3.
+
+  
+
+Verse 18.
+
+Note [3:1:18:1]1. The text has vidathani.
+
+  
+
+Verse 19.
+
+Note [3:1:19:1]1. Comp. Kuhn, Kuhn's Zeitschrift, I, p. 445.
+
+  
+
+Verse 23.
+
+Note [3:1:23:1]1. Ilam. which more especially means the nourishing substance of the cow. Comp. H. O., Religion des Veda, 72, 326.--Prof. Max Muller translates: 'Procure to him who implores thee, O Agni, exuberant land for ever, rich in cows.'
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 228]
+
+  
+
+MANDALA III, HYMN 2.
+
+  
+
+ASHTAKA II, ADHYAYA 8, VARGA 17-19.
+
+  
+
+TO AGNI VAISVANARA.
+
+1. For Vaisvanara, the increaser of Rita, for Agni we produce [*1] a Dhishana [*2] like purified ghee. And verily [*3] by their prayer the invoking men (accomplish) him, the Hotri, as the axe accomplishes a chariot.
+
+2. By his birth he has given splendour to both worlds (Heaven and Earth). He became the praiseworthy son of his parents, Agni, the carrier of oblations, never ageing, with satisfied mind, undeceivable, the guest of men, rich in light.
+
+3. Through the power of their mind, within the sphere of their superior strength the gods have procreated Agni by their thoughts. Desirous of winning the prize [*1] I address Him who shines with his splendour, who is great in his light, as (one who desires to win the prize addresses his) race-horse.
+
+4. Desirous of winning the choice, glorious, and praiseworthy prize (which is the gift) of the joy-giver, we choose the boon of the Bhrigus [*1], the Usig [*2], who has the mind of a sage, Agni, who reigns with his heavenly light.
+
+5. Men, having spread the sacrificial grass, holding the sacrificial ladle, have placed here in front (as Purohita), for the sake of (the divine) blessing, Agni renowned for strength, with great splendour, united with all the gods, the Rudra of sacrifices [*1], who accomplishes the oblations of active (worshippers).
+
+6. O (Agni) whose flame is purifying, around thy
+
+[p. 229]
+
+dwelling, O Hotri, the men who at the sacrifices have spread the sacrificial grass, O Agni, seeking (how to do) honour (to thee), and (desiring) thy friendship, surround thee (reverentially);--bestow thou wealth on them!
+
+7. He has filled the two worlds (Heaven and Earth) and the great Sun, when the active ones (i. e. the priests) held him fast who had been born. He the sage is led round for the performance of worship, like a racer for the winning of the prize [*1], with satisfied mind.
+
+8. Adore ye him, the giver of offerings, the best performer of worship; honour ye him the domestic Gatavedas. Agni, the charioteer of the mighty Rita, he who dwells among manifold tribes, has become the Purohita of the gods.
+
+9. The immortal Usigs have purified three logs for the vigorous [*1] Agni [*2] who wanders round the earth [*3]: of these they have placed one among the mortals for their enjoyment; two have passed into the sister world [*4].
+
+10. The food offered by men has sharpened him, the sage of the tribes, the lord of the tribes, as an axe. Busily he goes to the heights and to the depths. He has held fast the germ in these worlds.
+
+11. He the generator, the strong one, stirs in the resplendent bellies like a roaring lion, Vaisvanara with his broad stream of light, the immortal, distributing goods and treasures to his worshipper.
+
+12. Vaisvanara has mounted the firmament, the back of heaven, as of old, glorified by those who are rich in good thoughts. He, creating wealth for the creatures as of old, goes watchful round the common course.
+
+[p. 230]
+
+13. The righteous, worshipful priest deserving of praise, the dweller in heaven [*1] whom Matarisvan has established (on earth): him we approach whose way is bright and hair golden, the resplendent Agni, for the sake of ever new welfare.
+
+14. Like the flaming one (the sun?) on his way, the quick one, of sun-like aspect, the banner of heaven, who dwells in light, who wakes at dawn--Agni the head of heaven, the unrepressed, him we approach with adoration, the strong one mightily.
+
+15. The joy-giving, bright Hotri, in whom is no falsehood, the domestic, praiseworthy dweller among all tribes, like a splendid chariot, wonderful to behold, established by Manus: him we constantly approach for the sake of wealth.
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Gagati.--Verse 7 = VS. XXXIII, 75. Verse 9 = MS. I, 3, 35.
+
+  
+
+Verse 1.
+
+Note [3:2:1:1]1. Literally, 'we generate.'
+
+Note [3:2:1:2]2. On the meaning of this word, which I may be allowed to leave in its Sanskrit form, I refer to I, 96, 1, note 2.
+
+Note [3:2:1:3]3. Literally, 'doubly.' Comp. below, III, 17, 5, note 1.
+
+  
+
+Verse 3.
+
+Note [3:2:3:1]1. Va'gam sanishyan refers to the worshipper who desires to obtain va'ga (quick strength, and the booty or prize obtained by it), and in the comparison, to the owner of a race-horse who desires to win the race.
+
+[p. 231]
+
+  
+
+Verse 4.
+
+Note [3:2:4:1]1. Comp. I, 60, 1 (see above).
+
+Note [3:2:4:2]2. Comp. Bergaigne, Religion Vedique, I, 57 seq.
+
+  
+
+Verse 5.
+
+Note [3:2:5:1]1. Comp. von Bradke, Dyaus Asura, p. 54.
+
+  
+
+Verse 7.
+
+Note [3:2:7:1]1. Again, as in verse 3, va'gasataye means, with reference to the race, 'for the winning of the prize,' and with reference to sacrifice, 'for the obtainment of quick strength, of booty, &c.'
+
+  
+
+Verse 9.
+
+Note [3:2:9:1]1. See above, I, 36, 1, note 2.
+
+Note [3:2:9:2]2. Agni is stated here to have one terrestrial and two celestial forms: the fire belonging to men, and, it seems, sun and lightning. Comp. M. M., Physical Religion, 229; Bergaigne, Religion Vedique, I, 22. With regard to the three forms of Agni, compare also H. O., Religion des Veda, 106 seq.
+
+Note [3:2:9:3]3. On parigman, comp. above, I, 79, 3, note 2.
+
+Note [3:2:9:4]4. Into the celestial world.
+
+  
+
+Verse 13.
+
+Note [3:2:13:1]1. I read divikshayam (Bergaigne, Rel. Vedique, I, 55, note). The blunder has been caused by X, 63, 5. dadhire divi kshayam.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 232]
+
+  
+
+MANDALA III, HYMN 3.
+
+  
+
+ASHTAKA II, ADHYAYA 8, VARGA 20-21.
+
+  
+
+TO AGNI VAISVANARA.
+
+1. They have worshipped Vaisvanara with his broad stream of light with prayers [*1] and treasures in order that he may walk on firm ground. For immortal Agni honours the gods, and from of old he has not violated the laws.
+
+2. The wonderful messenger goes between the two worlds (heaven and earth), the Hotri who has sat down, the Purohita of Manus. He takes care of his wide dwelling day by day, Agni who, incited by the gods, gives wealth for our prayers.
+
+3. The priests have exalted with their thoughts Agni, the banner of sacrifices, the achiever of sacrifice [*1]. From him in whom they have put together their (sacrificial) works and their prayers, the sacrificer desires blessings.
+
+4. The father of sacrifices, the miraculous lord of those who know prayers (?) [*1], Agni, is the measure and rule [*2] of the sacrificers; he has entered the two manifold-shaped worlds; the sage beloved by many people is glorified in his foundations.
+
+5. The gods have established here in great beauty Agni the bright with his bright chariot, whose every law is golden [*1], Vaisvanara who dwells in the waters, who finds the sun, the diver, the swift one covered with strength, the quick one.
+
+6. Agni, spreading out with his thought the manifold-adorned sacrifice, together with the gods and
+
+[p. 233]
+
+with the people of Manus, goes as a charioteer to and fro with (gods and men) who accomplish the sacrifice, the quick, domestic (god), the dispeller of curses.
+
+7. Agni, be wakeful [*1] in our life which may be blessed with offspring; swell with sap; shine upon us (plenty of) food. Stir up vigour and the great ones, O watchful (god). Thou art the Usig (or willing one) of the gods, the good-minded (lord) of prayers.
+
+8. The lord of the tribe, the vigorous [*1] guest, the guider of prayers, the Usig (or willing one) of those who invoke him, Gatavedas, the light of worship--him men constantly praise with adoration, with solicitations for their welfare.
+
+9. The resplendent, joyous god, Agni on his chariot, has with his might encompassed the dwellings. May we honour in our house with beautiful prayers [*1] his commands who is rich in manifold prosperity.
+
+10. O Vaisvanara, I love thy statutes by which thou hast found the sun, O far-seeing one. When born thou hast filled the worlds, heaven and earth; Agni, thou encompassest all these (beings) by thyself.
+
+11. For Vaisvanara's wonderful deeds he the sage alone has by his great skill mightily [*1] let loose (his powers?). Agni has been born exalting. both his parents, Heaven and Earth, rich in seed.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 10 = MS. IV, 11, 1. Verse 11 = TS. I, 5, 11, 1.
+
+[p. 234]
+
+  
+
+Verse 1.
+
+Note [3:3:1:1]1. A meaning like 'prayer' seems to recommend itself for most of the passages in which the substantive vip occurs, for instance, V, 68, 1. pra vah mitra'ya gayata varunaya vip gira'; IX, 22, 3. ete puta'h vipaskitah somasah ... vipa' vi a'nasuh dhiyah; IX, 65, 12. aya' kittah vipa' anaya harih pavasva dha'raya; III, 10, 5 (see below), &c. As the verb vip means 'to be in trembling agitation,' the same word as a substantive may designate enthusiastic thoughts or prayers. Comp. vepate mati', IX, 71, 3; X, II, 6, and the nouns vipra, vipaskit, vipodha'. We need not enter here upon the question, whether some concrete trembling or shaking objects also were designated as vipah, and whether Bergaigne (Religion Vedique, I, p. vii) is right in taking the vip ayah-agra, with which Trita killed the boar (X, 99, 6), as a 'priere a pointe de fer' (comp. Macdonell, Journ. R. Asiatic Society, 1893, p. 431; 1895, p. 185).--In our verse vipah may be either nominative or accusative. I have translated it as an accusative; in the case of the nominative the translation would be: 'The prayers have worshipped Vaisvanara with treasures.'
+
+  
+
+Verse 3.
+
+Note [3:3:3:1]1. The text has vidathasya.
+
+  
+
+Verse 4.
+
+Note [3:3:4:1]1. Asurah vipah-kitam. On the meaning of asura, which implies the possession of secret, supernatural power, see H. O., Religion des Veda, 162 seq.--Comp. von Bradke, Dyaus Asura, pp. 64-65.
+
+Note [3:3:4:2]2. 'Richtschnur und Weg der Opferer,' Pischel, Vedische Studien, I, 306.
+
+  
+
+Verse 5.
+
+Note [3:3:5:1]1. Literally, 'whose rules are yellow.' The meaning is that Agni's whole sphere of activity bears the golden
+
+[p. 235]
+
+yellow colour. Sayana gives the interesting remark 'haritvakam iti sakhantaram,' but no doubt harivratam is right.
+
+  
+
+Verse 7.
+
+Note [3:3:7:1]1. Comp. Neisser, Bezzenberger's Beitrage, XIII, 297.
+
+  
+
+Verse 8.
+
+Note [3:3:8:1]1. Comp. I, 36, 1, note 2.
+
+  
+
+Verse 9.
+
+Note [3:3:9:1]1. Comp. II, 4, 1, note 1.
+
+  
+
+Verse 11.
+
+Note [3:3:11:1]1. Prof. Max Muller proposes to translate, 'has sent forth his great song,' and observes, 'Might not brihat be like brihat sa'ma, a name of a hymn?'
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 236]
+
+  
+
+MANDALA III, HYMN 4.
+
+  
+
+ASHTAKA II, ADHYAYA 8, VARGA 22-23.
+
+  
+
+APRI HYMN.
+
+1. Log by log [*1] be kind towards us. Flash by flash grant us thy, the Vasu's, favour [*2]. Bring hither, O god, the gods that we may sacrifice. Sacrifice, O Agni, as a kind friend to thy friends.
+
+2. Thou whom the gods, Varuna, Mitra, Agni, thrice every day bring hither by sacrifice day by day, Tanunapat, make this our sacrifice honey-sweet, having its abode in ghee [*1], (this sacrifice) which worships (the gods).
+
+3. (Our adoring) thought rich in all boons goes forward for worshipping as the first the Hotri of the sacred food (il), for saluting the strong bull with adoration and homage. May he, the best sacrificer, incited (by our prayers) sacrifice to the gods [*1].
+
+4. Upwards your [*1] course has been directed at the worship; upwards (your) flames [*2] are gone; ready (for receiving you) is the air [*3]. Or the Hotri has sat down at heaven's navel. We spread out the sacrificial grass which receives the gods.
+
+5 [*1]. Choosing in their mind the sevenfold work of the Hotris [*2], enlivening everything (the gods) came hither in the right way. (The divine doors [*3]) with men as their ornaments [*4], born at the sacrifices [*5], have come hither and thither to this sacrifice, many of them.
+
+6. Hither (shall come) the two Dawns [*1], the neighbourly (goddesses) of glorious appearance [*2].
+
+[p. 237]
+
+[paragraph continues] Of different forms, they both smile. (They shall come) that Mitra and Varuna may be satisfied with us, and Indra accompanied by the Maruts with their powers [*3].
+
+7. I catch hold of the two divine Hotris first. The seven strong ones [*1] rejoice according to their wont. Teaching the right, they proclaim the right, the guardians of law, contemplating the law.
+
+8 [*1]. May Bharati, in concord with the Bharatis, Ila with the gods, Agni with men, Sarasvati with all (beings) belonging to Sarasvati (come) hither; may the three goddesses sit down on this sacrificial grass.
+
+9. O divine Tvashtri, grant us and send forth this our seed which is to thrive: (the seed) from which a manly son is born able and skilful, who sets to work the press-stones, loving the gods.
+
+10. O tree [*1], send (the offering) forth to the gods. May Agni the slaughterer make the offering ready. May the same, the very true Hotri, sacrifice according as he knows the generations of the gods.
+
+11. Agni, being kindled, come hither, on one chariot with Indra, with the quick gods. May Aditi, the mother of noble sons, sit down on our sacrificial grass. With Svaha may the immortal gods rejoice.
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Trishtubh.--Verse 9 = TS. III, 1, 11, 1; MS. IV, 13, 10. Verse 10 = VS. XXVII, 21; TS. IV, 1, 8, 3; MS. II, 12, 6.
+
+[p. 238]
+
+  
+
+Verse 1.
+
+Note [3:4:1:1]1. Agni is invoked as personified in each log of fuel which is put on the sacrificial fire.
+
+Note [3:4:1:2]2. Comp. VII, 39, 1. sumatim vasvah.
+
+  
+
+Verse 2.
+
+Note [3:4:2:1]1. Comp. II, 3, 11. ghritam asya yonih.
+
+  
+
+Verse 3.
+
+Note [3:4:3:1]1. Comp. X, 110, 3. sah enan yakshi ishitah yagiyan (cf. also X, 110, 9).
+
+  
+
+Verse 4.
+
+Note [3:4:4:1]1. The text has the dual vam. But who are the two beings addressed? According to Sayana, Agni and the Barhis, which does not seem very probable. The structure of the phrase gives the impression--though this impression is by no means certain--that vam, which belongs to gatu, is to be supplied to soki'mshi also. If we are right in this supposition, are not the two beings in question the two first of the three sacred fires, the Ahavaniya and Garhapatya? These two fires are frequently spoken of in the ritual texts as of a dyad, with the omission of the third fire.--Prof. Max Muller proposes to change vam into va. According to him the meaning may be: Either the road has been made upward, i. e. the flames have gone upward to the sky, or Agni has sat down at heaven's navel.
+
+Note [3:4:4:2]2. Comp. VII, 43, 2. urdhva' soki'mshi devayu'ni asthuh.
+
+Note [3:4:4:3]3. Possibly the words urdhva' soki'mshi prasthita ragamsi may form one clause, 'upwards (your) flames are gone towards the sky.' M. M.
+
+  
+
+Verse 5.
+
+Note [3:4:5:1]1. On this verse, comp. Pischel, Vedische Studien, II, 115 seq.
+
+Note [3:4:5:2]2. On the seven priests of the ancient Soma sacrifice, comp. H. O., Religion des Veda, 383 seq.
+
+[p. 239]
+
+Note [3:4:5:3]3. That this subject is to be supplied, is shown by the regular composition of the Apri hymns. It is confirmed by the word purvi'h, which is evidently an epithet of the divine doors; comp. I, 188, 5; VII, 2, 5.
+
+Note [3:4:5:4]4. 'In human form.' M. M.
+
+Note [3:4:5:5]5. The text has vidatheshu.
+
+  
+
+Verse 6.
+
+Note [3:4:6:1]1. I. e. Night and Dawn.
+
+Note [3:4:6:2]2. Comp. above, I, 142, 7.
+
+Note [3:4:6:3]3. Comp. M. M., vol. xxxii, p. 196 seq.
+
+  
+
+Verse 7.
+
+Note [3:4:7:1]1. Comp. above, I, 127, 5, note 1. Pischel (Vedische Studien, I, 96) may be right in taking the seven priksha'sah as the Angiras, the sapta viprah.
+
+  
+
+Verse 8.
+
+Note [3:4:8:1]1. The verses 8-11 are repeated in VII, 2, 8-11.
+
+  
+
+Verse 10.
+
+Note [3:4:10:1]1. The tree is the sacrificial post (yupa).
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 240]
+
+  
+
+MANDALA III, HYMN 5.
+
+  
+
+ASHTAKA II, ADHYAYA 8, VARGA 24-25.
+
+1. Shining Agni has awoke over against the Dawns, the priest who traces the footsteps of the sages [*1]. With his broad stream of light kindled by the pious, the carrier (of the gods) has opened the two doors of darkness.
+
+2. Agni has grown strong by praises, by the speeches of the praisers, by hymns, the adorable one. Loving many aspects of Rita the messenger has shone up at the bursting forth of the Dawn.
+
+3. Agni has been established among the tribes of men, the son of the waters, Mitra [*1], acting in the right way. The delightful, worshipful one has reached the top; the priest has become one who should be invoked by prayers.
+
+4. Agni becomes Mitra [*1], when he has been kindled; he the Hotri (Agni becomes) Mitra; he, Gatavedas, (becomes) Varuna. The quick Adhvaryu, the domestic (god, Agni, becomes) Mitra, the Mitra (i. e. friend or ally) of the rivers and of the mountains.
+
+5. He observes the deceiver's dear summit [*1], the footstep of the bird [*1]; the vigorous one [*2] observes the course of the Sun. Agni observes at his (?) navel the seven-headed (song?) [*3]; tall (Agni) observes the enjoyment of the gods.
+
+6. The Ribhu [*1] has created for himself a good name worthy of being magnified, he, the god who knows all laws. The skin of the herbs [*2], the bird's footstep [*3] rich in ghee: Agni watches (all) that, never failing.
+
+[p. 241]
+
+7. Agni has approached the place [*1] rich in ghee (the altar), with broad passages, (the place) longing (for him), longing (himself). He the resplendent, bright, tall purifier has made his two parents [*2] new again and again.
+
+8. As soon as born he has grown by the grass [*1], when the sprouting (grass-)blades strengthen him with ghee. Like waters beautiful on their precipitous path, Agni, being in the lap of his parents, has escaped into wide space.
+
+9. Receiving praise the vigorous one [*1] has shone forth with his fuel, on heaven's summit, on the earth's navel. May Agni worthy of being magnified, (being) Mitra and Matarisvan, the messenger, carry hither the gods that they may receive our sacrifice.
+
+10. The tall one has, by (receiving) fuel, upheld the firmament, Agni, becoming the highest of lights, when Matarisvan for the sake of the Bhrigus [*1] kindled the carrier of oblations, (Agni) who dwelt in secret.
+
+11 = III, 1, 23.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--No verse occurs in the other Samhitas.
+
+  
+
+Verse 1.
+
+Note [3:5:1:1]1. On pada-vi', comp. Pischel, Vedische Studien, I, 299.
+
+  
+
+Verse 3.
+
+Note [3:5:3:1]1. Mitra has here and in verse 4 two meanings: it is the name of the god Mitra, with whom Agni is identified (Bergaigne, Religion Vedique, III, 134 seq.), and it means also 'friend' or 'ally' (comp. H. O., Religion des Veda, 186, note 1). See von Bradke, Dyaus Asura, p. 13.
+
+[p. 242]
+
+  
+
+Verse 4.
+
+Note [3:5:4:1]1. See verse 3, note 1.
+
+  
+
+Verse 5.
+
+Note [3:5:5:1]1. All this is very enigmatical. In the parallel passage, IV, 5, 8, we have, instead of ripah agram, the reading rupah agram, which is confirmed by verse 7 of the same hymn (agre rupah) and by X, 13, 3 (panka pada'ni rupah anu aroham); in support of the reading ripah, on the other side, the verse, X, 79, 3 (ripah upasthe antah), may be quoted. The meaning of rup is unknown; rip means 'deceit' and 'deceiver:' but what is the summit of the deceiver? Bergaigne (Religion Vedique, II, 77 seq.) has tried to solve the riddle, but it is really hopeless.--The meaning of the following words, padam veh, is not quite so obscure; there is at least some probability that the bird is Agni himself (cf. below, III, 7, 7), or possibly the sun. The latter explanation is advocated by Prof. Max Muller, who writes: 'May it not be a description of sunrise? priyam ripah agram I do not understand; but padam veh is the place of the bird, as in I, 130, 3. veh na garbham, the nest of the bird or of the sun. This nest is covered by a stone, is in fact the vraga, which has to be opened to let out the light of day. It is also the yoni or the altar. Ripah agram may possibly be the summit of the Pani or of Vritra, X, 79, 3.'
+
+Note [3:5:5:2]2. See above, I, 36, 1, note 2.
+
+Note [3:5:5:3]3. Sapta-sirshan ('seven-headed') occurs again in two other passages of the Rig-veda (VIII, 51, 4, and X, 67, 1); in both it is an epithet of words which signify 'hymn' or 'prayer' (arka, dhi'). Possibly a similar word should be supplied here. But why are the prayers called 'seven-headed?' Does this refer to unknown technicalities of the Vedic liturgy? Does it stand in connection with the seven tones of the scale, with the expression sapta dhitayah, with the number of the seven Hotris? 'Celui qui a sept tetes est sans doute un personnage equivalent a lui seul au
+
+[p. 243]
+
+groupe des sept pretres,' says Bergaigne (II, 145), which is very ingenious, but should not be given as a doubtless fact.--Prof. Max Muller observes that saptasirshan may be, like saptasya, the vraga of Pani, opened by Agni, IV, 51, 4, and that Brihaspati is called saptasya, IV, 50, 4, and saptagu, X, 47, 6.
+
+  
+
+Verse 6.
+
+Note [3:5:6:1]1. Agni is here called Ribhu in his quality as a skilful artisan. See Bergaigne, Religion Vedique, II, 408.
+
+Note [3:5:6:2]2. There seems to be no doubt that sasa (comp. sasya) means 'herb' or possibly 'grain' in X, 79, 3; the text there has sasam na pakvam; comp. I, 66, 2. yavah na pakvah. The same meaning is quite admissible in I, 51, 3; V, 21, 4; VIII, 72, 3; though these passages are too uncertain for deciding anything. I cannot find any reason for believing that we have here and in IV, 5, 7; 7, 7 (see below), another word derived from the root sas, and meaning 'the sleeper.' At all events I neither pretend to know what mysteries are hidden under the 'skin of the herbs,' nor what stories may have happened to the 'peau du dormeur' (Bergaigne, II, 78 seq.).
+
+Note [3:5:6:3]3. See verse 5, note 1.
+
+  
+
+Verse 7.
+
+Note [3:5:7:1]1. Yonim, literally 'womb.'
+
+Note [3:5:7:2]2. Probably Heaven and Earth.
+
+  
+
+Verse 8.
+
+Note [3:5:8:1]1. Prof. Max Muller refers this to the grass of the barhis, or the tender blades in which the spark is caught and kept alive by ghee.
+
+  
+
+Verse 9.
+
+Note [3:5:9:1]1. Comp. above, I, 36, 1, note 2.
+
+  
+
+Verse 10.
+
+Note [3:5:10:1]1. I have adopted, though I do not believe it certain, Grassmann's opinion on the meaning of pari in this connection. Comp. H. O., Religion des Veda, 123, note 4.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 244]
+
+  
+
+MANDALA III, HYMN 6.
+
+  
+
+ASHTAKA II, ADHYAYA 8, VARGA 26-27.
+
+1. Bring forward, ye pious singers, stirred in your thoughts [*1], (the ladle) which is turned towards the gods. Carrying (the sacrificial butter) from left to right [*2] it turns eastward, rich in strength, bringing the offering to Agni, full of ghee.
+
+2. When born thou hast filled the two worlds, nay thou hast even exceeded them, O friend of sacrifices [*1]. May, O Agni, thy seven-tongued horses [*2] move along, by the greatness of heaven and earth [*3].
+
+3. Heaven and Earth the worshipful [*1] establish thee as Hotri for the house, whenever the pious human tribes offering food magnify the bright light.
+
+4. (Thou art) seated, the great one, in a firm place [*1], between the two mighty Heavens [*2], thou who art longed for--(between) the two united [*3] never-ageing, inviolable wives, the two juice-yielding milch-cows [*4] of the far-reigning one [*5].
+
+5. Thy, the great (god's) laws, O Agni, are great. Through the power of thy mind thou hast spread out the two worlds. Thou hast become a messenger at thy birth, thou, O bull, the leader of the tribes.
+
+6. Or bind to the pole by means of thy (art of) harnessing the two long-maned, red (horses) of Rita, that swim in ghee [*1], and carry hither, O god, all gods; perform splendid worship, O Gatavedas!
+
+7 [*1]. Even from heaven thy shining lights have shone; thy splendour follows many resplendent dawns, when the gods, O Agni, praised the cheerful Hotri's work [*2] who eagerly burns in the forests [*3].
+
+[p. 245]
+
+8. Whether it be the gods who rejoice in the wide air, or those who dwell in the heavenly light, or those who are helpful [*1], ready to hear our call, and worshipful; or whether the horses of thy chariot, O Agni, have turned themselves hither--
+
+9. Come hither with them, O Agni, on one chariot or on many chariots, for thy horses are powerful. Bring hither, after thy nature, the thirty and the three gods with their wives, and rejoice (in the Soma).
+
+10. He is the Hotri whose sacrifice even the two wide worlds salute over and over again for the sake of prosperity. Turned to the east [*1], the two well-established [*2] (goddesses, Heaven and Earth), the righteous, true ones stand as at the sacrifice [*3] of (Agni) the right-born.
+
+11 = III, 1, 23.
+
+  
+
+NOTES.
+
+The sane Rishi and metre.--Verse 1 = TB. II, 8, 2, 5; MS. IV, 14, 3. Verse 9 = AV. XX, 13, 4.
+
+  
+
+Verse 1.
+
+Note [3:6:1:1]1. The translation of manana' is conjectural, and based only on the etymology. The passage a't it ra'ganam manana'h agribhnata, IX, 70, 3, does not help us much. 'Does not X, 47, 7. stomah hridisprisah manasa vakyamanah, indicate the original reading, manasa vakyamanam?' M. M.
+
+Note [3:6:1:2]2. The srukah are called dakshinavritah, I, 144, 1. By the word dakshinava't the poet probably intended to designate the ladle also as procuring a Dakshina (sacrificial fee) to the priest.
+
+[p. 246]
+
+  
+
+Verse 2.
+
+Note [3:6:2:1]1. On prayagyu, see M. M., vol. xxxii, p. 335, and Pischel, Ved. Studien, I, 98.
+
+Note [3:6:2:2]2. The flames of Agni.
+
+Note [3:6:2:3]3. Comp. below, 7, 10. The meaning seems to be: by thy (Agni's) greatness which is equal to that of Heaven and Earth.
+
+  
+
+Verse 3.
+
+Note [3:6:3:1]1. I refer yagniyasah, though it is a plural, to Heaven and Earth. Comp. Delbruck, Altindische Syntax, 103.
+
+  
+
+Verse 4.
+
+Note [3:6:4:1]1. The Padapatha has dhruvah. I think it should be dhruve, comp. II, 41, 5. dhruve sadasi uttame ... asate; IX, 40, 2. dhruve sadasi sidati.
+
+Note [3:6:4:2]2. I. e. Heaven and Earth.
+
+Note [3:6:4:3]3. A'skra seems derived from a-sak (Joh. Schmidt, Kuhn's Zeitschrift, XXV, 71).
+
+Note [3:6:4:4]4. Or 'the two milch-cows which instantly give milk,' if sabar- is to be connected with the Greek afar; comp. Bartholomae, Bezzenberger's Beitrage, XV, 17.
+
+Note [3:6:4:5]5. Vishnu is not the only god who is called urugaya, and there is no reason therefore why the epithet should not be referred here to Agni.
+
+  
+
+Verse 6.
+
+Note [3:6:6:1]1. Comp. Lanman, Noun-Inflection, pp. 402, 413.--See below, IV, 2, 3.
+
+  
+
+Verse 7.
+
+Note [3:6:7:1]1. See Geldner, Vedische Studien, I, 114 seq.
+
+Note [3:6:7:2]2. Should the accent be apah? Comp. III, 1, 3, note 3.
+
+Note [3:6:7:3]3. It is very probable that usadhak (comp. III, 34, 3; VII, 7, 2) is an epithet of Agni. We should expect the genitive; usadhak, which violates the construction, seems
+
+[p. 247]
+
+to stand metri causa. Or is usadhak an accusative singular neuter, so that the literal translation would be: 'When the gods praised the work, burning in the forests, of the Hotri'?
+
+  
+
+Verse 8.
+
+Note [3:6:8:1]1. On u'ma, comp. Pischel, Vedische Studien, I, 223.
+
+  
+
+Verse 10.
+
+Note [3:6:10:1]1. Comp. above, II, 2, 7.
+
+Note [3:6:10:2]2. See Windisch in the Festgruss an Boehtlingk, p. 114.
+
+Note [3:6:10:3]3. There is one syllable above the number; the metre and meaning would be all right if we were to read adhvare (for adhvareva): '(the two goddesses) stand at the sacrifice,' &c. Prof. Max Muller explains: 'Adhvara'-iva, like two sacrifices, like two sacrificial altars, barhis.'
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 248]
+
+  
+
+MANDALA III, HYMN 7.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 1-2.
+
+1. They who have risen out of the drink of the white-backed one, have entered the two parents, the seven sounds. The (all-)encompassing parents come together; they go forth to aspire after long life [*1].
+
+2. The milch-cows dwelling in heaven [*1] are the mares of the manly one. He has bestridden the goddesses who carry the sweet (food) [*2]. Thee who livest in peace in the abode of Rita, the one cow [*3] circumambulates, making her way.
+
+3. He has mounted the (mares) [*1] that became well-manageable, the wise lord, the finder of riches. He with the dark blue back, with many faces, has made them depart from the drink of the brush-wood [*2].
+
+4. Giving mighty vigour to the never-ageing son of Tvashtri [*1], the streams [*2] carry Him the firmly fixed one. Flashing in his abode with his limbs he has entered upon the two worlds as if they were one.
+
+5. They know friendship towards the manly, the red one, and they delight in the command of ruddy (Agni), (the gods) shining from heaven, resplendent with bright shine, to whose host Ila belongs, the mighty praise.
+
+6. And finding it out by following the noise they brought to the great one's great parents a song of praise, when the bull about nightfall (?) has grown strong according to the singer's own law [*1].
+
+[p. "9"]
+
+7. With the five Adhvaryus the seven priests watch the beloved footstep which the bird has made [*1]. Turned forwards the never-ageing bulls [*2] rejoice: for they, being gods, have followed the laws of the gods.
+
+8 = III, 4, 7.
+
+9. The many (mares) are full of desire for the mighty stallion. For the manly, bright one, the reins easily direct (the horses) [*1]. Divine Hotri! Thou who art a great joy-giver and wise, bring hither the great gods and the two worlds [*2].
+
+10. The dawns, O wealth-giver, the mighty sacrificers [*1], well spoken and bright have shone with wealth. And by the earth's greatness [*2], O Agni, forgive us even committed sin [*3], that we may be great.
+
+11 = III, 1, 23.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--No verse of this hymn occurs in the other Samhitas.
+
+  
+
+Verse 1.
+
+Note [3:7:1:1]1. On the meaning of this difficult verse conjectures only can be given. The white-backed one may be Agni. If this is right, 'they who have risen out of Agni's drink,' may be Agni's rays or flames (ye rasmayah ... prakarshenodgakkhanti, Sayana); these flames enter upon the two mothers, i. e. Heaven and Earth, and upon the seven sounds, the sacrificial songs which are identified with the terrestrial and celestial seven rivers (comp. above, III, 1, 6). All this rests on the supposition that the traditional text is correct. Now Ludwig remarks with reference
+
+[p. 250]
+
+to the pronoun ye: 'Warscheinlicher ist, dass wir hier eine archaistische anwendung der form auf e fur fem. vor uns haben,' and Griffith says that ye is 'apparently used for the feminine.' I do not believe in this possibility, but for ye (ya) the true reading may be ya'(h). In this case the seven vanis would be subject: 'They who have risen out of the drink of the white-backed one, the seven sounds have entered the two parents.' The meaning of this may be: The sacrificial songs, rising as it were out of the offering made to Agni, and in the same way the streams of water which, in the shape of clouds of smoke rise out of the offering (comp. I, 164, 51), have gone to Heaven and Earth.
+
+That the parents in the third Pada are again Heaven and Earth is shown by X, 65, 8. parikshita pitara ... dya'vaprithivi'. It may be observed that the author of X, 65 (see especially the verses 6-8) evidently imitated the expressions of the hymn, III, 7. 'The coming together of Heaven and Earth marks the beginning of the day and of the year.' M. M.
+
+  
+
+Verse 2.
+
+Note [3:7:2:1]1. On divakshas, comp. Joh. Schmidt, Pluralbildungen der Neutra, 417 seq.
+
+Note [3:7:2:2]2. The milch-cows, mares, or goddesses seem to be the celestial waters or Dawns.
+
+Note [3:7:2:3]3. Comp. X, 65, 6, quoted at the end of this note. Is the cow (Vak, according to Sayana) the Dawn which daily returns in her due way? Or the butter offered to Agni? In our verse and in the parallel passage, X, 65, 6, the vartani of the cow is mentioned; it may be observed that the vartani of Ushas is referred to in X, 172, 1. 4. And Ushas is represented in I, 123, 9 as coming to the nishkrita: comp. X, 65, 6. ya' gauh vartanim pari-eti nih-kritam.
+
+  
+
+Verse 3.
+
+Note [3:7:3:1]1. See verse 2.
+
+Note [3:7:3:2]2. The meaning may possibly be the following. The Waters dwell in the plants as their sap (comp. H. O.,
+
+[p. 251]
+
+[paragraph continues] Religion des Veda, 113). Agni, when burning or drinking as it were, the brushwood, destroys this dwelling of the Waters; he makes the Waters depart from the wood.
+
+  
+
+Verse 4.
+
+Note [3:7:4:1]1. On Agni as the son of Tvashtri, see Hillebrandt, Vedische Mythologie, I, 522 seq.
+
+Note [3:7:4:2]2. 'Could vahatah be the suyamah of verse 3?' M. M.
+
+  
+
+Verse 6.
+
+Note [3:7:6:1]1. Or, 'when the singer's bull ... has grown strong according to his own law'? The bull, of course, is Agni.
+
+  
+
+Verse 7.
+
+Note [3:7:7:1]1. See above, 5, 5. 6.
+
+Note [3:7:7:2]2. The flames of Agni?
+
+  
+
+Verse 9.
+
+Note [3:7:9:1]1. Rasmayah, 'the reins,' at the same time means 'the rays' (of Agni). Suyama'h being an apposition to rasmayah, one is tempted to derive it from the root yam, 'to direct,' but it may contain the word ya'ma, 'the way,' and mean 'having a good way.'--It is difficult to believe that rasmayah suyama'h is a second subject of vrishayante, in which case the translation would be: 'The many (mares) are desirous of the mighty stallion, the ... reins (or rays) of the manly, bright one.'
+
+Note [3:7:9:2]2. 'Bring hither to the two worlds the great gods.' M. M.
+
+  
+
+Verse 10.
+
+Note [3:7:10:1]1. On priksha-prayagah, comp. M. M., val. xxxii, p. 335; Pischel, Vedische Studien, I, 98.
+
+Note [3:7:10:2]2. The meaning seems to be: By thy greatness which is equal to that of the earth.
+
+Note [3:7:10:3]3. Comp. X, 63, 8. krita't akritat enasah. See also I, 24, 9; VI, 51, 8.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 252]
+
+  
+
+MANDALA III, HYMN 8.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 3-4.
+
+1. The worshippers of the gods anoint thee at the sacrifice, O lord of the forest [*1], with heavenly honey [*2]. When standing upright bestow wealth (on us) here, or when abiding in this mother's lap [*3].
+
+2. Situated in front of the kindled (fire), accepting our sacred spell which protects from old age and gives valiant offspring, driving away far from us lack of thoughts [*1], rise up [*2] for the sake of great prosperity.
+
+3. Rise up, O lord of the forest, on the summit of the earth. Erected by skilful erection bestow splendour on (the worshipper) who fits out the sacrifice as a vehicle [*1].
+
+4. A well-clothed youth dressed has come hither. He becomes more excellent when born [*1]. Wise sages full of pious thoughts, longing for the gods in their mind, bring him forth.
+
+5. He who has been born is born [*1] in the auspiciousness of days, growing up in the assembly and at the sacrifice [*2]. Wise, active men purify him by pious thoughts; the priest approaching the gods raises his voice [*3].
+
+6. You whom the worshippers of the gods have fastened down (in the earth), or whom the axe has fashioned, O lord of the forest: may those divine posts [*1] standing (here) take care to bestow on us treasures with offspring.
+
+7. (The posts) which have been hewn on the earth and fastened down, and to which the sacrificial
+
+[p. 253]
+
+ladles have been raised [*1]: may they, giving bliss to our fields [*2], eagerly seek precious goods for us among the gods.
+
+8. May the Adityas, the Rudras, the Vasus, the good leaders, Heaven and Earth, the Earth [*1] and the Air--may the gods unanimously bless this sacrifice; may they raise up the banner of the sacrifice (the Yupa).
+
+9. Like swans ranging themselves in rows, arraying themselves in brightness the sacrificial posts have come to us. Led up by the sages they go forward as gods to the abode of the gods.
+
+10. Like horns of horned animals the sacrificial posts with their head-pieces [*1] are seen on the earth. Hearing (us) in the emulating call of the invoking (priests) may they protect us in the racings of battles.
+
+11. O lord of the forest, rise with a hundred branches; may we rise with a thousand branches (offspring)--thou whom this sharpened axe has led forward to great prosperity.
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Trishtubh (verses 3 and 7 Anushtubh).
+
+This Sukta is a collection of liturgical verses that refer to the erecting and anointing of the sacrificial post, and to the winding of a rope about it. See Aitareya Brahmana II, 2; Asvalayana Srautasutra III, 1, 8 seq.; Sankhayana Srautasutra V, 15, 2 seq.; Schwab, Das Altindische Thieropfer, 68 seq.; Bergaigne, Recherches sur l'Histoire de la Liturgie Vedique, 16. On the ritual acts referring to the sacrificial post which seem to be connected with ancient
+
+[p. 254]
+
+tree-worship, comp. also H. O., Religion ties Veda, 90 seq., 256.--Verses 1-5 = TB. III, 6, 1, 1. 3; MS. IV, 13, 1. Verse 3 = MS. I, 2, 11. Verse 4 = TA. I, 27, 2. Verse 10 = TB. II, 4, 7, 11. Verse 11 = TS. I, 3, 5, 1; VI, 3, 3, 3.
+
+  
+
+Verse 1.
+
+Note [3:8:1:1]1. The tree of which the sacrificial post is made.
+
+Note [3:8:1:2]2. The post is anointed with butter, see Schwab, l. c., 69. This butter is spoken of as honey also in the Yagus, which refers to this rite, 'May the god Savitri anoint thee with honey,' Taittiriya Samhita I, 3, 6, 1.
+
+Note [3:8:1:3]3. In the lap of the mother Earth.
+
+  
+
+Verse 2.
+
+Note [3:8:2:1]1. Amati has nothing to do with the verb am; it is the contrary of mati. See Rig-veda IV, II, 6. amatim ... amhah ... duhmatim; X, 33, 2, and such passages of the younger Vedic Samhitas as Vag. Samh. XVII, 54 (apa amatim duhmatim ba'dhamanah). The same is the opinion of Geldner (Ved. Studien, II, 184, note 4).
+
+Note [3:8:2:2]2. The sacrificial post is addressed.
+
+  
+
+Verse 3.
+
+Note [3:8:3:1]1. Comp. below, III, 24, 1.
+
+  
+
+Verse 4.
+
+Note [3:8:4:1]1. The sacrificial post, round which a rope of grass (Schwab, Thieropfer, p. 49) is tied, is compared here with a well-dressed youth. This seems to contain an allusion to the Upanayana ceremony, at which the youth was invested with the sacred girdle, and which was considered as a second birth (comp. Pada B: 'He becomes more excellent when born'). There is no doubt that this rite is as old and older than the Rig-veda; see H. O., Religion des Veda, 466 seq. It may be noted that several Grihya-sutras prescribe the use of our verse at the Upanayana (Asvalayana I, 20, 9, &c.).
+
+[p. 255]
+
+  
+
+Verse 5.
+
+Note [3:8:5:1]1. Does this expression refer again to the second birth (see the preceding note)?
+
+Note [3:8:5:2]2. The text has vidathe.
+
+Note [3:8:5:3]3. Comp. V, 76, 1. ut vipra'nam devaya'h va'kah asthuh. The conjecture devaya'm easily suggests itself, but it is not necessary.
+
+  
+
+Verse 6.
+
+Note [3:8:6:1]1. In the Rig-veda, svaru means the sacrificial post itself, not, as in the later ritual texts (Schwab, Thieropfer, pp. 11, 74), that splinter of the wood of the sacrificial post (yupasakala), with regard to which Katyayana (VI, 3, 17) prescribes: 'Yupasakalam asyam (scil. rasanayam) avaguhati.' 'He hides the splinter of the wood of the sacrificial post in the rope (tied round the post).'--See Weber, Indische Studien, IX, 222.
+
+  
+
+Verse 7.
+
+Note [3:8:7:1]1. Comp. below, IV, 6, 3.
+
+Note [3:8:7:2]2. Comp. VIII, 71, 12. kshaitraya sa'dhase.
+
+  
+
+Verse 8.
+
+Note [3:8:8:1]1. The Earth is mentioned twice, firstly together with the Heaven, in the compound Dya'va-Ksha'ma, and then separately as Prithivi.
+
+  
+
+Verse 10.
+
+Note [3:8:10:1]1. On the wooden head-piece of the sacrificial post (kasha'la), see Schwab, Das Thieropfer, p. 9.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 256]
+
+  
+
+MANDALA III, HYMN 9.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 5-6.
+
+1. We, thy friends [*1], have chosen thee for our protection, (we) the mortals (thee) the god, the offspring of the Waters, the blessed one with fine splendour [*2], who gloriously advances, the unmenaced one.
+
+2. When thou, finding pleasure in the wood, hast gone to thy mothers, the Waters, that return of thine, Agni, (to this world) should not be slighted, when dwelling afar thou hast come hither.
+
+3. High above (all) pungent sharpness thou hast grown up [*1], and verily thou art kind-hearted. Some go forward here and there; others sit around thee, in whose friendship thou abidest [*2].
+
+4. He who has passed beyond (all) failures, beyond all hindrances [*1], the guileless, watchful ones [*2] have found him as a lion (is found), when he had gone into the Waters;
+
+5. He who had run as it were by his own might, Agni, who thus dwelt in concealment--Him Matarisvan brought hither from afar, from the gods, when he had been produced by attrition (of the woods).
+
+6. (And thus) the mortals have taken thee up, O carrier of sacrificial food towards the gods [*1], because thou, O (god) belonging to Manus, protectest all sacrifices by the power of thy mind, O youngest one!
+
+7 [*1]. This is something glorious; herein thy wonderful power shows itself even to the simple, that the cattle lie down round about thee when
+
+[p. 257]
+
+thou hast been kindled, O Agni, at the approach of darkness [*2].
+
+8. Make your offerings in (Agni), the best performer of worship, the sharp one who purifies with his flames [*1]. Serve ye, obediently the god, the quick messenger, the agile, the old, the adorable.
+
+9 [*1]. Three hundred and three thousand gods and thirty and nine did service to Agni. They sprinkled him with ghee and spread out for him the sacrificial grass: then they made him sit down as a Hotri.
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Brihati; the last verse is Trishtubh.--Verse 1 = SV. I, 62. Verse 2 = SV. I, 53. Verse 9 = VS. XXXIII, 7; TB. II, 7, 12, 2.
+
+  
+
+Verse 1.
+
+Note [3:9:1:1]1. For this expression, compare I, 30. 7; VIII, 21, 2. 9.
+
+Note [3:9:1:2]2. Comp. VIII, 19, 4. subhagam sudi'ditim.
+
+  
+
+Verse 3.
+
+Note [3:9:3:1]1. Comp. I, 81, 5. ati visvam vavakshitha; 102, 8. ati idam visvam bhuvanam vavakshitha.
+
+Note [3:9:3:2]2. The different officiating priests seem to be alluded to.
+
+  
+
+Verse 4.
+
+Note [3:9:4:1]1. Comp. I, 42, 7. ati nah saskatah naya; VII, parshat nah ati saskatah; Lanman, Noun-Inflection. 467.
+
+Note [3:9:4:2]2. The gods who searched for Agni.
+
+  
+
+Verse 6.
+
+Note [3:9:6:1]1. For devebhyah havyavahana, comp. X, 118, 5; 119, 13; 150, 1.
+
+[p. 258]
+
+  
+
+Verse 7.
+
+Note [3:9:7:1]1. Comp. Prof. von Schroeder's translation of this verse, Kuhn's Zeitschrift, XXIX, 205.
+
+Note [3:9:7:2]2. Regarding apisarvare, comp. VIII, 1, 29: Geldner, Vedische Studien, II, 178. I cannot adopt the conclusions of Prof. Bloomfield, Contributions to the Interpretation of the Veda, Fifth Series, p. 36. 'Wild animals run away from the fire at night, tame animals are attracted by it.' M. M.
+
+  
+
+Verse 8.
+
+Note [3:9:8:1]1. For this Pada, comp. VIII, 43, 31; 102, 11; X, 21, 1.
+
+  
+
+Verse 9.
+
+Note [3:9:9:1]1. This verse is identical with X, 52, 6.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 259]
+
+  
+
+MANDALA III, HYMN 10.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 7-8.
+
+1 [*1]. Thee, O Agni, the highest king of human tribes, the god, thoughtful mortals kindle at their worship.
+
+2. Thee, O Agni, the Ritvig, the Hotri, they magnify at the sacrifices. Shine as the guardian of Rita in thy own house [*1].
+
+3. He indeed who may worship thee, the Gatavedas, with fuel, acquires abundance in valiant men, O Agni; he will prosper.
+
+4. May He, the banner of the sacrifices, Agni, come hither with the gods, anointed by the seven Hotris [*1] for the sake of the man who offers sacrificial food.
+
+5. Bring ye forward an ancient, mighty speech to Agni, the Hotri, who is like a worshipper bearing the lights of prayers [*1].
+
+6. May our prayers increase Agni, since he is born deserving of praises, the conspicuous one, for the sake of great strength and wealth.
+
+7 [*1]. May Agni, as the best sacrificer at the worship (of men), perform the sacrifice to the gods for the man devoted to the gods. As a joyous Hotri thou reignest (passing) beyond (all) failures.
+
+8. Thus, O purifier, shine on us glorious abundance in heroes. Be the nearest (friend) to those who praise thee, for their welfare.
+
+9. Thus the priests full of admiring praise, having awoke, kindle thee, the immortal carrier of sacrificial food, the increaser of strength.
+
+[p. 260]
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Ushnih.--Verse 5 = SV. I, 98; TB. III, 2, 11, 1. Verse 7 = SV. I, 100.
+
+  
+
+Verse 1.
+
+Note [3:10:1:1]1. The first Pada is identical with VIII, 44, 19.
+
+  
+
+Verse 2.
+
+Note [3:10:2:1]1. Comp. above, I, 1, 8.
+
+  
+
+Verse 4.
+
+Note [3:10:4:1]1. The most ancient list of officiating priests at the Soma sacrifice contained seven priests. See H. O., Religion des Veda, 383 seq. Hence Agni is called saptahota, cf. III, 29, 14.
+
+  
+
+Verse 5.
+
+Note [3:10:5:1]1. On vip, see the note on III, 3, 1. As to the 'lights' of the vipas, comp. va'kah gyotih-agrah, VII, 101, 1, the expression gyotihshtoma--though this word is not known in the Rig-veda--and the materials collected by Bergaigne, Religion Vedique, I, 285.
+
+  
+
+Verse 7.
+
+Note [3:10:7:1]1. The second Pada is identical with I, 15, 12.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 261]
+
+  
+
+MANDALA III, HYMN 11.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 9-10.
+
+1. Agni is the Hotri, the Purohita of our worship, he who dwells among many tribes, He knows the sacrifice in due order.
+
+2. He, the immortal carrier of oblations, the Usig [*1], the messenger, with satisfied mind, Agni sets himself in motion [*2] (incited) by the thought (of praying men?).
+
+3. Agni takes heed [*1] (of us) by the thought (the prayer?), the banner of the sacrifice, the ancient one; for his purpose triumphs [*2].
+
+4. The gods have made Agni, the old-renowned son of strength, the Gatavedas, their carrier (towards the sacrifice) [*1].
+
+5. Agni the undeceivable one who goes before the human tribes, he is the quick chariot [*1], ever new.
+
+6. Overcoming all attacks, He, the uninjured mind (power) of the gods, Agni, is most mightily renowned.
+
+7. Through the vehicle [*1] (which carries the gods) towards the delights (of sacrifice), "the worshipping mortal attains the dwelling-place [*2] of (Agni) whose flames are purifying.
+
+8. May we, the priests, by our prayers obtain all the blissful gifts of Agni Gatavedas.
+
+9. Agni! May we win all the best things in (the trials of) strength. In thee the gods have established them [*1].
+
+[p. 262]
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Gayatri.--Verse 2 = VS. XXII, 16; TS. IV, 1, 11, 4; MS. IV, 10, 1. Verses 5, 7, 6 = SV. II, 906-908. Verse 5 = TB. II, 4, 8, 1.
+
+  
+
+Verse 2.
+
+Note [3:11:2:1]1. Comp. Bergaigne, Religion Vedique, 1, 57 seq.
+
+Note [3:11:2:2]2. On the intransitive use of rinvati, comp. Gaedicke, Der Accusativ im Veda, p. 53.
+
+  
+
+Verse 3.
+
+Note [3:11:3:1]1. The meaning seems to be that Agni is intent on his purpose (artham, Pada 3); comp. I, 10, 2. tat indrah artham ketati.
+
+Note [3:11:3:2]2. Comp. Neisser, Bezzenberger's Beitrage, XX, 42.
+
+  
+
+Verse 4.
+
+Note [3:11:4:1]1. See the note on I, 127, 8.
+
+  
+
+Verse 5.
+
+Note [3:11:5:1]1. On Agni considered as a chariot, see Bergaigne, Religion Vedique, I, 144.
+
+  
+
+Verse 7.
+
+Note [3:11:7:1]1. Comp. 1, 127, 8, note 1.
+
+Note [3:11:7:2]2. Comp. above, III, 2, 6.
+
+  
+
+Verse 9.
+
+Note [3:11:9:1]1. I. e. all the best things (Pada 1); comp. VI, 5, 2. tve vasuni ... a' irire yagniyasah.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 263]
+
+  
+
+MANDALA III, HYMN 12.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 11-12.
+
+  
+
+TO INDRA-AGNI.
+
+1. Indra-Agni, in consequence of our prayers come hither to the pressed (Soma), to the precious cloud [*1]. Drink of it incited by our thoughts (i. e. by our prayers).
+
+2. Indra-Agni, the brilliant [*1] sacrifice of him who praises you goes forward together (with the Soma libations, the praises, &c.). Thus drink this pressed (Soma)!
+
+3. By this stirring sacrifice I choose Indra and Agni who show themselves as sages [*1]; may they here satiate themselves with Soma.
+
+4. I call the bounteous [*1], the killers of foes [*2], the united conquerors, unconquered, Indra-Agni, the greatest winners of booty.
+
+5. The praisers rich in hymns, knowing all the ways (of the sacrifice), laud you. Indra-Agni, I choose the food (which you give).
+
+6. Indra-Agni, you have hurled down by one deed the ninety strongholds together of which the Dasas were the lords.
+
+7. Indra-Agni, the thoughts (of the worshippers) go forward towards (you) from the work (of sacrifice) along the paths of Rita.
+
+8. Indra and Agni, yours are powerful abodes and delights. You cross the waters: this is the deed which belongs to you [*1].
+
+9. Indra and Agni, you display the lights of heaven in your deeds of strength; that mighty deed of yours has been known far and wide.
+
+[p. 264]
+
+  
+
+NOTES.
+
+The same Rishi and metre. The hymn is addressed to the couple Indra and Agni.--Verses 1-3 = SV. II, 19-21. Verse 1 = VS. VII, 31; TS. I, 4, 15, 1; MS. I, 3, 17. Verses 4-6 = SV. II, 1052-1054. Verses 5-8 = SV. II, 925-928. Verse 5 = MS. IV, 11, 1. Verse 6 = TS. I, 1, 14, 1; MS. IV, 10, 5. Verses 9, 7, 8 = SV. II, 1044-1045. Verse 9 = TS. IV, 2, 11, 1; 3, 13, 8; TB. III, 5, 7, 3; MS. IV, 10, 4; 11, 1.
+
+  
+
+Verse 1.
+
+Note [3:12:1:1]1. 'Cloud,' of course, means that which comes from the cloud. In the Soma hymns of the ninth Mandala, the word nabhah seems frequently to refer to the water with which the Soma is mixed (see IX, 69, 5; 71, 1. 3; 74, 4; 83, 5; 86, 14; 97, 21; Prof. Hillebrandt's opinion on these passages is different, see his Vedische Mythologie, I, 212). Perhaps we should go too far in believing that in our verse the poet invited the gods to come and drink that water, but possibly the mixture of water and of the juice of the Soma plant descending from heaven and nourished by the heavenly waters represented itself to the poet's mind as something coming from, and thus being identical with, the cloud.
+
+  
+
+Verse 2
+
+Note [3:12:2:1]1. On ketanah, Prof. Max Muller remarks, 'perhaps which appeals to you ... so that they take note of it.'
+
+  
+
+Verse 3.
+
+Note [3:12:3:1]1. There may be doubts about kavikkhada. Prof. Max Muller remarks, 'is it, wishing for sages?' I think that my translation is recommended by X, 81, 1. prathamakkhat.
+
+[p. 265]
+
+  
+
+Verse 4.
+
+Note [3:12:4:1]1. Comp. I, 169, 5. ra'yah tosatamah; VIII, 38, 2. tosa'sa rathaya'vana ... indragni, and Brugmann in Kuhn's Zeitschrift, XXIV, 24.
+
+Note [3:12:4:2]2. Or, the killers of Vritra.
+
+  
+
+Verse 8.
+
+Note [3:12:8:1]1. On aptur and aptu'rya, comp. Pischel, Vedische Studien, I, 122 seq., and H. O., Gottingische Gelehrte Anzeigen, 1889, 4 seq.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 266]
+
+  
+
+MANDALA III, HYMN 13.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 13.
+
+1. To this god Agni I sing [*1] for you most powerfully. May he come to us with the gods; may he, the best sacrificer, sit down on the sacrificial grass.
+
+2. The righteous one to whose skill the two worlds (Heaven and Earth) and (all) blessings cling--Him the men rich in offerings magnify, Him those who long for gain, that they may obtain his blessing.
+
+3. He, the priest, is the guide of these (men) [*1], and he indeed (is the guide) of sacrifices. Praise ye this Agni who is the giver, the winner of wealth.
+
+4. May this Agni give us most blissful shelter for our (sacrificial) feast, whence he may shower wealth on us in heaven, the (human) dwellings [*1], and in the waters.
+
+5. The singers kindle Agni, the Hotri, the lord of the tribes, the brilliant, the wonderful, with his excellent thoughts [*1].
+
+6. And mayst thou, the best invoker of the gods, help us in our spell, in our hymns. Shine bliss on us, Agni whom the Maruts strengthen [*1], the greatest winner of thousandfold (wealth).
+
+7. Now bestow on us thousandfold wealth with offspring and prosperity, splendid, most powerful, and undecaying abundance in heroes, O Agni!
+
+[p. 267]
+
+  
+
+NOTES.
+
+The Rishi is Rishabha Vaisvamitra. The metre is Anushtubh.--Verses 6, 7 = MS. IV, 11, 2.--Comp. concerning this hymn, Aitareya Brahmana II, 40.
+
+  
+
+Verse 1.
+
+Note [3:13:1:1]1. Arka (arka) may be first or second person. Comp., for instance, VI, 16, 22. pra vah sakhayah agnaye stomam ... arka ga'ya ka vedhase; X, 50, 1. pra vah mahe ... arka (Samhitap. arka) visva'naraya visvabhuve, and see Benfey, Die Quantitatsverschiedenheiten in den Samhita-und Pada-Texten der Veden, III, p. 8.--On the metre of the second Pada, comp. my Prolegomena, p. 188.
+
+  
+
+Verse 3.
+
+Note [3:13:3:1]1. Perhaps we should supply, on account of the preceding nominative, viprah ('priest'): of these (priests).
+
+  
+
+Verse 4.
+
+Note [3:13:4:1]1. Kshitibhyah seems to me to be co-ordinated with divi and apsu a'; comp. X, 89, 11. The locative kshitishu would not have suited the metre as well as the dative. Prof. Max Muller proposes to translate: 'Whence he may shower wealth on our dwelling, whether he be in the sky or in the waters.'
+
+  
+
+Verse 5.
+
+Note [3:13:5:1]1. Comp. X, 172, 2. a' yahi vasvya dhiya'.
+
+  
+
+Verse 6.
+
+Note [3:13:6:1]1. Comp. Sankhayana Srautasutra VIII, 16. indrah marutvan ... marutstotrah marudganah marudvridhah marutsakha.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 268]
+
+  
+
+MANDALA III, HYMN 14.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 14.
+
+1. The joy-giving Hotri has taken his place at the sacrifices [*1], He the true, the sacrificer, the highest sage, the worshipper. Agni whose chariot is lightning, the son of strength, whose hair is flame, has spread forth his light over the earth.
+
+2. It [*1] has been offered to thee--be pleased with the adoring speech [*2]--to thee who is observant of it, O righteous, strong one. Bring hither thou who art wise, the wise (gods). Sit down on the sacrificial grass in the middle (of it) for bliss, O worshipful one!
+
+3. To thee, Agni, Night and Dawn who further thy strength [*1], shall hasten on the paths of the wind. When (the mortals) anoint the ancient one [*2] with offerings, they [*3] stand in the house as on a chariot-seat [*4].
+
+4. Mitra and Varuna, O strong Agni, and all the Maruts shall sing to thee a pleasant song, when thou, O son of strength, standest with thy flames, a sun spreading out men [*1] over the (terrestrial) dwellings.
+
+5. We have given thee thy desire to-day, sitting down near thee adoringly with outstretched hands [*1]: sacrifice thou to the gods as a priest with thy mind most skilled in sacrifice, with unerring thoughts, O Agni!
+
+6. From thee indeed, O son of strength, proceed manifold divine blessings and gains [*1]. Give us thousandfold true wealth according to thy guileless word, O Agni!
+
+[p. 269]
+
+7. What we have done here for thee at this sacrifice, we mortals, O skilful and thoughtful god, take thou notice of all that, O (god) with the good chariot [*1]; make all this (sacrificial food) here savoury, immortal Agni!
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Trishtubh.--Verse 5 = VS. XVIII, 75.
+
+  
+
+Verse 1.
+
+Note [3:14:1:1]1. On vidatha, comp. I, 31, 6, note 2.
+
+  
+
+Verse 2.
+
+Note [3:14:2:1]1. The subject to be supplied seems to be namah-uktih.
+
+Note [3:14:2:2]2. The words namah-uktim gushasva form a parenthesis, as Ludwig has seen.
+
+  
+
+Verse 3.
+
+Note [3:14:3:1]1. It is possible that here, as in several other passages, a confusion between the two verbs vagayati and vagayati has taken place. If the reading were vagayanti, we should have to translate, 'Night and Dawn who are striving together (as if running a race against each other?).'
+
+Note [3:14:3:2]2. The ancient one is Agni.
+
+Note [3:14:3:3]3. The two goddesses, Night and Dawn.
+
+Note [3:14:3:4]4. The Padapatha has vandhura-iva, which may be the dual of vandhur (I, 34, 9). But more probably it should be vandhure-iva (nom. dual, neuter or loc. sing.), comp. I, 64, 9. a' vandhureshu ... tasthau; I, 139, 4. adhi vam stha'ma vandhure; III, 43, 1. vandhureshtha'h, and see III, 6, 10. adhvareva. On contracted Pragrihya vowels, see H. O., Die Hymnen des Rig-veda, I, p. 456.
+
+[p. 270]
+
+  
+
+Verse 4.
+
+Note [3:14:4:1]1. On nri'n and the different theories proposed for this word, see above, I, 146, 4, note 5.
+
+  
+
+Verse 5.
+
+Note [3:14:5:1]1. Comp. X, 79, 2. uttanahastah.
+
+  
+
+Verse 6.
+
+Note [3:14:6:1]1. For this hemistich, comp. VI, 13, 1; 34, 1.
+
+  
+
+Verse 7.
+
+Note [3:14:7:1]1. The traditional text has tvam visvasya surathasya bodhi, which can only mean, 'take thou notice of every one who has a good chariot'--which Bergaigne (Quelques observations sur les figures de rhetorique dans le Rig-veda, p. 15) explains: 'Le char en question est la priere qui amene le dieu au sacrifice.' I believe that the text is corrupt; instead of surathasya I think we should read surathasya (= suratha asya).
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 271]
+
+  
+
+MANDALA III, HYMN 15.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 15.
+
+1. Flaming with thy broad stream of light beat away fiends, sorcerers, plagues. May I dwell in the protection of the great, well-protecting (god), under the guidance of Agni who readily listens to our call.
+
+2. Be thou our protector when this dawn shines forth, he thou (our protector) when the sun has risen. Cherish, O Agni, well-born in body, this praise of mine as (a man rejoices) in the birth (of a son), in his own offspring [*1].
+
+3. Beholding men, shine thou after many (dawns) [*1], O bull, Agni, red in the dark (nights). O Vasu! Lead us and bring us across anguish. Help us, the Usigs [*2], to wealth [*3], thou youngest (of the gods)!
+
+4. Shine, O Agni, thou the invincible bull, who hast conquered all strongholds and all delights, the leader of the first, the protecting [*1], mighty sacrifice, O Gatavedas, best guide.
+
+5. O singer, thou who art wise, brightly shining towards the gods [*1], bring to us thy many perfect shelters, and gain like a victorious car [*2]; Agni, (carry) thou (hither) towards us the two well-established [*3] worlds (Heaven and Earth).
+
+6. O bull, increase and rouse our gains. Agni! (Increase) for us the two worlds (Heaven and Earth) rich in milk, O god together with the gods, shining with beautiful shine! May a mortal's hatred never enclose us.
+
+7 = III, 1, 23.
+
+[p. 272]
+
+  
+
+NOTES.
+
+The Rishi is Utkila Katya, the metre Trishtubh.--Verse 1 = VS. XI, 49; TS. IV, 1, 5, 1; MS. II, 7, 5; III, 1, 6.
+
+  
+
+Verse 2
+
+Note [3:15:2:1]1. Comp. VII, 1, 21. tanaye nitye; X, 39, 14. nityam na sunum tanayam dadhanah, and besides II, 26, 3. ganena ... visa' ... ganmana ... putraih; Hirzel, Gleichnisse und Metaphern im Rig-veda, 77.
+
+  
+
+Verse 3.
+
+Note [3:15:3:1]1. For this expression, compare IV, 19, 8; IX, 71, 7; X, 31, 7, and especially III, 6, 7; VI, 39, 4.
+
+Note [3:15:3:2]2. The poet compares himself and his friends with the mythical priestly tribe of the Usigs (Bergaigne, Religion Vedique, I, 57 seq.), using, as it seems, at the same time the word usigah in its adjective sense 'the willing ones.'
+
+Note [3:15:3:3]3. The Padapa'tha is right in giving raye; comp. VIII, 26, 13. subhe kakrate.
+
+  
+
+Verse 4.
+
+Note [3:15:4:1]1. Is the text correct? I think that payoh should be corrected into payo or payuh: 'the leader and protector of the first mighty sacrifice.' The mistake may have been caused by the genitives which surround the word.
+
+  
+
+Verse 5.
+
+Note [3:15:5:1]1. Geldner (Vedische Studien, I, 160) translates this hemistich: 'Die vielen sicheren Zufluchtsorte (= Opferplatze) bis zu den Gottern erleuchtend als Weiser, o Sanger.' I do not believe that sarma is the object of di'dyanah; and 'Zufluchtsorte = Opferplatze' is too much in the style of Sayana. I take akkhidra sarma as depending on abhi vakshi; comp. I, 34, 6. tridha'tu sarma vahatam.
+
+Note [3:15:5:2]2. For abhi vakshi va'gam, comp. III, 30, 11; VI, 21, 12.
+
+Note [3:15:5:3]3. On sumeka, comp. Windisch, Festgruss an Boehtlingk, 114.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 273]
+
+  
+
+MANDALA III, HYMN 16.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 16.
+
+1. This Agni rules over abundance in valiant men, over great happiness. He rules over wealth consisting in offspring and cows; he rules over the killing of foes.
+
+2. O Maruts [*1], ye men, cling to this furtherer [*2] who possesses joy-furthering boons--(the Maruts) who [*3] in battles overcome ill-minded (foes), who have deceived the enemy [*4] day by day.
+
+3. As such, O bounteous Agni, prepare [*1] us riches [*2] and wealth in valiant men, which, O highly glorious one, may be most exalted, rich in offspring, free from plagues, and powerful.
+
+4. The maker who victoriously (stands) over all beings, the maker who makes the praise arrive among the gods [*1]: he stands firm among the gods, among the host of heroes, firm also in the praise of men.
+
+5. Give us not up, Agni, to want of thought [*1] nor to want of heroes nor to want of cows, O son of strength, nor to the scoffer. Drive away hostile powers [*2].
+
+6. Help us at this sacrifice, O blessed one, with mighty gain which is accompanied by offspring, O Agni! Let us be united with greater, gladdening, glorious wealth, O thou of mighty splendour!
+
+[p. 274]
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Pragatha, each Pragatha distich being composed of one Brihati and one Satobrihati. The position of the Sukta in the collection and the opening words of verse 3 show that the three Pragathas are not independent, but form one hymn.--Verse 1 = SV. I, 60.
+
+  
+
+Verse 2.
+
+Note [3:16:2:1]1. Comp. VII, 18, 25. imam narah marutah saskata anu.
+
+Note [3:16:2:2]2. The passages which Grassmann gives for the meaning of vridh, 'starkend, erquickend,' I, 167, 4; X, 89, 10, are quite doubtful. Probably we should have to alter the accent and read vridham.
+
+Note [3:16:2:3]3. The relative clause seems to refer to the Maruts, not to the goods (ra'yah).
+
+Note [3:16:2:4]4. Comp. VI, 46, 10. ye ... satrum adabhuh.
+
+  
+
+Verse 3.
+
+Note [3:16:3:1]1. Literally, 'sharpen.'
+
+Note [3:16:3:2]2. The genitive seems, as is also Prof. Ludwig's opinion, to be the partitive genitive, so that the literal meaning would be: 'Prepare us (a deal) of riches and of wealth,' &c. Comp. piba sutasya, 'drink of the pressed Soma,' &c.
+
+  
+
+Verse 4.
+
+Note [3:16:4:1]1. On kakrih deveshu a' duvah, comp. IV, 2, 9; VIII, 31, 9.
+
+  
+
+Verse 5.
+
+Note [3:16:5:1]1. On amati, comp. above, III, 8, 2, note.
+
+Note [3:16:5:2]2. Comp. VI, 59, 8. apa dveshamsi a' kritam.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 275]
+
+  
+
+MANDALA III, HYMN 17.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 17.
+
+1. He who is inflamed after the primitive ordinances, is anointed with ointments [*1], the giver of all treasures, he whose hair is flame, whose stately robe is ghee, the purifier, skilled in sacrifice, Agni--that he may sacrifice to the gods.
+
+2. As thou hast performed, O Agni, the Hotri's duty for the Earth, as thou hast done it for Heaven, O Gatavedas, full of intelligence, in the same way sacrifice with this offering to the gods. Prosper this sacrifice to-day as thou hast done for Manus.
+
+3. Thou hast three lives, O Gatavedas, and three births from the Dawn [*1], O Agni! Being wise, sacrifice with these to the favour of the gods, and bring luck and welfare to the sacrificer.
+
+4. Praising Agni full of splendour, full of beauty, we adore thee, O Gatavedas, deserving to be magnified. Thee the gods have made their messenger, their steward [*1], and carrier of offerings, the navel of immortality.
+
+5. O Agni, the Hotri who before thee was an excellent sacrificer, who verily [*1] sat down and brought luck by himself [*2] sacrifice according to his rules, O intelligent one, and set down our sacrifice at the feast of the gods.
+
+  
+
+NOTES.
+
+The Rishi is Kata Vaisvamitra, the metre Trishtubh.--Verse 1 = TB. I, 2, 1, 10. Verse 3 = TB. III, 2, 11, 2;
+
+[p. 276]
+
+[paragraph continues] MS. IV, 11, 1; 12, 5. Verse 4 = TB. III, 6, 9, 1; MS. IV, 13, 5.
+
+  
+
+Verse 1.
+
+Note [3:17:1:1]1. Possibly the poet intended to allude also to the other meaning of aktubhih, which means both 'ointments' and 'nights.' The nights render Agni conspicuous and anoint (ang) him as it were with beauty. I do not believe that the existence of a Vedic word aktu, 'ointment,' should be denied; cf. Bechtel, Nachrichten d. Gottinger Ges. d. Wiss. 1894, p. 398.
+
+  
+
+Verse 3.
+
+Note [3:17:3:1]1. See Bergaigne, Religion Vedique, II, 14. Prof. Max Muller translates: Three lives are thine, the dawns are thy three birthplaces, or three dawns are thy birthplaces.
+
+  
+
+Verse 4.
+
+Note [3:17:4:1]1. See above, I, 58, 7, note 1.
+
+  
+
+Verse 5.
+
+Note [3:17:5:1]1. Literally, 'doubly.' Grassmann is right in observing that the Vedic poets show a certain predilection for the word dvita' when speaking of Agni's being established and doing his work at the sacrifice. Prof. Max Muller thinks of Agni's two homes, earth and heaven.
+
+Note [3:17:5:2]2. On the Hotri more ancient than Agni, comp. Bergaigne, Religion Vedique, I, 109. Probably this simply refers to the Agni or the fire used at former sacrifices.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 277]
+
+  
+
+MANDALA III, HYMN 18.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 18.
+
+1. Be kind, O Agni, when we approach thee, as a friend a friend, as parents [*1], a straight leader. For full of deceit are the tribes of men: burn thou against (all) malign powers so that they turn back.
+
+2. Burn, O Agni, the nearer enemies, burn the curse of the distant evil-doer. Burn, O Vasu, seeing the unseen ones. May thy never-ageing, never-tiring flames [*1] spread out.
+
+3. Wishing for (thy blessings), O Agni, by fuel and ghee I offer this sacrificial food for (the attainment of) advancing power and of strength; worshipping thee with my spell as far as I have power (I offer) this divine prayer for the attainment of hundred(fold blessings).
+
+4. (Shining) forth with thy flame, O son of strength, praised (by us), bestow mighty vigour on those who toil for thee, bright luck and welfare, O Agni, on the Visvamitras! We have cleaned thy body many times.
+
+5. Give us treasures, O best gainer of riches: such indeed art thou, Agni, when thou hast been kindled. In the blessed praiser's house thou hast placed, together with wealth, thy mighty(?) arms [*1], thy marvellous shapes.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 2 = TA. IV, 5, 5. Verse 3 = AV. III, 15, 3.
+
+[p. 278]
+
+  
+
+Verse 1.
+
+Note [3:18:1:1]1. It is rather strange that Agni is compared with the two parents. Generally it is the two Asvins, or Heaven and Earth, or the pair of Indra and Varuna, &c.. who are compared with father and mother (see Hirzel, Gleichnisse und Metaphern im Rigveda, 71 seq.). No doubt in our verse the dual was chosen on account of the metre.--I do not think that Bollensen (Orient und Occident, II, 473) and Kirste (Bezzenberger's Beitrage, XVI, 297) are right in believing that a dative of pitri is found here, and in translating: 'as a good (son) to his father.'
+
+  
+
+Verse 2.
+
+Note [3:18:2:1]1. The meaning of aya'sah is doubtful; comp. Brugmann in Kuhn's Zeitschrift, XXIV, 24 seq.; M. M., vol. xxxii, p. 371 (VI, 66, 5); von Bradke, Festgruss an Roth, 124.
+
+  
+
+Verse 5.
+
+Note [3:18:5:1]1. On sripra, see I, 96, 3, note 3. Karasna must mean something like 'arm,' though the exact meaning is doubtful. In VIII, 32, 10 the compound sriprakarasna occurs. Prof. Max Muller writes: 'Thou hast brightly assumed a body with soft arms or with stretched-out arms, if we do not read sriprakarasna.'
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 279]
+
+  
+
+MANDALA III, HYMN 19.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 19.
+
+1. I choose Agni as Hotri at this sacrificial meal, the clever sage all-knowing and not foolish. May he, the excellent sacrificer, sacrifice for us amid the host of the gods; may he obtain liberal boons (for us) for the sake of wealth and strength.
+
+2. To thee, O Agni, I stretch forth the (ladle) rich in sacrificial food, splendid, full of gifts, full of ghee. From left to right, choosing the host of the gods [*1], he has established the sacrifice with gifts and goods [*2].
+
+3. Whoever is favoured by thee, is blessed with the sharpest spirit. Favour him with good offspring, O god rich in favours [*1]! Agni, may we, (dwelling) in the copiousness of manliest wealth, be rich in perfect praise of thee, the Vasu.
+
+4. On thee indeed, O Agni, sacrificing men have put many faces of (thee) the god [*1]. Bring hither then the host of the gods, O youngest one, when thou wilt sacrifice to-day to the divine host [*2].
+
+5. When the gods will anoint thee as the Hotri at the sacrificial meal making thee sit down for the sacrifice, be thou here, O Agni, our furtherer, and bestow glory on our bodies.
+
+  
+
+NOTES.
+
+The Rishi is Gathin Kausika, the metre Trishtubh.--Verse 3 = TS. I, 3, 14, 6; MS. IV, 14, 15.
+
+[p. 280]
+
+  
+
+Verse 2.
+
+Note [3:19:2:1]1. Comp. below, IV, 6, 3. This parallel passage shows that pradakshinit belongs to uranah, not to asret. Agni is represented as choosing, i. e. inviting the host of the gods by moving around the sacrificial food from left to right. See concerning the Paryagnikarana, which seems to be alluded to, Hillebrandt, Neu- and Vollmondsopfer, 42 seq.
+
+Note [3:19:2:2]2. Or, 'with the (divine) givers and with the Vasus.'
+
+  
+
+Verse 3.
+
+Note [3:19:3:1]1. Boehtlingk-Roth seem to be right in reading siksho. Comp. VIII, 52, 8. yasmai tvam ... siksho sikshasi dasushe.
+
+  
+
+Verse 4.
+
+Note [3:19:4:1]1. They have inflamed many fires, each of which is a face of the god Agni.
+
+Note [3:19:4:2]2. Or, 'that thou mayest sacrifice,' &c. See Delbruck, Syntaktische Forschungen, I, 148.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 281]
+
+  
+
+MANDALA III, HYMN 20.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 20.
+
+1. The carrier (of the gods) [*1] calls by his hymns Agni, Ushas (dawn), the two Asvins, Dadhikra [*2] at daybreak. May the gods rich in light, unanimously longing for our sacrifice, hear us.
+
+2. Agni, threefold is thy strength; three are thy abodes; three are thy many tongues, O thou who art born in Rita! And three, O Agni, are thy bodies beloved by the gods. With these protect our prayers unremittingly.
+
+3 [*1]. Agni! Many are the names, O Gatavedas, of thee the immortal one, O self-dependent god! And whatever the secret powers of the powerful [*2] are, thou all-enlivener, in thee they have placed together (those) many (powers), O (god) after whose relations men ask [*3].
+
+4. Agni is the divine leader of the divine tribes like Bhaga, the guardian of the seasons [*1], the righteous. May He, the killer of Vritra [*2], the ancient one, the possessor of all wealth, bring the singer across all troubles.
+
+5. I invite hither [*1] Dadhikra [*2], Agni, and the goddess Ushas, Brihaspati and the god Savitri, the Asvins, Mitra and Varuna and Bhaga, the Vasus, Rudras, and Adityas.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 2 = TS. II, 4, 11, 2; III, 2, 11, 1; MS. II, 4, 4. Verse 3 = TS. III, 1, 11, 6.
+
+[p. 282]
+
+  
+
+Verse 1.
+
+Note [3:20:1:1]1. The 'carrier' of the gods is the Hotri. See above, I, 127, 8, note 1, and compare the article of Dr. Neisser quoted there. See also M. M., vol. xxxii, pp. 40-43 (I, 6, 5).
+
+Note [3:20:1:2]2. On Dadhikra or Dadhikravan, the deified horse of Trasadasyu, see Pischel, Vedische Studien, I, 124; Ludwig, vol. iv, p. 79; H. O., Religion des Veda, 71. Prof. Max Muller writes, 'It seems to me some form of Agni generally in company with matutinal gods.'
+
+  
+
+Verse 3.
+
+Note [3:20:3:1]1. The reader who compares this passage with 19, 4, will observe a general resemblance pointing to the conclusion that both verses belong to the same author.
+
+Note [3:20:3:2]2. Maya'h ma'yinam: comp. concerning the idea of maya', H. O., Religion des Veda, 163, 294.
+
+Note [3:20:3:3]3. With prishtabandhu, comp. bandhuprikh, bandhvesha.
+
+  
+
+Verse 4.
+
+Note [3:20:4:1]1. Perhaps ritu-pa'h should be changed into rita-pa'h 'the god who protects the Rita, the righteous.'
+
+Note [3:20:4:2]2. Or 'the killer of foes.'
+
+  
+
+Verse 5.
+
+Note [3:20:5:1]1. Possibly we have to read, on account of the metre, iha hve.
+
+Note [3:20:5:2]2. See above, verse I, note 1.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 283]
+
+  
+
+MANDALA III, HYMN 21.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 21.
+
+1. Take this our sacrifice to the immortals; accept graciously these offerings, O Gatavedas. O Agni, partake of the drops of fat and ghee, O Hotri, having sat down as the first.
+
+2. To thee, O purifier, the drops of fat mixed with ghee drip down. O (god) who followest thy own ordinances, give us the best boon for this feast to which the gods come eagerly.
+
+3. To thee, the priest, O Agni, (belong) the drops dripping with ghee, O good one! Thou art kindled as the best Rishi. Be a furtherer of our sacrifice!
+
+4. For thee, O liberal one [*1], full of power, the drops of fat and ghee drip down, O Agni! Praised by the sages thou hast come hither with mighty light. Accept graciously the offerings, O wise one!
+
+5. For thee the richest fat [*1] has been taken out from the midst. We give it to thee. On thy skin, O Vasu, the drops drip down. Accept them eagerly for each of the gods.
+
+  
+
+NOTES.
+
+The same Rishi. Verses 1 and 4 are Trishtubh, verses 2 and 3 Anushtubh, verse 5 Viradrupa Satobrihati.
+
+The hymn belongs to the ritual of the animal sacrifice. It has to be recited, according to the prescription of the later Vedic texts, while the vapa (omentum) of the sacrificial animal is roasted and the drops of fat drip down from it. See Schwab, Das Altindische Thieropfer, p. 114
+
+[p. 284]
+
+seq., and the Sutra texts quoted by him (for instance, Asvalayana Srautasutra III, 4, 1). Bergaigne (Recherches sur l'Histoire de la Liturgie Vedique, 18) seems to be right in observing: 'Bien qu'il (l'hymne III, 21) soit recite tout d'une piece dans le pasubandha, pendant la cuisson de la vapa, pour les gouttes de graisse qui tombent dans le feu sa complexite metrique ... le trahit et nous y fait voir une simple collection de vers liturgiques.' It may be observed, however, that the two last verses seem to form a distich of an irregular Pragatha type; comp. H. O., Die Hymnen des Rigveda, vol. i, p. 118.--Verses 1-5 = TB. III, 6, 7, 1. 2; MS. IV, 13, 5.
+
+  
+
+Verse 4.
+
+Note [3:21:4:1]1. On the word adhrigu, cf. Bloomfield, American Or. Soc. Proceedings, March, 1894, p. cxxiii.
+
+  
+
+Verse 5.
+
+Note [3:21:5:1]1. Vapakhyam havih, Sayana. This explanation is evidently correct. After the sacrificial animal has been killed, the omentum, which is very rich in fat, is first drawn out of its body and offered. See H. O., Die Religion des Veda, 360 seq.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 285]
+
+  
+
+MANDALA III, HYMN 22.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 22.
+
+1. This is that Agni with whom the desiring Indra took the pressed Soma into his body. Having obtained thousandfold strength like a horse, a racer [*1], thou art praised, O Gatavedas!
+
+2 [*1]. Thy splendour, O Agni, which dwells in heaven and on earth, in the plants, O worshipful one, and in the waters, wherewith thou hast spread through the wide air--that light of thine is fierce, waving [*2], man-beholding.
+
+3. Agni, thou goest to the floods of heaven. Thou hast spoken to the gods who are liberal (?) [*1]. (Thou goest) to the waters which (dwell) on high in the ether of the sun, and to those which approach below.
+
+4. May the fires of the soil united with those on the hill-sides [*1], without guile graciously accept our sacrifice and plentiful food free from all plague.
+
+5 = III, 1, 23.
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Trishtubh, except in verse 4 which is Anushtubh.--A conjecture on the ritual use for which the hymn has been composed, see in the note on verse 4.--Verses 1-5 = VS. XII, 47-51; TS. IV, 2, 4, 2. 3; MS. II, 7, 11.--A sort of commentary on this hymn is found in the Satapatha Brahmana VII, 1, 1, 22 seq.
+
+  
+
+Verse 1.
+
+Note [3:22:1:1]1. In the traditional text the words, 'a horse, a racer,' are accusatives. But it is the atya who attains
+
+[p. 286]
+
+[paragraph continues] (san) the va'ga and who is called vagin (comp. M. M., vol. xxxii, pp. 116, 442, and on sapti, ibid. p. 102): see I, 130, 6; III, 2, 7; 38, 1 (V, 30, 14; IX, 93, 1; 96, 15, &c.); VII, 24, 5; IX, 43, 5; 82, 2; 85, 5; 86, 3; 96, 20; X, 96, 10 (I, 52, 1, and III, 2, 3 do not contradict this). Pischel (Vedische Studien, I, 105) believes that atyam na stands for atyah na, which seems impossible to me. But I think that we should correct the text and read atyah na saptih. The preceding accusatives have caused the blunder.
+
+  
+
+Verse 2.
+
+Note [3:22:2:1]1. Comp. Grassmann, Kuhn's Zeitschrift, XVI, 165.
+
+Note [3:22:2:2]2. Comp. ketuh arnavah su'ryasya, VII, 63, 2.
+
+  
+
+Verse 3.
+
+Note [3:22:3:1]1. In the translation of dhishnya I have followed Pischel, Vedische Studien, II, 87, though this translation is quite uncertain. Should the meaning be: 'the gods who dwell on the dhishnya altars'?
+
+  
+
+Verse 4.
+
+Note [3:22:4:1]1. Agni purishya, i. e. the fire dwelling in the soil (comp. Roth in Kuhn's Zeitschrift, XXVI, 64), is mentioned very frequently in the Mantras belonging to the Agnikayana, i. e. to the construction of the brick altar. Agni is considered as residing in the soil used at that rite. Now in the Yagus texts the whole of our hymn occurs among the texts to be recited at the Agnikayana (Taitt. Samh. IV, 2, 4, 2, &c.; comp. also Asvalayana Srautasutra IV, 8, 20). Perhaps we may conjecture, therefore, that the Agnikayana rite in its simplest form was known already in the Rig-veda period, and that our hymn was destined for it.--The pravana fires (fires dwelling on the hill-sides) may be the fires dwelling in the rivers which run down the pravanas or descents.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 287]
+
+  
+
+MANDALA III, HYMN 23.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 23.
+
+1. Produced by attrition, well preserved in his abode, the young sage, the leader of worship, Agni ever young in the forests [*1] that grow old--Gatavedas, has here assumed immortality [*2].
+
+2. The two Bharatas [*1], Devasravas and Devavata, in the midst of wealth have produced by attrition Agni the skilful (god). Agni, look forth with mighty wealth, and then be [*2] for us a guide of food day by day.
+
+3 [*1]. The ten fingers have brought him to the birth, the ancient, beloved (Agni), well born in his mothers [*2]. Praise, O Devasravas, the Agni of Devavata who [*3] should be the lord of people.
+
+4. I have laid [*1] thee [*2] down in the best (place) of the earth [*3], in the place of Ila [*3], in the auspiciousness of days. O Agni, as the god who has belonged to Manus [*4], shine with wealth on the Drishadvati, on the Apaya, on the Sarasvati.
+
+5 = III, 1, 23.
+
+  
+
+NOTES.
+
+The Rishis are Devasravas Bharata and Devavata Bharata (see verse 2); the metre is Trishtubh (verse 5 Satobrihati).--No verse occurs in the other Samhitas.
+
+  
+
+Verse 1.
+
+Note [3:23:1:1]1. The 'forests' are the fuel. 'Does the poet mean: Never consumed in the consumed wood or forests,
+
+[p. 288]
+
+i. e. the fire burns and is kept alive while the wood is burnt up?' M. M.
+
+Note [3:23:1:2]2. Or, 'he has received the drink of immortality'--which may refer to the ghee offered in the fire.
+
+  
+
+Verse 2.
+
+Note [3:23:2:1]1. On the tribe of the Bharatas having their seats, as verse 4 seems to show, on the borders of the Sarasvati and of the Drishadvati, see H. O., Buddha (first edition), 413 seq.
+
+Note [3:23:2:2]2. This is an imperative in -tat, signifying, as Delbruck has shown (Syntaktische Forschungen, III, 2 seq.; Altindische Syntax, 363), an injunction to be carried out after something else has been done or has happened. Agni is first to look about (vi pasya), and shall then become (bhavatat) a guide of food, i. e. he shall lead plenty of food to the worshipper's house.--Prof. Max Muller translates isha'm neta', 'a guide to food.'
+
+  
+
+Verse 3.
+
+Note [3:23:3:1]1. Should this Satobrihati, standing alone among Trishtubh verses, be considered as forming a distich together with verse 2? Comp. H. O., Die Hymnen des Rigveda, vol. i, p. 102, note 7.
+
+Note [3:23:3:2]2. The woods.
+
+Note [3:23:3:3]3. Agni, not Devavata, is referred to.
+
+  
+
+Verse 4.
+
+Note [3:23:4:1]1. Or, 'he has laid.' The form may be first or third person, present or perfect.
+
+Note [3:23:4:2]2. Agni is addressed.
+
+Note [3:23:4:3]3. The best place of the earth, the place of Ila (i. e. of the nourishment coming from the cow, of the ghee offered into Agni) is the sacrificial ground or more especially the spot on which the sacrificial fire is established.
+
+Note [3:23:4:4]4. Or 'to men.' The Padapatha has ma'nushe, but ma'nushah seems more probable.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 289]
+
+  
+
+MANDALA III, HYMN 24.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 24.
+
+1. Agni, be victorious in battles; thrust away the plotters. Difficult to overcome, overcoming malign powers, bestow splendour on (the worshipper) who fits out the sacrifice as a vehicle [*1].
+
+2. Agni, thou art kindled with nourishment [*1], the immortal offerer of a feast (to the gods). Accept graciously our worship.
+
+3. Agni, wakeful one, son of strength, into whom offerings are poured, sit down with thy splendour on this sacrificial grass of mine.
+
+4. Agni, together with all Agnis, with the gods exalt our prayers and those who are respectful at the sacrifices.
+
+5. Agni, give wealth to the worshipper, abundance in valiant men; further us [*1] that we may be rich in sons.
+
+  
+
+NOTES.
+
+The Rishi is Visvamitra. the metre Gayatri, the first verse Anushtubh. On this combination of a beginning Anushtubh with Gayatris following, comp. H. O., Die Hymnen des Rig-veda, vol. i, p. 148.--Verse 1 = VS. IX, 37. Verse 5 = TS. II, 2, 12, 6; MS. IV, 12, 2; 14, 6.
+
+[p. 290]
+
+  
+
+Verse 1.
+
+Note [3:24:1:1]1. See above, III, 8, 3, and on yagnavahas, I, 127, 8, note 1; Bergaigne, Religion Vedique, II, 287, note 2.
+
+  
+
+Verse 2.
+
+Note [3:24:2:1]1. Ila': especially designating the nourishment coming from the cow (personified as Ila), such as ghee.
+
+  
+
+Verse 5.
+
+Note [3:24:5:1]1. Literally, 'sharpen us.'
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 291]
+
+  
+
+MANDALA III, HYMN 25.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 25.
+
+1. Agni, thou art for ever the wise son of Heaven and of the Earth, the all-wealthy one. In thy peculiar way [*1] sacrifice here to the gods, O intelligent one!
+
+2. Agni, the knowing, obtains (for his worshipper) heroic powers; he obtains (for him) strength, being busy for the sake of immortality. Bring then the gods hither, O (Agni), rich in food.
+
+3. Agni, the wise, shines on Heaven and Earth, the two immortal goddesses who encompass all people--he who rules through his strength, and who is full of light through adoration.
+
+4. Agni and Indra, come hither to the sacrifice in the house of the worshipper rich in pressed (Soma), never failing, ye two gods, at the drink of Soma.
+
+5. Agni, thou art kindled in the house of the waters, (our) own (god), O son of strength, Gatavedas, who exaltest the abodes (in which thou dwellest) by thy blessing.
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Virag.--Verse 4 = MS. IV, 12, 6.
+
+  
+
+Verse 1.
+
+Note [3:25:1:1]1. On ridhak, see Pischel, Vedische Studien, II, 45.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 292]
+
+  
+
+MANDALA III, HYMN 26.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 26-27.
+
+1. With our offerings revering in our mind Agni Vaisvanara, the follower of truth, the finder of the sun--we, the Kusikas [*1], desirous of goods, call with our prayers the god who gives rain, the charioteer, the, cheerful.
+
+2. We call that beautiful Agni to help us, Vaisvanara, Matarisvan the praiseworthy [*1]; we the men (call) Brihaspati [*2] for (the worship) of the divine host, the priest who hears us, the. guest who swiftly glides along.
+
+3. Vaisvanara, neighing like a horse, is kindled by the women [*1], by the Kusikas, from age to age; may this Agni give us abundance in valiant men and in horses and treasures, he who wakes among the immortals.
+
+ 
+
+4. May the Vagas [*1] come forward, the Agnis with their powers. United [*2] they have harnessed the spotted deer for their triumphal procession [*3]. The Maruts, mightily growing, the all-wealthy, make the mountains tremble, the unbeguiled ones.
+
+5. The Maruts who possess the beauty of Agni [*1], belong to all races of men. We implore their fierce, strong help. They are tumultuous, the sons of Rudra, clothed in rain, hot-spirited like lions [*2], givers of rain.
+
+6. We implore with our best praises every host, every troop (of the Maruts) [*1], the splendour of Agni,
+
+[p. 293]
+
+the power of the Maruts. With the spotted deer as horses [*2], with gifts that cannot be taken away, they go to the sacrifice wise in the (sacrificial) ordinances [*3].
+
+ 
+
+7. Agni am I, by birth Gatavedas. Ghee is my eye; (the drink of) immortality is in my mouth. The threefold song [*1] traversing the aerial space, the imperishable Gharma [*2], the sacrificial food am I by name.
+
+8. With three purifying strainers he (Agni) purified the song, with his heart the thought, discovering the light. The mightiest treasure he produced by the powers of his own nature, and then he looked over heaven and earth.
+
+9. Carry him who is the inexhaustible spring with a hundred rills, who has knowledge of prayers (?), the father of (every speech) that should be uttered, the roaring one [*1], gladly excited in the lap of his parents--carry him the truth-speaking across (all dangers), O ye two worlds!
+
+  
+
+NOTES.
+
+Visvamitra is the Rishi of this Sukta with the exception of the seventh verse of which the Atman or Brahman is the Rishi. The metre is Gagati verses 1-6, Trishtubh verses 7-9.--Verse 5 = TB. II, 7, 12, 3. Verse 7 = VS. XVIII, 66; MS. IV, 12, 5.
+
+The position of this Sukta in the collection shows that it is to be divided into three independent hymns. This is confirmed by the metre, the first and second of these three hymns being in Gagati, the third in Trishtubh, and also by the contents: the first hymn is addressed to Agni Vaisvanara, the second to Agni accompanied by the Maruts, the third contains mystical speculations about the nature and the deeds of Agni.
+
+[p. 294]
+
+  
+
+Verse 1.
+
+Note [3:26:1:1]1. The Kusikas are identical with the Visvamitras, or possibly the latter form one branch of the Kusikas; see H. O., Zeitschrift der Deutschen Morgenlandischen Gesellschaft, XLII, 209.
+
+  
+
+Verse 2.
+
+Note [3:26:2:1]1. On the relation of Matarisvan to Agni, see above, I, 96, 4, note 1.
+
+Note [3:26:2:2]2. Brihaspati, though in his origin distinct from Agni, is here identified with him, like Matarisvan.
+
+  
+
+Verse 3.
+
+Note [3:26:3:1]1. By the ten fingers. Comp. above, I, 71, 1.
+
+  
+
+Verse 4.
+
+Note [3:26:4:1]1. I adopt the interpretation of Bergaigne (Religion Vedique, II, 405, note 1) and Pischel (Vedische Studien, I, 46). Va'gah seems to be the proper name synonym with Ribhavah; the Maruts may be called Va'gah as they are called several times Ribhukshanah. But it is possible that we should have to translate simply, 'May the powers of strength,' &c.; comp. below, 27, 1.
+
+Note [3:26:4:2]2. Possibly we have to supply, 'united with their spotted deer, with their beauty,' &c.; see II, 36, 2. yagnaih sammislah prishatibhih rishtibhih; VII, 56, 6. sriya' sammislah. Or the meaning may be, 'the Maruts united with Agni or with the Agnis;' comp. I, 166, 11. sammislah indre.
+
+Note [3:26:4:3]3. On subhe, see M. M., I, 87, 3, note 2 (vol. xxxii, p. 162).
+
+  
+
+Verse 5.
+
+Note [3:26:5:1]1. Or, they receive their beauty through Agni.
+
+Note [3:26:5:2]2. Of heshakratu the probable explanation has been given by Pischel, Vedische Studien, I, 48. See also von Bradke, Kuhn's Zeitschrift, XXVIII, 297.
+
+[p. 295]
+
+  
+
+Verse 6.
+
+Note [3:26:6:1]1. Comp. V, 53, II, vol. xxxii, p. 320.
+
+Note [3:26:6:2]2. Comp. II, 34, 4, vol. xxxii, p. 302, note 5.
+
+Note [3:26:6:3]3. The text has vidatheshu.
+
+  
+
+Verse 7.
+
+Note [3:26:7:1]1. Comp. VIII, 51, 4. arkam saptasirshanam ... tridha'tum uttame pade. Is the song called tridha'tu because it is sung by the three Udgatris (singers)? Or because it generally comprises three verses (see H. O., Zeitschrift der Deutschen Morgenlandischen Gesellschaft, XXXVIII, 453)?
+
+Note [3:26:7:2]2. The Gharma is the offering of hot milk brought to the Asvins. On the probable meaning of this offering, see H. O., Religion des Veda, 447 seq.
+
+  
+
+Verse 9.
+
+Note [3:26:9:1]1. The translation of meli (comp. IV, 7, 11; Atharva-veda XI, 7, 5; Taitt. Samh. V, 7, 8, 1) is quite conjectural.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 296]
+
+  
+
+MANDALA III, HYMN 27.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 28-30.
+
+1. Forward (goes) your [*1] strength tending heavenward, rich in offerings, with the (ladle) full of ghee. To the gods goes (the worshipper) desirous of their favour.
+
+2. I magnify [*1] with prayer Agni who has knowledge of prayers (?), the accomplisher of sacrifice, who hears us, and in whom (manifold wealth) has been laid down.
+
+3. O Agni, may we be able to bridle thee the strong god [*1]; may we overcome (all) hostile powers.
+
+ 
+
+4. Agni, inflamed at the sacrifice, the purifier who should be magnified, whose hair is flame--him we approach (with prayers).
+
+5. With his broad stream of light the immortal Agni, clothed in ghee, well served with oblations, is the carrier of offerings at the sacrifice.
+
+6. Holding the (sacrificial) ladles, performing the sacrifice they have with right thought pressingly brought Agni hither [*1] for help.
+
+ 
+
+7. The Hotri, the immortal god goes in front with his secret power [*1], instigating the sacrifices [*2].
+
+8. The strong (horse, i. e. Agni) is set at the races. He is led forth at the sacrifices, the priest, the accomplisher of sacrifice.
+
+9. He has been produced [*1] by prayer, the excellent one. I have established [*2] him, the germ of beings, for ever the father of Daksha [*3].
+
+ 
+
+[p. 297]
+
+10. I have laid thee down [*1], the excellent one, with the nourishment [*2] of Daksha, O thou who art produced by power, O Agni, thee the resplendent one, O Usig [*3].
+
+11. The priests, eager to set to work the Rita [*1], kindle with quick strength Agni the governor [*2], him who crosses the waters [*3].
+
+12. I magnify [*1] the child of vigour at this sacrifice, who shines under the heaven, the thoughtful Agni.
+
+ 
+
+13. He who should be magnified and adored, who is visible through the darkness, Agni, the manly, is kindled [*1].
+
+14. Agni, the manly, is kindled, he who draws hither the gods like a horse. The (worshippers) rich in offerings magnify him.
+
+15. We the manly ones will kindle thee the manly (god), O manly Agni who shinest mightily.
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Gayatri.--The position of the hymn in the collection shows that it is to be divided into Trikas, and this is confirmed by the ritual use of several of these Trikas (see Bergaigne, Recherches sur l'Histoire de la Liturgie Vedique, 19, note 1). Some of the Trikas at least, however, do not seem to form independent hymns; verse 10 very probably stands in connection with verse 9, and the same seems to be the case with verses 12 and 13. Ludwig (IV, 305) and Bergaigne (loc. cit.) consider the whole Sukta as a collection of Samidhenis or verses to be recited for each piece of wood thrown into the fire. Comp. Hillebrandt, Neu- und Vollmondsopfer, 77.--Verse 1
+
+[p. 298]
+
+[paragraph continues]  = TS. II, 5, 7, 2; TB. III, 5, 2, 1; MS. I, 6, 1; IV, 14, 3. Verses 2, 3 = TB. II, 4, 2, 4. 5; MS. IV, 11, 2. Verse 4 = TS. II, 5, 8, 6; TB. III, 5, 2, 3. Verses 5-6 = TB. III, 6, 1, 3; MS. IV, 10, 1 (verse 5 = MS. IV, 11, 2). Verses 7-9 = SV. II, 827-829. Verses 13-15 = SV. II, 888-890; TB. III, 5, 2, 2; AV. XX, 102, 1-3.
+
+  
+
+Verse 1.
+
+Note [3:27:1:1]1. Of the priests and sacrificers?
+
+  
+
+Verse 2.
+
+Note [3:27:2:1]1. The text has i'le.
+
+  
+
+Verse 3.
+
+Note [3:27:3:1]1. Comp. above, II, 5, 1.
+
+  
+
+Verse 6.
+
+Note [3:27:6:1]1. Comp. IV, 17, 18. vayam hi a' te kakrima saba'dhah.
+
+  
+
+Verse 7.
+
+Note [3:27:7:1]1. Mayaya: comp. H. O., Religion des Veda, 163, 294.
+
+Note [3:27:7:2]2. Vidathani: comp. I, 31, 6, note 2.
+
+  
+
+Verse 9.
+
+Note [3:27:9:1]1. This seems to mean, 'he has been set to work.'
+
+Note [3:27:9:2]2. A' dadhe must be first person (comp. ni dadhe, verse 10) for the bhuta'nam garbhah is Agni.
+
+Note [3:27:9:3]3. Or, the father of intelligence. Daksha is the personified intelligence. Comp. vol. xxxii, p. 245 seq.; Bergaigne, Religion Vedique, III, 93 seq.
+
+  
+
+Verse 10.
+
+Note [3:27:10:1]1. See above, III, 23, 4.
+
+Note [3:27:10:2]2. The text has ila', the same word as in 24, 2.--Prof. Max Muller observes, 'Could it be, ni tva dadhe ila, I have placed thee on the altar with nutriment, son of the strength of Daksha?'
+
+Note [3:27:10:3]3. Or, 'the willing one.'
+
+[p. 299]
+
+  
+
+Verse 11.
+
+Note [3:27:11:1]1. 'Setting to work the Right (Rita)' means here 'performing the sacrifice.' The sacrifice is considered as a sphere especially pervaded by the power of Rita. Comp. H. O., Religion des Veda, 197.
+
+Note [3:27:11:2]2. Yanturam (comp. VIII, 19, 2. agnim ilishva yanturam; Lanman, 486) must be the same as yanta'ram (comp. martyr? [M. M.] See de Saussure, Memoire sur le Systeme Primitif des Voyelles, p. 207; but comp. also Kretschmer, Kuhn's Zeitschrift, XXXI, p. 447). To me it seems to be an accommodation to apturam, facilitated probably by the influence of the genitive yantur. See Lanman, Noun-Inflection in the Veda, p. 486; Wackernagel in Kuhn's Zeitschrift, XXV, 287.
+
+Note [3:27:11:3]3. See Pischel, Vedische Studien, I, 122 seq.; H. O., Gottingische Gelehrte Anzeigen, 1889, p. 4 seq.
+
+  
+
+Verse 12.
+
+Note [3:27:12:1]1. The text has ile. In the same way ilenyah verse 13, ilate verse 14.
+
+  
+
+Verse 13.
+
+Note [3:27:13:1]1. Observe sam idhyate here and verse 14, sam idhimahi verse 15. The verses 13-15 form one Trika.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 300]
+
+  
+
+MANDALA III, HYMN 28.
+
+  
+
+ASHTAKA III. ADHYAYA 1, VARGA 31.
+
+1. O Agni Gatavedas, accept graciously our offering, the sacrificial cake at the morning libation, O god who givest wealth for our prayers.
+
+2. The sacrificial cake, O Agni, has been baked or made ready for thee: accept it graciously, O youngest (god).
+
+3. Agni, accept eagerly the sacrificial cake which has been offered, which has stood overnight. Thou art the son of strength, established at the sacrifice.
+
+4. At the midday libation, Gatavedas, accept here graciously the sacrificial cake, O sage. Agni, the wise ones do not diminish at the sacrificial distributions [*1] the portion which belongs to thee, the vigorous one [*2].
+
+5. Agni, at the third libation take joyfully the sacrificial cake, O son of strength, which has been offered. And in thy admirable way place our wakeful sacrifice, blessed with treasures, before the immortal gods.
+
+6. Agni, grown strong, O Gatavedas, accept graciously our offering, the sacrificial cake which has stood overnight.
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Gayatri in verses 1, 2, 6, Ushnih in verse 3, Trishtubh in verse 4, and Gagati in verse 5.--No verse occurs in the other Samhitas.
+
+[p. 301]
+
+This Sukta and the following are, as their position at the end of the Anuvaka and the number of their verses show, later additions to the original collection. The 28th hymn contains verses destined for the offerings of sacrificial cakes to Agni at each of the three Savanas. Quite in the same way hymn 52, which also belongs to the later additions, refers to sacrificial cakes offered to Indra. The oblation of such cakes to Indra at each Savana is found also in the later Vedic ritual (comp. Katyayana IX, 9, 2 seq.; Weber, Indische Studien, X, 369, 376), and several verses of III, 52 are indicated there as Puronuvakya verses for those very offerings; see Asvalayana Srautasutra V, 4, 2. 3. After each cake-offering to Indra follows the Svishtakrit-oblation to Agni: and for these oblations Asvalayana (loc. cit. Sutra 6) prescribes verses 1, 4, and 5 of our hymn, according to the order of the three Savanas. From the text of the hymn it seems to be evident that verses 1-3 have been composed for the first, verse 4 for the second, and verses 5-6 for the third Savana. With this distribution the change of the metres evidently stands in connection. In accordance with the theories of the later Vedic theologians, we have here the Gayatri as the characteristic metre of the first, the Trishtubh of the second, the Gagati of the third Savana.
+
+Comp. also Asvalayana VI, 5, 25, and the very ingenious but at the same time somewhat hazardous observations of Bergaigne, Recherches sur l'Histoire de la Liturgie Vedique, 16 seq.
+
+  
+
+Verse 4.
+
+Note [3:28:4:1]1. The text has vidatheshu.
+
+Note [3:28:4:2]2. Comp. I, 36, 1, note 2.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 302]
+
+  
+
+MANDALA III, HYMN 29.
+
+  
+
+ASHTAKA III, ADHYAYA 1, VARGA 32-34.
+
+1 [*1]. This is the support on which the rubbing (for producing the fire) is performed [*2]; the creative organ [*3] has been prepared. Bring hither the house-wife [*4]; let us produce Agni by rubbing in the old way.
+
+2. In the two fire-sticks dwells Gatavedas, as the germ (lies) safe in pregnant women--Agni who should be magnified [*1] day by day by wakeful men who bring offerings.
+
+3. Place it [*1] skilfully into her who lies extended [*2]. Having conceived she has quickly given birth to the manly one. He whose summit is red--bright is his splendour--the son of Ila has been born in the (due) way [*3].
+
+4. In the place of Ila, on the navel of the earth we will lay thee down, Gatavedas, that thou, O Agni, mayst carry the offerings (to the gods).
+
+5. Rub, ye men, the truthful sage, the wise, the immortal, the fair-faced. Bring forth, ye men, Agni, the banner of sacrifice, the first in the front, the gracious one.
+
+6. When they produce him by rubbing with their arms, he shines forth laming in the wood like a red race-horse. Like the bright one on the path of the Asvins [*1] the unrestrained (Agni) spares the stones, burning the grass [*2].
+
+7. Agni, when born, shines forth resplendent, the racer, the priest, praised by the sages, the giver of rain, whom the gods placed in the sacrifices, to be
+
+[p. 303]
+
+magnified, as the omniscient carrier of the sacrificial offerings.
+
+8. Sit down, O Hotri, in the space which is thine, as the knowing one. Place the sacrifice in the abode of good works (i. e. on the altar). Eagerly longing for the gods thou shalt worship the gods by offerings. Agni, bestow mighty vigour on the sacrificer.
+
+9. Produce a mighty [*1] smoke, ye friends. Without fail go forward towards strength. This Agni is the conqueror in battles, rich in valiant men, he by whom the gods have overpowered the Dasyus.
+
+10. This is thy birth-place in due time whence born thou shonest forth; knowing it, O Agni, sit down on it, and make our prayers prosper.
+
+11. He is called Tanunapat as the Asura's germ. Narasamsa he becomes when he is born, Matarisvan when he has been shaped in the mother [*1]. And he has become the rush of the wind in his swift course [*2],
+
+12. Rubbed forth by skilful rubbing, established by skilful establishing, as a sage, O Agni, perform excellent sacrifices. Sacrifice to the gods for him who is devoted to the gods [*1].
+
+13. The mortals have generated the immortal one, the ... [*1], advancing one with strong jaws. The ten unwedded sisters [*2] united take care of the man (Agni) when he has been born.
+
+14. He the god of the seven Hotris shone forth from of old, when he flamed up in his mother's lap, at her udder. Day by day the joyous one never closes his eyes, when he has been born from the Asura's (i. e. of the Heaven's?) belly [*1].
+
+15. The onsets of (Agni) when he attacks his enemies, are like those of the Maruts. (He is) the
+
+[p. 304]
+
+first-born (son) of the sacred spell. They know every (fire) [*1]. The Kusikas have raised their brilliant spell; they have kindled Agni, every one in his house.
+
+16. After we had chosen thee here to-day, O wise Hotri, while this sacrifice was going on, thou hast firmly sacrificed and firmly laboured. Come to this Soma, expert and knowing!
+
+  
+
+NOTES.
+
+The same Rishi. The prevalent metre is Trishtubh.--Verses 1, 4, 10, 12 are Anushtubh; verses 6, 11, 14, 15, Gagati.
+
+The Sukta, which belongs to the later additions (see the note on hymn 28), consists of a number of verses and small groups of verses referring to the production of fire by the attrition of the two fire-sticks. The order in which the verses stand does not always agree with the natural order of the ritual acts.--Verse 2 = SV. I, 79. Verse 3 = VS. XXXIV, 14. Verse 4 = VS. XXXIV, 15; TS. III, 5, 11, 1; MS. I, 6, 2. 7; IV, 10, 4; 11, 1. Verse 8 = VS. XI, 35; TS. III, 5, 11, 2; IV, 1, 3, 3; MS. II, 7, 3; IV, 10, 4. Verse 10 = VS. III, 14; XII, 52; XV, 56; TS. I, 5, 5, 2; IV, 2, 4, 3; 7, 13, 5; TB. I, 2, 1, 16; II, 5, 8, 8; MS. I, 5, 1; 6, 1; AV. III, 20, 1. Verse 13 = TB. I, 2, 1, 19. Verse 16 = VS. VIII, 20; TS. I, 4, 44, 2; MS. I, 3, 38; AV. VII, 97, 1.
+
+  
+
+Verse 1.
+
+Note [3:29:1:1]1. The verses 1-3 a, b have been translated by Muir, Original Sanskrit Texts, V, p. 209.
+
+Note [3:29:1:2]2. On the adhimanthanasakala, the piece of wood on which the lower fire-stick is laid, see Satapatha Brahmana
+
+[p. 305]
+
+[paragraph continues] III, 4, 1, 20. so'dhimanthanam sakalam adatte agner ganitram asity atra hy agnir gayate. Schwab, Das Altindische Thieropfer, p. 78 seq.
+
+Note [3:29:1:3]3. Praganana seems to be used in the concrete sense as the male organ. As such, the poet may have considered the so-called pramantha in the generation of Agni, which is described as having the shape of the male organ (Schwab, loc. cit., 78; see also Roth, Zeitschrift der Deutschen Morgenl. Gesellschaft, XLIII, 591). It does not seem very probable that the darbhapingula of which Sayana thinks should be meant.
+
+Note [3:29:1:4]4. Sayana explains this as meaning the Arani (fire-stick), i. e. the lower Arani, the receptacle of the upper fire-stick. In the Taittiriya Brahmana I, 2, 1, 13 the two Aranis are addressed as mahi vispatni.
+
+  
+
+Verse 2.
+
+Note [3:29:2:1]1. The text has i'dyah.
+
+  
+
+Verse 3.
+
+Note [3:29:3:1]1. The upper fire-stick or, more accurately, the pramantha.
+
+Note [3:29:3:2]2. Comp. above, II, 10, 3. The lower Arani is alluded to, which is considered as a wife and more particularly as the nymph Urvasi (Katyayana V, 1, 30, &c.).
+
+Note [3:29:3:3]3. Prof. Pischel (Vedische Studien, I, 301) takes the genitive ilayah as dependent on vayune: 'wurde der Sohn geboren am Orte (Wege) der Opferspende.' To me it seems unnatural not to connect ilayah with putrah, which words are connected also by the Sandhi (the Samhita text has ilayas putro, not ilayah putro).
+
+  
+
+Verse 6.
+
+Note [3:29:6:1]1. For ya'man, cf. I, 37, 3; III, 2, 14 VI, 15, 5. Should not the bright one on the path of the Asvins be the sun? Sayana thinks of the chariot of the Asvins, which also may be right.
+
+[p. 306]
+
+Note [3:29:6:2]2. Are the stones and the grass identical with the stones and grass-blades occurring in the later ritual of the agnyadheya and agnimanthana (Satapatha Br. II, 1, 1, 8; III, 4, 1, 21; Katyayana IV, 8, 16, &c.)?
+
+  
+
+Verse 9.
+
+Note [3:29:9:1]1. Literally, a manly, strong, or bull-like smoke.
+
+  
+
+Verse 11.
+
+Note [3:29:11:1]1. This is a play upon words (Matarisva and amimita matari, 'he has been shaped in the mother').
+
+Note [3:29:11:2]2. Von Bradke (Dyaus Asura, p. 51): des Windes Heerde (?) wird er, wenn er dahingleitet.
+
+  
+
+Verse 12.
+
+Note [3:29:12:1]1. This Pada is identical with I, 15, 12. It is a galita.
+
+  
+
+Verse 13.
+
+Note [3:29:13:1]1. The meaning of asreman (comp. X, 8, 2. asrema' vatsah [i. e. Agni] simivan aravit) is unknown.
+
+Note [3:29:13:2]2. The ten fingers.
+
+  
+
+Verse 14.
+
+Note [3:29:14:1]1. Comp. von Bradke, loc. cit., 50.
+
+  
+
+Verse 15.
+
+Note [3:29:15:1]1. Or prathamaga'm brahmanah visve it viduh: 'all (people) know him the first-born (son) of the sacred spell'? Comp. I, 34, 2. somasya vena'm anu visve it viduh.--Prof. Max Muller writes: 'Prathamagah is the wind, X, 168, 3. It might here refer to the Maruts, who are often said to sing prayers; they know all about Brahman (prayer).'
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 307]
+
+  
+
+MANDALA IV, HYMN 1.
+
+  
+
+ASHTAKA III, ADHYAYA 4, VARGA 12-15.
+
+1. Thee, O Agni, the gods concordantly have ever set to work as their divine steward; with this intention [*1] they have set thee to work. They have generated [*2] thee, O worshipful one [*2], the immortal among the mortals, the wise, god-loving god; they have generated every wise, god-loving (Agni) [*3].
+
+2. Do thou, [O Agni [*1],] turn to brother Varuna, towards the gods [*2] with thy kindness [*3], to (Varuna) who accepts the sacrifice, to the eldest (god) who accepts the sacrifice, the righteous Aditya who supports the (human) tribes, the king who supports the (human) tribes.
+
+3. O friend, turn to thy friend (Varuna), as a wheel of a chariot [*1] rapidly (follows) the swift (horse), for our sake, O wonderful one, rapidly. O Agni, find mercy (for us) with Varuna, with the all-brilliant Maruts. Bless (us), O flaming one, that we may propagate ourselves, that we may press onward; bless us, O wonderful one!
+
+4. Mayst thou, O Agni, who knowest Varuna, deprecate for us the god's anger. Being the best sacrificer, the best carrier (of the gods), flaming, remove from us all hatred.
+
+5. As such, O Agni, be for us the lowest  [*1] (god) with thy help, our nearest (friend) while this dawn shines forth. Being liberal (towards us), cause, by sacrificing, Varuna to go away from us. Love mercy; readily hear our call.
+
+[p. 308]
+
+6. His, the fortunate god's, appearance is excellent, and most brilliant among mortals. Like the bright, heated butter of the cow (the appearance) of the god is lovely, like the bountifulness of a milch-cow.
+
+7. Three [*1] are those highest, true, and lovely births of this god Agni. Being enveloped in the infinite [*2] he has come hither, the bright, brilliant, shining Aryan.
+
+8. He, the messenger, longs for all seats, the Hotri with the golden chariot, with the lovely tongue, with the red horses, of marvellous appearance, brilliant, always lovely like an assembly abundant in food.
+
+9. He, the kinsman of sacrifice, has enlightened men [*1]. They lead him forward by a great rope [*2]. He dwells in his (the mortal's) dwelling, accomplishing (his task). The god has obtained the companionship of the mortal.
+
+10. May this Agni, the knowing one, lead us to the god-given treasure which belongs to him [*1]. That (treasure) which all the immortals have created by their thought, which Dyaus, the father, the begetter (has created): that real (treasure) they have besprinkled [*2].
+
+11. He has been born in the dwellings as the first, at the bottom of the great (air) [*1], in the womb of this air [*2], footless, headless, hiding both his ends, drawing towards himself (his limbs?), in the nest of the bull [*3].
+
+12. The host [*1] came forth wonderfully at first, in the womb of Rita, in the nest of the bull [*2], lovely and young, of marvellous appearance, and brilliant [*3]. Seven friends [*4] were born for the bull.
+
+13. Here our human fathers have sat down [*1],
+
+[p. 309]
+
+aspiring after Rita [*2]. Invoking the dawns [*3], they have driven out the milch-cows which dwelt in the rock-stable, in the prison.
+
+14. Having rent the rock they cleaned themselves. Others around told forth that (deed) of theirs. Taking ... as an instrument (?) [*1], they sang triumphantly [*2]. They found the light; they chanted their prayers.
+
+15. Longing for the cows in their mind, those men, the Usigs [*1], have opened with godly words the fast-holding, closed rock, which enclosed and encompassed the cows, the firm stable full of cows.
+
+16. They have devised the first name of the milch-cow; they have found the three times seven highest (names or essences) of the mother [*1]. The hosts [*2], understanding this, acclaimed. The red one [*3] became visible through the brilliant (milk?) [*4] of the cow.
+
+17. The confused [*1] darkness disappeared; the sky appeared in splendour; the shine of the goddess Dawn rose up. The Sun ascended to the wide plains, beholding right and wrong deeds among the mortals.
+
+18. Then, afterwards, being awoke they looked around; then they took that treasure given by Heaven, all the gods in all the houses. O Mitra, may true (fulfilment) belong to (our) prayer, O Varuna!
+
+19. I will address flaming Agni, the Hotri, the supporter of everything [*1], the best sacrificer. He has perforated, as it were, the pure udder of the cows, (and has made flow the milk) purified like the poured sap of the Soma shoots.
+
+20. He, the Aditi (i. e. the freedom) of all the
+
+[p. 310]
+
+worshipful gods, the guest [*1] of all men, Agni, choosing (for us) the protection of all gods--may he, Gatavedas, be merciful.
+
+  
+
+NOTES.
+
+The Rishi is Vamadeva, the metre Trishtubh, except in verses 1-3, the metres of which are Ashti, Atigagati, and Dhriti respectively.--Verses 4-5 = VS. XXI, 3-4; TS. II, 5, 12, 3; IV, 2, 11, 3; TB. III, 7, 11, 3; 12, 6; TA. II, 4, 4; IV, 20, 3; MS. IV, 10, 4; 14, 17. Verse 20 = VS. XXXIII, 16; TB. II, 7, 12, 5.--The hymn has been translated and commented upon by Bergaigne, Quarante Hymnes du Rig-veda, p. 11 seq.
+
+This Sukta seems to be composed of two independent hymns. Grassmann believed that the first three verses are the fragment of one hymn, and that verses 4-20 form a second hymn. His reason was that verses 1-3 are composed in metres similar to Atyashti, while the rest are composed in Trishtubh. I think that he was on the right way, but his opinion should be slightly modified. In verses 1-5 Agni is invoked to appease the anger of Varuna; while, on the other hand, no allusion to Varuna occurs in verses 6-20. I believe, therefore, that the first hymn should be considered as consisting of verses 1-5; it is composed in the metres of the Atyashti class (1-3) with two concluding Trishtubh verses (4, 5). The second hymn comprises the verses 6-20. The arrangers of the Samhita, however, considered these two hymns as one, as is shown by the position which they have assigned to it, before the second Sukta, which has the same number of verses (20) as this first Sukta. Comp. my Prolegomena, p. 141.
+
+  
+
+Verse 1.
+
+Note [4:1:1:1]1. I. e. with the intention that he should act as the steward of the gods. As to iti kratva, comp. I, 138, 3. iti
+
+[p. 311]
+
+kratva bubhugrire. Delbruck, Altindische Syntax, p. 530, paraphrases iti kratva: mit Entschluss 'so sei es.'
+
+Note [4:1:1:2]2. Sayana, whom Ludwig follows, seems to be right in explaining yagata as a vocative ('yaganiya'), and ganata as 3rd plural ('aganayan'). Bergaigne takes both forms as 2nd plural imperative: 'honorez l'immortel chez les mortels; engendrez le Dieu qui honore les Dieux.'
+
+Note [4:1:1:3]3. I cannot believe that Bergaigne is right in translating visvam a'devam, 'celui qui honore tous les Dieux.' His theory is that visvam depend ... de a', qui logiquement gouverne le terme deva a l'accusatif.'
+
+  
+
+Verse 2.
+
+Note [4:1:2:1]1. The metre shows, as Benfey (Vedica und Verwandtes, p. 19, note 1) has pointed out, that this vocative agne is a spurious addition.
+
+Note [4:1:2:2]2. Should we not read devam? 'Turn to brother Varuna with thy kindness, towards the god who accepts the sacrifice.'
+
+Note [4:1:2:3]3. Or 'for the sake of his kindness,' 'for winning his favour (for the mortals)'? Sumati' may be dative; see Lanman, p. 382; Brugmann, Grundriss der vergleichenden Grammatik, II, p. 602. Comp. I, 186, 10. akkha sumna'ya vavritiya deva'n, 'may I turn to the gods for the sake of their favour.'
+
+  
+
+Verse 3.
+
+Note [4:1:3:1]1. I believe that rathyeva (Padapatha rathya-iva) stands for rathyam-iva. Comp. Lanman, p. 331; Roth, Zeitschrift der Deutschen Morgenlandischen Gesellschaft, XLVIII, p. 681 seq. Prof. Max Muller refers rathya-iva to two horses; he translates: 'O friend, bring hither thy friend, as two swift chariot-horses bring rapidly a swift wheel.'
+
+  
+
+Verse 5.
+
+Note [4:1:5:1]1. I. e. the nearest to men.
+
+[p. 312]
+
+  
+
+Verse 7.
+
+Note [4:1:7:1]1. Literally 'thrice.' But I think that we should correct tri' ('three'). The same blunder seems to occur in III, 56, 5. tri' sadhastha sindhavah trih (read tri') kavina'm, 'Three are your abodes. O rivers; three (are those) of the sages.' Comp. also III, 56, 8; I, 116, 4.
+
+Note [4:1:7:2]2. This seems to mean, in the infinite sky.
+
+  
+
+Verse 9.
+
+Note [4:1:9:1]1. Manushah seems to be acc. plur.; comp. VII, 86, 7. aketayat akitah, 'he has enlightened the unenlightened ones.' Bergaigne takes manushah as a genitive depending on yagnabandhuh, 'fils du sacrifice de Manus.'
+
+Note [4:1:9:2]2. Bergaigne compares IX, 87, 1, where it is said that they lead Soma to the sacrificial grass like a horse by ropes (akkha barhih rasana'bhih nayanti). Sayana says, stutirupaya raggva, 'by a rope which has the shape of praises.'
+
+  
+
+Verse 10.
+
+Note [4:1:10:1]1. Comp. below, verse 18.
+
+Note [4:1:10:2]2. I. e. anointed, adorned. 'Poured down.' M. M.
+
+  
+
+Verse 11.
+
+Note [4:1:11:1]1. Mahah budhne seems to mean, mahah ragasah budhne; comp. ragasah budhnam, I, 52, 6; budhne ragasah, II, 2, 3; mahah ragasah, I, 6, 10; ragasah mahah, I, 168, 6; mahi' ragasi, IX, 68, 3.
+
+Note [4:1:11:2]2. With the second Pada, compare IV, 17, 14. tvakah budhne ragasah asya yonau.
+
+Note [4:1:11:3]3. The bull seems to be Agni himself. Comp. verse 12.
+
+  
+
+Verse 12.
+
+Note [4:1:12:1]1. The word sardha (or sardhah? see note 3), which in most passages is applied to the host of the Maruts (see vol. xxxii, p. 67 seq.), seems here to refer to the company of the Angiras or seven Rishis, alluded to in the fourth
+
+[p. 313]
+
+[paragraph continues] Pada. The seven Rishis, 'our fathers' (verse 13), have, with the aid of Agni, rent the mountain and delivered the cows or dawns (verses 13 seqq.; IV, 2, 15 seq.). Comp. H. O., Religion des Veda, p. 145 seq.
+
+Note [4:1:12:2]2. The bull again seems to be Agni. Comp. verse 11, note 3.
+
+Note [4:1:12:3]3. Do these epithets (comp. verse 8, Pada 3) refer to the sardha (host)? Or are they applied to Agni, so that we would have to translate: 'Lovely was the young one (Agni), of marvellous appearance, and brilliant'? In this way Bergaigne interprets the passage. If this translation is right, sardhah may be considered as neuter, and the first Pada could be translated: The first host came forth wonderfully.
+
+Note [4:1:12:4]4. Evidently the seven Rishis (see note 1). Bergaigne: Les sept prieres? ou les sept rivieres?
+
+  
+
+Verse 13.
+
+Note [4:1:13:1]1. The seven Rishis sat down for chanting and sacrificing, by which they have opened the mountain-prison of the cows.
+
+Note [4:1:13:2]2. The mention of Rita in this connection is both Vedic and Avestic. Comp. Darmesteter, Ormazd et Ahriman, p. 146; H. O., Religion des Veda, p. 144, note 2.
+
+Note [4:1:13:3]3. The cows in this myth seem to be a mythical representation of the dawns. Comp. M. M., Science of Language, II, p. 584; H. O., Religion des Veda, pp. 147, 149 seq.
+
+  
+
+Verse 14.
+
+Note [4:1:14:1]1. Pasvayantra (comp. slokayantra, IX, 73, 6) is quite doubtful. Does there exist a stem pasva, meaning possibly, 'the herd of cattle'? And can we translate, they who had their (battering-?) machines directed on the cow-herds'? Or, 'holding the herds with their instruments (i. e. with the ropes used for drawing the cows out of the cavern)'?--Prof. Max Muller suggests the translation, 'the cattle-drivers,' and writes, 'Does it stand for pasu-yantrasah?
+
+[p. 314]
+
+[paragraph continues] Yantra seems the same as yoktra, or something like it, cf. X, 94, 7, 8. Pasuyantra would be they who hold the ropes of the cattle, who drive them away.' Bergaigne's translation, 'n'ayant rien (d'autre) pour conduire le betail' (pasu-ayantra), and that of Roth ('die der Sperre ledigen Thiere [pasvah ayantrasah] erhoben ein Freudengeschrei,' Zeitschr. der D. Morg. Gesellschaft, XLVIII, 678), do not carry conviction, nor does a conjecture like pasva' yanta'rah ('the leaders of the cattle together with the cattle itself shouted triumphantly'), seem to furnish a satisfying solution of the difficulty.
+
+Note [4:1:14:2]2. See Geldner, Vedische Studien, I, 120.
+
+  
+
+Verse 15.
+
+Note [4:1:15:1]1. On the Usigs, compare Bergaigne's Religion Vedique, I, 57 seq.
+
+  
+
+Verse 16.
+
+Note [4:1:16:1]1. The mother seems again to be the cow, or more exactly the Dawn considered as the mother of the cows (mata' gavam, IV, 52, 2. 3; VII, 77, 2), and as the mother of the Rishis (IV, 2, 15). Comp. V, 45, 2. a' urva't gavam mata' ganati' gat. The seven names of the cow are mentioned also in I, 164, 3, its three times seven names, in VII, 87, 4.
+
+Note [4:1:16:2]2. Bergaigne (Quarante Hymnes, p. 14) and Pischel (Ved. Studien, II, 121 seq.) give to the word vra the meaning 'woman' (Bergaigne: 'femme,' particulierement 'femme en rut,' 'femme amoureuse'). I prefer to follow the opinion of Bechtel, Nachrichten der Gottinger Gesellschaft der Wissenschaften, philolog.-historische Klasse, 1894, p. 393 seq. The hosts seem to be the assembly of the Rishis.
+
+Note [4:1:16:3]3. The dawn.
+
+Note [4:1:16:4]4. Comp. IX, 81, 1 (H. O., Religion des Veda, p. 147, note 1). dadhna' yat im unnitah yasasa gavam, 'When (the Somas) have been drawn, together with the brilliant curds of the cow.' The brilliant milk of the cow which the
+
+[p. 315]
+
+[paragraph continues] Rishis have obtained, seems to be considered as a magical means for procuring to men the aspect of the brilliant light of the dawn. Comp. H. O., Religion des Veda, p. 450.
+
+  
+
+Verse 17.
+
+Note [4:1:17:1]1. On dudhitam, comp. Geldner, Ved. Studien, II, 9, and see Rig-veda II, 17, 4; IV, 16, 4.
+
+  
+
+Verse 19.
+
+Note [4:1:19:1]1. Comp. vol. xxxii, p. 330 (V, 54, 10, note 1).
+
+  
+
+Verse 20.
+
+Note [4:1:20:1]1. 'Guest' is atithih; the play on words (aditih and atithih) is untranslatable.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 316]
+
+  
+
+MANDALA IV, HYMN 2.
+
+  
+
+ASHTAKA III, ADHYAYA 4, VARGA 16-19.
+
+1. He who has been established as the steward among the mortals, the immortal, righteous one, and among the gods, being a god himself, the Hotri, the best sacrificer shall mightily flame [*1]; Agni shall rise up [*1] with the offerings of Manus.
+
+2. Here, O Agni, son of strength, thou goest for us to-day as a messenger, thou who art born, between the two races (of men and gods), having harnessed, O tall one, thy puissant, manly, brilliant (stallions) [*1].
+
+3. Harnessing the two mighty, red steeds that swim in ghee--(the steeds) of Rita, I think, that are most swift with their mind [*1], the ruddy ones, thou goest (as a messenger) between you, the gods, and the tribes of men [*2].
+
+4. O Agni, with thy good horses, and thy good chariot, rich in bounties, bring hither from among them (the gods) [*1] Aryaman, Varuna, and Mitra, Indra and Vishnu, the Maruts and the Asvins, to him who offers good oblations.
+
+5. This sacrifice, O Agni, is rich in cows [*1], in sheep and horses, in manly friends; it is never to be despised; it is rich in nourishment, O wonderful lord [*2], rich in offspring; it is long-lasting wealth, broad-based, with (brilliant) assemblies.
+
+6 [*1]. Be a self-strong protector, O Agni, of the man who in the sweat of his brow brings fuel to thee [*2], or heats his head desirous to worship thee. Deliver him from every harmful man.
+
+[p. 317]
+
+7. The man who brings food to thee who art desirous of food, he who stirs up [*1] the cheerful guest and rouses him, the godly man who kindles thee in his dwelling: to him may belong lasting and generous wealth.
+
+8. The sacrificer who praises thee in the evening and in the morning and gratifies thee; that liberal man thou shouldst bring across all distress, like a well-impelled horse [*1], (dwelling) in his house.
+
+9. The man who worships thee, the immortal one, O Agni, and who honours thee, holding the sacrificial ladle--may he, the toiling (sacrificer), not be deprived of wealth; may no distress that comes from a harmful (foe), surround him.
+
+10. That mortal whose well-ordered sacrifice thou, as the god, acceptest, O Agni, as a liberal giver, may his worship [*1] be welcome, O youngest god, (the Hotri's work performed) for a worshipper whose helpers we may be.
+
+11. May he, the knowing one, distinguish wisdom and folly of mortals [*1], like straight and crooked backs (of horses) [*2]. And for the sake of wealth and noble offspring, O god, grant us Diti and keep off Aditi [*3].
+
+12. The undeceived sages instructed the sage (Agni), setting him down in the dwellings of Ayu [*1]. Hence mayst thou behold, O Agni, with thy eyes [*2] these beings visible and secret (that move) on the Arya's ways [*3].
+
+13. Bring thou, O Agni, youngest (god), who art a good guide, a plentiful, brilliant treasure to the worshipper who presses Soma, who serves thee and toils, to help him, O brisk one, who fillest the dwellings of peoples.
+
+14 [*1]. And whatsoever we have done, O Agni, out
+
+[p. 318]
+
+of devotion for thee, with our feet [*2], with our hands, with our bodies: (in those deeds of ours) the wise have held up the Rita, aspiring after it, like those who manage a chariot by means of the two pole-arms (?) [*3].
+
+15. And may we be born from the Dawn, the mother, as the seven priests [*1], as the first worshippers among men [*2]. May we be the Angiras, the sons of Heaven. May we flaming break the rock which contains the prize of the contest [*3].
+
+16. And as our first, ancient fathers, O Agni, were aspiring after Rita [*1]--they attained to pure devotion [*2], chanting their litanies. Cleaving the earth they disclosed the red (cows).
+
+17. The pious men, well performing the acts (of worship), resplendent, melting [*1] the generations of the gods [*2] like ore [*3], kindling Agni, strengthening Indra, went along [*4], besieging the stall of cows.
+
+18. He looked (on the gods) as on herds of cattle [*1] in a rich (pasture) [*2], when the generations of the gods (were) near him, O mighty one [*3]. After (the generations) of the mortals the Urvasis [*4] have pined, for the growing strong of the Arya [*5], of the nearer Ayu [*6].
+
+19. We have done our work for thee; we have been good workers--the brilliant dawns have shone out Rita [*1],--brightening [*2] the perfect Agni who manifoldly shines with fine splendour, (brightening) the god's beautiful eye.
+
+20. We have recited these hymns for thee, the sage, O Agni, worshipper (of the gods) [*1]; accept them! Blaze up; make us wealthier. Bestow great wealth on us, O bountiful one!
+
+[p. 319]
+
+  
+
+NOTES.
+
+The Rishi is Vamadeva, the metre Trishtubh.--Verse 5 = TS. I, 6, 6, 4; III, 1, 11, 1; MS. I, 4, 3. Verse 6 = TA. VI, 2, 1. Verse 11 = TS. V, 5, 4, 4. Verse 16 = VS. XIX, 69; TS. II, 6, 12, 4. Verses 16-19 = AV. XVIII, 3, 21-24.
+
+  
+
+Verse 1.
+
+Note [4:2:1:1]1. On this use of these infinitives, comp. Delbruck, Altindische Syntax, p. 412.--Manushah seems to be genitive; comp. II, 2, 6. havya' manushah; II, 2, 8. hotrabhih ... manushah; I, 76, 5. manushah havirbhih.
+
+  
+
+Verse 2.
+
+Note [4:2:2:1]1. Comp. below, IV, 6, 9.
+
+  
+
+Verse 3.
+
+Note [4:2:3:1]1. As to the horses of Rita, comp. above, III, 6, 6. In spite of the different accent there is no doubt that ghritasnuva, which occurs in that verse, is the same word as ghritasnu, in our verse, a compound of ghrita with a noun snu which seems to be different from sa'nu, and connected with the root sna (cf. ghritasna', IV, 6, 9; and see Bechtel, Hauptprobleme der Indogerm. Lautlehre, p. 211). Vridhasnu, on the other hand, seems to be no compound, but an adjective formed like vadhasnu, nishatsnu. It is evident, however, that the poet here employed the two words vridhasnu and ghritasnu as parallel expressions.
+
+Note [4:2:3:2]2. Read martam (for martan; gen. plur.). Comp. below, verse 11; VI, 47, 16. visah manushyan, where we ought to read manushyam. See Lanman, p. 353; Pischel, Vedische Studien, I, p. 44; Bartholomae, Studien zur Indogermanischen Sprachgeschichte, I, p. 48.
+
+[p. 320]
+
+  
+
+Verse 4.
+
+Note [4:2:4:1]1. 'Could it be Mitram esham, the rapid Mitra?' M. M.
+
+  
+
+Verse 5.
+
+Note [4:2:5:1]1. The meaning is, it is rich in reward consisting in cows, &c.
+
+Note [4:2:5:2]2. The text has asura. Cf. H. O., Religion des Veda, p. 164.
+
+  
+
+Verse 6.
+
+Note [4:2:6:1]1. With the first Pada, comp. below, 12, 2.
+
+Note [4:2:6:2]2. On svatavan, see Benfey, Vedica and Linguistica, p. 1 seqq.; Lanman, p. 559; Joh. Schmidt, Kuhn's Zeitschrift, XXVI, p. 357 seq.; H. O., Prolegomena, p. 471.
+
+  
+
+Verse 7.
+
+Note [4:2:7:1]1. Nisishat is not derived, as is the case for instance with a' sishamahi, VIII, 24, 1, from (ni-)sas (Grassmann, Ludwig), but from ni-sa (Bohtlingk-Roth); comp. VII, 3, 5. nisisanah atithim. We must read, consequently, nisisat, formed like dadhat (3rd sg. subj. pres., or possibly nom. sing. part. pres.).
+
+  
+
+Verse 8.
+
+Note [4:2:8:1]1. Bohtlingk-Roth conjecture harmya'van 'im Hause, im Stall gehalten.' It is true that beasts may be kept in the harmya; comp. VII, 56, 16; X, 106, 5; Zimmer, Altindisches Leben, p. 149. But I do not think that 'being kept in the harmya' could be expressed by harmya-vat. Hemya'vat seems to be derived from the root hi, and to have the same meaning as asuheman; such a word very well fits into a phrase referring to a swift horse. Hemya'vat stands to heman in the same relation as omya'vat to oman. All this was pointed out first by Ludwig (vol. iv, p. 22).
+
+  
+
+Verse 10.
+
+Note [4:2:10:1]1. Literally the Hotri's work (performed for such a Yagamana).
+
+[p. 321]
+
+  
+
+Verse 11.
+
+Note [4:2:11:1]1. I read martam (gen. plur.); comp. above, verse 3, note 2. It is possible, however, to leave the text unchanged; in this case the translation would be: 'May he, the knowing one, distinguish wisdom and folly, the (wise and foolish) mortals like straight and crooked backs (of horses).'
+
+Note [4:2:11:2]2. Comp. vitaprishtha, 'straight-backed,' a frequent epithet of horses.
+
+Note [4:2:11:3]3. For Prof. Max Muller's interpretation of this passage, comp. vol. xxxii, p. 256. See also Bergaigne, Rel. Vedique, III, 97; Pischel, Vedische Studien, I, 297 seq. It is very strange that the poet should ask the god to keep off Aditi (comp. I, 152, 6. aditim urushyet) who must here be considered, consequently, as a malevolent deity. I think that this conception of Aditi is derived from the idea of this goddess as punishing sin; it is the same goddess who may free the sinner from the bonds of sin and who may fetter and destroy him. Keeping off Aditi seems to mean, consequently, removing from the mortal the danger of being bound by the fetters of sin; the idea is the same as above in IV, 1, 5, where Agni is invoked to make Varuna, the son of Aditi, go away (comp. H. O., Religion des Veda, p. 336, note 1). In that case granting Diti would mean granting freedom from those same fetters. (On Diti, who very appropriately has been called a mere reflex of Aditi, see M. M., loc. cit.; Bergaigne, III, 97 seq.)
+
+  
+
+Verse 12.
+
+Note [4:2:12:1]1. On Ayu, the mythical ancestor of the human race, see Bergaigne, Religion Vedique, I, p. 59 seq.
+
+Note [4:2:12:2]2. On padbhih, comp. Pischel, Ved. Studien, I, 228 seq.; Bartholomae, Bezzenberger's Beitrage, XV, 3 seq.; Bloomfield, Contributions to the Interpretation of the Veda, Second Series, p. 32 seq. (American Journal of Philology, XI, 350 seq.). I believe that in our verse padbhih should be derived from a noun pas, and translated, 'with thy eyes,'
+
+[p. 322]
+
+while in verse 14 we ought to read padbhih, and to translate, 'with the feet.'
+
+Note [4:2:12:3]3. Pischel (Ved. Studien, I, 229, note I) believes that aryah is nom. sing., referring to Agni. But compare VI, 51, 2. rigu marteshu vrigina' ka pasyan abhi kashte su'rah aryah evan. This verse makes it very probable that aryah is a genitive dependent on evaih, evan ('beholding right and wrong deeds among the mortals, the Sun looks upon the Arya's ways'). On the stem ari, 'the Arya,' see Pischel, Zeitschrift der Deutschen Morgenlandischen Gesellschaft, XL, p. 125.
+
+  
+
+Verse 14.
+
+Note [4:2:14:1]1. This verse has been commented upon by Pischel, Ved. Studien, I, 229 seq.
+
+Note [4:2:14:2]2. On padbhih or rather padbhih, comp. verse 12, note 2.
+
+Note [4:2:14:3]3. In translating bhurig I have followed, though not without doubt, the theory of Pischel, Ved. Studien, I, 239 seq.--Pischel seems to be right in making ritam depend both on yemuh (comp. IV, 23, 10) and on asushana'h (comp. above, IV, 1, 13, and below, verse 16).
+
+  
+
+Verse 15.
+
+Note [4:2:15:1]1. The seven Rishis or Angiras, the sons of Heaven and the Dawn (cf. above 1, 16).
+
+Note [4:2:15:2]2. nri'n (or rather nri'm) is genitive plural. See Lanman, p. 430; Pischel, Vedische Studien, I, p. 42.
+
+Note [4:2:15:3]3. Here we have again the seven Rishis breaking the mountain in which the cows were imprisoned.
+
+  
+
+Verse 16.
+
+Note [4:2:16:1]1. The apodosis is wanting. As verse 15 shows, the meaning is: As our fathers have done their mighty deeds, aspiring after Rita, thus may we do the same.
+
+Note [4:2:16:2]2. Suki't (Padap. suki it) possibly stands for sukim it; cf. Roth, Zeitschrift der Deutschen Morgenlandischen Gesellschaft, XLVIII, p. 680. Or may we correct suki it ...
+
+[p. 323]
+
+di'dhiti (instr. sing.), 'they went along in pure devotion'? Di'dhiti seems to be what is called in III, 31, 1; IX, 102, 1. 8, ritasya di'dhitih.'
+
+  
+
+Verse 17.
+
+Note [4:2:17:1]1. See Zimmer, Altindisches Leben, p. 252.
+
+Note [4:2:17:2]2. Evidently the pious men, not the gods, form the subject. I propose to read, therefore, deva'm (gen. plur.) ganima; cf. verse 18 deva'nam yat ganima. They kindle Agni; they strengthen Indra: in short, they treat the divine people as the smith treats the metal.
+
+Note [4:2:17:3]3. I do not enter here upon the archaeological question as to the meaning of ayah. Comp. on this much-discussed question especially Max Muller, Biographies of Words, p. 252 seq.; Schrader, Sprachvergleichung und Urgeschichte (2nd ed.), p. 271 seq.; von Bradke, Methode der arischen Alterthumswissenschaft, p. 93 seq.
+
+Note [4:2:17:4]4. Cf. X, 61, 13. parishadvanah agman.
+
+  
+
+Verse 18.
+
+Note [4:2:18:1]1. Pasvah is genitive sing.; it depends on yutha'. Cf. V, 31, 1; VI, 19, 3.
+
+Note [4:2:18:2]2. There is no reason for taking, as Lanman (p. 516) does, kshumati as acc. plur. neut., which would be kshuma'nti. See Joh. Schmidt, Pluralbildungen der Indogermanischen Neutra, p. 237; Bartholomae, Kuhn's Zeitschrift, XXIX, p. 493. Bartholomae translates, 'bei einem wolhabenden.'
+
+Note [4:2:18:3]3. Is this vocative ugra right? It would be easy to correct, with Ludwig, ugra' ('when the mighty generations of the gods were near him') or ugrah, as suggested by Delbruck (Grassmann's Translation, vol. i, p. 573): 'the mighty one (Agni) looked on them,' &c.
+
+Note [4:2:18:4]4. I believe that Geldner (Ved. Studien, I, 260, note 1) is right in contending that Urvasi, wherever it occurs, is the name of an Apsaras and nothing else. The name of Ayu, occurring in the fourth Pada, confirms this; for Ayu, as is well known, is the son of Pururavas and of the nymph Urvasi. Geldner translates, 'Selbst mit den
+
+[p. 324]
+
+[paragraph continues] Sterblichen hatten die Urvasis Mitleid.' But I do not think that krip means 'having compassion.' In my opinion we should, with Ludwig, supply ganima to martanam, so that deva'nam ganima in the second Pada corresponds with martanam (ganima) in the third. This ganima is an accusative which depends on akripran ('they pined after ...,' cf. IX, 85, 11. na'ke suparnam upapaptiva'msam girah vena'nam akripanta purvi'h; X, 74, 3. ye kripananta ratnam). Thus the meaning seems to be: When the cows had been conquered, and when Agni looked over the generations of the gods that were near him, the Urvasis, i. e. the Apsarases such as Urvasi, longed for the love of mortals such as Pururavas, and for the propagation of the human generations; they gave birth to children such as Ayu.
+
+Note [4:2:18:5]5. Or 'of the indigent'? Or is aryah nom. plur. fem. referring to the Urvasis? Or nom. sing. masc. referring to Agni?
+
+Note [4:2:18:6]6. On Ayu, see note 4. But I cannot tell why he is called the nearer Ayu. Is this nearer Ayu opposed, as a nearer or later (upara) ancestor, to the pitarah parasah pratna'sah, the Angiras, mentioned in verse 16? The same nearer Ayu (upara which stands there in opposition to pu'rvabhih) is mentioned also in I, 104, 4, connected, as it seems, with some Apsarases. I do not pretend to be able to interpret that very difficult verse, but I am convinced that it has been misinterpreted both by Roth (Siebenzig Lieder, p. vii) and by Bergaigne (I, 60).
+
+  
+
+Verse 19.
+
+Note [4:2:19:1]1. I. e. the dawns have sent forth their shine, which is a visible manifestation of the eternal law of Rita.
+
+Note [4:2:19:2]2. The construction is: we have been good workers, brightening &c. The words, 'the brilliant dawns have shone out Rita,' are a parenthesis.
+
+  
+
+Verse 20.
+
+Note [4:2:20:1]1. The text is nearly identical with the first hemistich of I, 73, 10 (see above).
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 325]
+
+  
+
+MANDALA IV, HYMN 3.
+
+  
+
+ASHTAKA III, ADHYAYA 4, VARGA 20-22.
+
+1. Draw Rudra hither for your protection [*1], the king of sacrifice, the truly sacrificing Hotri of the two worlds [*2], the golden-coloured Agni, before the unseen thunderbolt (strikes you).
+
+2. This is the home which we have prepared for thee as a well-dressed, loving wife (prepares the marriage-bed) for her husband [*1]. Directed hitherward, dressed (in offerings and prayers?) [*2] sit down. These (sacrificial ladles or prayers?) are turned towards thee, O most skilful one [*3]!
+
+3. To him who hears us, who is not proud, who beholds men, to the merciful, immortal god recite a prayer, O worshipper, a hymn--(to Agni) whom the presser (of Soma), the Madhu-presser, magnifies like the pressing-stone [*1].
+
+4. Thou who art well-intentioned, give heed to this our toiling [*1], to this Rita [*2], O observer of Rita! When will our hymns share in thy rejoicings? When will our friendship dwell in thy house?
+
+5. How wilt thou, O Agni, before Varuna, and how wilt thou, and which sin of ours wilt thou blame before Dyaus? How wilt thou speak to bountiful Mitra, to the Earth? What (wilt thou say) to Aryaman, to Bhaga?
+
+6. What wilt thou say, O Agni, when thou hast grown strong on the Dhishnya altars [*1]? What to strong Vata who goes forward in triumph [*2]? To the Nasatya [*3] who goes round the earth [*4], to ... [*5]? What, O Agni, to Rudra, the man-killer?
+
+[p. 326]
+
+7. How (wilt thou speak) to great Pushan who brings prosperity? What (wilt thou say) to martial Rudra, the giver of offerings [*1]? What sin [*2] wilt thou announce to wide-ruling Vishnu, what, O Agni, to the mighty weapon (of the gods)?
+
+8. How wilt thou answer, when thou art asked, to the righteous [*1] host of the Maruts? How to the mighty Sun, to the quick Aditi [*2]? Accomplish thy work, O Gatavedas, thou who knowest the Heaven!
+
+9. I magnify [*1] the Rita of the cow [*2] ruled by Rita and also by the raw one [*3], the honey-sweet, ripe (milk), O Agni. Though being black this (cow) swells of bright drink, of ... [*4] milk.
+
+10. With Rita indeed, with the milk of the back [*1], the bull has been anointed, Agni the man. Without trembling he moved on bestowing his vigour. The speckled bull has poured out his bright udder [*2].
+
+11 [*1]. By the Rita the Angiras have broken the rock and cleft it asunder; they have shouted together with the cows. Prosperously the men have surrounded [*2] the Dawn. The Sun appeared when Agni (the fire) had been born [*3].
+
+12. By the Rita the immortal, uninjured [*1] goddesses, the Waters, O Agni, with their honey-sweet waves have sped forward [*2] for ever to flow (along their course), like a racer incited by shouting when (the race-horses) are let loose.
+
+13. Go never on thy crooked way to the spirit (which avenges the guilt) of anybody [*1], of a vassal who has trespassed, or of a friend. Require not (of us),a sinful brother's debt [*2]. May we not have to suffer under the spirit which avenges a friend's or a (hostile) deceiver's guilt [*3].
+
+[p. 327]
+
+14. Protect us, O Agni, with all thy protection, thou who art protected, O martial one [*1], and art gladdened (by us). Sparkle forth, and destroy even strong evil! Slay the Rakshas even though it has grown large.
+
+15. Be gracious, O Agni, through these our hymns. Touch, O hero, this wealth moved by our prayers. And accept, O Angiras, our sacred words. May the praise, beloved by the gods, resound to thee [*1].
+
+16. I, the priest, have rehearsed to thee the omniscient one, O Agni, worshipper (of the gods), all these songs, these inmost words, these recitations and words of wisdom, to thee the wise one, with prayers and hymns.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 1 = SV. I, 69; TS. I, 3, 14, 1; TB. II, 8, 6, 9; MS. IV, 11, 4. Verse 6 = MS. IV, 11, 4.
+
+  
+
+Verse 1.
+
+Note [4:3:1:1]1. On the identification of Agni with Rudra, comp. Bergaigne, Rel. Vedique, III, 36; von Bradke, Dyaus Asura, p. 54 (Rig-veda I, 27, 10; III, 2, 5; VIII, 72, 3).
+
+Note [4:3:1:2]2. The second Pada of this verse is identical with VI, 16, 46.
+
+  
+
+Verse 2.
+
+Note [4:3:2:1]1. Cf. Hirzel, Gleichnisse and Metaphern im Rigveda, p. 69.
+
+Note [4:3:2:2]2. On parivitah Sayana remarks, yashtavyadevais tegobhir va parivitah. In the commentary on I, 128, 1, on the other hand, he says, ritvigbhih paridhibhir va parito veshtitah.
+
+[p. 328]
+
+Note [4:3:2:3]3. I take su-apaka as a compound of su and a-paka (comp. Vag. Samh. XX, 44 = Taitt. Br. II, 6, 8, 4 = Maitr. Samh. III, 11, 1, where Tvashtri is called apakah). In Rig-veda VI, 11, 4 we read: adidyutat su apakah vibha'va; in VI, 12, 2. a' yasmin tve su apake yagatra, &c. Should we not correct in both passages suapakah, suapake?
+
+  
+
+Verse 3.
+
+Note [4:3:3:1]1. The pressing-stone (gra'van) is frequently considered as speaking, as praising the gods. Cf. Hillebrandt, Vedische Mythologie, I, p. 152 sq.
+
+  
+
+Verse 4.
+
+Note [4:3:4:1]1. The Padapatha has samyai. I think it should be samyah.
+
+Note [4:3:4:2]2. I. e. to this sacrifice, which is considered as one of the chief manifestations of Rita. See H. O., Religion des Veda, p. 197.
+
+  
+
+Verse 6.
+
+Note [4:3:6:1]1. At the Soma sacrifice fire burns on eight altars called Dhishnya; see Weber, Indische Studien, X, pp. 366, 375.
+
+Note [4:3:6:2]2. See vol. xxxii, p. 164.
+
+Note [4:3:6:3]3. This is the only passage in the Rig-veda in which nasatya occurs in the singular.
+
+Note [4:3:6:4]4. On parigman, cf. above, I, 79, 3 note.
+
+Note [4:3:6:5]5. Kshe (cf. Lanman, pp. 440, 448, 534) is evidently corrupt. But neither Bollensen's conjecture, ukshne, nor those of Ludwig (kakshe, yakshe), carry conviction.
+
+  
+
+Verse 7.
+
+Note [4:3:7:1]1. It is very strange to find Rudra here designated as 'giver of offerings.' But it seems too bold to explain havih-de as a dative of havih-ad ('eater of offerings').
+
+Note [4:3:7:2]2. I read with Grassmann repah ('sin') for retah ('sperm').
+
+[p. 329]
+
+  
+
+Verse 8.
+
+Note [4:3:8:1]1. The text has rita'ya, used as an adjective (see Bergaigne, Rel. Vedique, III, 216).
+
+Note [4:3:8:2]2. Aditi is masculine and seems to be an epithet ('unrestrained, free') of the Sun. Cf. vol. xxxii, p. 262; Bergaigne, III, 92. Probably at the same time the word is intended to allude to the goddess Aditi.
+
+  
+
+Verse 9.
+
+Note [4:3:9:1]1. The text has ile, on which Ludwig says, 'so viel wie nile.' Ile of course cannot be the same as nile, but should we not conjecture nile? Cf. above, IV, 1, 11. vrishabhasya nile, and IV, 1, 12. ritasya yona vrishabhasya nile. The translation would be, 'By Rita the Rita is restrained in the nest of the cow.'
+
+Note [4:3:9:2]2. The 'Rita of the cow,' if the reading is correct (see note 1), seems to be the milk.
+
+Note [4:3:9:3]3. The 'raw one' is the cow as opposed to the ripe milk.
+
+Note [4:3:9:4]4. The meaning of ga'marya (apax legomenon) is unknown. Cf. Bergaigne. II, 398, note 1. Sayana reads ga amaryena. 'I should prefer ga amartyena.' M. M.
+
+  
+
+Verse 10.
+
+Note [4:3:10:1]1. Does this mean, with the milk that comes from the ridge of heaven? Cf. IV, 20, 4. sam andhasa mamadah prishthyena.
+
+Note [4:3:10:2]2. This Pada seems to be an imitation of VI, 66, 1, where Prisni ('the speckled one') is the mother of the Maruts: sakrit sukram duduhe prisnih u'dhah. See vol. xxxii, p. 368.
+
+  
+
+Verse 11.
+
+Note [4:3:11:1]1. Here we have again the same myth of the Angiras and the cows, to which so many allusions are found in the preceding hymns.
+
+Note [4:3:11:2]2. The red cows of the myth are the dawns; the
+
+[p. 330]
+
+[paragraph continues] Angiras besiege the stronghold in which these cows are imprisoned.
+
+Note [4:3:11:3]3. On the kindling of the fire as a charm by which the sun is made to rise, see H. O., Religion des Veda, p. 109 seq. The Angiras kindle the fire for performing their sacrifice; thereby they make the sun rise.
+
+  
+
+Verse 12.
+
+Note [4:3:12:1]1. The same epithet is applied to the waters also in X, 104, 8.
+
+Note [4:3:12:2]2. The optative dadhanyuh is very strange. Probably we ought to read dadhanvuh.
+
+  
+
+Verse 13.
+
+Note [4:3:13:1]1. The meaning seems to be that Agni is requested not to turn against the sacrificer a spirit which has to avenge the guilt committed by a third person. 'Why not read yagnam? Go not secretly to anybody's sacrifice, not of a hostile house, not of a friend. Do not require (of us) a sinful brother's debt. May we not feel the might of friend or foe.' M. M.
+
+Note [4:3:13:2]2. Geldner (Ved. Studien II, 157) translates and interprets: 'tilge nicht, O Agni, die Schuld eines falschen Bruders,' namlich die Schuld an die Manen, also dem Sinn nach 'mache ihn kinderlos.' This is quite unacceptable.
+
+Note [4:3:13:3]3. The text is evidently corrupt. I propose to read: ma' sakhyuh yaksham ma' ripoh bhugema. Comp. V, 70, 4. ma' kasya adbhutakratu yaksham bhugema tanu'bhih.
+
+  
+
+Verse 14.
+
+Note [4:3:14:1]1. I cannot adopt Bergaigne's opinion on sumakha (Quarante Hymnes, p. 75).
+
+  
+
+Verse 15.
+
+Note [4:3:15:1]1. Or, awake for thee.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 331]
+
+  
+
+MANDALA IV, HYMN 4.
+
+  
+
+ASHTAKA III, ADHYAYA 4, VARGA 23-25.
+
+1. Produce thy stream of flames like a broad onslaught. Go forth impetuous like a king with his elephant [*1]; ...  [*2] after thy greedy onslaught, thou art an archer; shoot the sorcerers with thy hottest (arrows).
+
+2. Thy whirls fly quickly. Fiercely flaming touch (them). O Agni, (send forth) with the ladle [*1] thy heat, thy winged (flames); send forth unfettered thy firebrands all around.
+
+3. Being the quickest, send forth thy spies against (all evildoers). Be an undeceivable guardian of this clan. He who attacks us with evil spells, far or near, may no such (foe) defy thy track.
+
+4. Rise up, O Agni! Spread out against (all foes)! Burn down the foes, O (god) with the sharp weapon! When kindled, O Agni, burn down like dry brushwood, the man who exercises malice against us.
+
+5. Stand upright, strike (the foes) away from us! Make manifest thy divine (powers), O Agni! Unbend the strong (bows) of those who incite demons (against us) [*1]. Crush all enemies, be they relations or strangers.
+
+6. He knows thy favour, O youngest one, who makes a way for a sacred speech like this. Mayst thou beam forth to his doors all auspicious days and the wealth and the splendour of the niggard.
+
+7. Let him, O Agni, be fortunate and blessed with good rain, who longs to gladden thee with
+
+[p. 332]
+
+constant offerings and hymns through his life in his house. May such longing ever bring auspicious days to him.
+
+8. I praise thy favour; it resounded here. May this song (which is like) a favourite wife, awaken for thee [*1]. Let us brighten thee, being rich in horses and chariots. Mayst thou maintain our knightly power day by day.
+
+9. May (the worshipper) here frequently of his own accord approach thee, O (god) who shinest in darkness [*1], resplendent day by day. Let us worship thee sporting and joyous, surpassing the splendour of (other) people.
+
+10. Whoever, rich in horses and rich in gold, approaches thee, O Agni, with his chariot full of wealth--thou art the protector and the friend of him who always delights in showing thee hospitality.
+
+11. Through my kinship (with thee) I break down the great (foes) by my words [*1]. That (kinship) has come down to me from my father Gotama. Be thou attentive to this our word, O youngest, highly wise Hotri, as the friend of our house.
+
+12. May those guardians of thine, infallible Agni, sitting down together protect us, the never sleeping, onward-pressing, kind, unwearied ones, who keep off the wolf, who never tire.
+
+13 [*1]. Thy guardians, O Agni, who seeing have saved the blind son of Mamata from distress--He the possessor of all wealth has saved them who have done good deeds. The impostors, though trying to deceive, could not deceive.
+
+14. In thy companionship we dwell, protected by thee. Under thy guidance let us acquire gain. Accomplish both praises [*1], O (thou who art the)
+
+[p. 333]
+
+truth! Do so by thy present power, O fearless one!
+
+15. May we worship thee, O Agni, with this log of wood. Accept the hymn of praise which we recite. Burn down those who curse us, the sorcerers. Protect us, O (god) who art great like Mitra, from guile, from revilement, and from disgrace.
+
+  
+
+NOTES.
+
+The hymn is addressed to Agni Rakshohan. The same Rishi and metre.--Verses 1-15 = TS. I, 2, 14, 1-6; MS. IV, 11, 5. Verses 1-5 = VS. XIII, 9-13; MS. II, 7, 15.
+
+  
+
+Verse 1.
+
+Note [4:4:1:1]1. On ibhena, cf. Pischel-Geldner, Vedische Studien, I, p. xv.
+
+Note [4:4:1:2]2. The meaning of drunanah, which evidently should be pronounced drunanah (H. O., Prolegomena, p. 478), is uncertain. This verb is stated to occur still in one other passage, Maitr. Samh. II, 4, 2. tad ya evam vidvant suram pibati na hainam drunati (drunati, two MSS.). But should we not read there hrunati? [And possibly in our passage, as Prof. Max Muller observes, hrunanah?]
+
+  
+
+Verse 2.
+
+Note [4:4:2:1]1. On guhva, see Pischel, Vedische Studien, II, 113. Wherever butter is poured out with the ladle, the flames arise.
+
+  
+
+Verse 5.
+
+Note [4:4:5:1]1. The third Pada is identical with X, 116, 5 b.
+
+  
+
+Verse 8.
+
+Note [4:4:8:1]1. Or 'resound to thee' (sam gareta). Cf. above, 3, 15. Shall we read, in consideration of this parallel
+
+[p. 334]
+
+passage, sam devavata garatam iyam gi'h ('may this song beloved by the gods resound' or 'awaken')?
+
+  
+
+Verse 9.
+
+Note [4:4:9:1]1. On doshavastah, see above, I, 1, 7, note 1.
+
+  
+
+Verse 11.
+
+Note [4:4:11:1]1. I have taken manah as acc. plural. If it is gen. singular, the translation will be: 'Through my kinship with the great (Agni) I break down (my foes) by my words.'
+
+  
+
+Verse 13.
+
+Note [4:4:13:1]1. This verse is identical with I, 147, 3. See the notes there. The original place of this verse seems to be in the first Mandala, because it mentions Mamateya.
+
+  
+
+Verse 14.
+
+Note [4:4:14:1]1. Probably the praise or song of the gods and of men. See vol. xxxii, p. 439.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 335]
+
+  
+
+MANDALA IV, HYMN 5.
+
+  
+
+ASHTAKA III, ADHYAYA 5, VARGA 1-3.
+
+1. How may we unanimously offer mighty light [*1] to bountiful Agni Vaisvanara? With his mighty perfect growth he supports the high bank [*2] like a pillar.
+
+2. Do not reproach Him, the self-dependent one, who has given this bounty to me, the god to the mortal, the clever one to the simple, the wise immortal, the most manly, restless[*1] Agni Vaisvanara.
+
+3. Agni, the sharp-pointed, the mighty bull with thousandfold sperm, has proclaimed to me the great, doubly-powerful [*1] Saman, the prayer, having found, as it were, the hidden track of a cow [*2].
+
+4. May Agni, he who is rich in wealth, whose teeth are sharp, consume with his hottest flames those who violate the laws founded by Varuna, the beloved, firm (laws) of attentive Mitra.
+
+5 [*1]. They who roam about like brotherless girls [*2], of evil conduct like women who deceive their husbands, being wicked, sinful, and untrue--they have created for themselves this deep place [*3].
+
+6. On me, however small, but innocent, thou, O purifying Agni, hast fiercely placed this mighty, deep, vigorous prayer, like a heavy burden, this Prishtha [*1], consisting of seven elements [*2].
+
+7. Let our prayer which purifies Him, through the power of mind (inherent in it), reach Him who is the common (property of all men) alike, the good (name?) of Prisni on the skin of the herbs, on the summit of the ... [*1].
+
+[p. 336]
+
+8. What should be openly uttered by me of this speech? They secretly speak of that which is hidden [*1]. When they have uncovered, as it were, the water of the cows [*2], he guards the beloved summit of the ... [*3], the footstep of the bird [*4].
+
+9. He has found in secret that great face of the great ones which the bright cow accompanied [*1], the ancient (face) shining in the abode of Rita, the quickly running, quickly moving.
+
+10. And resplendent near his parents (Heaven and Earth), in their presence, he thought of the secret, good (name?) of Prisni. The tongue of the manly, forward-bent flame (seized) that which was near at hand in the highest abode of the mother, the cow [*1].
+
+11. I speak, when being asked, Rita (i. e. truth), out of reverence (for Agni, or for the gods), out of hope [*1] placed in thee, O Gatavedas, as I am here [*2]. Thou rulest over all this wealth whatever (dwells) in heaven and earth.
+
+12. Which of this wealth is ours, what treasure? Mayst thou who knowest it declare to us (that treasure), O Gatavedas! What is the highest (aim) of this our way, is hidden. We have not come scolding to an empty (?) [*1] place.
+
+13 [*1]. What is the limit, what the objects? What pleasant (wealth) may we obtain as swift (horses gain) the prize? When will the Dawns, the divine consorts of the immortal, expand over us with the sun's splendour?
+
+14. And what do those insatiable ones here say, O Agni, with their sapless, feeble, weak speech that has to be listened to? Let them unarmed fall into nothingness.
+
+[p. 337]
+
+15. The face of this kindled, manly Vasu has shone gloriously in the house. Clothed in brilliancy, with his shape beautiful to behold, the bountiful has shone like a house [*1] with its wealth.
+
+  
+
+NOTES.
+
+The hymn is addressed to Vaisvanara. The same Rishi and metre.--No verse occurs in the other Samhitas.
+
+  
+
+Verse 1.
+
+Note [4:5:1:1]1. Cf. especially I, 45, 8 (above, <page 42>). brihat bha'h bibhratah havih.
+
+Note [4:5:1:2]2. Cf. vol. xxxii, p. 93 (I, 38, 11, note 2).
+
+  
+
+Verse 2.
+
+Note [4:5:2:1]1. See above, I, 36, 1, note 2.
+
+  
+
+Verse 3.
+
+Note [4:5:3:1]1. Dvibarhah is neuter. See Lanman, p. 560; Joh. Schmidt, Pluralbildungen der Indogermanischen Neutra, p. 132.
+
+Note [4:5:3:2]2. Agni has discovered the Saman which he proclaims to the mortal, like the track of a lost cow.
+
+  
+
+Verse 5.
+
+Note [4:5:5:1]1. See H. O., Religion des Veda, p. 539.
+
+Note [4:5:5:2]2. Abhratarah cannot be accusative plural fem., as Zimmer (Altindisches Leben, p. 419) seems to take it. The correct interpretation has been given by Pischel, Vedische Studien, I, p. 299.
+
+Note [4:5:5:3]3. I. e. hell.
+
+  
+
+Verse 6.
+
+Note [4:5:6:1]1. In the younger Vedic ritual certain Stotras are technically designated as prishtha or 'backs' of the liturgies
+
+[p. 338]
+
+[paragraph continues] (see, for instance, Weber, Indische Studien, X, 385). Does the word stand here in the same sense? Or should we correct preshtham?
+
+Note [4:5:6:2]2. The seven tones of the scale?
+
+  
+
+Verse 7.
+
+Note [4:5:7:1]1. This passage is obscure. The text runs thus: sasasya karman adhi ka'ru prisneh agre rupah arupitam (a'rupitam Samhitapatha) gabaru. As to the first words, see III, 5, 6. To ka'ru possibly a noun like na'ma should be supplied (cf. below, verse 10). The last Pada (cf. above, III, 5, 5, note 1) is simply untranslateable.
+
+  
+
+Verse 8.
+
+Note [4:5:8:1]1. Of the milk alluded to in the third Pada?--On ninik, cf. Lanman, p. 436; Job. Schmidt, Pluralbildungen der Indogerm. Neutra, p, 397.
+
+Note [4:5:8:2]2. The water of the cows is the milk, cf. X, 12, 3. Roth (Zeitschr. der D. Morgenl. Gesellschaft, XLVIII, 682): als sie den Schatz der Kuhe entdeckt hatten (var iva = varam iva).
+
+Note [4:5:8:3]3. Rupah agram.
+
+Note [4:5:8:4]4. Comp above, III, 5, 5 with note 1; III, 5, 6, note 2.
+
+  
+
+Verse 9.
+
+Note [4:5:9:1]1. The sun, the face of the great gods (cf. I, 115, 1), accompanied by the dawn?
+
+  
+
+Verse 10.
+
+Note [4:5:10:1]1. Is the meaning of all this that Agni, shining on the altar between heaven and earth, desires, and consumes with his flames, the oblation of butter which has its home in the udder of the cow?
+
+  
+
+Verse 11.
+
+Note [4:5:11:1]1. On asasa, see Lanman, p. 492 seq.; Bartholomae Indogermanische Forschungen, I, 182 seq.; Bechtel, Hauptprobleme
+
+[p. 339]
+
+der Indogerm. Lautlehre, p. 262. This noun is not to be derived from the root sas, but from sams.
+
+Note [4:5:11:2]2. Compare I, 79, 2 (with note 3).
+
+  
+
+Verse 12.
+
+Note [4:5:12:1]1. Comp. X, 108, 7, where the Panis say to Sarama: reku padam alakam a' gagantha ('the place is empty (?); thou hast come in vain').
+
+  
+
+Verse 13.
+
+Note [4:5:13:1]1. This verse has been treated of by Pischel, Ved. Studien, I, 306.
+
+  
+
+Verse 15.
+
+Note [4:5:15:1]1. On this comparison, see Hirzel, Gleichnisse und Metaphern im Rigveda, p. 102 seq.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 340]
+
+  
+
+MANDALA IV, HYMN 6.
+
+  
+
+ASHTAKA III, ADHYAYA 5, VARGA 4-5.
+
+1. Stand upright for us, O Agni, Hotri of the sacrifice, the best performer of sacrifices among the gods. For thou art the master of every thought; thou promotest the worshipper's prayer.
+
+2. The unerring Hotri has sat down among the people, joy-giving Agni, the wise one at the sacrifices [*1]. Like Savitri he has sent his light upward. Like a builder he has reared his smoke up to the sky.
+
+3 [*1]. (The ladle) glowing, filled with gifts, with butter, is stretched forth. From left to right (does Agni move) choosing the divine people. Upright (stands) the (sacrificial) post like a new-born foal [*2]; well-placed, well-established it anoints the victims [*3].
+
+4. After the sacrificial grass has been spread and the fire kindled, the delighted Adhvaryu has stationed himself upright. Agni, the Hotri, chosen from of old, goes round thrice, like a shepherd.
+
+5. As Hotri, measuredly running, Agni, the joy-giving, sweet-tongued, the righteous, goes around by his own might. His flames run forward like race-horses; all beings are afraid when he has shone forth.
+
+6. Beautiful, O fair-faced Agni, is thy aspect, who art terrible and manifold; pleasant (it is). As they have not hindered thy light by darkness, no bespatterers have left stains on thy body.
+
+7. He whose mother (?) [*1] has not been hindered from giving birth, nor his father and mother whenever
+
+[p. 341]
+
+they were incited (?) [*2]: this Agni, the purifier, well-established like Mitra [*3], has shone among the tribes of men,--
+
+8. Agni, whom the twice-five sisters [*1], dwelling together, have engendered among the human tribes, who awakes at dawn, who is bright like an elephant's (?) [*2] tooth, whose mouth is beautiful, who is sharp like an axe.
+
+9 [*1]. Agni, those golden horses of thine swimming in ghee, the red ones which go straight forward, the fleet ones, the brilliant, manly, wonderful horses, puissant stallions, have called hither the divine people.
+
+10. Those victorious, never-tiring [*1], fierce flames of thine, O Agni, which move about, hasten [*2] to their goal like hawks; they roar mightily like the host of the Maruts.
+
+11 [*1]. (This) hymn has been produced for thee, O Agni, when thou wert kindled. May (the priest) recite the litany; mayst thou distribute (treasures) to him who sacrifices. Men have set down Agni as the Hotri, the Usigs, adoring (Him), the praise of Ayu [*2].
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 6 = TS. IV, 3, 13, 1.
+
+  
+
+Verse 2.
+
+Note [4:6:2:1]1. The text has vidatheshu. Cf. above, I, 31, 6 note.
+
+  
+
+Verse 3.
+
+Note [4:6:3:1]1. With the first hemistich compare above, III, 19, 2. See also VI, 63, 4.
+
+[p. 342]
+
+Note [4:6:3:2]2. On akra, see Geldner, Vedische Studien, I, 168.
+
+Note [4:6:3:3]3. The meaning seems to be that the sacrificial post, which has been anointed itself, imparts ointment to the victim tied to it.
+
+  
+
+Verse 7.
+
+Note [4:6:7:1]1. The meaning of sa'tu is uncertain. Boehtlingk-Roth give 'receptaculum.' Joh. Schmidt (Kuhn's Zeitschrift, XXV, p. 29, cf. Hubschmann, Indogerm. Vocalsystem, p. 75) translates 'Mutterleib,' and connects the word with stri'. If 'womb' is right, it seems to be the womb from which Agni was born.
+
+Note [4:6:7:2]2. Does this ishtau belong to ish, 'to incite,' or to ish, 'to wish'? 'Whenever he (Agni) wishes.' M. M.
+
+Note [4:6:7:3]3. On the well-established Mitra, comp. H. O., Religion des Veda, p. 186, note 1.
+
+  
+
+Verse 8.
+
+Note [4:6:8:1]1. The ten sisters of course are the fingers.
+
+Note [4:6:8:2]2. In translating atharyah na dantam I have followed the opinion of Pischel (Vedische Studien, I, 99) on the meaning of athari' though his theory is very doubtful.
+
+  
+
+Verse 9.
+
+Note [4:6:9:1]1. With this description of Agni's horses, comp. above, IV, 2, 2. 3.
+
+  
+
+Verse 10.
+
+Note [4:6:10:1]1. On aya'sah, cf. above, III, 18, 2, note 1.
+
+Note [4:6:10:2]2. See Geldner, Kuhn's Zeitschrift, XXVII, 234.
+
+  
+
+Verse 11.
+
+Note [4:6:11:1]1. The second hemistich of this verse is nearly identical with V, 3, 4.
+
+Note [4:6:11:2]2. Cf. narasamsa, vol. xxxii, p. 439.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 343]
+
+  
+
+MANDALA IV, HYMN 7.
+
+  
+
+ASHTAKA III, ADHYAYA 5, VARGA 6-7.
+
+1. This (Agni) has been established here as the first by the establishers, the Hotri, the best sacrificer who should be magnified at the sacrifices, whom Apnavana and the Bhrigus have made shine, brilliant in the woods, spreading to every house.
+
+2. Agni! When will the splendour of thee, the god, appear in the right way? For verily the mortals have seized thee who shouldst be magnified in the houses.
+
+3. Seeing the righteous, wise one, like the heaven with the stars, who produces joy at all sacrifices, from house to house--
+
+4. The quick messenger of Vivasvat who rules over all human tribes: Him the Ayus have brought hither to every house, the light, him who belongs to the Bhrigus.
+
+5. Him the knowing one they have set down in the right way as the Hotri, the gay one with his purifying flames, the best sacrificer with his seven (forms [*1])--
+
+6. Him who is enveloped in many mothers, in the wood [*1], who does not rest thereon (?) [*2], who is brilliant, though hidden in secret, easily to be found, and striving for all that is desired.
+
+7. When the gods rejoiced in the ... of the herbs [*1], in that udder [*2], in the foundation of Rita [*3], the great -Agni, to whom offerings are made with adoration, the righteous one, always approached eagerly for the sake of sacrifice.
+
+[p. 344]
+
+8 [*1]. Thou, the knowing one, hast eagerly performed the messengership of the sacrifice, looking over both ends, over the two worlds. Thou goest as a messenger, chosen from of old, thou who knowest best the ascents to heaven.
+
+9. Thy path is black. Light is before thee, the red one. Thy flame is speedy. This is one of the wonders: when the virgin conceives (thee as her) child [*1], thou becomest a messenger, as soon as thou art born.
+
+10. As soon as he is born, his strength shows itself, when the wind blows upon his flame. He turns his sharp tongue among the dry brushwood. Even solid food he tears to pieces with his teeth.
+
+11. When he thirstily has grown strong by thirsty food [*1], restless Agni appoints a thirsty messenger. Consuming (the wood) he follows the ... [*2] of the wind. He seems to drive forward a quick horse; the racer speeds along.
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Gagati in verse 1, Anushtubh in verses 2-6, Trishtubh in verses 7-11.--Verse 1 = VS. III, 15; XV, 26; XXXIII, 6; TS. I, 5, 5, 1; MS. I, 5, 1.
+
+  
+
+Verse 5.
+
+Note [4:7:5:1]1. The seven flames or tongues of Agni? The seven Hotris? The seven Ratnas?
+
+  
+
+Verse 6.
+
+Note [4:7:6:1]1. Cf. IX, 107, 18. pari gobhih uttarah si'dan vaneshu avyata.
+
+[p. 345]
+
+Note [4:7:6:2]2. Possibly we might conjecture a'sritam, 'who rests thereon.'
+
+  
+
+Verse 7.
+
+Note [4:7:7:1]1. On sasasya, cf. above, III, 5, 6, note 2. Viyuta seems to be a locative standing parallel with the locative u'dhan. We have here sasasya viyuta ... ritasya dha'man, quite as in V, 21, 4 the two accusatives ritasya yonim and sasasya yonim stand parallel. The meaning of viyuta, however, seems to me quite uncertain. Is it an action-noun derived from vi-yu, 'to separate,' 'to keep off,' or from (vi-) va, 'to weave'? Professor Max Muller proposes: 'at the removal of the grass or tinder in which the spark is kept. '
+
+Note [4:7:7:2]2. sasmin u'dhan; cf. below, 10, 8.
+
+Note [4:7:7:3]3. Cf. above, I, 147, 1.
+
+  
+
+Verse 8.
+
+Note [4:7:8:1]1. With this verse, compare below, hymn 8, verse 4.
+
+  
+
+Verse 9.
+
+Note [4:7:9:1]1. The wood, the child of which is Agni.
+
+  
+
+Verse 11.
+
+Note [4:7:11:1]1. I take anna here as an instrumental.--Compare with our passage VII, 3, 4. trishu yat anna samavrikta gambhaih; X, 79, 5. yah asmai annam trishu adadhati; X, 91, 7. trishu yat anna vevishat vitishthase; X, 113, 8. agnih ni gambhaih trishu annam avayat.
+
+Note [4:7:11:2]2. melim; cf. above, III, 26, 9.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 346]
+
+  
+
+MANDALA IV, HYMN 8.
+
+  
+
+ASHTAKA III, ADHYAYA 5, VARGA 8.
+
+1. I press on for you with my prayer to the all-possessing messenger, the immortal bearer of offerings, the best sacrificer.
+
+2. He, the great one, knows indeed the place of wealth [*1], the ascent to heaven; may he, (therefore,) conduct the gods hither.
+
+3. He, the god, knows how to direct the gods for the righteous (worshipper), in his house. He gives (us) wealth dear (to us).
+
+4. He is the Hotri; he who knows the office of a messenger, goes to and fro (between men and gods), knowing the ascent to heaven.
+
+5. May we be of those who have worshipped Agni with the gift of offerings, who cause him to thrive and kindle him.
+
+6. The men who have brought worship to Agni, are renowned as successful by wealth and by powerful offspring.
+
+7. May much-desired wealth come to us day by day; may gains arise among us.
+
+8. He (Agni), the priest of the tribes, (the priest) of men, pierces (all hostile powers) by his might as with a tossing [*1] (bow).
+
+[p. 347]
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Gayatri.--Verse 1 = SV. I, 12; MS. II, 13, 5.
+
+  
+
+Verse 2.
+
+Note [4:8:2:1]1. Comp. Pischel, Ved. Studien, II, 118.
+
+  
+
+Verse 8.
+
+Note [4:8:8:1]1. Kshipra' evidently is an instrumental. Cf. kshi pradhanvan, kshipreshu, kshiprena dhanvana, II, 24, 8.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 348]
+
+  
+
+MANDALA IV, HYMN 9.
+
+  
+
+ASHTAKA III, ADHYAYA 5, VARGA 9.
+
+1. Agni, have mercy! Thou art great, who hast come to this pious man to sit down on the sacrificial grass.
+
+2. He who cannot be deceived, the zealous, the immortal has among men become the messenger of all.
+
+3. He, the joy-giving Hotri, is led around the sacred seat at the heaven-aspiring sacrifices. And he sits down as the Potri also.
+
+4. Agni sits down also as (the sacrificer's) wife [*1] at the sacrifice, and as the master of the house in the house, and as the Brahman [*2].
+
+5. Thou zealously approachest as the Upavaktri [*1] of the people who perform the sacrificial service, and (thou approachest) the offerings of men.
+
+6. And thou zealously performest the messenger-ship for the man in whose sacrifice thou takest pleasure, in order to bear the mortal's offering (to the gods).
+
+7. Find pleasure [*1] in our rites, in our sacrifice, O Angiras. Hear our call!
+
+8. May thy unerring chariot, by which thou protectest the worshippers, encompass us from every side.
+
+[p. 349]
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse I = SV. I, 23. Verse 8 = VS. III, 36; MS. I, 5, 4. 5. 11.
+
+  
+
+Verse 4.
+
+Note [4:9:4:1]1. 'Wir vermuten: utagna agnir adhvare ... die correctur durfte evident sein.' Ludwig. The same conjecture has been proposed already in 1868 by Prof. Max Muller (Chips, 2nd ed., vol. iii, p. 157). In my opinion the traditional text is correct.
+
+Note [4:9:4:2]2. The Brahman very probably is not the Brahman of the later ritual, but the Brahmanakkhamsin. See H. O., Religion des Veda, p. 396.
+
+  
+
+Verse 5.
+
+Note [4:9:5:1]1. The Upavaktri is identical with the Prasastri or Maitravaruna of the later ritual. H. O., Religion des Veda, p. 390.
+
+  
+
+Verse 7.
+
+Note [4:9:7:1]1. On goshi, cf. Bartholomae, Studien zur Indog. Sprachgeschichte, I, 21.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 350]
+
+  
+
+MANDALA IV, HYMN 10.
+
+  
+
+ASHTAKA III, ADHYAYA 5, VARGA 10.
+
+1 [*1]. O Agni! May we to-day successfully perform, with thy heedfulness [*2], this praise [*3] which touches thy heart, which is like a horse, like auspicious power of the mind.
+
+2. For verily thou, O Agni, hast become the charioteer of auspicious power of the mind, of real ability, and of the mighty Rita.
+
+3. Through these our hymns direct thyself hither-wards to us like the sun with its light [*1], O Agni, gracious with all thy faces.
+
+4. May we to-day worship thee, O Agni, praising thee with these songs. Thy roarings thunder like (the thunder) of Heaven.
+
+5. Thy sweetest aspect, O Agni, shines near us for glory's sake, now by day, now by night, like gold.
+
+6. Like purified ghrita is thy stainless body; (it is) brilliant gold: that (body) of thine has shone [*1], O self-dependent one, like gold.
+
+7. For even a malice which one has committed, thou verily drivest away entirely, O righteous Agni, from the sacrificing mortal [*1].
+
+8. May our friendship, O Agni, our brotherhood with you, the gods, be blessed. This is our navel (i. e. relation) in our seat, in this udder [*1].
+
+[p. 351]
+
+  
+
+NOTES.
+
+The same Rishi. The metre is stated to be Padapankti (verses 4, 6, 7, Padapankti or Ushnih; verse 5, Mahapadapankti; verse 8, Ushnih): see on this metre M. M., vol. xxxii, p. xcviii seq.; H. O., Prolegomena, p. 98; Kuhnau, Die Trishtubh-Gagati-Familie, p. 234 seq.--Verse 1 = SV. I, 434; MS. I, 10, 3. Verses 1-3 = SV. II, 1127-1129; VS. XV, 44-46. Verses 1-4 = TS. IV, 4, 4, 7. Verse 1, 2, 4 = MS. II, 13, 8. Verse 3 = MS. IV, 10, 2. Verse 6 = TS. II, 2, 12, 7; MS. IV, 12, 4.
+
+  
+
+Verse 1.
+
+Note [4:10:1:1]1. The Avasana in this verse ought to stand before hridisprisam, not after this word, as the traditional text places it. Ridhyama, consequently, cannot be accented.
+
+Note [4:10:1:2]2. Dr. Neisser's opinion on oha is different (Bezzenberger's Beitrage, XVIII, 312).
+
+Note [4:10:1:3]3. I read stomam, which is frequently found as the object of the verb ridh, and which in several passages receives the epithet hridispris.
+
+  
+
+Verse 3.
+
+Note [4:10:3:1]1. On the syntactical form of this comparison, see Bergaigne, Melanges Renier, p. 95.
+
+  
+
+Verse 6.
+
+Note [4:10:6:1]1. Or rokate, 'shines'?
+
+  
+
+Verse 7.
+
+Note [4:10:7:1]1. The Avasana ought to stand before martat. Cf. above, verse 1, note 1.
+
+  
+
+Verse 8.
+
+Note [4:10:8:1]1. Cf. above, IV, 7, 7. The meaning seems to be: in this sacrificial place, where the cows give milk.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 352]
+
+  
+
+MANDALA IV, HYMN 11.
+
+  
+
+ASHTAKA III, ADHYAYA 5, VARGA 11.
+
+1. Thy auspicious face, O mighty Agni, shines in the neighbourhood of the sun [*1]. Brilliant to see, it is seen even by night. Soft to behold is the food in thy (beautiful) body [*2].
+
+2. O Agni, disclose (wise) thoughts for him who praises thee; (disclose) the opening, when thou, O strong-born, hast been praised with trembling. Grant unto us, O very great one, such a rich prayer as thou with all the gods wilt hold dear, O brilliant one.
+
+3. From thee, O Agni, genius is born, from thee (wise) thoughts, from thee beneficent hymns. From thee comes wealth adorned with heroes [*1] to the thus-minded mortal who worships thee.
+
+4. From thee the racer is born that wins booty, whose energy expands round-about [*1], the helpful, of true strength; from thee delightful wealth sent by the gods; from thee, O Agni, the swift and impetuous horse.
+
+5. Thee, O Agni, the pious mortals seek to win by their prayers as the first, thee the god with agreeable speech, O immortal, who drivest away malice, the household god, the lord of the house, the wise one.
+
+6. (Drive) far from us senselessness and anguish; (drive) far all ill-will from him whom thou attendest [*1]. Be gracious at evening, Agni, son of strength, to him whom thou, the god, attendest with welfare.
+
+[p. 353]
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Trishtubh.--Verse 1 = TS. IV, 3, 13, 1.
+
+  
+
+Verse 1.
+
+Note [4:11:1:1]1. Comp. above, IV, 10, 5. rokate upake.
+
+Note [4:11:1:2]2. Literally, 'in thy appearance' (rupe). Thus the Soma is stated, IX, 16, 6, to purify itself rupe avyaye, literally, 'in the appearance of the sheep,' i. e. in the filter made of sheep's hair.
+
+  
+
+Verse 3.
+
+Note [4:11:3:1]1. See Lanman, p. 560; Pischel, Ved. Studien, II, 115.
+
+  
+
+Verse 4.
+
+Note [4:11:4:1]1. On vihayah, see V. Henry, Les livres VIII et IX de l'Atharva-veda (1894), p. 40 (AV. VIII, 2, 7).
+
+  
+
+Verse 6.
+
+Note [4:11:6:1]1. Probably the correct Padapatha reading would be, as Prof. Bartholomae (Bezzenberger's Beitrage, XV, 190) has noticed, yam nipa'si (cf. Pada d: yam ... sakase). If yat is correct, the translation will be: '(drive) far all ill-will when thou protectest (us).'--Bartholomae proposes either to change asmat to asmat, or to interpret it as an equivalent of asmat. It is possible, though in my opinion not very probable, that the text should be changed. The ablative asmat very frequently depends on are.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 354]
+
+  
+
+MANDALA IV, HYMN 12.
+
+  
+
+ASHTAKA III, ADHYAYA 5, VARGA 12.
+
+1. May the man who holds the sacrificial ladle and kindles thee, O Agni, who thrice prepares food for thee on this day, victoriously overcome (his foes) through his lustre, wise through the power of thy mind, O Gatavedas.
+
+2 [*1]. He who toiling brings fuel to thee, doing service to thy, the great (god's) face, O Agni, kindling thee at evening and at dawn--he prospers, obtains wealth, and destroys his enemies.
+
+3. Agni is master of mighty royal power [*1]; Agni (is master) of gain, of the highest wealth. He, the youngest, self-dependent (god) in the right way distributes treasures to the mortal worshipper.
+
+4. Whatever sin, O youngest (god), we have committed against thee in thoughtlessness, men as we are [*1], make thou us sinless before Aditi; release us from (every) guilt on all sides, O Agni!
+
+5. Even from great guilt, O Agni, from the prison of gods and of mortals--let us, thy friends, never be harmed; grant luck and weal to kith and kin.
+
+6 [*1]. As you formerly have released, O Vasus, the buffalo cow bound by the foot, O worshipful gods, thus take away from us this distress. May, O Agni, our life be further prolonged.
+
+[p. 355]
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 4 = TS. IV, 7, 15, 6; MS. III, 16, 5. Verse 5 = MS. IV, 11, 1. Verse 6 = TS. IV, 7, 15, 7; MS. III, 16, 5; IV, 11, 1.
+
+  
+
+Verse 2.
+
+Note [4:12:2:1]1. With the beginning of this verse, comp. above, IV, 2, 6.
+
+  
+
+Verse 3.
+
+Note [4:12:3:1]1. Comp. Roth, Zeitschr. der D. Morg. Ges., XLVIII, 114.
+
+  
+
+Verse 4.
+
+Note [4:12:4:1]1. Grassmann is right in giving to purushatra' the meaning 'unter den Menschen,' and in observing with reference to our passage: 'wo die Bedeutung "nach Menschenweise" (s. purushata) besser passt.' The same is the opinion of Bohtlingk-Roth. No doubt we should read purushata; cf. VII, 57, 4 = X, 15, 6. yat vah a'gah purushata karama; IV, 54, 3. akitti yat kakrima.... purushatvata.
+
+  
+
+Verse 6.
+
+Note [4:12:6:1]1. This verse is identical with Rig-veda X, 126, 8.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 356]
+
+  
+
+MANDALA IV, HYMN 13.
+
+  
+
+ASHTAKA III, ADHYAYA 5, VARGA 13.
+
+1. Benevolent Agni has looked on the breaking of the shining dawns, on the bestowal of treasures. Come to the dwelling of the virtuous (mortal), ye Asvins. The god Surya rises with his light.
+
+2. The god Savitri has sent his light upward [*1], shaking his banner [*2] like a warrior who fights for cows [*3]. Varuna and Mitra follow the law, when they make the Sun rise on heaven.
+
+3. Him whom (the gods) dwelling in firm peace, and never losing their object, have created for dispersing the darkness--Him, the Sun, the all-observer, the seven young fallow mares carry forward.
+
+4. With (thy horses) most ready to run thou goest [*1] forward, spreading out thy web (of light), removing (from the world) the black cloth (of darkness), O god. The rays of the Sun have shaken [*2] the darkness, and have sunk it into the waters like a hide.
+
+5. Unsupported, unattached, spread out downwards-turned--how is it that he [*1] does not fall down? By what power of his does he move? Who has seen (that)? Erected as the pillar of Heaven he protects the firmament.
+
+[p. 357]
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 4 = TB. II, 4, 5, 4.
+
+This hymn and the next evidently form a couple. They have the same number of verses, and are composed in the same metre. They are both addressed to Agni in his matutinal character, or rather to the Asvins, who are invoked to partake of the matutinal oblation (13, 1; 14, 1. 4). The first verse of 13 is quite similar to that of 14; the same may be said of the second verses of the two hymns; the concluding verse of both is identical.
+
+  
+
+Verse 2.
+
+Note [4:13:2:1]1. Cf. above, IV, 6, 2.
+
+Note [4:13:2:2]2. Cf. Zend drafsha, 'banner.'
+
+Note [4:13:2:3]3. Cf. IV, 40, 2. satva bharishah gavishah.
+
+  
+
+Verse 4.
+
+Note [4:13:4:1]1. The Sun is addressed.
+
+Note [4:13:4:2]2. It is more natural to take davidhvatah as nom. plur. than as gen. sing. (Ludwig).
+
+  
+
+Verse 5.
+
+Note [4:13:5:1]1. The Sun.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 358]
+
+  
+
+MANDALA IV, HYMN 14.
+
+  
+
+ASHTAKA III, ADHYAYA 5, VARGA 14.
+
+1. Agni Gatavedas, the god, has looked on the dawns that shine with all their might [*1]. Come hither, O Nasatyas [*2], wide-ruling (gods), on your chariot to this our sacrifice.
+
+2. The god Savitri has sent his shine upward, producing light for the whole world. The Sun, shining with his rays, has filled Heaven and Earth and the air.
+
+3. The red one [*1], carrying hither (bliss) [*2], has come with her light, the great, brilliant one, shining with her rays. Ushas, the goddess, awakening (all beings) to welfare, goes along on her well-yoked chariot.
+
+4. May those chariots and horses, most ready to drive, drive you [*1] hither at the break of dawn. For these Somas are for you that you may drink the honey-drink [*2]. Rejoice, O manly ones, at this sacrifice.
+
+5 IV, 13, 5.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--No verse of this hymn occurs in the other Samhitas. On the parallelism in which IV, 14 stands to IV, 13, see the introductory note on IV, 13.
+
+  
+
+Verse 1.
+
+Note [4:14:1:1]1. On mahobhih, see vol. xxxii, p. 196 seq. (I, 165, 5, note 3). Here the word refers to the powerful light of
+
+[p. 359]
+
+the dawn, not of Agni, cf. VI, 64, 2. ushah devi rokamana mahobhih.
+
+Note [4:14:1:2]2. On the mention of the Nasatyas (Asvins) in this connection, compare the introductory note on IV, 13.
+
+  
+
+Verse 3.
+
+Note [4:14:3:1]1. The Dawn as before.
+
+Note [4:14:3:2]2. That an object like 'bliss' is to be supplied, is shown by such passages as I, 48, 9. ushah ... avahanti bhu'ri asmabhyam saubhagam; I, 92, 3. (the Dawns) isham vahantih sukrite suda'nave; I, 113, 15. (the Dawn) avahanti poshya va'ryani.
+
+  
+
+Verse 4.
+
+Note [4:14:4:1]1. The text has the dual of the pronoun. The Asvins are addressed.
+
+Note [4:14:4:2]2. It is the peculiar character of the Asvins that they drink madhu; see Hillebrandt, Vedische Mythologie, vol. i, p. 239 seq. H. O., Religion des Veda, p. 208, note 4; p. 367, note 2.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 360]
+
+  
+
+MANDALA IV, HYMN 15.
+
+  
+
+ASHTAKA III, ADHYAYA 5, VARGA 15-16.
+
+1. Agni, the Hotri, he who is a strong horse, is led around at our sacrifice, the god worshipful among the gods.
+
+2. Agni goes thrice [*1] around the sacrifice, like a charioteer, conveying the enjoyment [*2] to the gods.
+
+3. Agni, the lord of booty, the sage, has circumambulated the oblations, bestowing treasures on the worshipper.
+
+ 
+
+4. This (is the Agni) who is kindled in the front for Devavata's son, the Sringaya [*1], the brilliant (god), the deceiver of foes.
+
+5. May the strong mortal be the master of this (god), of an Agni like this, with sharp teeth and bountiful.
+
+6 [*1]. Him they clean day by day like a racer that wins (booty), like (Soma), the red young child of Heaven [*2].
+
+7. When Sahadeva's son, the prince, thought of me with two bay horses [*1], I rose up like one who is called.
+
+8. And immediately I accepted from Sahadeva's son, the prince, those adorable two bay horses which he offered me.
+
+9. May this prince Somaka, Sahadeva's son, live long, for your sake, O divine Asvins!
+
+10. Give long life, O divine Asvins, to this son of Sahadeva, the prince!
+
+[p. 361]
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Gayatri.--Verses 1-3 = TB. III, 6, 4, 1; MS. IV, 13, 4. Verse 3 = SV. I, 30; VS. XI, 25; TS. IV, 1, 2, 5; MS. I, 1, 9.
+
+The first three verses are characterised by the constant allusions to Agni's being carried around, and, in connection therewith, by the frequent repetition of the preposition pari. Probably these verses formed an independent Trika-hymn, the position of which would be according to the laws of arrangement of the Samhita; this Trika seems, consequently, to belong to the original collection of hymns. The verses 4-10, on the other hand, or at least the verses 7-10, would seem to be a later addition; the verses 4-6 can be considered as a Trika belonging to the original Samhita, though in this case it is difficult to explain why the verses 7-10, which do not contain any reference to Agni, have been inserted here at the end of the series of Agni hymns. Another argument against the separation of the verses 4-6 from the rest of the Sukta is the mention of the prince Sringaya in verse 4: verses 7-10 refer to a prince Somaka Sahadevya, and we know from the Aitareya Brahmana (VII, 34, cf. Satapatha Brahmana II, 4, 4, 4) that this prince also belonged to the Sringaya tribe.
+
+  
+
+Verse 2.
+
+Note [4:15:2:1]1. Cf. above, IV, 6, 4.
+
+Note [4:15:2:2]2. I. e. the offering which the gods enjoy.
+
+  
+
+Verse 4.
+
+Note [4:15:4:1]1. This Sringaya Daivavata is mentioned also in VI, 27, 7.
+
+  
+
+Verse 6.
+
+Note [4:15:6:1]1. The first Pada of this verse is identical with the first Pada of VIII, 102, 12.
+
+[p. 362]
+
+Note [4:15:6:2]2. The red young child of Heaven seems to be the Soma. The Soma frequently is called arusha ('red'), and is said to be cleansed by men; in IX, 33, 5; 38, 5, the expression divah sisuh ('the young child of Heaven') is used with regard to him.
+
+  
+
+Verse 7.
+
+Note [4:15:7:1]1. I. e. when he thought of presenting me with the two horses.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 363]
+
+  
+
+MANDALA V, HYMN 1.
+
+  
+
+ASHTAKA III, ADHYAYA 8, VARGA 12-13.
+
+1. Agni has been wakened by the fuel of men, in face of the Dawn who approaches like a milch-cow. His flames stream forward to the sky like quick (birds) that fly up to a branch.
+
+2. The Hotri has been wakened that there may be sacrifice for the gods. Gracious Agni has stood upright in the morning. When he has been kindled, his brilliant stream of flames has been seen. The great god has been released from darkness.
+
+3. When he has wakened the string of the crowd (of worshippers) [*1], the bright Agni anoints himself with bright cows [*2]. Then the Dakshina is yoked, striving for gain [*3]. He who stands upright has, by the sacrificial ladles, sucked her who lies extended [*4].
+
+4. Towards Agni the minds of the pious turn together as (all) eyes (turn) to the sun. When both Dawns of different colour [*1] give birth to him, the white racer is born at the beginning of days.
+
+5. For He, the noble one, has been born at the beginning of days, the red one has been laid down in the woods that have been laid down. Agni, the Hotri, the best sacrificer, has sat down, bestowing his seven treasures on every house.
+
+6. Agni, the Hotri, the best sacrificer, sat down in the mother's lap, in the sweet-smelling place, the young sage growing up in many places, the righteous one, the supporter of tribes, and kindled in their midst.
+
+[p. 364]
+
+7. They magnify with adorations that priest efficacious at sacrifices, Agni the Hotri, who has spread himself over heaven and earth according to Rita; they groom (Agni), the own racer (of men), with Ghrita.
+
+8. He who likes to be groomed, is groomed in his own (abode), the house-friend [*1], praised by sages, our auspicious guest, the bull with a thousand horns who has the strength of such a one. O Agni! By this power thou surpassest all other (beings).
+
+9. O Agni! Thou overtakest all other (beings) in one moment (for the sake of him) to whom Thou hast become visible as the fairest one, thou who shouldst be magnified, the wonderful, brilliant one, the beloved guest of human clans.
+
+10. To thee, O youngest (god), the tribes bring tribute, O Agni, from near and far. Behold [*1] the grace of the most glorious (god)! Mighty, O Agni, is thy great and glorious shelter.
+
+11. Mount to-day, O shining Agni, the shining car, in the neighbourhood of the worshipful (gods). Knowing the paths, the wide air [*1], bring hither the gods that they may eat the oblation.
+
+12. We have pronounced an adoring speech to the holy sage, to the manly bull. Gavishthira adoringly has sent his song of praise to Agni as the gold (i. e. the sun) far-reaching (is sent by the gods upward) to the sky.
+
+  
+
+NOTES.
+
+The Rishis are Budha Atreya (cf. verse 1, abodhi) and Gavishthira Atreya (cf. verse 12). The metre is Trishtubh.--Verse 1 = SV. I, 73; AV. XIII, 2, 46; VS. XV, 24; TS.
+
+[p. 365]
+
+[paragraph continues] IV, 4, 4, 1. Verses 1-2 = MS. II, 13, 7. Verses 1-3 = SV. II, 1096-1098. Verse 5 = TS. IV, I, 3, 4. Verse 6 = MS. IV, 11, 1; TB. I, 3, 14, 1. Verse 9 = TB. II, 4, 7, 10. Verse 10 = MS. IV, 11, 4; TB. II, 4, 7, 9. Verse 12 = MS. II, 13, 7; TB. IV, 4, 4, 2; VS. XV, 25.
+
+  
+
+Verse 3.
+
+Note [5:1:3:1]1. The meaning seems to be: when Agni has set into motion the string (representing the prayers, &c.) by which the worshippers tie and instigate him and the other powers of the sacrifice. Cf. IV, I, 9. pra tam (scil. agnim) mahya' rasanaya nayanti; IX, 87, 1. asvam na tva (scil. somam) vaginam margayantah akkha barhih rasana'bhih nayanti. See also I, 163, 4. 5.
+
+Note [5:1:3:2]2. I. e. with bright ghrita.
+
+Note [5:1:3:3]3. The Dakshina or sacrificial gift offered by the Yagamana to the ministrant priests, is represented here as a car which is yoked in the morning. Cf. Bergaigne, Rel. Vedique, I, 128; III, 283.
+
+Note [5:1:3:4]4. 'He who stands upright' is Agni; 'she who lies extended' seems to be the cow, i. e. the ghrita which Agni sucks by means of the sacrificial ladles.--See also Pischel, Vedische Studien, II, 113, from whose interpretation I differ.
+
+  
+
+Verse 4.
+
+Note [5:1:4:1]1. I. e. Night and Dawn.
+
+  
+
+Verse 8.
+
+Note [5:1:8:1]1. I cannot adopt the conjectures of Bartholomae (Bezzenberger's Beitrage, XV, 197) on sve damunah.
+
+  
+
+Verse 10.
+
+Note [5:1:10:1]1. The human worshipper seems to be addressed; the 'most glorious one' is very probably Agni.
+
+  
+
+Verse 11.
+
+Note [5:1:11:1]1. Vidvan, which may be construed with the genitive or with the accusative, stands here with both cases.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 366]
+
+  
+
+MANDALA V, HYMN 2.
+
+  
+
+ASHTAKA III, ADHYAYA 8, VARGA 14-15.
+
+1. The young mother carries in secret the boy confined [*1]; she does not yield him to the father. People do not see before them his fading [*2] face laid down with the Arati [*3].
+
+2. Who is that boy, O young woman, whom thou, the Peshi [*1], carriest? It is the queen who has borne him. Through many autumns the fruit of the womb has increased. I saw him born when his mother gave birth to him.
+
+3. I saw him the gold-toothed, brilliant-coloured preparing his weapons far from his dwelling-place [*1]. After I have offered to him the ambrosia cleared (from all impure mixture) [*2]--what may the Indra-less, the hymnless do to me?
+
+4. I saw him, the highly shining (Agni), walking far from his dwelling-place, like (a bull) together with the herd [*1]. Those (women) have not held him, for he has been born. The young women become grey [*2].
+
+5. Who have separated my young bull from the cows that [*1] had no cow-herd, not even a stranger? May those who have held him, let him loose. May he, the knowing one, lead the cattle towards us.
+
+6. Him, the king of dwellings (?) [*1], the dwelling-place of people, the Aratis have laid down [*2] among men. May the spells of Atri loose him. May the reproachers become reproachable (themselves).
+
+7. Thou hast loosed the bound Sunahsepa from
+
+[p. 367]
+
+the thousand sacrificial posts; for he toiled (worshipping thee). Thus, O Agni, loose from us the fetters, O knowing Hotri, sitting down here.
+
+8 [*1]. For thou hast gone away [*2] from me, because thou wert angry; (this) the protector of the laws of the gods [*3] has told me. (But) Indra, the knowing one, has looked after thee. Instructed by him, O Agni, I have come hither.
+
+9. Agni shines with mighty light; he makes all things visible by his greatness. He conquers godless, wicked wiles. He sharpens his two horns in order to pierce the Rakshas.
+
+10. And may the roarings of Agni mount up to the sky, with sharp weapons in order to kill the Rakshas. In his rapture his flames break down (everything); the godless hindrances do not hold him back.
+
+11. This song of praise, O strong-born (Agni), I, the priest, have fashioned for thee, as a skilful workman (builds) a chariot [*1]. If thou acceptest that (praise), O god Agni, may we conquer thereby waters together with the sun.
+
+12. May the bull [*1] with mighty neck, grown strong, with no foe to resist him, get together the niggard's wealth. Thus the immortal (gods) have spoken to this Agni: may he grant protection to the man who has spread the Barhis; may he grant protection to the man who brings offerings.
+
+  
+
+NOTES.
+
+The Rishi of verses I, 3-8, 10-12, is Kumara Atreya, or Vrisa Gana; or both are the Rishis of these verses. Of the verses 2 and 9 Vrisa alone is the Rishi. The metre is
+
+[p. 368]
+
+[paragraph continues] Trishtubh (verse 12, Sakvari).--Verse 9 = AV. VIII, 3, 24. Verses 9, 10 = TS. I, 2, 14, 7. Verse 11 = TB. II, 4, 7, 4.
+
+A part of this hymn is very obscure. I do not think, as does Prof. Geldner (Festgruss an Roth, 192), that the story of the Satyayanakam (see Sayana's commentary, and compare Pankavimsa Brahmana XIII 3, 12), of the Purohita Vrisa, who drives with the king on the royal chariot and kills a boy, throws any real light on the difficult points of the hymn. Nor does it seem to me that, as is the opinion of Prof. Hillebrandt (Zeitschrift der Deutschen Morgenlandischen Gesellschaft, XXXIII, 248 seq.), the first six verses, which Hillebrandt considers as an independent hymn, contain a description of how the fire which they try to produce by the attrition of the Aranis, does not appear. In my opinion the hymn--which is really one hymn as the tradition gives it--is a prayer of a person who suffers, who feels himself bound by the fetters of distress (verse 7) and persecuted by the power of Rakshas (verses 9, 10). Agni, formerly resplendent, has decayed and has forsaken him: may Agni be restored to his former might (verse 6), and may we ourselves be released from all distress (verse 7, &c.). Possibly the hymn is connected with the rite of Punaradheya, where the sacrificial fire which has brought no luck to the sacrificer, is extinguished, and after an interval a new fire is established (H. O., Religion des Veda, p. 353). There may of course be other special points, beyond the reach of our conjectures, which, if known, would elucidate several of the obscure allusions so frequent in the first verses of the hymn.
+
+  
+
+Verse 1.
+
+Note [5:2:1:1]1. The boy very probably is Agni.--With the words samubdham guha bibharti, cf. I, 158, 5. susamubdham ava-adhuh.
+
+Note [5:2:1:2]2. Not without hesitation I translate minat as if it were the middle minanam. Possibly the word means: 'which violates (the ordinances),' i. e. which does not shine and bring luck to men as it usually does. Na seems, as it
+
+[p. 369]
+
+usually does (cf. Delbruck, Altindische Syntax, p. 543), to belong to the whole clause, and not to mina.
+
+Note [5:2:1:3]3. Bohtlingk-Roth and Grassmann conjecture aratnau; Hillebrandt, aratau; Geldner (Festgruss an Roth, 192), aratau. Geldner seems to be right (cf. verse 6), though it will scarcely be possible to determine what concrete being was here thought of. Geldner says, 'Gemeint ist die Pisakika, welche die Gluth des Feuers entfuhrt hat;' but, as has already been observed, I do not think that this traditional story on the meaning of our hymn is of any real value.
+
+  
+
+Verse 2.
+
+Note [5:2:2:1]1. The meaning of Peshi is unknown. The word seems anyhow to describe the wrong mother as low or contemptible. Agni is degraded by sojourning with her, while his proper nature is glorious, for he is the queen's son.
+
+  
+
+Verse 3.
+
+Note [5:2:3:1]1. Agni has forsaken his proper dwelling.
+
+Note [5:2:3:2]2. On viprikvat, cf. Taitt. Samhita III, 1, 6, 2. yunagmi tisrah viprikah su'ryasya te; Vag. Samhita IX, 4. samprikau sthah sam ma bhadrena prinktam; viprikau sthah vi ma papmana prinktam. Vi-prik seems to mean, consequently, 'to free something from an admixture,' and amritam viprikvat seems to be ambrosia in which dwells the power of getting free from bad admixtures. Thus in the passage quoted from the Taitt. Samhita the Sun is referred to as thrice cleared from all impure elements. It is quite uncertain whether the expression used here refers or not to the myth of the churning of the ocean (Geldner, loc. cit.), and I do not think that we should translate amritam viprikvat, as Geldner does, 'das was sich als Nektar ausscheidet.'
+
+  
+
+Verse 4.
+
+Note [5:2:4:1]1. I read with Bohtlingk-Roth sumadyutham.
+
+Note [5:2:4:2]2. The young women seem to be hostile beings of
+
+[p. 370]
+
+the same kind as the young woman mentioned in verse 2. They try to seize Agni, but he has been born already; his fiery, unassailable nature has been formed. I do not pretend to know what it means that then those female foes become grey with age. 'I think they are the Dawns who hold Agni in the dark; but when he escapes and is actually born, they, the Dawns, become grey.' M. M.
+
+  
+
+Verse 5.
+
+Note [5:2:5:1]1. The relative pronoun yesham seems to refer both to the bull (maryakam) and to the cows (gobhih). The bull probably is Agni who has been separated from the cows, i. e. the oblations, prayers, &c. (?) 'Possibly the bull Agni, the rising sun, has been separated from the cows, the clouds or dawns.' M. M.
+
+  
+
+Verse 6.
+
+Note [5:2:6:1]1. Vasa'm ra'ganam. I cannot follow the interpretation of Pischel, Vedische Studien, I, 210.
+
+Note [5:2:6:2]2. Or ni daduh, 'they have bound him'? Cf. ava srigantu in the third Pada, and niditam in verse 7.
+
+  
+
+Verse 8.
+
+Note [5:2:8:1]1. The whole verse is nearly identical with X, 32, 6.
+
+Note [5:2:8:2]2. I consider aiyeh (cf. Bartholomae, Arische Forschungen, II, 72, 76; Studien zur Indogermanischen Sprachgeschichte, I, 21) as 2nd sing. pluperfect of the root i.
+
+Note [5:2:8:3]3. Varuna?
+
+  
+
+Verse 11.
+
+Note [5:2:11:1]1. With the second Pada compare I, 130, 6; V, 29, 15.
+
+  
+
+Verse 12.
+
+Note [5:2:12:1]1. The bull of course is Agni.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 371]
+
+  
+
+MANDALA V, HYMN 3.
+
+  
+
+ASHTAKA III, ADHYAYA 8, VARGA 16-17.
+
+1. Thou, O Agni, art Varuna, when born; thou becomest Mitra when kindled. In thee, O son of strength, the Visvedevas (dwell). Thou art Indra for the mortal worshipper.
+
+2. Thou becomest Aryaman when thou bearest [*1] the secret name of the maidens, O self-dependent one. They anoint (thee) with cows [*2] like the well-established Mitra [*3], when thou makest husband and wife one-minded.
+
+3. For thy glory the Maruts have cleansed themselves [*1], who are thy fair and brilliant offspring, O Rudra [*2]! The footprint of Vishnu which is put down in the highest place: therewith thou protectest the secret name of the cows.
+
+4. By thy beauty, O god, the gods are beautiful to behold [*1]. Assuming many (powers or goods) they attached themselves to immortality. Men have set down Agni as the Hotri, the Usigs, honouring (him), the praise of Ayu [*2].
+
+5. There is no (other) Hotri before thee, a better sacrificer [*1]; no one surpasses thee, O self-dependent one, by wisdom. And that house of which thou art the guest, he [*2], O god, will overcome the mortals by his sacrifice.
+
+6. May we overcome the mortals, O Agni, protected by thee, striving for wealth, awaking (thee) with offerings; may we (overcome mortals) in the contest, in the distribution [*1] of days; may we (overcome them) by wealth, O son of strength!
+
+[p. 372]
+
+7. If a man should turn upon us sin or guilt, bring ye the evil on him who pronounces evil spells (against us). Destroy, O knowing one, such a curse, O Agni, (of a man) who injures us by falsehood.
+
+8. Thee, O god, the ancient (mortals) have made their messenger at the break of this (dawn), and have sacrificed with their oblations, when thou goest along, O Agni, in the abode of wealth, a god kindled by the mortals and by the Vasus.
+
+9. Protect the father--drive away (evil) as the knowing one--(the father) who is considered [*1] as thy son, O son of strength [*2]. When, O sapient (Agni), wilt thou look upon us? When wilt thou, who knowest Rita, requite (human deeds)?
+
+10. The father [*1] adoring gives many names to thee, O Vasu, if thou shouldst take pleasure therein. Will not Agni, delighting in his divine power, grant us his favour, he who has grown strong?
+
+11. Thou indeed, O Agni, youngest one, bringest thy praiser across all dangers. Thieves have been seen and deceitful men; dishonest people have come with unknown designs.
+
+12. These our processions have been directed towards thee. Yes, to thee, the Vasu, this guilt has been confessed. Verily this Agni, grown strong, will never surrender us to the curse nor to him who does harm to us.
+
+  
+
+NOTES.
+
+The Rishi is Vasusruta Atreya; the metre is Trishtubh.--No verse of this hymn occurs in the other Samhitas.
+
+  
+
+Verse 2.
+
+Note [5:3:2:1]1. I think that we must read bibharshi.
+
+[p. 373]
+
+Note [5:3:2:2]2. I. e. with butter.
+
+Note [5:3:2:3]3. On Mitra as the god of alliances, and the anointing of Mitra--possibly of an object that represents Mitra--see H. O., Religion des 2, p. 186, note 1. Cf. also Pischel, Vedische Studien, I, 92 seq.
+
+  
+
+Verse 3.
+
+Note [5:3:3:1]1. I. e. they have adorned themselves. Cf. VII, 39, 3. ura'v antarikshe margayanta subhra'h.
+
+Note [5:3:3:2]2. Rudra of course is here a name of Agni.
+
+  
+
+Verse 4.
+
+Note [5:3:4:1]1. Sudrisah, which I have translated as nom. plur., may also be understood as gen. sing.: 'by thy beauty, who art beautiful to behold, O god, the gods, assuming, &c.'
+
+Note [5:3:4:2]2. Cf. Narasamsa.--This hemistich is nearly identical with IV, 6, 11.
+
+  
+
+Verse 5.
+
+Note [5:3:5:1]1. Comp. above, III, 17, 5.
+
+Note [5:3:5:2]2. The construction is rather free.
+
+  
+
+Verse 6.
+
+Note [5:3:6:1]1. Vidatheshu ahnam: cf. above, I, 31, 6, note 2 (<page 26> seq.).
+
+  
+
+Verse 9.
+
+Note [5:3:9:1]1. See Neisser, Bezzenberger's Beitrage, XVIII, 310.
+
+Note [5:3:9:2]2. Bergaigne (Religion Vedique, II, 103) proposes to read yodhi without accent and to derive it, as Delbruck does, from yu (not from yudh); he translates the first hemistich: 'Protege-nous, ecarte le pere qui passe pour ton fils.' I think that he is right as to the verb yu, but that the accent of yodhi is correct; the words yodhi vidva'n form a parenthesis. Agni is invoked to protect the father of the sacrificing tribe (comp. verse to), or the father of
+
+[p. 374]
+
+[paragraph continues] Agni himself, i. e. the sacrificer or the priest, who is himself considered, at the same time, as the son of Agni (see Bergaigne, I, 37 seq.; Geldner, Vedische Studien, I, 167).
+
+  
+
+Verse 10.
+
+Note [5:3:10:1]1. 'The father' may either be the father spoken of in verse 9 (see verse 9, note 2). Or the word may refer to Agni: 'He who adores thee, gives many names to thee, if thou, the father, O Vasu, &c.'
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 375]
+
+  
+
+MANDALA V, HYMN 4.
+
+  
+
+ASHTAKA III, ADHYAYA 8, VARGA 18-19.
+
+1. Thee, O Agni, the treasure-lord of treasures, I gladden at the sacrifices, O king! May we, striving for gain, conquer gain through thee; may we overcome the hostilities of mortals.
+
+2. Agni, the bearer of oblations, our ever-young father, is mighty, brilliant, beautiful to behold among us. Shine (on us) food with a good household [*1]. Turn all glory towards us [*2].
+
+3. Establish Agni as the Hotri, the sage of the clans, the lord of human clans, the bright purifier, whose back is covered with ghee, the omniscient. May he obtain the best goods (for us) among the gods.
+
+4. Enjoy thyself, O Agni, joined with Ida, uniting thyself with the rays of the sun. Enjoy our fuel, O Gatavedas, and bring the gods hither that they may eat our offerings.
+
+5. Welcome, as our household-god and the guest in our dwelling, come to this our sacrifice as the knowing one. Dispelling, O Agni, all (hostile) attempts, bring to us the possessions of those who are at enmity with us.
+
+6. Drive away the Dasyu with thy weapon, creating strength for thy own body. When thou bringest the gods across (to us), O son of strength, then, O manliest Agni, protect us in (our striving for) gain.
+
+7. May we worship thee, O Agni, with hymns, with offerings, O purifier with glorious light. Stir for us wealth with all goods; bestow on us all riches!
+
+[p. 376]
+
+8. Enjoy, O Agni, our sacrifice, our offering,
+
+O son of strength who dwellest in three abodes. May we be well-doers before the gods. Protect us with thy thrice-protecting shelter.
+
+9. Bring us across all difficulties and dangers,
+
+8. Gatavedas, as with a boat across a river. Agni, being praised with adoration as (thou hast been praised) by Atri, be a protector of our bodies.
+
+10. When I, the mortal, call thee, the immortal, thinking of thee with humble mind [*1], bestow glory on us, O Gatavedas; may I attain immortality, O Agni, with my offspring.
+
+11. The well-doer to whom thou, O Agni Gatavedas, createst pleasant freedom, will happily attain wealth with horses and sons, with valiant men and cows.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 1 = TS. I, 4, 46, 2. Verse 2 = TS. III, 4, 11, 1; MS. IV, 12, 6; 14, 15. Verse 5 = AV. VII, 73, 9; TB. II, 4, 1, 1; MS. IV, 11, 1. Verse 9 = TB. II, 4, 1, 5; TA. X, 2, 1; MS. IV, 10, 1. Verses 10, 11 = TS. I, 4, 46, 1.
+
+  
+
+Verse 2.
+
+Note [5:4:2:1]1. According to the traditional text, su-garhapatya'h must be an epithet of ishah. But the conjecture of Bohtlingk-Roth, su-garhapatyah, has great probability 'as the good protector of our household, shine food on us.' Cf. AV. XII, 2, 45 = TB. I, 2, 1, 20.
+
+Note [5:4:2:2]2. The second hemistich is nearly identical with III, 54, 22.
+
+  
+
+Verse 10.
+
+Note [5:4:10:1]1. See Pischel, Vedische Studien, I, 221.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 377]
+
+  
+
+MANDALA V, HYMN 5.
+
+  
+
+ASHTAKA III, ADHYAYA 8, VARGA 20-21.
+
+  
+
+APRI HYMN.
+
+1. Sacrifice sharp ghrita to the well-kindled light, to Agni Gatavedas.
+
+2. May the unbeguiled Narasamsa make this sacrifice ready; for he is a sage with honey in his hand.
+
+3 [*1]. Agni, magnified by us, bring hither to our help the bright, beloved Indra, with easy-going chariots.
+
+4. Soft like wool [*1] spread thyself (O Barhis). The hymns have been sung to thee. Be to us for success, O beautiful (Barhis)!
+
+5. O divine, easily passable doors, open yourselves for our protection. Fill the sacrifice (with bliss) further and further!
+
+6. We approach (with prayers) Night and Morning, whose face is beautiful, the increasers of vital strength, the two young mothers of Rita.
+
+7. On the wind's flight, magnified, ye two divine Hotris of man, come hither to this our sacrifice.
+
+8 [*1]. Ila, Sarasvati, and Mahi, the three comfort-giving goddesses, they who do not fail, shall sit down on the sacrificial grass.
+
+9. Come hither as a friend, Tvashtri and mighty in welfare, and also by thyself, protect us in every sacrifice.
+
+10. Where thou knowest, O tree (i. e. sacrificial
+
+[p. 378]
+
+post), the secret names of the gods, to that place make the offerings go.
+
+11. Svaha to Agni and Varuna! Svaha to Indra and the Maruts! Svaha to the gods for our offering!
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Gayatri.--Verse 1 = VS. III, 2. Verse 9 = TS. III, 1, 11, 2. Verse 10 = TB. III, 7, 2, 5.
+
+  
+
+Verse 3.
+
+Note [5:5:3:1]1. The first hemistich is identical with I, 142, 4.
+
+  
+
+Verse 4.
+
+Note [5:5:4:1]1. On u'rna-mradah, see Lanman, Noun-Inflection, p. 560.
+
+  
+
+Verse 8.
+
+Note [5:5:8:1]1. This verse is identical with I, 13, 9.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 379]
+
+  
+
+MANDALA V, HYMN 6.
+
+  
+
+ASHTAKA III, ADHYAYA 8, VARGA 22-23.
+
+1. I think of that Agni who is a Vasu, to whom the milch-cows go home, the swift horses (go) home, (our) own racers (go) home. Bring food to thy praisers!
+
+2. He is Agni who is praised as the Vasu, he to whom the milch-cows come together, and the quickly running horses, and the well-born liberal patrons. Bring food to thy praisers!
+
+3. For Agni, dwelling among all tribes, gives a racer to the clan. Agni (gives a racer) that is truly helpful for (winning) wealth [*1]: he (the racer) being well cherished, will attain precious gain. Bring food to thy praisers!
+
+4. May we kindle thee [*1], Agni, O god, the brilliant, never ageing, in order that yon highly miraculous fuel of thine [*2] may shine in the sky. Bring food to thy praisers!
+
+5. To thee [*1], O Agni, our oblation is offered with a Rik, O lord of bright splendour, highly brilliant, wonderful lord of the clan, carrier of oblations! Bring food to thy praisers!
+
+6. Those Agnis make everything precious prosper in the Agnis; they drive forward (precious wealth); they incite it; they speed it hither in the due way [*1]. Bring food to thy praisers!
+
+7. Those flames of thine, O Agni, the racers, have boasted mightily--they who with the flight of their
+
+[p. 380]
+
+hoofs have made tremble [*1] the stables of the cows. Bring food to thy praisers!
+
+8. Bring fresh food with fine dwellings, O Agni, to us, thy praisers! May we be of those who have praised (thee), who have thee as their messenger, house by house. Bring food to thy praisers!
+
+9. Thou warmest in thy mouth, O highly brilliant one, the two (sacrificial) ladles full of butter. And mayst thou fill us (with gifts) at our hymns, O lord of strength! Bring food to thy praisers!
+
+10. Thus [*1] they have driven, they have led [*2], Agni in the due way by prayers and sacrifices. May he bestow on us plenty of valiant men, and that plenty of swift horses (wished for) [*3]. Bring food to thy praisers!
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Pankti.--Verse 1 = SV. I, 425. Verses 1-2 = VS. XV, 41, 42; MS. II, 13, 7. Verses 1, 3, 2 = SV. II, 1087-1089. Verse 3 = TB. III, 11, 6, 4. Verse 4 = SV. I, 419; AV. XVIII, 4, 88; MS. II, 13, 7. Verses 4, 5, 9 = SV. II, 372-374; TS. IV, 4, 4, 6. Verse 9 = VS. XV, 43; TS. II, 2, 12, 7.
+
+  
+
+Verse 3.
+
+Note [5:6:3:1]1. At first sight the conjecture of Bohtlingk-Roth and Grassmann, rayim, is very tempting, cf. IX, 12, 9. rayim ... su-abhuvam; X, 122, 3. rayina ... su-abuva. I believe, nevertheless, that on closer examination the traditional text will prove correct. Sa pritah evidently refers to the racer (vagin) cf. I, 66, 4 = 69, 5. vagi' na pritah (cf. also X, 101, 7. prinita asvan): then it follows that su-abhuvam also refers to the racer, and raye (cf. I, 100, 16; III, 53, 16) will be quite right.
+
+[p. 381]
+
+  
+
+Verse 4.
+
+Note [5:6:4:1]1. Te stands for the accusative; see Pischel, Zeitschrift der Deutschen Morgenland. Gesellschaft, XXXV, 715; Delbruck, Altindische Syntax, p. 205.
+
+Note [5:6:4:2]2. This refers to the sun. By kindling the sacred fire men make the sun rise. See H. O., Religion des Veda, p. 110.
+
+  
+
+Verse 5.
+
+Note [5:6:5:1]1. The pronoun 'to thee' stands twice, to in the first Pada (where it is repeated from the first Pada of verse 4, a' te agne), and tubhyam (or rather tubhya) in the fourth Pada, unless we construe to havih.
+
+  
+
+Verse 6.
+
+Note [5:6:6:1]1. See Pischel, Vedische Studien, II, 127.
+
+  
+
+Verse 7.
+
+Note [5:6:7:1]1. See Gaedicke, Der Accusativ, p. 57.
+
+  
+
+Verse 10.
+
+Note [5:6:10:1]1. On the nasalization of eva'n, cf. H. O., Prolegomena, p. 469 seq.
+
+Note [5:6:10:2]2. Pischel (Vedische Studien, II, 127) explains aguh as agush, the contrary of sagu'sh. Bartholomae (Studien zur Indogermanischen Sprachgeschichte, II, 159, note 2; cf. Indogermanische Forschungen, III, 108, note I) conjectures agur (= agman) yamuh: 'sie haben ihn jetzt auf seiner Bahn festgehalten.' I believe, as Sayana does, that this aguryamuh contains two independent verbs, aguh and yamuh, which are quite correct forms of the roots ag and yam (see Delbruck, Altindisches Verbum, p. 65). As to ag, cf. VI, 2, 8. agyase agne vagi' na; V, 30, 14. atyah na vagi' raghuh agyamanah; as to yam II, 5, 1. sakema vaginah (i. e. agneh) yamam. But should not the accent be yamuh?
+
+Note [5:6:10:3]3. The fourth Pada is identical with VIII, 6, 24.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 382]
+
+  
+
+MANDALA V, HYMN 7.
+
+  
+
+ASHTAKA III, ADHYAYA 8, VARGA 24-25.
+
+1. O friends, (bring) together your united food and praise to Agni, the strongest (god) of (human) dwellings, the offspring of Vigour, the mighty one--
+
+2. At whose onslaught [*1], wherever it be, men rejoice in the seat of men, whom the worthy ones kindle, whom (human) creatures produce.
+
+3. When we get together the food and the offerings of men, he has grasped, with the strength of his splendour, the rein of Rita.
+
+4. He indeed produces light even by night to him who is afar, when he, the ever-young purifier, destroys the lords of the forest.
+
+5. He at whose officiating (men) pour down the offering of their sweat on the paths--to Him who is noble by his own nature, the worlds have risen as to ridges (of hills)--
+
+6. He whom the mortal has acquired, the much-desired (god), for the refreshment of every one, the sweetener of nourishment, the homestead for the Ayu--
+
+7. He indeed, the beast, mows off deserts and habitable land like a mower, the golden-bearded with brilliant teeth, the Ribhu of undecaying strength.
+
+8. The bright one for whom (the ghrita) streams (quickly) like an axe [*1], as at (the sacrifice of) Atri. Him the well-bearing mother has born, as soon as [*2] she had enjoyed love [*3].
+
+9. He who satisfies thee for refreshment, O Agni
+
+[p. 383]
+
+who drinkest butter: mayst thou bestow splendour, renown, and (wise) mind on such mortals [*1].
+
+10. Thus I have seized upon the spirit of Adhrig(?) as upon a head of cattle given by thee [*1]. May then Atri, O Agni, overcome the Dasyus who do not give (to the Brahmans); may Isha overcome the men (who do not give).
+
+  
+
+NOTES.
+
+The Rishi is Isha Atreya (cf. verse 10); the metre is Anushtubh (verse 10, Pankti).--Verse 1 = VS. XV, 29; TS. II, 6, 11, 4; IV, 4, 4, 3; MS. IV, 11, 1. Verses 2, 3 = TS. II, 1, 11, 3; MS. IV, 12, 4.
+
+  
+
+Verse 2.
+
+Note [5:7:2:1]1. Yasya sam-ritau: see I, 127, 3.
+
+  
+
+Verse 8.
+
+Note [5:7:8:1]1. With the expression svadhitih-iva ri'yate (Lanman, Noun-Inflection, p. 375), compare V, 48, 4. ritim parasoh-iva. Of course we must ask: what is the thing that streams so brightly and quickly as an axe moves? The thing in question is stated to stream (riyate) for Agni now as it did at Atri's sacrifice. The expression 'as at Atri's sacrifice' seems to show that something like prayers or libations is alluded to. The verb riyate, on the other hand, seems to point either to rivers, or to streams of Soma or of Ghrita. Thus, considering that Ghrita is mentioned much more frequently in connection with Agni than Soma, we are led to the conclusion that the poet speaks here of streams of Ghrita. Should we not for sukih read suki, which would be here as in IV, 1, 6; VI, 10, 2; IX, 67, 12, an epithet of Ghrita? 'He for whom the bright (Ghrita) streams quickly like an axe.' The origin of the reading
+
+[p. 384]
+
+sukih may easily be accounted for; the word was thought to refer to Agni.--Another interpretation of this hemistich has been given by Benfey, Vedica and Linguistica, p. 177.
+
+Note [5:7:8:2]2. Krana': cf. I, 58, 3, note 1 (<page 47>).
+
+Note [5:7:8:3]3. 'Sobald sie den Liebesgenuss erlangt hatte.' Pischel, Ved. Studien, 1, 71.
+
+  
+
+Verse 9.
+
+Note [5:7:9:1]1. The first hemistich speaks of the worshipper in the singular, the second in the plural.
+
+  
+
+Verse 10.
+
+Note [5:7:10:1]1. This hemistich is quite obscure. With manyum a' dade, cf., for instance, X, 48, 2. dasyubhyah pari nrimnam a' dade. Adhrigah may be the genitive of a proper name, as I have translated it; but this is quite doubtful. Was the hymn intended for a charm in which the sacrificer seized a head of cattle which represented the spirit of an enemy, and thus deprived that enemy of his courage?
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 385]
+
+  
+
+MANDALA V, HYMN 8.
+
+  
+
+ASHTAKA III, ADHYAYA 8, VARGA 26.
+
+1. Thee, O Agni, the men who love Rita have kindled, the ancient ones thee the ancient, for the sake of bliss, O (god) who art produced by strength; the highly-brilliant, worshipful, in whom all refreshment dwells, the household god, the lord of the house, the chosen.
+
+2. Thee, O Agni, the clans have set down, the ancient guest, the flame-haired lord of the house, with mighty light, with many shapes, the winner of prizes, giving good shelter and good help, who is busy among the decayed (wood) [*1].
+
+3. Thee, O Agni, the human clans magnify, who knowest (the art of sacrificial) libations, who separatest (what was mixed) [*1], the highest bestower of treasures, who, (though) dwelling in secret, O blessed one, (yet) art visible to all, mightily roaring, an excellent sacrificer, shining with ghee.
+
+4. Thee, O Agni, the supporter, we always have praised with our songs and have sat down near thee with adoration. Thus being kindled, O Angiras, be pleased with us, as a god through the mortal's brilliant (offering) [*1], with thy glorious splendours.
+
+5. Thou, O Agni, manifold-shaped, bestowest vigour on every house in thy ancient way, O much-praised one.! Thou rulest with might over much food. This impetuousness of thine, when thou rushest forward impetuously, is not to be defied.
+
+6. Thee, O Agni, when kindled, O youngest one, the gods have made their messenger and bearer of
+
+[p. 386]
+
+oblations. Thee who extendest over wide spaces, who dwellest in ghee, into whom offerings are poured, they have made their eye, impetuous, stirring thoughts.
+
+7. Thee, O Agni, on whom offerings of ghee are poured, (men) desirous of thy favour have kindled from of old with good fuel. Thus, grown strong, increased by the plants, thou spreadest thyself over the terrestrial spaces.
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Gagati.--Verse 3 = TS. III, 3, 11, 2. Verses 6, 7 = TB. I, 2, 1, 12.
+
+  
+
+Verse 2.
+
+Note [5:8:2:1]1. The Padapatha gives garat-visham. I prefer this explanation to gara-dvisham ('who hates decay').
+
+  
+
+Verse 3.
+
+Note [5:8:3:1]1. Agni is, in the later ritual, worshipped as 'separator' (viviki), if the sacrificer's fires have become mixed with other fires. See Taittiriya Brahmana III, 7, 3, 5; Satapatha Brahmana XII, 4, 4, 2 (where this very verse is quoted), &c.
+
+  
+
+Verse 4.
+
+Note [5:8:4:1]1. For yasasa, Bohtlingk-Roth conjecture yasasa, which seems to me a conjectura nimis facilis. I think that the adjective yasasa is right, and that a noun, meaning 'offering' or the like, should be supplied. Cf. above, IV, 1, 16, note 4.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 387]
+
+  
+
+MANDALA V, HYMN 9.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 1.
+
+1. Thee, O Agni, the god, mortals bringing offerings magnify. I deem thee the Gatavedas. Carry then the offerings (to the gods) in thy due way.
+
+2. Agni is the Hotri of the dwelling where they offer gifts and spread the sacrificial grass, he with whom sacrifices, with whom glorious gains assemble.
+
+3. And he whom the kindling-stick has born, the young one, like a young (calf), the supporter of human clans, Agni the best sacrificer--
+
+4. And thou showest thyself hard to seize like a son of ... [*1], thou who art a burner of many woods, O Agni, like an animal (that consumes all grass) on a meadow [*2].
+
+5 [*1]. And he whose smoky [*2] flames come together, when Trita in heaven blows upon him like a smelter, sharpens (him) as in smelting (him) [*3]...
+
+6. May I through thy protection, O Agni, and through the praises of Mitra--may we [*1], like dispellers of malice, overcome the dangers of mortals.
+
+7. Bring this wealth to us, O powerful Agni, to (these our) men. May he [*1] give us dwelling; may he [*1] give us prosperity; may he [*1] help us in winning booty. And help us to grow strong in fights!
+
+  
+
+NOTES.
+
+The Rishi is Gaya Atreya (cf. V, 10, 3); the metre is Anushtubh (verses 4 and 7, Pankti).--Verse 1 = TB. II, 4, 1, 4.
+
+[p. 388]
+
+  
+
+Verse 4.
+
+Note [5:9:4:1]1. Putrah na hvarya'nam. The meaning of hvarya is conjectural. Cf. on hvara, to which it very probably is related, I, 141, 7, note 1; 11, 24 4, note 1. Does hvarya mean 'serpent,' or a kind of horse (VI, 2, 8. atyah na hvaryah sisuh)?
+
+Note [5:9:4:2]2. The last Pada is identical with VI, 2, 9. Considering the occurrence of the word hvarya here and in VI, 2, 8 (see note 1) we cannot believe that this is merely a casual coincidence.
+
+  
+
+Verse 5.
+
+Note [5:9:5:1]1. On this verse, compare Neisser, Bezzenberger's Beitrage, XX, 40; Macdonell, Journal Roy. As. Soc., 1893, p. 446.
+
+Note [5:9:5:2]2. Dhuminah may be gen. sing.: 'he whose, the smoky (god's), flames.'
+
+Note [5:9:5:3]3. Ludwig and Neisser (Bezz. Beitr., loc. cit.) regard dhmatari (Padap. dhmatari) as a nom. sing. masculine. I think that Geldner (Vedische Studien, I, 146, note 1) and Bartholomae (Indogermanische Forschungen, I, 496, note 2) are right in explaining it as a locative infinitive. Compare also Johansson, Kuhn's Zeitschrift, XXX, 415; Joh. Schmidt, Pluralbildungen der Indogermanischen Neutra, p. 247. Macdonell translates, 'as in a smelting furnace.'
+
+  
+
+Verse 6.
+
+Note [5:9:6:1]1. The poet, who has begun his sentence in the first person singular ('may I'), goes on in the plural.
+
+  
+
+Verse 7.
+
+Note [5:9:7:1]1. 'He,' i. e. Agni, or 'it,' i. e. the wealth?
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 389]
+
+  
+
+MANDALA V, HYMN 10.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 2.
+
+1. Agni, bring us the mightiest splendour, O liberal one [*1]! With wealth and plenty cleave a path for us to booty.
+
+2. Thou, O wonderful Agni, (protect) us, through thy power of mind, through the bounteousness of thy strength. Upon thee mysterious power has entered. (Thou art) indeed [*1] like worshipful Mitra.
+
+3. Thou, O Agni, increase for our sake the dominion and the prosperity of those liberal givers, (of those) men who have accomplished liberalities (towards us) for our songs of praise.
+
+4, They who adorn prayers for thee, O bright Agni, the givers of horses [*1]: those men are powerful in their power, whose glory awakes by itself (shining) more mightily than even the sky [*2].
+
+5. Those shining flames of thine, Agni, go fiercely along, like lightnings (flashing) around the earth, like a thundering chariot bent on victory.
+
+6. Now then, Agni, (come) for our protection, and for the reward of the urgent (worshipper)! May our liberal patrons pass across [*1] all regions [*2]!
+
+7. Thou, O Agni, Angiras, who hast been praised and who art being praised, bring us, O Hotri, wealth which overpowers (even) skilful men, to thy praisers, and thou shalt be praised by us. And help us to grow strong in fights [*1].
+
+[p. 390]
+
+  
+
+NOTES.
+
+The same Rishi. Metre, Anushtubh (verses 4, 7, Pankti).--Verse 1 = SV. I, 81. The hymn seems to stand parallel with V, 9.
+
+  
+
+Verse 1.
+
+Note [5:10:1:1]1. On adhrigo, compare above, III, 21, 4, note 1 (<page 284>).
+
+  
+
+Verse 2.
+
+Note [5:10:2:1]1. Krana': see I, 58, 3, note 1 (<page 47>); von Bradke, Dyaus Asura, p. 35; Pischel, Vedische Studien, I, 71.
+
+  
+
+Verse 4.
+
+Note [5:10:4:1]1. Sumbhanti asva-radhasah; see X, 21, 2.
+
+Note [5:10:4:2]2. On the ablative dependent on a positive, compare Speijer, Sanskrit Syntax, p. 78, and see also Delbruck, Grundriss der vergleichenden Grammatik (Brugmann), III, 1, 216; Pischel, Gottinger Gelehrte Anzeigen, 1884, 509.
+
+  
+
+Verse 6.
+
+Note [5:10:6:1]1. On the use of this infinitive, see Delbruck, Altindische Syntax, p. 416.
+
+Note [5:10:6:2]2. The last Pada is identical with IV, 37, 7.
+
+  
+
+Verse 7.
+
+Note [5:10:7:1]1. The last words are identical with those of V, 9, 16, 17.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 391]
+
+  
+
+MANDALA V, HYMN 11.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 3.
+
+1. The guardian of people, the watchful one, Agni, the highly dexterous, has been born, for the sake of new welfare. With ghrita on his face, with his mighty, heaven-touching (light) he, the bright one, brilliantly shines for the Bharatas.
+
+2. Agni, the beacon of sacrifice, the first Purohita [*1] men have kindled in the threefold abode [*2]. (Driving) on the same chariot with Indra and with the gods, he, the highly wise Hotri, has sat down on the Barhis for sacrificing.
+
+3. Though not cleansed, thou art born bright from thy two mothers [*1]. Thou hast arisen as the joy-giving sage belonging to Vivasvant [*2] They have strengthened thee by ghrita, O Agni, into whom oblations are poured. Smoke, reaching the sky, has become thy beacon.
+
+4. May Agni straightway come to our sacrifice. Men carry Agni here and there, house by house. Agni has become the messenger, the carrier of oblations. Choosing Agni they choose a thoughtful (god).
+
+5. For thee, O Agni, is this sweetest speech, for thee this prayer; may this one do thy heart good [*1]! The prayers fill thee with power and strengthen thee, like great rivers the Sindhu.
+
+6. Thee, O Agni, who wert hidden, dwelling here and there in every wood, the Angiras have discovered [*1]. Thus thou art born, produced by attrition, a mighty force. Thee, O Angiras, they call the son of strength.
+
+[p. 392]
+
+  
+
+NOTES.
+
+The Rishi is Sutambhara Atreya, the metre Gagati.--Verses I, 6, 2 = SV. II, 257-259; TS. IV, 4, 4, 2-3. Verses 1, 6, 5 = MS. II, 13, 7. Verses 1, 6 = VS. XV, 27-28. Verse 3 = TB. II, 4, 3, 3.
+
+  
+
+Verse 2.
+
+Note [5:11:2:1]1. This Pada is identical with the first Pada of X. 122, 4.
+
+Note [5:11:2:2]2. The three sacrificial fires are alluded to.
+
+  
+
+Verse 3.
+
+Note [5:11:3:1]1. The two kindling-sticks.
+
+Note [5:11:3:2]2. Vivasvatah is genitive, not ablative, as Pischel, Vedische Studien, I, 241, believes. Agni opens his earthly career by doing service at the sacrifice of Vivasvant, i. e. originally, in my opinion, the first man. Comp. H. O., Religion des Veda, p. 122.
+
+  
+
+Verse 5.
+
+Note [5:11:5:1]1. On the curious spelling manisha' iyam in the Samhita text, instead of mani'sheyam, see the Rig-veda Pratisakhya 163; H. O., Prolegomena, p. 386.
+
+  
+
+Verse 6.
+
+Note [5:11:6:1]1. The ancestors of the priestly tribes, being the first priests themselves, discover Agni.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 393]
+
+  
+
+MANDALA V, HYMN 12.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 4.
+
+1. To the mighty, sacrificial Agni, to the bull of Rita [*1], the Asura, I bring this prayer and this song, which is turned towards him, to (him) the bull, as well-clarified ghrita (is poured) into his mouth at the sacrifice.
+
+2. O knower of Rita, know the Rita! Bore for many streams of Rita. I (do) not (serve) a Yatu [*1] by violence nor by falsehood; I serve the Rita of the red bull [*2].
+
+3. How, O Agni, performing the Rita through Rita, mayst thou become a witness of our newest [*1] hymn? The god, the protector of the seasons, knows of my seasons [*2]. I (do) not (know another) lord but him who attains (for us) this wealth.
+
+4. Who, O Agni, are thy fetterers to (fetter) the impostor [*1]? What brilliant guardians were successful? Who, O Agni, drink the drink of falsehood? Who are the protectors of untrue speech?
+
+5. These friends of thine, O Agni, turning themselves from (thee) [*1], they who had been kind, have become unkind. They have harmed themselves by their own speeches, uttering wrong words to the righteous.
+
+6. He who magnifies thy sacrifice, O Agni, by adoration, and serves [*1] the Rita of the red bull: may a large, good dwelling come to him, to the offspring of the advancing Nahusha.
+
+[p. 394]
+
+  
+
+NOTES.
+
+The same Rishi; the metre is Trishtubh.--No verse of this hymn occurs in the other Samhitas.
+
+  
+
+Verse 1.
+
+Note [5:12:1:1]1. The genitive ritasya seems to depend on vrishne, not on manma. On the connection of Agni with the Rita, see Bergaigne, III, 229 seq.; H. O., Religion des Veda, 201.
+
+  
+
+Verse 2.
+
+Note [5:12:2:1]1. A bad demon.
+
+Note [5:12:2:2]2. Of Agni.
+
+  
+
+Verse 3.
+
+Note [5:12:3:1]1. I think that navyah stands for navyasah. Thus Ludwig translates: 'des neuen liedes.' It seems evident that it is not the nominative of navya, 'praiseworthy' (Bohtlingk-Roth, Grassmann).
+
+Note [5:12:3:2]2. Probably we ought to read ritapa' rita'nam. Cf. IV, 23, 4. devah bhuvat navedah me rita'nam, and see III, 20, 4, note 1 (above, <page 282>). The translation will be: 'The god, the protector of Rita, knows of my (deeds of) Rita.'
+
+  
+
+Verse 4.
+
+Note [5:12:4:1]1. Or ripavah? 'Who, O Agni, are the impostors who fetter thee?'
+
+  
+
+Verse 5.
+
+Note [5:12:5:1]1. On vishunah, compare V, 34, 6: asunvatah vishunah sunvatah vridhah.
+
+  
+
+Verse 6.
+
+Note [5:12:6:1]1. The second verse (ritam sapami arushasya vrishnah) shows with evidence that for sa pati we ought to read sapati (see Roth, Kuhn's Zeitschrift, XXVI, 49, and compare on the expression ritam sap, Geldner, Vedische Studien, II, 135).
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 395]
+
+  
+
+MANDALA V, HYMN 13.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 5.
+
+1. Praising we call [*1] thee; praising let us kindle [*1] thee, Agni, praising, for thy help.
+
+2. Desirous of riches, we devise to-day an effective song of praise, of Agni the heaven-touching god [*1].
+
+3. May Agni take pleasure in our prayers, he who is the Hotri among men. May he sacrifice [*1] to the divine host.
+
+4. Thou, O Agni, art widely extended, the gladly accepted, desirable Hotri; through thee they spread out the sacrifice.
+
+5. The priests make thee grow, O Agni, the greatest acquirer of wealth, the highly praised one. Bestow thou on us abundance of heroes.
+
+6. Agni! Thou encompassest the gods as the felly (encompasses) the spokes (of a wheel). Thou strivest [*1] for brilliant wealth.
+
+  
+
+NOTES.
+
+The same Rishi. The metre is Gayatri.--Verse 2 = MS. IV, 10, 2 (cf. TS. V, 5, 6, 1). Verses 2-4 = SV. II, 755-757. Verse 4 = TB. II, 4, 1, 6; MS. IV, 10, 2. Verse 5 = TS. I, 4, 46, 3; MS. IV, 11, 4. Verse 6 = TS. II, 5, 9, 3. As the Sama-veda forms a Trika of the verses 2-4, not 1-3 or 4-6, we have here an instance of those liberties which the arrangers of the Sama-veda not unfrequently took with regard to the Rig-veda text (see H. O., Zeitschrift der Deutschen Morgenlandischen Gesellschaft, XXXVIII, 469 seq.);
+
+[p. 396]
+
+we have no reason, in such a case, to resort to such an expedient as changing the traditional order of verses in the Rig-veda text.
+
+  
+
+Verse 1.
+
+Note [5:13:1:1]1. We have first the indicative, then the optative.
+
+  
+
+Verse 2.
+
+Note [5:13:2:1]1. Divisprisah no doubt is genitive sing. referring to Agni, not nominative pl. referring to the worshippers.
+
+  
+
+Verse 3.
+
+Note [5:13:3:1]1. Ludwig is right in observing here: 'eigentlich er spreche die yagyas als einladung fur die gotter.'
+
+  
+
+Verse 6.
+
+Note [5:13:6:1]1. On ringase, comp. Bartholomae, Indogermanische Forschungen, II, 281; Neisser, Bezzenberger's Beitrage, XX, 59. I take the form here as 2nd singular.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 397]
+
+  
+
+MANDALA V, HYMN 14.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 6.
+
+1. Awaken [*1] Agni by thy song of praise, kindling (him) the immortal one. May he place our offerings among the gods.
+
+2. Him, the immortal god, the mortals magnify at their sacrifices, the best sacrificer among the tribe of men.
+
+3. Him indeed they all magnify, the god, with the (sacrificial) ladle that overflows with ghrita, Agni, in order that he may bear the oblation.
+
+4. Agni when born has shone, killing the Dasyus, (killing) darkness by light. He has found the cows, the waters, the sun [*1].
+
+5. Worship Agni, the sage who should be magnified, whose back is covered with ghrita. May he come and hear my call [*1].
+
+6. They have made Agni grow by ghrita, him who dwells among all tribes, and by longing, eloquent praises.
+
+  
+
+NOTES.
+
+The same Rishi and metre.--Verse 1 = TS. IV, 1, 11, 4; MS. IV, 10, 1; VS. XXII, 15. Verse 3 = TS. IV, 3, 13, 8; MS. IV, 10, 1. Verse 4 = MS. IV, 10, 2.
+
+  
+
+Verse 1.
+
+Note [5:14:1:1]1. We have no reason and, unless we write bodhaya, no right for taking bodhaya as an equivalent of bodhayani (Ludwig).
+
+[p. 398]
+
+  
+
+Verse 4.
+
+Note [5:14:4:1]1. Agni is considered here, as is done frequently, as the performer of deeds which properly belong to Indra (see H. O., Religion des Veda, 98 seq.). Indra is the conqueror of the cows and of the waters; as to the sun, it may be said of both gods with the same right that they have acquired it for mankind (Religion des Veda, 110 seq.; 150 seq.).
+
+  
+
+Verse 5.
+
+Note [5:14:5:1]1. Although me can be accusative (Pischel, Zeitschrift der Deutschen Morgenlandischen Gesellschaft, XXXV, 714 seq.), I have no doubt that it is here genitive, and depends on havam. Cf. II, 24, 15. veshi me havam; X, 61, 4. vitam me yagnam.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 399]
+
+  
+
+MANDALA V, HYMN 15.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 7.
+
+1. I bring a prayer to the worshipper, the renowned sage, the glorious, ancient one. Agni is the highly gracious Asura, taking his seat in ghrita, the holder of wealth, supporting goods.
+
+2. By Rita they have supported the supporting Rita, near the powerful (performer) [*1] of sacrifice, in highest heaven, the men who sit [*2] on the supporting support of the sky, and who with born (men) attained to the unborn.
+
+3. Dispelling anguish [*1] they spread out for the ancient one [*2] his bodies [*3], mighty vital power, difficult to overcome. May he, the new-born, traverse the spaces. They have stood round him as round an angry lion.
+
+4. When thou carriest, spreading out, man after man like a mother, for their nourishment and for their sight, when thou growest old [*1] assuming life after life, thou goest around by thyself in manifold shapes.
+
+5. May gain protect now the boundaries of thy strength, the wide, firmly supporting milkstream [*1] of wealth, O god! Putting down thy foot in secret like a thief [*2], thou hast enlightened and freed Atri for the sake of wealth mightily [*3].
+
+[p. 400]
+
+  
+
+NOTES.
+
+The Rishi is Dharuna Angirasa (cf. dharunah vasvah agnih, verse 1; ritam dharunam, divah dharman dharune, verse 2; dogham dharunam, verse 5); the metre, Trishtubh.--No verse of this hymn occurs in the other Samhitas.
+
+  
+
+Verse 2.
+
+Note [5:15:2:1]1. It may be asked whether saka, beside its meaning 'the powerful (helper),' may also mean 'the power.' This would suit very well, V, 30, 10. sam ta'h (scil. ga'h) indrah asrigat asya sakaih; VI, 19, 4. tam vah indram katinam asya sakaih iha nunam vagayantah huvema. The translation then would be: 'by the power of sacrifice.' Bohtlingk-Roth conjecture sa'ke.
+
+Note [5:15:2:2]2. I believe that sedushah stands for the nominative, cf. deva'h abibhyushah, I, 11, 5; S. B. E. XXXII, p. 28. This sedushah led on to a second accusative standing for the nominative, nri'n.--The men sitting on the support of the sky seem to be the forefathers who have established the universal laws, the Angiras.
+
+  
+
+Verse 3.
+
+Note [5:15:3:1]1. I consider amhoyuvah as nom. plur. masc., but it may also be gen. sing. masc., or acc. plur. fem., as an epithet either of Agni or of his tanvah.
+
+Note [5:15:3:2]2. The ancient one (purvya) seems to be Agni (cf. verse i).
+
+Note [5:15:3:3]3. Cf. VI, 46, 12. yatra su'rasah tanvah vitanvate.
+
+  
+
+Verse 4.
+
+Note [5:15:4:1]1. I think, like Ludwig, that garase should be accented.
+
+  
+
+Verse 5.
+
+Note [5:15:5:1]1. These are accusatives.--Cf. on this passage, Pischel, Vedische Studien, I, 39 seq.
+
+Note [5:15:5:2]2. Cf. H. O., Prolegomena, p. 73.
+
+Note [5:15:5:3]3. Cf. VI, 1, 2. mahah raye kitayantah.--See Geldner, Ved. Studien, I, 268.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 401]
+
+  
+
+MANDALA V, HYMN 16.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 8.
+
+1. Sing [*1] (a song that gives) mighty vital power, to the light, to god Agni, whom the mortals have placed in front [*2] like Mitra by their praises [*3].
+
+2. For he, Agni, the Hotri of men, day by day, in the arms of Daksha, discloses the offering in the due way, as Bhaga [*1] (discloses) a treasure.
+
+3. (We abide [?]) in his praise, the liberal (god's), in his friendship, the mightily brilliant one's, in whom, the loudly roaring Aryan, all (beings) have put together their strength.
+
+4. For verily, O Agni, (thou belongest [?]) to them [*1] through thy bounteousness [*2] in (bestowing) abundance of heroes. Him indeed, the vigorous one, his glory the two worlds could not encompass [*3].
+
+5. Now then, Agni, come hither and, being praised, bring treasure [*1] to us who, we ourselves and our liberal givers, may acquire welfare together. And help us to grow strong in fights.
+
+  
+
+NOTES.
+
+The Rishi is Puru Atreya (cf. 17, 1); the metre Anushtubh (verse 5, Pankti). This hymn and V, 17 are parallel hymns; the concluding words of both are identical (see also V, 9, 7; 10, 7).--Verse 5 = SV. I, 88.
+
+  
+
+Verse 1.
+
+Note [5:16:1:1]1. Arka may be first or second person.
+
+[p. 402]
+
+Note [5:16:1:2]2. Dadhire purah: they have made him their Purohita.
+
+Note [5:16:1:3]3. Comp. above, V, 9, 6.
+
+  
+
+Verse 2.
+
+Note [5:16:2:1]1. On Bhaga, the divine Bestower or Dispenser of riches, cf. Herbert Baynes. The Biography of Bhaga (Actes du huitieme Congres intern. des Orientalistes, Sect. II, fasc. 1, pp. 83 seq.).
+
+  
+
+Verse 4.
+
+Note [5:16:4:1]1. To them, i. e. the Maghavans. Compare below, 18, 3. 4.
+
+Note [5:16:4:2]2. Mamhana seems to be instrumental. Comp. 10. 2; 18, 2.
+
+Note [5:16:4:3]3. Agni is himself yahva; so na cannot be the comparative particle, but it must be the negation. Similarly it is said in II, 16, 3 that Heaven and Earth cannot encompass the indriya of Indra; cf. also X, 27, 7.
+
+  
+
+Verse 5.
+
+Note [5:16:5:1]1. Va'ryam seems to depend on a' bhara. With the whole phrase compare the first Pada of V, 17, 5.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 403]
+
+  
+
+MANDALA V, HYMN 17.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 9.
+
+1. May the mortal truly by sacrifices, O god, (magnify) the stronger one for help; may the Puru, when good service has been performed, magnify Agni (and thereby draw him) hither for his aid.
+
+2. For thou art manifestly considered as his (i. e. Agni's) disposer, highly brilliant by thyself [*1]: (magnify then Agni who is) a firmament of bright splendour, lovely beyond [*2] thought [*3].
+
+3. (It is) yonder (sun?) who verily has been yoked by his (i. e. Agni's) light [*1] through the impetuous speech [*2]--(by the light of Agni) whose flames mightily shine as if (they were made to shine) by the sperm of heaven [*3].
+
+4. Through his, the wise one's, insight there is wealth on his, the wonderful (Agni's), chariot. And Agni is praised, he who is to be invoked among all peoples.
+
+5. Now indeed our liberal lords have manifestly attained [*1] treasure. Offspring of vigour! Protect us for the sake of victory! Help us to welfare! And assist us to grow strong in fights i
+
+  
+
+NOTES.
+
+The same Rishi and metre.--No verse occurs in the other Samhitas.
+
+[p. 404]
+
+  
+
+Verse 2.
+
+Note [5:17:2:1]1. I have translated the text in its traditional form, which I think is correct. On the vocative vidharman, comp. Delbruck, Altindische Syntax, p. 106. One could think, however, of reading vidharman as a locative, and svayasastare, and of considering manyase as a first person, like arkase, &c.: 'For in his extension, brilliant by itself, I manifestly comprehend that firmament,' &c.
+
+Note [5:17:2:2]2. Cf. VIII, 72, 3. antah ikkhanti tam gane rudram parah manishaya. 'Ueber alle Vorstellung hinaus.' Ludwig.
+
+Note [5:17:2:3]3. If we read svayasastarah, vidharman, and explain manyase as second person, the following translation of this difficult verse may be attempted: 'Thou art manifestly, indeed, considered as very brilliant by thyself in its (the firmament's) extension: that firmament of bright splendour (I praise), lovely beyond thought.' It is not very probable, however, that asya should refer to anything else but Agni.
+
+  
+
+Verse 3.
+
+Note [5:17:3:1]1. Sayana, whom Ludwig follows, very probably is right in interpreting asau as the sun.--On the Sandhi, compare Roth, Zeitschrift der Deutschen Morgenland. Gesellschaft, XLVIII, 679.
+
+Note [5:17:3:2]2. Through the sacred spell, by which the sun is made to rise through the kindling of the fire.--Cf. VIII, 17, 1, 5. tuga' ... gribha'.
+
+Note [5:17:3:3]3. Does this mean that Agni's flames shine like lightning which receives its light from the waters of the cloud, the sperm of heaven? Cf. IX, 74, 1, where it is said of the Soma mixed with water: divah retasa sakate.
+
+  
+
+Verse 5.
+
+Note [5:17:5:1]1. I think that sakanta should be accented, because it is connected with hi.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 405]
+
+  
+
+MANDALA V, HYMN 18.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 10.
+
+1. May Agni, beloved of many, the guest of the house [*1], be praised in the morning, the immortal who delights [*2] in all offerings among the mortals.
+
+2 [*1]. To Dvita who by the liberal power of his dexterousness carries away injury [*2], this praiser of thine, O immortal, prepares Soma in the due way.
+
+3. I call for your sake Him who flames through long life, with the speech that belongs to the liberal patrons [*1] whose chariot moves uninjured, O giver of horses [*2];
+
+4. And in whom (dwells) brilliant thought, who guard the hymns of praise in their mouth, (whose) sacrificial grass is spread in the realm of the sun: they have invested themselves with glory.
+
+5. On the liberal patrons who have given me fifty horses for my song of praise [*1], bestow brilliant, mighty, high glory, O Agni; on those men (bestow glory) with (valiant) men, O immortal!
+
+  
+
+NOTES.
+
+The Rishi is Mriktavahas Dvita Atreya (see verse 2); the metre is the same.--Verse 1 = SV. I, 85. Verse 5 = TB. II, 7, 5, 2.
+
+  
+
+Verse 1.
+
+Note [5:18:1:1]1. Visah ... atithih: cf. above, V, 3, 5.
+
+Note [5:18:1:2]2. On ran with the accusative, compare Gaedicke, p. 76.
+
+[p. 406]
+
+  
+
+Verse 2.
+
+Note [5:18:2:1]1. Compare on this verse Macdonell, Journal Roy. As. Soc., 1893, p. 463 seq.
+
+Note [5:18:2:2]2. Dvita, who seems to be identified with Agni, is, in the same way as Trita (see Bloomfield, Proceedings Amer. Or. Soc., March, 1894, p. cxix seqq.), supposed to take away human sin and all sorts of mischief and misfortune (cf. VIII, 47, 16. Trita'ya ka Dvita'ya ka ushah dushvapnyam vaha). Thus he is invoked here as carrying away mrikta, i. e. injury.
+
+  
+
+Verse 3.
+
+Note [5:18:3:1]1. The speech of the priest belongs to the sacrificer who has engaged him.
+
+Note [5:18:3:2]2. This seems to be Agni, with an evident allusion to the human giver of horses (see verse 5).
+
+  
+
+Verse 5.
+
+Note [5:18:5:1]1. Sadhastuti seems to be instrumental. Cf. Lanman, p. 381.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 407]
+
+  
+
+MANDALA V, HYMN 19.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 11.
+
+1. They are born for retirement [*1]. Out of the cover he [*2] has shone forth, being a cover himself. In the lap of the mother he looks about [*3].
+
+2. Causing him to discern (the pious and the impious?), they have sacrificed. With unwinking eyes they protect his manly power. They have penetrated into the firm stronghold [*1].
+
+3. The people of Svaitreya [*1], his clans, have thriven brilliantly. Brihaduktha with a golden ornament at his neck, is eager for the race as if by this honey-drink [*2].
+
+4. Like the dear milk of love [*1]--(a thing) unrelated with two (things) related [*2]--like the gharma vessel with booty in its belly--undeceived, the deceiver of all [*3].
+
+5. Sporting, O beam of light, appear to us, joined with the ash, with the wind. May those well sharpened ... of his, standing on ..., be sharp like... [*1].
+
+  
+
+NOTES.
+
+The Rishi is Vavri Atreya (cf. verse 1. pra vavreh vavrih kiketa). The metre is Gayatri in verses 1, 2, Anushtubh in verses 3, 4, Viradrupa in verse 5.--No verse occurs in the other Samhitas.
+
+This Sukta seems to be anything rather than an ordinary Agni hymn. It may be a collection of verses belonging to an Akhyana, or of verses serving another purpose which we can scarcely hope to discover. In several parts of this
+
+[p. 408]
+
+[paragraph continues] Sukta I must content myself with translating the words without being able to elucidate the poet's meaning.
+
+  
+
+Verse 1.
+
+Note [5:19:1:1]1. I translate the noun avastha' in accordance with the Vedic meaning of the verb ava-stha. Possibly it means the secret parts, cf. avastha, AV. VII, 90, 3 (B.-R.). Ludwig translates: 'Ein zustand erzeugt einen andern,' and paraphrases, 'Nur zustande und formen, gestalten lernen wir kennen, das wesen des gottes bleibt uns verborgen.' This seems too modern. Prof. Max Muller proposes: 'The remnants (afterbirth) have been brought forth. Skin has shone forth from skin.'--On the question who are the beings 'born for retirement,' I do not venture any conjecture.
+
+Note [5:19:1:2]2. Is Agni meant?
+
+Note [5:19:1:3]3. Cf. X, 5, 1. (Agnih) asmat hridah bhu'riganma vi kashte.
+
+  
+
+Verse 2.
+
+Note [5:19:2:1]1. The meaning seems to be that the worshippers (possibly the first worshippers, the Angiras), by discovering Agni and by worshipping him, have conquered the hostile strongholds.
+
+  
+
+Verse 3.
+
+Note [5:19:3:1]1. Svaitreya is mentioned as a victorious hero also in I, 33, 14.
+
+Note [5:19:3:2]2. Does this phrase allude to the rite of offering, at the Vagapeya sacrifice, to the horses that were going to run the sacred race, a naivara karu? In the Mantras connected with this rite the words occur: 'Drink of this honey-drink' (asya madhvah pibata). See Rig-veda VII, 38, 8; Taittiriya Samhita I, 7, 8, 2; Weber, Ueber den Vagapeya, p. 30.
+
+  
+
+Verse 4.
+
+Note [5:19:4:1]1. The retas?
+
+Note [5:19:4:2]2. Does this refer to an offering or the like, composed of two substances related among each other (such as
+
+[p. 409]
+
+milk and butter), and a third substance unrelated (such as rice)? Of course all this is absolutely uncertain.
+
+Note [5:19:4:3]3. Is this Agni?
+
+  
+
+Verse 5.
+
+Note [5:19:5:1]1. The meaning of dhrishag, vakshi', vakshanestha' is unknown.--On the first hemistich of this verse, compare Pischel Vedische Studien, II, 54.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 410]
+
+  
+
+MANDALA V, HYMN 20.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 12.
+
+1 [*1]. Whatever good, O Agni, best acquirer of gain, thou thinkest (fit), praise thou [*2] that (good), which is celebrated in songs, among the gods as our share.
+
+2. They, Agni, who do not set into motion for thee (prayers or offerings), when grown full of mighty strength [*1], turn away to encounter the hatred and the tricks of him who follows another (i. e. a wrong) law [*2].
+
+3. We choose thee as our Hotri, Agni, the giver of skill; offering delight (to thee) we call with our prayer (thee), the foremost at the sacrifices.
+
+4. So that we, O strong one, (may be ready) for thy favour, for wealth and Rita, O highly wise one: thus may we day by day rejoice [*1] with cows and rejoice with heroes.
+
+  
+
+NOTES.
+
+The Rishi is Prayasvanta Atreya (cf. verse 3. prayasvantah havamahe), the metre Anushtubh, verse 4 Pankti.--Verse 1 = VS. XIX, 64.
+
+  
+
+Verse 1.
+
+Note [5:20:1:1]1. Professor Max Muller proposes to read vagasa'tamam, as in IX, 98, 1. Pischel (Vedische Studien, I, 200) translates this verse: 'O Agni, das ruhmenswerte Gut, das du fur geeignet haltst, das preise du zugleich mit unsern Liedern (no girbhir yugam) den Gottern an (diis vendita).' He explains: 'Agni soll den Gottern Gut bringen and sie
+
+[p. 411]
+
+veranlassen, es den Menschen fur die Lieder zu schenken.' I cannot follow Pischel's theory about the identity of the roots pan and pan (comp. about pan the quotations collected by Bartholomae, Indogermanische Forschungen, III, 180); and the paraphrase 'diis vendita' seems inadmissible to me. I differ from Pischel, besides, in the interpretation of yugam; cf. rayim ... yugam, IV, 37, 5; raya' yuga', VII, 43, 5; 95, 4.
+
+Note [5:20:1:2]2. Neisser, Bezzenberger's Beitrage, XX, 55, explains panaya as standing for panayama, and compares V, 56, 2 (?).
+
+  
+
+Verse 2.
+
+Note [5:20:2:1]1. On vridh with the genitive, compare Delbruck; Altindische Syntax, p. 158; Macdonell, Journal Roy. As. Soc., 1893, p. 433. Grassmann's conjecture vriddha(v) is a failure.
+
+Note [5:20:2:2]2. With the second hemistich compare VS. XXXVIII, 20 (Satapatha Brahmana XIV, 3, 1, 9); TAr. IV, 11, 4 (cf. V, 9, 7).
+
+  
+
+Verse 4.
+
+Note [5:20:4:1]1. Syama stands, as the accent shows, in an independent clause. Prof. Max Muller proposes to change the accent: 'So that we ... may for thy favour, for wealth and Rita day by day rejoice with cows.'
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 412]
+
+  
+
+MANDALA V, HYMN 21.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 13.
+
+1. Let us lay thee down, as Manus did. Let us kindle thee, as Manus did. O Agni Angiras, sacrifice to the gods for the worshippers of the gods as (thou didst) for Manus.
+
+2. For thou, O Agni, art kindled, highly pleased, among human people. To thee the (sacrificial) ladles proceed in due order, O well-born one who drinkest butter.
+
+3. Thee all the gods unanimously have made their messenger. Serving thee, O sage, they magnify at the sacrifices (thee) the god.
+
+4. Let the mortal magnify for your sake Agni, the god, with worship as is due to the gods. Being kindled, O brilliant one, shine! Sit down in the abode [*1] of Rita; sit down in the abode of herbs [*2].
+
+  
+
+NOTES.
+
+The Rishi is Sasa Atreya (cf. verse 4); the metre is the same.--Verse 1 = TB. III, 11, 6, 3.
+
+  
+
+Verse 4.
+
+Note [5:21:4:1]1. Literally 'in the womb.'
+
+Note [5:21:4:2]2. On sasa, see III, 5, 6, note 2. Is the abode (or womb) of the herbs the Barhis? 'Is it satyasya?' M. M.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 413]
+
+  
+
+MANDALA V, HYMN 22.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 14.
+
+1. Lo, Visvasaman! Like Atri sing to him who purifies with his flames, to the Hotri who should be magnified at the sacrifices, most delightful in the clan.
+
+2 [*1]. Lay down Agni Gatavedas, the god, the priest. May the sacrifice which best encompasses the gods, proceed to-day in due order.
+
+3. We, the mortals, approaching thee, the attentive-minded god, for thy help, have thought of thy desirable aid.
+
+4. Agni, be intent on this--on this our word [*1], O strong one. As such, O strong jawed [*2] lord of the house, the Atris strengthen thee by their praises; the Atris beautify thee by their prayers.
+
+  
+
+NOTES.
+
+The Rishi is Visvasaman (see verse 1); the metre is the same.--No verse of this hymn occurs in the other Samhitas.
+
+  
+
+Verse 2.
+
+Note [5:22:2:1]1. With this verse compare below, V, 26, 7. 8.
+
+  
+
+Verse 4.
+
+Note [5:22:4:1]1. The verb kit stands here first with the genitive asya, then with the accusative idam vakah.
+
+Note [5:22:4:2]2. Compare vol. xxxii, p. 301 (II, 34, 3, note 3).
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 414]
+
+  
+
+MANDALA V, HYMN 23.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 15.
+
+1. Agni, bring hither, through the power of thy splendour, powerful wealth which may manifestly prevail over all tribes in the (contests for) booty.
+
+2. O powerful Agni! Bring hither that wealth powerful in battles. For thou art the true, wonderful giver of booty rich in cows.
+
+3. For all men who have spread out the sacrificial grass, unanimously ask thee, the beloved Hotri in the seats (of sacrifice), for many boons.
+
+4. For he who dwells among all tribes, has invested himself with power against assault [*1]. Agni! In these dwelling-places shine to us richly, O bright one, shine brilliantly, O purifier!
+
+  
+
+NOTES.
+
+The Rishi is Dyumna Visvakarshani Atreya (cf. verse 1); the metre is the same.--Verses 1-2 = TS. I, 3, 14, 6-7.
+
+  
+
+Verse 4.
+
+Note [5:23:4:1]1. Is abhimati (abhimati?) a dative? Should we read abhimati-sahah (cf. X, 83, 4) as a compound: 'he has been established as the conqueror of assaults.'
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 415]
+
+  
+
+MANDALA V, HYMN 24.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 16.
+
+1. Agni, be thou our nearest (friend) and our kind, protecting guardian.
+
+2. Agni is Vasu, renowned as Vasu (or, renowned by goods). Obtain, (and) bestow (on us), most brilliant wealth [*1].
+
+3. Listen to us then; hear our call; deliver us from every harmful man.
+
+4. We entreat thee now, O brightest, shining (Agni), for thy grace, for our friends.
+
+  
+
+NOTES.
+
+The Rishis are the Gaupayanas or Laupayanas, Bandhu (verse 1), Subandhu (verse 2), Srutabandhu (verse 3), Viprabandhu (verse 4). The metre is Dvipada Virag.--Verses 1, 2, 4, 3 = VS. III, 25-26. Verses 1, 4, 2, 3 = MS. I, 5, 3. Verses 1, 2, 4 = SV. II, 457-459; VS. XV, 48; XXV, 47. Verses 1, 4, 2 = TS. I, 5, 6, 2-3; IV, 4, 4, 8. Verse 1 = SV. I, 448.
+
+  
+
+Verse 2.
+
+Note [5:24:2:1]1. The accusative dyumattamam rayim seems to depend both on akkha nakshi and on dah. I cannot find any reason for preferring the reading of SV. and TS. dyumattamah (Ludwig).
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 416]
+
+  
+
+MANDALA V, HYMN 25.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 17-18.
+
+1. Address thy song [*1] for your sake to the god Agni, for his help. He is our Vasu. May the son of the dawns(?) [*2] give us (wealth). May the righteous one help us across our enemies.
+
+2. He is the true one, whom the men of old, whom the gods have kindled, the Hotri with the delightful tongue, rich in splendour with glorious shine.
+
+3. As such, with thy widest thought and with thy best favour, shine wealth on us, excellent Agni, for our beautiful praises [*1].
+
+ 
+
+4. Agni reigns among the gods, Agni among mortals, entering among them. Agni is the carrier of our offerings. Serve ye Agni with prayers!
+
+5. Agni gives to the worshipper a son most mightily renowned, a knower of mighty spells, most excellent, unconquered, who brings renown to his lord [*1].
+
+6. Agni gives a good lord who is victorious in battles with his men; Agni (gives) a steed, swiftly running, victorious (in races), unconquered.
+
+ 
+
+7. Sing mightily to Agni the (song) which may best bring him (to us), O (god) rich in splendour [*1]! From thee (proceeds) wealth (mighty) like a buffalo-cow [*2]; from thee proceed gains.
+
+8. Thy brilliant flames resound mightily like the pressing-stone (of the Soma) [*1]. And thy roaring arose like thunder by itself from heaven [*2].
+
+[p. 417]
+
+9. Thus we have paid homage, desirous of goods, to powerful Agni. May he, the highly wise one, help us, as with a ship, across all enemies.
+
+  
+
+NOTES.
+
+The Rishis are the Vasuyavah Atreyah (cf. verse 9); the metre is Anushtubh. Verse 5 = MS. IV, 11, 1. Verse 6 = MS. IV, 11, 1. Verse 7 = SV. I, 86; VS. XXVI, 12; TS. I, 1, 14, 4. The Sukta consists of hymns of three verses each.
+
+  
+
+Verse 1.
+
+Note [5:25:1:1]1. On gasi, comp. Neisser, Bezzenberger's Beitrage, XX, 70, note 1; Bartholomae, Indogermanische Forschungen, II, 278, 283.
+
+Note [5:25:1:2]2. Rishuna'm: comp. above, I, 127, 10, note 5.
+
+  
+
+Verse 3.
+
+Note [5:25:3:1]1. On suvrikti, comp. above, II, 4, 1, note 1.
+
+  
+
+Verse 5.
+
+Note [5:25:5:1]1. I. e. to his father? Or to his patrons?
+
+  
+
+Verse 7.
+
+Note [5:25:7:1]1. This vocative very probably refers to Agni.
+
+Note [5:25:7:2]2. Or 'like a king's consort'? It may be doubted whether the difference of accent (mahishi and mahishi') holds good for the Rig-veda.--Comp. on mahishiva, Roth, Zeitschr. der Deutschen Morgenland. Gesellschaft, XLVIII, 680.
+
+  
+
+Verse 8.
+
+Note [5:25:8:1]1. Brihat is not the name of the Saman; cf. X, 64, 15 (100, 8). gra'va yatra madhu-sut ukyate brihat. Comp. Hillebrandt, Vedische Mythologie, I, p. 153.--The singular ukyate is explained by the connection with gra'va.
+
+Note [5:25:8:2]2. With the last Pada comp. the conclusion of V, 52, 6 (vol. xxxii, p. 312).
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 418]
+
+  
+
+MANDALA V, HYMN 26.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 19-20.
+
+1. Agni, purifier! With thy splendour, with thy delightful tongue, O god, bring hither the gods and perform the sacrifice.
+
+2. Thee therefore we approach, who swimmest in ghrita [*1], O (god) with brilliant light, thee of sun-like aspect. Bring hither the gods that they may feast.
+
+3. Let us kindle thee, O sage, the brilliant offerer of feasts (to the gods), O Agni, the mighty (god) at the sacrifice.
+
+ 
+
+4. Agni, come hither with all the gods to the gift of the offering. We choose thee as our Hotri.
+
+5. Bring to the sacrificer who presses (Soma), Agni, abundance of heroes. Sit down on the sacrificial grass together with the gods.
+
+6. Being kindled, Agni, conqueror of thousandfold (wealth), thou makest the ordinances (of the world) thrive, the praiseworthy messenger of the gods.
+
+ 
+
+7 [*1]. Lay down Agni Gatavedas, the carrier of offerings, the youngest, the god, the priest.
+
+8. May the sacrifice which best encompasses the gods, proceed to-day in due order. Spread the sacrificial grass that (the gods) may sit down on it.
+
+9. May the Maruts, the Asvins, Mitra and Varuna sit down on this (sacrificial grass). the gods with all their folk.
+
+[p. 419]
+
+  
+
+NOTES.
+
+The same Rishis. Metre, Gayatri. Verses 1-3 = SV. II, 871-873. Verse 1= TS. I, 3, 14, 8; 5, 5, 3; IV, 6, 1, 2; MS. I, 5, 1; II, 10, 1; IV, 10, 1; VS. XVII, 8. Verse 3 = TS. I, 1, 11, 2; VS. II, 4; comp. MS. I, 1, 12. Verse 7 = MS. IV, 11, 1.
+
+As V, 26, this Sukta also consists of Trika hymns.
+
+  
+
+Verse 2.
+
+Note [5:26:2:1]1. Comp. above, IV, 2, 3, note 1.
+
+  
+
+Verse 7.
+
+Note [5:26:7:1]1. With verses 7 and 8, compare above, V, 22, 2.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 420]
+
+  
+
+MANDALA V, HYMN 27.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 21.
+
+1. The good lord has presented me with two oxen together with a car, the most brilliant Asura among the liberal givers [*1]. Tryaruna, the son of Trivrishan, O Agni Vaisvanara [*2], has distinguished himself by (his gift of) ten thousand (cows?) [*3].
+
+2. To him who gives me one hundred [*1] and twenty cows and two fallow steeds, harnessed and well-yoked, to Tryaruna grant thy protection, Agni Vaisvanara, who art highly praised and grown strong.
+
+3. Thus, O Agni, desiring thy favour [*1], Trasadasyu [*2] (sings) for the ninth time [*3] to thee the youngest (god)--Tryaruna who responds to my, the strong-born's, many hymns with (the gift of) a yoked (chariot) [*4]--
+
+4 [*1]. Who may thus announce me [*2] to Asvamedha the liberal (prince): may he give to him who with his verse strives for gain; may he give to him who lives in the Rita for (acquiring) wisdom [*3]--
+
+5. Asvamedha whose gifts, a hundred speckled bulls, delight me like Soma juices with threefold admixture [*1].
+
+6. Indra-Agni! Bestow on Asvamedha, the giver of a hundred (bulls), abundance of heroes and mighty royal power, like the never-ageing Sun in heaven.
+
+[p. 421]
+
+  
+
+NOTES.
+
+The Rishis are Tryaruna Traivrishna, Trasadasyu Paurukutsya, and Asvamedha Bharata, or, according to others, Atri alone. The metre is Trishtubh in verses 1-3, Anushtubh in verses 4-6.
+
+The position of this Sukta shows that it is a later addition to the original collection.
+
+  
+
+Verse 1.
+
+Note [5:27:1:1]1. With Delbruck, Grassmann, von Bradke (Dyaus Asura, p. 67) I read maghonam instead of maghonah. Cf. III, 3, 4. asurah vipah-kitam.
+
+Note [5:27:1:2]2. On the invocation of Agni in Danastutis, comp. H. O., Zeitschrift der Deutschen Morgenlandischen Gesellschaft, XXXIX, 87.
+
+Note [5:27:1:3]3. Geldner (Ved. Studien, I, 268) is right in observing: 'Hier ist unter sahasrani eine bestimmte Geldoder Wertsumme zu verstehen,' and in adding that it is not necessary that such a sum consisted in cows.
+
+  
+
+Verse 2.
+
+Note [5:27:2:1]1. On sata', 'one hundred,' compare Delbruck. Altindische Syntax, p. 82.
+
+  
+
+Verse 3.
+
+Note [5:27:3:1]1. Cf. X, 148, 3. sumatim kakanah.
+
+Note [5:27:3:2]2. That is, very probably, a descendant of Trasadasyu.
+
+Note [5:27:3:3]3. I do not adopt Sayana's explanation navamam = navatamam, though I do not know what the number 'nine' means here. Ludwig is absolutely right in observing 'dass man eben hier, wo es sich um specielle concrete, uns aber sonst her nicht bekannte verhaltnisse und ereignisse handelt, eben sich bescheiden muss, nichts
+
+[p. 422]
+
+zu wissen.'--Prof. Max Muller believes that navishthaya makes navamam for navatamam excusable: 'to the newest god the newest song.'
+
+Note [5:27:3:4]4. Sayana supplies to yuktena, not rathena, but manasa.
+
+  
+
+Verse 4.
+
+Note [5:27:4:1]1. I do not think that Ludwig is right in believing that with verse 4 a new, independent section begins.--Comp. on this verse, vol. xxxii, p. 304 (II, 34, 7, note 3).
+
+Note [5:27:4:2]2. Me may be accusative, as it frequently is. Should it be a dative, we should have to translate: 'Who may tell Asvamedha for my sake.'
+
+Note [5:27:4:3]3. Medha'm can scarcely depend on dadat; wisdom is not a gift which liberal princes may bestow on singers.
+
+  
+
+Verse 5.
+
+Note [5:27:5:1]1. Of milk, curds, and barley. See Hillebrandt, Vedische Mythologie, I, p. 209.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 423]
+
+  
+
+MANDALA V, HYMN 28.
+
+  
+
+ASHTAKA IV, ADHYAYA 1, VARGA 22.
+
+1. Agni kindled has sent his light to the sky; turned towards the dawn he shines far and wide. (The sacrificial ladle) goes forward with adoration, rich in all treasures, magnifying the gods with sacrificial food.
+
+2. Being kindled thou reignest over immortality; thou attendest for welfare the man who prepares the sacrificial food. He whom thou furtherest, acquires all wealth and puts in front hospitality (towards thee), O Agni [*1].
+
+3. Agni, show thy prowess for the sake of great bliss. May thy splendours be highest. Make our householdership easy to conduct [*1]. Set thy foot on the greatness of those who show enmity to us.
+
+4. I adore thy beauty, Agni, who hast been kindled, who art highly exalted. A bull, brilliant art thou. Thou art kindled at the sacrifices.
+
+5. Being kindled, Agni into whom offerings are poured, sacrifice to the gods, best sacrificer, for thou art the carrier of oblations.
+
+6. Sacrifice into (Agni); exalt Agni, while the sacrifice is going on. Choose him for your carrier of oblations.
+
+[p. 424]
+
+  
+
+NOTES.
+
+The Rishi is Visvavara Atreyi (cf. verse 1); the metre is Trishtubh in verses 1 and 3, Gagati in verse 2, Anushtubh in verse 4, Gayatri in verses 5 and 6. Verse 3 = AV. VII, 73, 10; VS. XXXIII, 12; TS. II, 4, 1, 1; 5, 2, 4; MS. IV, 11, 1. Verse 5 = TS. II, 5, 8, 6. Verses 5-6 = TB. III, 5, 2, 3.
+
+The Sukta is a later addition to the original Samhita.
+
+  
+
+Verse 2.
+
+Note [5:28:2:1]1. Should not dhatte be accented? 'He whom thou furtherest and (who) puts in front hospitality (towards thee), O Agni, acquires all wealth.'
+
+  
+
+Verse 3.
+
+Note [5:28:3:1]1. Cf. X, 85, 23. sam gaspatyam suyamam astu devah. The additions to the single Mandalas seem, as a rule, to be of later origin than the hymns of the tenth Mandala (see H. O., Prolegomena, p. 265); so it may be conjectured that the author of our verse imitated that passage of the great marriage hymn.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 425]
+
+  
+
+APPENDICES.
+
+I.  [*INDEX OF WORDS.]
+
+II.  [*LIST OF THE MORE IMPORTANT PASSAGES QUOTED IN THE NOTES.]
+
+[p. 426]
+
+THE following is not (like the Index to vol. xxxii) a complete Index verborum to the hymns translated in this volume, but only an Index of all the words which can be of any importance. It contains all rare, difficult, and doubtful words, all words of any mythological importance, and especially all words about which something is said in the Notes.
+
+Three figures refer to Mandala, hymn, and verse, a small figure to a note. If a word occurs in a note only, the passage is put in parentheses.
+
+M. W.     
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[iow][p. 427]
+
+  
+
+I. INDEX OF WORDS
+
+ A
+
+a, demonstr. pronoun: aya', II, 6, 2:1.
+
+Amsa, one of the Adityas, II, 1, 4:2.
+
+amsu, Soma shoot, IV, 1, 29.
+
+amhah-yu, dispelling anguish, V, 15, 3:1.
+
+amhati, distress, I, 94, 2.
+
+amhas, evil, distress, anguish, I, 36, 14; 58, 8; 9; III, 15, 3; IV, 2, 8; 9; 3, 14; 11, 6; 12, 6.
+
+aktu, night, I, 36, 16; 68, 1; 94, 5; II, 10, 3; III, 7, 6; IV, 10, 5; ati aktuh (conj. ati aktu'n), I, 143, 3:2.
+
+aktu, ointment: aktu-bhih agyate, III, 17, 1:1.
+
+akra, a racer, I, 143, 7:2; 189, 7:5; III, 1, 12:1; IV, 6, 3:2.
+
+akshan, eye: satam kakshanah aksha-bhih, I, 128, 3.
+
+akshi, eye: divah akshi' iti, I, 72, 10:1.
+
+akshita, imperishable, I, 58, 5.
+
+akshiyamana, inexhaustible, III, 9.
+
+agota, want of cows, III, 16, 5.
+
+agopa, without a keeper, II, 4, 7.
+
+Agni, fire, and god of fire, I, 1, 1, &c.; III, 2, 9:2; agnim-agnim, I, 12, 2; agnina agnih sam idhyate, I, 12, 6; agne agnibhih, I, 26, 10; agnim (a' vaha agne), 1, 44, 8:1; vaya'h it agne agnayah te anye, I, 59, 2; indram agnim, III, 12, 3; purishyasah agnayah, III, 22, 4; agne visvebhih agni-bhih, III, 24, 4; agne indrah ka, III, 25, 4; agnayah agnishu, V, 6, 6.
+
+agni-gihva, fire-tongued: agni-gihvah, I, 44, 14.
+
+agnidh, the Agnidh (priest): agnit (conj. agni't), II, 1, 2:2.
+
+agni-sri', possessing the beauty of Agni, III, 26, 5:1
+
+agra, summit: ripah agram, III, 5, 5:1; agre, at first, I, 31, 5; in front of, I, 127, 10.
+
+agriya, foremost: agriyam, I, 13, 10.
+
+agru', virgin: agruvah, I, 140, 8:1; III, 29, 13:2.
+
+agha, evil, I, 97, [1:1]-8; 128, 5; V, 3, 7; harmful foe, I, 189, 5.
+
+agha-yat, harmful, IV, 2, 6; 24, 3.
+
+agha-yu, harmful, I, 27, 3:1; 147, 4; IV, 2, 9.
+
+agha-samsa, attacking with evil spells, IV, 4, 3; V, 3, 7
+
+aghnya, cow, IV, I, 6.
+
+anga: yat anga, whatever, I, 1, 6.
+
+Angiras, N. of Agni, I, 1, 6; 31, 1; 17; 74, 5; IV, 2, 15; 3, 15; 9, 7; V, 8, 4; 10, 7; 11, 6; 21, 1; gyeshtham angirasam, I, 127, 2; angirah-tamah, the highest Angiras, I, 31, 2; 75, 2;--pl. the Angiras (Rishis), I, 71, 2:1; IV, 3, 11:1; V, 11, 6:1--angirasvat, I, 31, 17; 45, 3; 78, 3.
+
+akitta, unseen, IV, 3, 1.
+
+akitti, folly, IV, 2, 11; thoughtlessness: akitti-bhih, IV, 12, 4.
+
+akkhavaka, a certain priest, (I, 142, 4:2).
+
+akkhidra, flawless, I, 58, 8; II, 3, 8; III, 15, 5.
+
+akkhidra-uti, whose blessings are flawless, I, 145, 3.
+
+akyuta, unshakeable, II, 3, 3.
+
+[p. 428]
+
+ag, to drive: ut agate, he raises up, I, 95, 7; ut agan, they have driven out, IV, 1, 13; a' agati, may he lead, V, 2, 5; sam agati, may he get together, V, 2, 12; agur yamuh, V, 6, 10:2.
+
+aga, goat, I, 67, 5:1
+
+agara, undecaying, never ageing, I, 58, 2; 4; 127, 5; 9; 143, 3; 144, 4; 146, 2; II, 8, 4:1; III, 2, 2; 6, 4; 8, 2; 18, 2; 23, 1; V, 4, 2.
+
+agasra, unwearied, I, 189, 4; III, 1, 21; 26, 7.
+
+agata, unborn, V, 15, 2.
+
+agami, unrelated, IV, 4, 5; V, 19, 4.
+
+agira, agile, I, 140, 4; III, 9, 8.
+
+agurya, undecaying, I, 146, 4; II, 3, 5; 8, 2; III, 7, 4; 7; aguryam (conj. aguryah), I, 67, 1:2.
+
+agnata-keta, with unknown design, V, 3, 11.
+
+agma, course, III, 2, 12.
+
+agman, race, I, 65, 6.
+
+agra, plain: brihatah agran, IV, 1, 17.
+
+ang, to anoint, I, 95, 6, &c.;--samanage, he has shaped, I, 188, 9; sam angatah, II, 3, 7:1; tridha sam-aktam, thrice-anointed, II, 3, 10; aktu-bhih agyate, III, 17, 1:1; ankte, he anoints himself, V, 1, 3; anakti, IV, 6, 3:3.
+
+angi, ointment: angi-bhih, I, 36, 13:1.
+
+atandra, unwearied, I 72, 7; 95, 2:1; IV, 4, 12.
+
+atasa, brushwood, I, 58, 2; 4; II 4, 7; III, 7, 3:2; IV, 4, 4; 7, 10.
+
+atithi, guest, I, 44, 4; 58, 6; 73, 1:2; II, 2, 8; 4, 1; III, 2, 2; 3, 8; 26, 2; IV, 1, 20:1; 2, 7; V, 1, 8; 9; 3, 5; 4, 5; 8, 2; 18, 1.
+
+aturta, unconquered, V, 25, 5.
+
+atripa, insatiable, IV, 5, 14.
+
+atka, vesture, I, 95, 7.
+
+atya, racer: atyah na prishtham rokate, I, 58, 2:1;--I, 65, 6; 149, 3; II, 4, 4; III, 2, 3; 7; 7, 9; atyam na saptim, III, 22, 1:1; IV, 2, 3; V, 25, 6.
+
+Atri, V, 2, 6; 7, 10;--pl. the Atris, V, 22, 4;--atri-vat, I, 45, 3:1; V, 4, 9; 7, 8:1; 22, 1.
+
+atri, devourer, II, 8, 5:1.
+
+atrin, ghoul, I, 36, 14:1; 20; 94, 9.
+
+atha, and, I, 26, 9.
+
+athari', elephant (?): atharyah na dantam, IV, 6, 82.
+
+ad, to eat: a'dat, I, 127, 6:2.
+
+adat, having no teeth, I, 189, 5.
+
+adabdha, undeceivable, I, 76, 2; 95, 9; 128, 1; 143, 8; II, 9, 6; III, 1, 6; IV, 4, 3; V, 19, 4.
+
+adabdhavrata-pramati, protector of infallible laws, II, 9, 1:1.
+
+adas: asau, yonder (sun), V, 17, 3:1.
+
+adabhya, undeceivable, I, 31, 10; III, 11, 5; 26, 4; V, 5, 2.
+
+Aditi, I, 94, 16; 95, II; 98, 3; II, 1, 11; III, 4, 11; IV, 12, 4; mata' Aditih, I, 72, 9;--a name of Agni, I, 94, 15:1;--Freedom, IV, 1, 20:1;--aditim urushya, IV, 2, 11:3;--m., IV, 3, 8:2.
+
+adripita, undismayed, I, 143, 8; not proud, IV, 3, 3.
+
+adripta, never foolish, 1, 69, 3.
+
+adeva, godless, III, 1, 16; V, 2, 9; 10.
+
+adeva-yu, not caring for the gods, I, 250, 2.
+
+adbhuta, mysterious, wonderful, I, 77, 3:2; 94, 12; 13; 142, 3; 10; II, 7, 6; V, 10, 2; 23, 2;--secret, IV, 2, 12.
+
+adman, food, I, 58, 2.
+
+adri, rock, I, 70, 4:1; 71, 2; 73, 6; 149, 1; IV, 1, 14; 15; 2, 15:3; 3, 11;--press-stone, III, 1, 1.
+
+adruh, guileless, II, 1, 14:2; III, 9, 4; 22, 4.
+
+adrogha, guileless, III, 14, 6.
+
+advayat, truthful, III, 29, 5.
+
+advayavin, in whom is no falsehood, III, 2, 15.
+
+adha, then: adha ksharanti (for adhah ksharanti?), I, 72, 10:3.
+
+adhi, prep. with abl., on behalf of: rita't adhi, I, 36, 11:1.
+
+adhi-iti, remembrance, II, 4, 8.
+
+adhi-manthana, the support on which the rubbing (for producing the fire) is performed, III, 29, 1:2.
+
+adhivasa, upper garment, I, 140, 9.
+
+adhrigu, liberal, III, 21, 4:1; V, 10, 1.
+
+Adhrig? V, 7, 10:1.
+
+adhvan, way, I, 31, 16; 71, 9; adhvanah deva-ya'nan, I, 72, 7:3.
+
+adhvara, worship, rite, sacrifice, I, 1, 4:1; 8; 12, 7, &c.: adhvaram yaga, I, 26, 1; patih adhvara'nam, 1, 44, 9; ragantam adhvara'nam, I, 45, 4; [p. 429] yagnasya adhvarasya, I, 128, 4:1; adhvara'-iva (conj. adhvare-iva), III, 6, 10:3; adhvarasya pra-neta', III, 23, 1.
+
+adhvara-sri', beautifier of sacrifices, I, 44, 3:2.
+
+adhvariy, to be as an Adhvaryu: adhvari-yasi, II, 1, 2.
+
+adhvari-yat, performing the sacrificial service, IV, 9, 5.
+
+adhvaryu, the Adhvaryu priest, I, 94, 6; II, 5, 6; III, 5, 4; IV, 6, 4; adhvaryu-bhih panka-bhih, III, 7, 7.
+
+anagna, not naked, III, 1, 6.
+
+anagni-tra, not standing under Agni's protection, I, 189, 3.
+
+anadat, not eating, III, 1, 6.
+
+ananta, infinite, IV, 1, 7:2.
+
+anapa-vrigya, interminable, I, 146, 3.
+
+anamiva, free from plagues, III, 16, 3; 22, 4.
+
+anarvan, untouched, I, 94, 2; unattainable, II, 6, 5.
+
+anavadya, blameless, I, 31, 9; 71, 8; 73, 3.
+
+anavabhra-radhas, with gifts that cannot be taken away, III, 26, 6.
+
+anasvat, together with a car, V, 27, 1.
+
+anakrita, whom it is not possible to drive to a place, I, 141, 7:1.
+
+anaga, sinless, IV, 12, 4.
+
+anagah-tva, sinlessness, I, 94, 15.
+
+anayata, unsupported, IV, 13, 5.
+
+anayudha, unarmed, IV, 5, 14.
+
+anina, feeble, I, 150, 2.
+
+anindra, Indra-less, V, 2, 3.
+
+ani-baddha, unattached, IV, 13, 5.
+
+ani-badha, unbounded, III, 1, 11:1.
+
+anibhrishta-tavishi, of undecaying strength, V, 7, 7.
+
+ani-mana, immeasurable, I, 27, 11.
+
+animishat, never slumbering, I, 143, 8.
+
+ani-misham, with unwinking eyes, V, 19, 2.
+
+ani-mesham, unremittingly, I, 31, 12.
+
+anira, sapless, IV, 5, 14.
+
+ani-vrita, unrestrained, III, 29, 6.
+
+anishanga, without a quiver, I, 31, 13:2.
+
+anika, face, II, 9, 6; III, 1, 15; 19, 4:1; IV, 5, 9:1; 15; 10, 3; 11, 1; 12, 2; V, 2, 1.
+
+anu, prep. with ablat., I, 141, 3:2.
+
+anuktha, hymnless, V, 2, 3.
+
+apupa-kshita, undecaying, III, 13, 7.
+
+anushthu, by one's present power, I, 95, 3.
+
+anushthuya', by one's present power, IV, 4, 14.
+
+anu-satya, follower of truth, III, 26, 1.
+
+anu-svadham, according to one's wont or nature, II, 3, 11; III, 6, 9.
+
+anuna, without flaw, I, 146, 1; II, 10, 6; III, 1, 5; IV, 2, 19; 5, 1.
+
+anrigu, sinful, IV, 3, 13.
+
+anrita, sinful, IV, 5, 5.
+
+anrita, falsehood, V, 12, 4.
+
+anehas, unmenaced, III, 9, 1.
+
+antah-vidvams, knowing, I, 72, 7.
+
+antama, nearest (friend), I, 27, 5; III, 10, 8; V, 24, 1.
+
+antara, closest; I, 31, 13; nearer, III, 18, 2;--in the midst, I, 44, 12.
+
+antariksha, air, I, 73, 8; III, 6, 8; 8, 8; 22, 2; IV, 14, 2; V, 1, 11.
+
+anti, nigh, I, 79, 11; 94, 9.
+
+andha, blind, I, 147, 3:1; 148, 5:2.
+
+andhas, darkness, I, 94, 7.
+
+andhas, sap, IV, I, 19.
+
+anna, food: sthira' anna, I, 127, 4:3; IV, 7, 10; tri-vrit annam, I, 140, 2:2; anna, instr., IV, 7, 11:1.
+
+anniyat, desirous of food, IV, 2, 7.
+
+anyad-anyad, the one and the other, 1, 95, 1.
+
+anya-vrata, following another law, V, 20, 2.
+
+ap, pl., water, Waters, I, 36, 8; 95, 3:1; 96, 1; 2; IV, 3, 12, &c.; garbhah apa'm, I, 70, 3; III, 1, 1:2; 13; 5, 3; apam napat, I, 143, 1:2; III, 9, 1; apa'm upa-sthe, I, 144, 2; apa'm sadha-sthe, I, 149, 4; II, 4, 2; a'yuh apa'm, III, 1, 5; matrih apah, III, 9, 2; ap-su sritam, III, 9, 4; apa'm durone, III, 25, 5; avindat apah, V, 14, 4:1.
+
+apatya, offspring, I, 68, 7.
+
+apara-gita, unconquered, III, 12, 9; V, 25, 6.
+
+apari-vrita, uncovered, II, 10, 3.
+
+apasya, bereft of sight, I, 148, 5:2.
+
+apas, work, I, 68, 5; 69, 8:2; 70, 8; II, 3, 6; III, 3, 3; 12, 7; IV, 2, 14; see apas.
+
+apas, active, I, 31, 8; 71, 3; 95, 4; III, 2, 5; 7; 8, 5;--work: [p. 430] apasi (conj. upasi), III, I, 3:3; 11:4; apah (conj. apah), III, 6, 7:2.
+
+apasyu, ever active, I, 79, 1.
+
+apa'd, footless, IV, 1, 11.
+
+apara, boundless, III, I, 14.
+
+api-dhi, covering, I, 127, 7:3.
+
+api-sarvara, approach of darkness, III, 9, 7:2.
+
+api-sthita, standing on, I, 145, 4:6.
+
+apurvya, wonderful, III, 13, 5.
+
+aprinat, not giving, V, 7, 10.
+
+ap-tur, crossing the waters, III, 27, 11:3.
+
+ap-tu'rya, crossing the waters, III, 22, 8:1.
+
+Apnavana, IV, 7, 1.
+
+apnasvat, rich: apnasvatishu urvarasu, I, 127, 6.
+
+apya, living in the water I, 145, 5.
+
+apra-ayu(s), unremitting, I, 127, 5:4
+
+aprati-skuta, unrepressed, III, 2, 34.
+
+apra-dripita, unconfused, I, 145, 2.
+
+apra-mrishya, not to be despised, IV, 2, 5.
+
+apra-yukkhat, never failing, unremitting, I, 143, 8; II, 9, 2; III, 5, 6; 20, 2.
+
+apra-vita, virgin, IV, 7, 9:1.
+
+apsu-sad, dwelling in the waters, III, 3, 5.
+
+abhi-khya', looking at, I, 148, 5:2.
+
+abhi-gnu, on one's knees, I, 72, 5.
+
+abhi-dyu, striving for heaven, I, 127, 7; III, 27, 1.
+
+abhi-pitva, the time of rest, I, 189, 7:[2, 3].
+
+abhi-mati, plotter, III, 24, 1; assault, V, 23, 4:1.
+
+abhimati-sah, victorious over hostile plots, II, 4, 9.
+
+abhi-yug, attack, III, 11, 6; V, 4, 5.
+
+abhi-sasti, curse, I, 71, 10; V, 3, 7; 12.
+
+abhisasti-ka'tana, dispeller of curses, III, 3, 6.
+
+abhisasti-pa'van, protector against imprecations, I, 76, 3.
+
+abhi-sri', leading to, or striving for, gloriousness, I, 98, 1:1; 144, 6.
+
+abhishti, victory, V, 17, 5.
+
+abhishti-krit, helpful, IV, 11, 4.
+
+abhi-hrut, injury, I, 128, 5; anything leading astray, I, 189, 6:1.
+
+abhi'ke with ablat., I, 71, 8:4.
+
+abhra, cloud, I, 79, 2.
+
+abhratri, brotherless: abhratarah, IV, 5, 5:2.
+
+abhva, wondrous, I, 140, 5; monstrous might, II, 4, 5.
+
+am, to plague: abhi amanta, I, 189, 3:1.
+
+ama, vehemence, I, 66, 7; fear: ame dhat, I, 67, 3.
+
+amati, impetuous splendour, I, 73, 2:3.
+
+amati, lack of thoughts, senselessness, III, 8, 2:1; 16, 5; IV, 11, 6.
+
+amartya, immortal, I, 44, 1; 11; 58, 3; III, 2, 11; 10, 9; 11, 2; 24, 2; 27, 5; 7; IV, 1, 1; 8, 1; 9, 2; V, 4, 10.
+
+amardhat, never failing, III, 25, 4.
+
+ama-vat, violent, impetuous, I, 36, 20; IV, 4, 1.
+
+amitra, enemy, III, 18, 2; IV, 4, 4; 12, 2.
+
+amitra-dambhana, deceiver of foes, IV, 15, 4.
+
+amitra-yudh, attacking the enemies, III, 29, 15.
+
+aminat, innocent, IV, 5, 6.
+
+amiva-ka'tana, driving away sickness: amiva-ka'tanam, I, 12, 7.
+
+amiva, plague, 1, 189, 3; III, 15, 1.
+
+amura, not foolish, unerring, wise, I, 68, 8:1; 72, 2: 141, 12; III, 19, 1; 25, 3; IV, 4, 12; 6, 2; 11, 5.
+
+amrikta, uninjured, inviolable, III, 6, 4; 21, 6; IV, 3, 12:1.
+
+amrita, immortal (Agni), I, 26, 9:1; 44, 5:1; 58, 1; 70, 4:2, &c.;--pl. the immortal gods, I, 59, 1, &c.;--immortality, I, 13, 5:2; 68, 4:1; 72, 1:1; 6; III, 1, 14; 23, 1:2; 25, 2; V, 3, 4; 28, 2; amritasya na'bhim, III, 17, 4;--ambrosia, I, 71, 9:3; III, 26, 7; V, 2, 3:2.
+
+amrita-tva, immortality, I, 31, 7; 72, 9; 96, 6; V, 4, 10.
+
+amrityu, immortal, III, 2, 9.
+
+ayas, ore, IV, 2, 17:3.
+
+aya', thus, III, 12, 2.
+
+aya's, never-tiring (flame), III, 18, 21; IV, 6, 10.
+
+ara, spoke of a wheel, I, 141, 9; V, 13, 6.
+
+arakshas, benevolent, II, 10, 5.
+
+arana, stranger, V, 2, 5.
+
+arani, kindling-stick, I, 127, 4:1; III, 29, 2; V, 9, 3.
+
+[p. 431]
+
+arati, steward (?), I, 58, 7:1; 59, 2; 128, 6; 8; II, 2, 2; 3; 4, 2; III, 17, 4; IV, 1, 1; 2, 1; V, 2, 1:3.
+
+aram, enough, I, 66, 5; da'sat aram, he satisfies, I, 70, 5; readily, II, 5, 7:2; 8; puru va aram (conj. puruva'ram), I, 142, 10:2.
+
+aram-krit, doing service, II, 1, 7:1.
+
+ararivams, niggardly, I, 147, 4; 150, 2; III, 18, 2.
+
+arati, malign power, II, 7, 2; III, 18, 1; 24, 1; IV, 4, 4; aratau (conj. for aratau), V, 2, 1:3; pl., V, 2, 6.
+
+arati-yat, niggard, I, 99, 1:2.
+
+arati-van, malicious, I, 147, 4.
+
+aravan, niggard: aravnah, I, 36, 15; 16.
+
+ari, poor: aryah, I, 70, 1:[1, 2]; 71, 3:2; 150, 1:1;--he who does not give, niggard, I, 73, 5:[1, 2]; II, 8, 2; IV, 4, 6; V, 2, 12.
+
+ari, the Arya: aryah, IV, 2, 12:3; 18:5.
+
+arishta, uninjured, V, 18, 3.
+
+arishyat, unharmed: arishyantah, II, 8, 6.
+
+aruna, red, I, 73, 7; II, 1, 6.
+
+aruni, the red (cow, or Dawn), I, 140, 13; IV, 1, 16:3; 2, 16; 14, 3:1.
+
+arupita? IV, 5, 7:1.
+
+arusha, red, ruddy, I, 36, 9; 141, 8; II, 2, 8; III, 1, 4; 7, 5; 15, 3; 29, 6; IV, 15, 6:2; V, 1, 5; arusha', the two ruddy horses, I, 94, 10; II, 10, 2:1; IV, 2, 3; arusha'sah, I, 146, 2:2; IV, 6, 9; arushasya vrishnah, V, 12, 2:2; 6;--arushim (conj. arushih?), I, 71, 1:2; arushih, I, 72, 10:4.
+
+arusha-stupa, whose summit is red, III, 29, 3.
+
+arukshita, soft, IV, 11, 1.
+
+arepas, stainless, IV, 10, 6.
+
+arka, song, I, 141, 13; III, 26, 7:1; 8; IV, 3, 15; 10, 3; V, 5, 4.
+
+ark, to sing, praise: arkan, III, 14, 4; arkami, IV, 4, 8; anrikuh, V, 6, 8; arkantah, V, 13, 1; arka, V, 16, 1:1; 22, 1; 25, 7;--abhi karam arkan, they sang triumphantly, IV, 2, 14:2;--pra arkanti, III, 12, 5; pra arka, I sing, III, 23, 1:1.
+
+arki, flame, I, 36, 3; 20, &c.
+
+arkis, flame, IV, 7, 9; V, 17, 3.
+
+arna, flood: divah arnam, III, 22, 3.
+
+arnava, waving, III, 22, 2:2.
+
+arnas, wave, IV, 3, 12.
+
+artha, aim, I, 144, 3:2; III, 11, 3:2; IV, 6, 10.
+
+arbha, small, I, 146, 5.
+
+arbhaka, little: arbhakebhyah, I, 27, 13.
+
+armini in na'rmini? (I, 149, 3:1).
+
+arya, Aryan, IV, 1, 7; (2, 12:3; 18:5;) V, 16, 3.
+
+Aryaman, I, 26, 4; 36, 4; 44, 13; 79, 3; 141, 9; II, 1, 4; IV, 2, 4: 3, 5; V, 3, 2.
+
+arvank: arva'nkam yakshva, sacrifice and bring hither, I, 47, 10.
+
+arvat, horse, I, 27, 9; 73, 9; 145, 3:1; II, 2, 10; IV, 15, 6; V, 6, 1; 2.
+
+arvan, horse, I, 149, 3; IV, 7, 11; 11, 4.
+
+arhana, deservedly, I, 127, 6.
+
+arhat, worthy, I, 94, 1; II, 3, 1; 3; V, 7, 2.
+
+av, to protect, bless, help: avah, I, 27, 7; avishah, III, 13, 6, &c.
+
+ava: agneh avena for agne ravena, I, 128, 5:1.
+
+avadya, disgrace, IV, 4, 15.
+
+avani, course, I, 140, 5;--river, V, 11, 5.
+
+avama, lowest (god), IV, 1, 5.
+
+avara, later (or, nearer), I, 141, 5;--lower, II, 9, 3.
+
+avasana, not clothed, III, 1, 6.
+
+avastat, below, III, 22, 3.
+
+ava-stha', retirement, V, 19, 1:1.
+
+avasyu, desiring help, II, 6, 6.
+
+avitri, helper, I, 36, 2; 44, 10; III, 19, 5.
+
+avi-mat, rich in sheep, IV, 2, 5:1.
+
+avishyat, wishing to drink, I, 58, 2.
+
+avishyu, greedy, I, 189, 5.
+
+avi'rata, want of heroes, III, 26, 5.
+
+avrika, without danger, I, 31, 13;--keeping off the wolf, IV, 4, 12.
+
+as, to eat: pra asana, III, 21, 1.
+
+asatru, without a foe, V, 2, 12.
+
+asani, thunderbolt, I, 143, 5.
+
+asas, cursing, IV, 4, 15.
+
+asiva, unkind, V, 12, 5.
+
+asirshan, headless, IV, 1, 11.
+
+asman, stone (flint), II, 1, 1; III, 29, 6.
+
+[p. 432]
+
+asma-vraga, dwelling in the rock-stable, IV, 1, 13.
+
+asramishtha, never tiring, IV, 4, 12.
+
+asrita, not resting on (?), IV, 7, 6:2.
+
+asva-da'van, giver of horses, V, 18, 3:2.
+
+asva-pesas, the ornament of which are horses, II, 1, 16.
+
+asvam-ishti, winner of horses, II, 6, 2:2.
+
+Asva-medha, N. p., V, 27, 4-6.
+
+asva-radhas, giver of horses, V, 10, 4:1.
+
+asva, mare, III, 1, 4; 7, 2:2.
+
+asvin, rich in horses, IV, 2, 5:1; V, 4, 11.
+
+Asvinau, du., the two Asvins, I, 44, 2; 8; 14; III, 20, 1; 5; 29, 6:1; IV, 2, 4; 13, 1; 15, 9; 10; V, 26, 9:
+
+asvya, of the horses, I, 74, 7.
+
+ashalha, invincible, III, 25, 4.
+
+ashtama, eighth (rein or priest of Agni), II, 5, 2:1.
+
+ashta'-padi, eight-footed (i. e. cow with calf), II, 7, 5:2.
+
+as, to be: pra astu, may it be foremost, I, 13, 9;--satah ka bhavatah ka, I, 96, 7; tvam ta'n sam ka prati ka asi, thou art united with them and equal to them, II, I, 15.
+
+as, to throw: ava-asya, I, 140, 10.
+
+asat, nothingness, IV, 5, 14;--untrue, V, 12, 4.
+
+asana', weapon, I, 148, 4.
+
+asamana, striving apart, I, 140, 4.
+
+asam-dita, unfettered, IV, 4, 2.
+
+asam-mrishta, not cleansed, V, 11, 3.
+
+asaskat, not sticking together, I, 13, 6; 142, 6.
+
+asasat, never sleeping, I, 143, 3.
+
+asita, black, IV, 13, 4.
+
+asu, vital spirit, I, 240, 8.
+
+asura, the Asura, miraculous lord, II, I, 6; III, 3, 4:1; 29, 14:1; IV, 2, 5:2; V, 12, 1; 15, 1; 27, 1.
+
+asurya, mysterious power, V, 10, 2.
+
+asta, stall, I, 66, 9;--home: astam yanti, V, 6, 1.
+
+asta-tati, homestead, V, 7, 6.
+
+astri, archer, I, 66, 7; 70, 11; 71, 5:1; 148, 4; IV, 4, 1.
+
+astrita, indestructible, I, 140, 8.
+
+aspandamana, without trembling, IV, 3, 10.
+
+asmad, pers. pronoun: asma'kam astu, may he be ours, I, 13, 10; pra vah imahe, we entreat for you, I, 36, 1:1; vah untranslated, I, 66, 9:1; sah nah, thus (give) us, II, 6, 5:1; are asmat, IV, 11, 6:1.
+
+asma-druh, he who deceives us: asma-dhruk, I, 36, 16.
+
+asmadryak, turned towards us, V, 4, 2.
+
+asma-yu, inclined towards us, I, 142, 10.
+
+asridh, not failing, I, 13, 9; V, 5, 8.
+
+asredhat, unerring, III, 14, 5.
+
+asreman? III, 29, 13:1
+
+asvapnag, never sleeping: asvapnagah, IV, 4, 12.
+
+ahan, day, I, 71, 2; dirgha' aha, I, 140, 13; ahnah, by day, IV, 10, 5; agre ahnam, V, 1, 4; 5.
+
+ahi, snake, I, 79, 1.
+
+ahurya, not to be led astray: ahuryah (conj. for ahu'ryah), 1, 69, 4:1.
+
+ahraya, fearless, I, 74, 8; glorious, III, 2, 4.
+
+ahrayana, fearless, IV, 4, 14.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ A
+
+ake, near, II, 1, 10.
+
+a'-kshita, habitable, V, 7, 7.
+
+a'gas, sin, IV, 3, 5; 12, 4; V, 3, 7; 12.
+
+a-ga'ni, birth: tisrah a-ga'nih, III, 17, 3:1.
+
+a't, then, I, 148, 4:1.
+
+a-tani, an expander: yagnam atanih, II, 1, 10.
+
+atithya, hospitality, I, 76, 3; IV, 47 10; V, 28, 2.
+
+atman, vital breath: atma'-iva sevah, I, 73, 2.
+
+a-dadi, seizer: a'dat a-dadih, I, 127, 6:2.
+
+Aditya, IV, 1, 2; pl., the Adityas, I, 45, 1; 94, 3; 188, 4; II, 1, 13; 3, 4:1; III, 8, 8; 20, 5.
+
+a'-deva, godly, II, 4, 1; devam a'devam, IV, I, 1:3.
+
+a-dhava, purification, I, 141, 33.
+
+a-dhrish, attack, II, 1, 9.
+
+adhra, weak: adhrasya, I, 32, 14:2.
+
+anushak, in due order, I, 13, 5:1; 58, 3; 7 2, 7; II, 6, 8; III, 11, 1; IV, 4, 10; 7, 2; 5; 12, 3; V, 6, 6:1; 10; 9, 1; 16, 2; 18, 2; 21, 2; 22, 2; 26, 8.
+
+ap: pari apa, he has won, I, 76, 1.
+
+Apaya', N. of a river, III, 23, 4.
+
+api, companion, I, 26, 3; 31, 16; IV, 3, 13.
+
+[p. 433]
+
+a-prikkhya, whose leave should be asked, I, 60, 2.
+
+a'pya, companionship, I, 36, 12; III, 2, 6.
+
+ama, raw, IV, 3, 9:3.
+
+a-yagishtha, best performer of sacrifices, II, 9, 6.
+
+a'yasa, of iron, I, 58, 8.
+
+ayu, the living, I, 31, 2:2; 11; 66, 1; 140, 8; 147, 1:1;--lively: ayuvah dhenavah, II, 5, 5;--Ayu, N. p., 1, 96, 2:2; II, 2, 8; 4, 2; IV, 2, 12:1; 18:[4, 6]; V, 7, 6; samsam ayoh, IV, 6, 11:2; V, 3, 4:2; pl., the Ayus, I, 58, 3:2. 60, 3; IV, 7, 4;--n., life, III, 3, 7.
+
+a'yudha, weapon, V, 2, 3.
+
+a'yus, life: visvam a'yuh, I, 73, 5; a'yuh apa'm, III, I, 5:2; dirgham a'yuh pra-yakshe, III, 7, 1; tri'ni a'yumshi, III, 17, 3:1, &c.
+
+a-rodhana, ascent, IV, 7, 8; 8, 2; 4.
+
+a'rtana? I, 127, 6:1.
+
+a'rtvigya, duty of a priest, I, 94, 6.
+
+a'rya, the Aryan, I, 59, 2; visah a'rih, I, 77, 3:3; 96, 3.
+
+avih-rigika, (I, 44, 3:1).
+
+avih-tya, visible, I, 95, 5.
+
+avis, manifest: avih bhava, I, 31, 3:1; avih babhu'tha, V, I, 9; avih krinute, V, 2, 9.
+
+a-sas, hope: a-sasa, IV, 5, 11:1.
+
+a'sa, region, V, 10, 6.
+
+asina, old (?), 1, 27, 131.
+
+asu, swift racer, I, 60, 5; IV, 7, 11.
+
+asu-asvya, plenty of swift horses, V, 6, 10.
+
+asu-ya', quickly, IV, 4, 2.
+
+a-susukshani, flaming, II, 1, 1.
+
+asushana, aspiring after, IV, 1, 13.
+
+asu-heman, quick inciter, II, 1, 5:3.
+
+as: upa asate, they approach reverentially, I, 36, 7; III, 2, 6;--sam-a'sate, they lie down round about, III, 9, 7.
+
+a's, mouth: asa', I, 76, 4:1; 140, 2; II, 1, 14:1; in the presence of, IV, 5, 10; manifestly, V, 17, 2; 5; 23, 1.
+
+asan, mouth, I, 75, 1; III, 26, 7; V, 6, 9; 18, 4.
+
+asa', face: yasya asaya', in whose presence, I, 127, 8.
+
+asa't, adv., near, I, 27, 3.
+
+a-suti, drink, II, 1, 14.
+
+asura, of the Asura: garbhah asurah, III, 29, 11.
+
+a'skra, united, III, 6, 4:3.
+
+asya, mouth, II, 1, 13; V, 22, 1.
+
+a'-huta, see hu.
+
+a-hu'rya, to be led astray: a-hu'ryah (conj. ahuryah), I, 69, 41
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ I
+
+i: ayate, he proceeds, I, 127, 3:6; yantah, corrupt for vyantah? I, 140, 13:2; sanim yate, striving for gain, V, 27, 4;--adhi ihi, think thou (of us), 1, 71, 10:2;--sah nu iyate (Samhita: sa nviyate), conj. sa'nu (= sa anu) iyate, I, 145, 1:1;--antah i'yase, thou passest between, II, 6, 7;--apa aiyeh, V, 2, 8;--upa a' imasi, we approach, I, 1, 7;--pari-eta', will overtake, I, 27, 8;--pra-yati yagne, adhvare, while the sacrifice is going on, III, 29, 16; V, 28, 6; pra-yai devebhyah, that the gods may come forth, I, 142, 6; eti pra, I, 144, 1:2;--eti prati-itaye, not to be withstood, I, 36, 20;--sam yanti, come together, I, 31, 10; see sam-yat.
+
+id, nourishing power, sacred food: ila' krita'ni, I, 128, 7; ilah pade, I, 128, 1; II, 10, 1:2; hotaram ilah, III, 4, 3.
+
+Ila, 'Nourishment,' N. of a goddess, I, 13, 9:1; 31, 11:3; 142, 9; 188, 8; II, 1, 11:1; 3, 8; III, 1, 23:1; 4, 8; 7, 5; 27, 10:2; V, 4, 4; 5, 8; ilayah pade, III, 23, 4:3; 29, 4; ila', instr., III, 24, 2; ilayah putrah, III, 29, 3:3.
+
+ila-vat, rich in nourishment, IV, 2, 5.
+
+itah-uti, who from here distributes his blessings, I, 146, 2.
+
+iti, thus: iti kratva, with this intention, IV, 1, 1:1.
+
+ittha', truly, I, 36, 7; 141, I; V, 17, I; ittha' dhiya', with right thought, III, 27, 6.
+
+ittha'-dhi, thus minded, IV, 11, 3.
+
+idam, this: asmai (after the plural ye), I, 67, 8:1; asmai (verb to be supplied), I, 70, 4:1; yadi idam, when here (all this happened), 1, 79, 2:3; yadi idam, as I am here, IV, 5, 11:2; [p. 434] there, II, 5, 5; esham (conj. esham), IV, 2, 4:1.
+
+ida' kit-ida' kit, now-now, IV, 10, 5.
+
+idhma, fuel, I, 94, 4; III, 18, 3.
+
+in: inoshi, thou drivest away, IV, 10, 7;--pra ainot, he has driven forward, I, 66, 10.
+
+ina, strong, I, 149, I.
+
+indu, Soma, V, 18, 2.
+
+Indra, I, 13, 12; 142, 4; 5; 12; 13; II, 1, 3; 3, 3; 8, 6; III, 4, 6; 11; 22, 1; 25, 4; IV, 2, 17; V, 2, 8; 3, 1; 5, 3; 11; 11, 2; indram agnim, III, 12, 3.
+
+Indragni, du., III, 12, 1; 2; 4-9; V, 27, 6.
+
+Indravishnu, du., Indra and Vishnu, IV, 2, 4.
+
+inv, to stir up, to further: invati, I, 128, 5; invatah, I, 141, 4; invasi, I, 94, 10; 141, 10; V, 28, 2; invantah, III, 4, 5; invire, V, 6, 6.
+
+ibha, elephant, IV, 4, 2:1.
+
+ibhya, rich, I, 65, 7.
+
+iva: svena-iva, read svena eva? I, 145, 2:2.
+
+ish, to long, seek: ikkhanta, I, 68, 8; ikkhantah, I, 72, 2; ishuh, III, 1, 2.
+
+ish, to incite: ishe, infin., I, 71, 8:3; ishayanta manma, they have stirred up our prayers, I, 77, 4:3; ishani, II, 2, 9:2; ishita, III, 3, 2; 4, 3; 12, 1.
+
+ish, food, I, 12, 11; 27, 7; 36, 11, &c.; V, 6, 1-10; isha'm neta', III, 23, 2:2.
+
+isha, food-giving, I, 189, 8:2.
+
+Isha, N. p., V, 7, 10.
+
+ishany: ishanyanti, they speed it hither, V, 6, 6:1.
+
+ishay, to seek nourishment: ishayanta, II, 2, 11:1.
+
+ishira, vigorous, quick, I, 128, 5; III, 2, 13; 5, 4.
+
+ishudhyat, supplicant: ishudhyate, I, 128, 6:4.
+
+ishuy, to fly like an arrow, to shoot arrows (?): ishuyate, I, 128, 4:2.
+
+ishu-yat, desiring food (?), I, 128, 4:2.
+
+ishtani? I, 127, 6:1.
+
+ishti, wish, search, I, 143, 8:2; 145, I, 148, 3; IV, 4, 7.
+
+ishti, sacrifice, II, 1, 9:1.
+
+ishti, incitement (?), IV, 6, 7:2.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ I
+
+i: pra imahe vah, we entreat for you, I, 36, 1:1;--a' imahe, we implore, III, 26, 5.
+
+id, to magnify: ile, I, 1, 1:2; 44, 4; III, 1, 15; 27, 2; 12; IV, 3, 3; 9:1; i'late, I, 36, 1; 128, 8; III, 6, 3; 10, 2; 13, 2; 27, 14; V, 1, 7; 8, 3; 9, 1; 14, 2; 3; 21, 3; ilata, I, 96, 3:1; itte, V, 12, 6; ilita, V, 17, 1; 21, 4; ilana, II, 6, 6; 28, 1; ilita, I. 13, 4:1; 142, 4:1; II, 3, 3; V, 5, 3; 7.
+
+ilenya, to be magnified, I, 79, 5; 146, 5; III, 27, 13; V, 1, 9; 14, 5.
+
+i'dya, worthy of being magnified: i'dyah, I, 1, 2; 12, 3:2; 75, 4; 188, 3; II, 1, 4; III, 2, 2; 5, 6; 9; 9, 8; 17, 4; 27, 4; 29, 2; 7; IV, 7, 1; 2; V, 22, 1.
+
+ir: iratam, may they arise, IV, 8, 7; irayadhyai, he shall rise up, IV, 2, 1:1;--a-irire, they have raised, set to work, I, 143, 4; III, 11, 9; 29, 15;--ni erire, they have roused, I, 128, 8; II, 2, 3; IV, 1, 1.
+
+i'vat, like this, IV, 4, 6; 25, 5.
+
+is, to rule: isata, I, 36, 16; II, 7, 2; vasvah ise, I, 71, 9; ya'vat i'se, as far as I have power, III, 18, 3.
+
+isana, master, lord, I, 73, 9; 79, 4; 141, 3.
+
+ish: ishate, they flee, I, 141, 8;--a' ishate, he advances, I, 149, 1:2.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ U
+
+uktha, hymn, litany, I, 27, 12; 71, 2; 140, 13; II, 8, 5; III, 5, 2; 13, 6; 20, 1; IV, 3, 4; 16; 6, 11; 11, 3; V, 4, 7; 6, 9; 18, 4.
+
+ukthavahas, (I, 127, 8:1).
+
+uktha-sas, chanting litanies, IV, 2, 16.
+
+ukthin, rich in hymns, III, 12, 5.
+
+ukthya, praiseworthy, I, 79, 12; III, 2, 13; 15; 10, 6; 26, 2; V, 26, 6.
+
+uksh, to sprinkle: aukshan, III, 9, 9; satyam ukshan, IV, 1, 10.
+
+uksh, to grow. See vaksh.
+
+ukshan, bull, I, 146, 2; II, 7, 5; III, 7, 6; 7:2; V, 27, 5.
+
+ugra, strong, mighty, I, 127, 11; III, 26, 5; IV, 2, 18:3.
+
+Ugra-deva: ugra-devam, I, 36, 18:1.
+
+[p. 435]
+
+ukatha, hymn, I, 73, 10; 143, 6; IV, 2, 20; V, 12, 3.
+
+uttana: uttana', lying extended on her back, II, 10, 3:1; III, 29, 3:2; V, I, 3:4;--nyan uttanah, spread out downwards-turned, IV, 13, 5.
+
+uttana-hasta, with outstretched hand, III, 14, 5:1
+
+ut-vat: ut-vatah ni-vatah, to the heights and to the depths, III, 2, 10.
+
+utsa, spring, III, 26, 9.
+
+udanya, of water, II, 7, 3.
+
+udyata-sruk, the sacrificer who raises the spoon, I, 31, 5.
+
+und, to moisten: havyam undan, II, 3, 2.
+
+upa-a'bhrit, the bringing: urga'm upa-a'bhriti, I, 128, 2.
+
+upa-iti, approaching, supplication, I, 76, 1:1; III, 18, 1.
+
+upa-kshetri, follower, III, 1, 16.
+
+upabdi, noise produced by going, I, 74, 7:1.
+
+upa-ma', high up, I, 31, 15:1
+
+upama', likeness, (I, 31, 15:1).
+
+upa-ma'da, enjoyment, III, 5, 5.
+
+upa-mit, supporting, I, 59, 1:3; pillar, IV, 5, 1.
+
+upara, lower, I, 79, 3:3; 128, 3; uparasu, in our neighbourhood, I, 127, 5:2; uparasya, nearer, IV, 2, 18:6; uparan, getting behind, II, 4, 9:1.
+
+upa-vaktri, the U. priest, IV, 9, 5:1.
+
+upas, lap: upasi (conj. for apasi), (III, 1, 3:3; 11:4).
+
+upa-sad, sitting down (reverentially), II, 6, 1:1.
+
+Upa-stuta, I, 36, 10:1; 17:1.
+
+upa-stuti, praise, I, 148, 2.
+
+upa-stha, lap, I, 95, 4; 5; pitroh upa-sthe, I, 31, 9; 146, 1; III, 5, 8; 26, 9; apa'm upa-sthe, I, 144, 2; matuh upa-sthe, III, 8, 1; 29, 14; V, 1, 6; 19, 1.
+
+upa-stha'yam karati, he goes to greet them, I, 145, 4:3.
+
+upaka, neighbouring, I, 142, 7; III, 4, 6.
+
+upake, near at hand, I, 27, 6; IV, 10, 5; 11, I.
+
+upeti, see upa-iti.
+
+ubh: ubdham, closed, IV, 1, 15;--sam-ubdham, confined, V, 2, 1:1.
+
+ubha, both; ubha' for ubhe, I, 140, 3:1; ubhe iti toke iti tanaye, I, 147, 1:3.
+
+ubhaya, both, I, 26, 9:1; 31, 7; ubhayan, both (kinds of men, the pious and the impious), I, 189, 7:2; of both kinds (wealth), II, 9, 5:1.
+
+uru, wide: uru kshayaya kakrire, I, 36, 8; urvi', the wide (Earth), I, 146, 2; II, 4, 7; uru, wide space, III, 1, 11:1.
+
+uru-gaya, wide-ruling, II, 1, 3; III, 6, 4:5; IV, 3, 7; 14, 1.
+
+uru-grayas, extending over wide spaces, V, 8, 6.
+
+uru-vyank, far-reaching, V, 1, 12.
+
+uru-samsa, widely-renowned: uru-samsaya, I, 31, 14.
+
+urushy, to guard, deliver: urushya, I, 58, 8; 9; IV, 2, 6; to keep off: aditim urushya, IV, 2, 11:3; urushyat, he has escaped into wide space, III, 5, 8.
+
+urvara, field, I, 127, 6.
+
+Urvasi: urvasih, IV, 2, 18:4.
+
+urviya', far and wide, I, 141, 5; II, 3, 5; III, 1, 18; V, 18, 1.
+
+ulka', firebrand, IV, 4, 2.
+
+us, see vas.
+
+usadhak, eagerly burning, III, 6, 7:3.
+
+Usig, (Agni) the Usig (or willing one), III, 3, 7; 8; 11, 2:1; 27, 10:3;--pl., the Usigs, mythical priests, I, 60, 2:1; 4; 128, 1:2; 189, 7; II, 4, 5:3; III, 2, 4:2; 9; 15, 3:2; IV, 1, 15:1; V, 3, 4.
+
+ush, to burn down: ushnan, II, 4, 7;--ni oshatat, burn down, IV, 4, 4.
+
+ush, to shine. See vas.
+
+ushah-budh, awakening with the dawn, I, 44, 1; 9; 65, 9; 127, 10; III, 2, 14; IV, 6, 8.
+
+ushar, dawn: usra'h, gen. sing., I, 71, 2:2.
+
+ushas, dawn, I, 71, 1; 94, 5; ushasah navedah, I, 79, 1:3; vastoh ushasah, I, 79, 6; dosha' ushasi, II, 8, 3; IV, 2, 8; prati dosha'm ushasam, IV, 12, 2; ushasah vi-roke, III, 5, 2; ushasah vi-ushtau, III, 15, 2; IV, 1, 5; 14, 4;--Dawn, the goddess, I, 44, 1:1; 2; 8; 14; III, 17, 3:1; 20, 1; IV, 2, 15; 3, 11:2; V, 1, [p. 436] 1; 28, 1; ushah garah, lover of the Dawn, I, 69, 1:1; 9; devi' usha'h, III, 20, 5; IV, 1, 17; 14, 3; dosha'm ushasam, Night and Morning, V, 5, 6;--du., nakta ka ushasa, I, 73, 7; ushasau, the two Dawns, Night and Dawn, I, 188, 6:2; III, 4, 6:1; 14, 3; V, 1, 4;--ushasah, the Dawns, I, 44, 10; II, 2, 2; 7; 8; III, 5, 1; IV, 1, 13:3; 2, 19; 5, 13; 14, 1; ushah vibhati'h, III, 6, 7; ushasah ushuh, III, 7, 10; ushasam agram, IV, 13, 1.
+
+ushasanakta, Dawn and Night, II, 3, 6.
+
+usra, bright, I, 69, 9.
+
+usra', milch-cow, IV, 1, 13; see also ushar.
+
+usriya, ruddy cow, III, 1, 12:4; IV, 5, 8:2; 9.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ U
+
+uti, blessing, protection, I, 36, 13, &c.
+
+u'dhan, udder, I, 69, 3:1; 146, 2; III, 29, 14; IV, 1, 19; 3, 10; pituh u'dhah, III, 1, 9:1; sasmin u'dhan, IV, 7, 7:2; 10, 8:1.
+
+u'ma, helpful, III, 6, 8:1.
+
+urg: mahi urgayantih, giving mighty vigour, III, 7, 4.
+
+u'rg, vigour: urgam pate, I, 26, 1; u'rgah napat, I, 58, 8; II, 6, 2; III, 27, 1 2; V, 7, 1; 17, 5; urgah putram, I, 96, 3; urga' pinvasva, III, 3, 7.
+
+u'rna-mradas, soft like wool, V, 5, 4:1.
+
+urnu: vi urnot, he has revealed, I, 68, 1; vi aurnot, he has opened, I, 68, 10.
+
+urdhva, straight, standing erect, I, 36, 13; 14; 95, 5, &c.
+
+urmi, wave, I, 27, 6; 44, 12; 95, 10.
+
+u'rmya, night, II, 4, 3.
+
+urva, stable, stall, prison, I, 72, 8; III, 1, 14; IV, 2, 17; 12, 5.
+
+uh: uhe, he is considered, V, 3, 9:1.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ RI
+
+ri, to go, &c.: rinvati, he procures, I, 128, 6; he hastens, I, 144, 5; arta tmana divah, arose, V, 25, 8:2;--abhi aruh, they ran up to, III, 1, 4;--ut-a'ritha, thou hast sprung, II, 9, 3; ut iyarti va'kam, he raises his voice, III, 8, 5:3; ut arta, it rose up, IV, 1, 17; ut aram, IV, 15, 7;--pra aruh, they have risen, III, 7, 1; pra iyarmi, I stretch forth, III, 19, 2; pra arta, it came forth, IV, 1, 12;--vi rinvati, he discloses, I, 58, 3; vi rinvan, they opened, I, 69, 10; vi rinvati, he opens, I, 128, 6; V, 16, 2;--sam-a'rata, he has come together, I, 145, 4:1; sam rinvati, it accomplishes, III, 2, 1; he sets himself in motion, III, 11, 2:2; sam-ritah, erected, IV, 13, 5.
+
+rikvan, singer, III, 13, 5.
+
+rigmiya, praiseworthy, III, 2, 4.
+
+rik, see ark.
+
+rik, hymn, (sacrificial) verse, I, 36, 11; II, 3, 7; V, 6, 5; 27, 4.
+
+rig, ring, to press on, strive forward: ringasana, I, 58, 3; 96, 3; ringan, I, 95, 7; ringate, I, 141, 6; 143, 7; II, 1, 8; 2, 5; ringase, I press on, IV, 8, 1;--abhi rigyate, I, 140, 2;--a' ringase. V, 13, 6:1;--ni ringate, he throws down, I, 143, 5; ni ringe, I catch hold, III, 4, 7.
+
+rigika (I, 44, 3:1).
+
+rigu, rightly, II, 3, 7; right deeds, IV, 1, 17.
+
+rigu-ank, going straight forward, IV, 6, 9.
+
+rigu-mushka, puissant, IV, 2, 2; 6, 9.
+
+rigu-yat, righteous, V, 12, 5.
+
+rina, debt, IV, 3, 13:2.
+
+rita, the Rita, Right, I, 1, 8; 75, 5:1; 79, 3; 141, 1; 11; III, 4, 7; 6, 6; IV, 1, 13:2; 2, 3:1; 14:3; 16; 19:1; 3, 4:2; 9-12; 5, 11; V, 1, 7; 12, 1:1; 6:1; 15, 2; 20, 4; rita't adhi, on behalf of Rita, I, 36, 11:1; ritasya vrata', I, 65, 3; ritasya yoni, I, 65, 4; III, 1, 11; IV, 1, 12; V, 21, 4; dha'ram ritasya, I, 67, 7:1; V, 12, 2; rita' sapantah, I, 67, 8; 68, 4; ritasya preshah ritasya dhitih, I, 68, 5:1; dadhan ritam, I, 71, 3:1; ritasya dhenavah, I, 73, 6: ritasya patha', I, 128, 2; yahvi' iti ritasya, matara, I, 142, 7; V, 5, 6; ritasya dhuh-sadam, I, 143, 7; ritasya dohanah, streams of Rita, I, 144, 2:1; rathi'h ritasya, III, 2, 8; IV, 10, 2; ritasya sa'man, I, 147, [p. 437] 1:4; ritam yate, I, 188, 2; purvi'h ritasya sam-drisah, III, 5, 2; ritasya sadasi, III, 7, 2; gopa'h ritasya, III. 10, 2; ritasya pathyah anu, III, 12, 7; ritasya yoge vanushah, eager to set to work the Rita, III, 27, 11:1; .ritena ritam ni-yatam, IV, 3, 9:[1, 2]; ritasya pade, IV, 5, 9; ritasya dha'man, IV, 7, 7:3; ritasya rasmim, V, 7, 3; ritena, in the right way, III, 4, 5; 5, 3;--adj., righteous, IV, 3, 8:1.
+
+rita-kit, intent upon Rita (Right), I, 145, 5; IV, 3, 4; V, 3, 9.
+
+rita-gata, born in or from the Rita: rita-gatah, I, 36, 19; 144, 7; 189, 6; III, 6, 10; 20, 2.
+
+rita-gna, knowing the right way, I, 72, 8.
+
+rita-pa', protecting the Rita, (III, 20, 4:1; V, 12, 3:2).
+
+rita-pragata, born from Rita, I, 65, 10.
+
+rita-pravita, penetrated by Rita, I, 70, 7.
+
+ritay, to perform the Rita: ritayan ritena, V, 12, 3.
+
+rita-yat, righteous, II, 1, 2; IV, 8, 3; V. 27, 4.
+
+rita-yu, loving Rita, V, 8, 1.
+
+rita-van, righteous, I, 77, 1; 2; 5; III, 2, 13; 6, 10; 13, 2; 14, 2; 20, 4; IV, 1, 2; 2, 1; 6, 5; 7, 3; 7; 10, 7; V, 1, 6; 25, 1.
+
+rita-vridh, increaser of Rita, I, 13, 6; 44, 14; 142, 6; III, 2, 1.
+
+ritu, season, I, 95, 3:3; V, 12, 3:2.
+
+ritu-tha', observing the right time, II, 3, 7.
+
+ritu-pa', guardian of the seasons, III, 20, 4:1; V, 12, 3:2.
+
+ritvig, ministrant, priest, I, 1, 1; 44, 11; 45, 7; 60, 3; II, 5, 7:1; III, 10, 2; V, 22, 2; 26, 7.
+
+ritviya, at the appointed season, I, 143, 1; II, 1, 2; III, 29, 10.
+
+ridh, to accomplish: ridhya'ma, I, 31, 8; IV, 10, 1:1.
+
+ridhak, in one's peculiar way, III, 25, 1:1.
+
+Ribhu, II, 1, 10:1; III, 5, 6:1; V, 7, 7.
+
+rishi, a Rishi, I, 1, 2; 31, 1; 66, 4; III, 21, 3; sahasram rishibhih, I, 189, 8.
+
+rishi-krit, making (one) a Rishi, I, 31, 16:3.
+
+rishu, pl., dawns (?), I, 127, 10:5; V, 25, 1:2.
+
+rishva, tall, I, 146, 2; III, 5, 5; 7; 10; IV, 2, 2.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ E
+
+eka: ekah-ekah, every one, III, 29, 15.
+
+eka-ayu, of unique vigour, I, 31, 5.
+
+ena, variegated: eni iti, I, 144, 6:1.
+
+enas, sin, I, 189, 1; III, 7, 10:3; IV, 12, 4; 5; V, 3, 7.
+
+eman, course, path, I, 58, 4:4; IV, 7, 9.
+
+eva, way: evaih, in due way, I, 68, 4; 95, 6; evena, in his way, I, 128, 3; aryah evaih, IV, 2, 12:3;--the going, I, 79, 2.
+
+eva, thus, I, 76, 5; 77, 5; 95, 11; III, 17, 2; evam, Samh., V, 6, 10:1.
+
+esha, rapid, (IV, 2, 4:1).
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ O
+
+oka, homestead, I, 66, 3.
+
+ogayamana, displaying his power, I, 140, 6.
+
+ogishtha, richest: ogishtham medah, III, 21, 5:1.
+
+oshadhi, herb, I, 59, 3; 98, 2; II, 1, 1; 4, 4; III, 1, 13; 5, 8:1; 22, 2; V, 8, 7.
+
+oha, heedfulness, IV, 10, 1:2.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ K
+
+Kanva, I, 36, 8; 10:1; 11; 17; 19; kanvasah, I, 44, 8; Kanvasya sunavah, I, 45, 5.
+
+katidha' kit, everywhere, I, 31, 2.
+
+kada' kana, never, I, 150, 2.
+
+kan: tasya kakan, therewith he is satisfied, I, 148, 2; kakanah, loving, III, 5, 2; ka'nishah, take joyfully, III, 28, 5; kakanah, delighting, desiring, V, 3, 10; 27, 3:1;--a'. kake, he desires, III, 3, 3; a' kake, I love, III, 3, 10.
+
+kanya', maiden, I, 66, 8:1; kani'nam, V, 3, 2.
+
+kaya: kayasya kit, of whomsoever, I, 27, 8; kaya, how, V, 12, 3.
+
+kar, to praise, (1, 45, 4:1).
+
+karasna, arm: sripra' karasna, III, 18, 5:1.
+
+karmanya, able, III, 4, 9.
+
+karman, work, deed, I, 31, 8; III, 12, 6.
+
+kalyana, beautiful, I, 31, 9.
+
+kavi, sage, I, 12, 6; 7; 13, 2; 8, &c.; I, 95, 8:2; dhi'rasah kavayah, 1, 146, 4.1.
+
+[p. 438]
+
+kavi-kratu, having the mind of a sage, thoughtful, I, 1, 5; III, 2, 4; 14, 7; 27, 12; V, 11, 4.
+
+kavi-khad, showing himself as a sage, III, 12, 3:1.
+
+kavi-tama, the highest sage, III, 14, 1.
+
+kavi-prasasta, praised by sages, V, 1, 8.
+
+kavi-sasta, praised by the sages, III, 21, 4; 29, 7.
+
+kavyata, wisdom, I, 96, 2.
+
+ka: ka'yamanah, finding pleasure, III, 9, 2. See kan.
+
+ka'mya, of love: dugdham na ka'myam, V, 19, 4:1.
+
+kara, race: bhagam na kare, I, 141, 10:1;--triumph: abhi karam arkan, IV, I, 14:2.
+
+karu, singer, I, 31, 8; 9; 148, 2; II, 2, 9; III, 6, 1.
+
+ka'vya, quality of a sage, wisdom, I, 72, 1:1; 96, 1; II, 5, 3; III, 1, 8; 17; 18; IV, 3, 16; 11, 3; V, 3, 5.
+
+ka'shtha, pl., the (aerial) arena, I, 59, 6; race-course, I, 146, 5.
+
+kiyat, however small, IV, 5, 6.
+
+kiri, poor, humble, I, 31, 13:3; V, 4, 10:1.
+
+Kista: Kista'sah, the Kistas, I, 127, 7:1.
+
+kupaya, agitating, I, 140, 3.
+
+kumara, prince, IV, 15, 7-10; boy, V, 2, 1:1; 2.
+
+kulisa, axe, III, 2, 1.
+
+Kusika, pl, the Kusikas, III, 26, 1:1; 3; 29, 15.
+
+kukit-arthin, striving for all that is desired, IV, 7, 6.
+
+kri, to make, &c.: yagnam krinotana, I, 13, 12; krinuhi, I, 31, 8; kridhi nah raye, help us to wealth, III, 15, 3:3; krinoti deva'n martyeshu, he conveys the gods to the mortals, I, 77, 1:1; karikratah, displaying, I, 140, 5:1; kritah (read parishkritah?), adorned, I, 141, 8:1; dhiya' kakre, III, 27, 9:1; krantah, IV, 2, 14; akarma te, we have done our work for thee, IV, 2, 19;--aram karat, he may readily serve, II, 5, 8; uru kakrire, they have made wide room for, I, 36, 8; satra' kakranah, I, 72, 1;--a' krinoshi, thou givest, I, 31, 7; a' krinudhvam, bring hither, I, 77, 2;--apa a' kridhi, drive away, III, 16, 5:2;--ni kah, he has brought down (i. e. surpassed), I, 72, 1:1;--parikrita, made ready, III, 28, 2;--sam akrinvan tegase, they have sharpened, III, 2, 10; see krana'.
+
+kridhu, weak, IV, 5, 14.
+
+krip: akripran, they have pined, IV, 2, 18:4.
+
+krip, body, I, 127, I; 128, 2.
+
+krishti, human race, I, 36, 19; 59, 5; 74, 2; 189, 3;--tribe, clan, V, 1, 6; 19, 3 dwelling, II, 2, 10.
+
+krishna, black, I, 58, 4:4; 73, 7; 141, 8:2; krishnah vrishabhah, I, 79, 2:2; darkness, I, 140, 5; krishna'su, in the dark nights, III, 15, 3.
+
+krishna-adhvan, whose path is black, II, 4, 6.
+
+krishna-gamhas, speeding on his black way, I, 141, 7.
+
+krishna-pruta, immersed in darkness, 1, 140, 3.
+
+krishna-vyathi, with a black trail, II, 4, 7:1.
+
+krishna-sita, drawing black furrows, I, 140, 4.
+
+klip: kakripanta dhibhih, they chanted their prayers, IV, 1, 14.
+
+keta, desire, I, 146, 3.
+
+ketu, light, shine, splendour, I, 36, 14; IV, 7, 4; 14, 2; V, 7, 4; ketum usra'h, I, 71, 2:2;--ketu, beacon, banner, I, 27, 12; III, 1, 17; 2, 14; V, 11, 3; vidathasya, I, 60, 1; yagnasya, I, 96, 6; 127, 6; III, 11, 3; 29, 5; V, II, 2; yagna'nam, III, 3, 3; adhvarasya, III, 8, 8; adhvara'nam, III, 10, 4.
+
+kevala, alone, I, 13, 10.
+
+kesin, long-haired, I, 140, 8; long-maned, III, 6, 6.
+
+kratu, power of mind, wisdom, I, 65, 9; 67, 2; 68, 3; 69, 2; 73, 2; 77, 3:1; 128, 4; 141, 6; 9; 143, 2; 145, 2; II, 5, 4; III, 2, 3; 6, 5; 9, 6; 11, 6; IV, 5, 7; 10, 1; 2; 12, 1; V, 10, 2; 17, 4;--mind, I, 66, 5:2; will, I, 68, 9; iti kratva, with this intention, IV, 1, 1:1;--power, I, 127, 9; 128, 5; III, 1, 5:1.
+
+[p. 439]
+
+krand, to neigh, bellow, roar: krandat, I, 36, 8; akikradat, I, 58, 2; kanikradat, bellowing, I, 128, 3:1; krandan, III, 26, 3.
+
+kram: pari akramit, he has circumambulated, IV, 15, 3.
+
+krana', as soon as, I, 58, 3:1; V, 7, 8:2; indeed, V, 10, 2:1.
+
+krid, to sport: kri'lantah, IV, 4, 9; kri'lan, V, 19, 5.
+
+kshatra, royal power, IV, 4, 8; V, 27, 6.
+
+kshatriya, royal power, IV, 12, 3:1.
+
+kshap, night: kshapah (conj. kshapah), I, 44, 8;2; kshapah (conj. kshapah), nights and dawns, I, 70, 7:1: kshapah, by night, I, 79, 6; kshapah sam-yatah, II, 2, 23.
+
+kshapa'-vat, earth-protecting, 1, 70, 5:1.
+
+ksham, earth, (I, 79, 3:2); III, 8, 7.
+
+kshaya, dwelling, I, 36, 8; 74, 4; 144, 7; III, 2, 6; 3, 2; 11, 7:2; V, 9, 2; 12, 6; 23, 4; divi kshayam (conj. divikshayam), III, 2, 13:1.
+
+kshar, to flow: ksharasi, I, 27, 6; ksharanti, I, 72, 10.
+
+ksha', earth, I, 67, 5:2; 95, 10; 96, 7:1; 189, 3; visvasu ksha'su, I, 127, 10:[2, 3].
+
+ksha'man, earth, IV, 2, 16.
+
+kshi, to dwell: ksheti, I, 94, 2; ksheshyantah, going to settle, II, 4, 3:1; kshayah, III, 8, 1; kshepayat, may he give us dwelling, V, 9, 7;--prithivi'm upa-ksheti, he dwells on the earth, I, 73, 3;--prati-kshiyantam, who abides turned towards, II, 10, 4;--to rule: kshayan, III, 25, 3; kshayasi, IV, 5, 11.
+
+kshiti, dwelling, human settlement, I, 59, 1; 65, 5; 72, 7; 73, 4; II, 2, 3; III, 3, 9; 13, 4:1; 14, 4; IV, 5, 15:1; V, 7, 1;--tribe, III, 18, 1; V, 1, 10; kshitina'm, daivinam, III, 20, 4.
+
+kship, finger: dasa kshipah, III, 23, 3.
+
+kshipra', a tossing (bow?), IV, 8, 8:1.
+
+kshi, to fail: kshiyate, II, 9, 5.
+
+kshu-mat, rich in food, II, 1, 10; 4, 8; 9, 5; IV, 2, 18:2.
+
+kshe? IV, 3, 6:5.
+
+kshetra, dwelling-place, V, 2, 3:1; 4.
+
+kshetra-sa'dhas, giving bliss to our fields, III, 8, 7:2.
+
+kshema, safety, peace, I, 66, 3; 67, 2.
+
+kshema-yat, living in peace, III, 7, 2.
+
+kshoda, stream, I, 65, 5; 6;1; 10.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ KH
+
+kha, opening, IV, 11, 2.
+
+khya: prati akhyat, he has looked on, IV, 13, 1; 14, 1;--vi akhyan, they looked around, IV, 1, 18.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ G
+
+gana, troop: ganam-ganam, III, 26, 6; crowd, V, 1, 3.
+
+ganya, belonging to the host, III, 7, 5.
+
+gabhira, deep, IV, 5, 5:3; 6.
+
+gam, to go: gagamyat, I, 58, 9; pari-sadantah agman, IV, 2, 17:4;--akkha gamema, we may obtain, IV, 5, 13;--sam-gatani, comprised, I, 31, 5:1; sam-gagmana'su krishtishu, when the human tribes met (in battle), I, 74, 2; manasa sam gagmuh, they agreed in their mind, III, 1, 13.
+
+gaya, home, I, 74, 2; dominion, V, 10, 3.
+
+garbha, womb, I, 65, 4; 148, 5;--fruit of the womb, germ, I, 95, 2; 4; 146, 5; II, 10, 3; III, 1, 6; 10:1; 2, 10; 29, 2; 11; V, 2, 2; bhuta'nam garbham, III, 27, 9;--child, son: garbhah apa'm, vananam, &c., I, 70, 3; III, 1, 12; 13; 5, 3; garbhah virudham, II, 1, 14; dadhate garbham, IV, 7, 9:1.
+
+garbhini, pregnant, III, 29, 2.
+
+garh, to blame: garhase, IV, 3, 5.
+
+gavisha, see go-isha.
+
+gavishti, see go-ishti.
+
+Gavishthira, V, 1, 12.
+
+gavya, of the cows, I, 72, 8; IV, 2, 17;--bliss in cows, I, 140, 13.
+
+gavyat, longing for the cows, IV, 1, 15.
+
+ga, to go: pra-gigatah, coming forward, I, 150, 2.
+
+ga, to sing: akkha agnim gasi, V, 25, 1:1.
+
+gatu, path, course, I, 71, 2; 72, 9; 95, 10; 96, 4; III, 1, 2; 4, 4.
+
+gayatra, Gayatra song, I, 12, 11; 27, 4; 79, 7; 188, 11.
+
+gayatra-vepas, moved by the Gayatra song, I, 142, 12.
+
+gah, to dive: ati gahemahi, II, 7, 3.
+
+gir, praise, prayer, I, 26, 5; 59, 4:1; II, 2, 1:2, &c.
+
+[p. 440]
+
+giri, hill, I, 65, 5.
+
+girvanas, loving praises, I, 45, 2; II, 6, 3.
+
+gu: goguve, he ha; loudly praised, I, 127, 10:2.
+
+gur: gugurvani iti, eager in praising, 1, 142, 8;--abhi guguryah, approve, I, 140, 13.
+
+guru, heavy: mantrah guruh, I, 147, 4.
+
+guh, to hide: guhamanah, IV, 1, 11.
+
+guh, covert: guha' guham, I, 67, 6:3.
+
+guha, in secret, I, 65, 1; 67, 3; II, 4, 9:1; III, 1, 9; 14; V, 2, 1; 15, 5; guha bhavantam, santam, the hidden one, I, 67, 7; 141, 3; III, 5, 10; V, 8, 3; guha hitam, hidden, IV, 5, 8:1; 7, 6; V, 11, 6.
+
+guhya, secret, I, 72, 6; IV, 5, 10; V, 3, 2; 3; 5, 10.
+
+gri, to praise, I, 44, 6, &c.; grinite, he is praised, I, 79, 12:1;--deshnam abhi grinihi, hail our gift, II, 9, 4; abhi grinitah, they salute, III, 6, 10; girah abhi grina'ti, he responds to my hymns, V, 27, 3.
+
+gri: gagri-va'msah, having awoke, III, 10, 9; agigar iti, he has awakened, V, 1, 3:1. See gri.
+
+gritsa, clever, III, 1 , 2; 19, 1; IV, 5, 2.
+
+Gritsa-mada: gritsa-mada'sah, II, 4, 9.
+
+gridhnu, greedy, I, 70, 11:2.
+
+griha-pati, master of the house, I, 12, 6; 36, 5; 60, 4; II, 1, 2:3; IV, 9, 4; 11, 5; V, 8, 1; 2.
+
+go, cow, I, 31, 12, &c.; 95, 8:1; V, 1, 3:2; 3, 2:2; astam na ga'vah, I, 66, 9; u'dhah na gonam, I, 69, 3; puru-damsam sanim goh, III, 1, 23; eka gauh, III, 7, 23; guhyam na'ma gonam, V, 3, 3; avindat ga'h, V, 14, 4:1; anasvanta ga'va, two oxen with a car, V, 27, 1.
+
+go-agra, at the head of which are cows, II, 1, 16:1.
+
+go-isha, fighting for cows, IV, 13, 2:3.
+
+go-ishti, 'striving for cows,' battle, I, 36, 8; (45, 7:1).
+
+go-rigika, (I, 44, 3:1).
+
+Gotama, 1, 79, 10; IV, 4, 11; pl., the Gotamas, I, 60, 5; 77, 5; 78, 1; 2:1.
+
+gopa', shepherd, guardian, protector, I, 96, 7; II, 9, 2; 6; III, 15, 2; V, 2, 5; 11, I; 12, 4; gopam ritasya, I, 1, 8; III, 10, 2; visa'm gopa'h, I, 94, 5:1; 96, 4.
+
+go-mat, rich in, or consisting in, cows, I, 79, 4; III, 16, 1; IV, 2, 5:1; V, 4, 11; 24, 2; vragam go-mantam, full of cows, IV, 1, 15.
+
+gauri', buffalo cow: gauryam, IV, 12, 6.
+
+gna', wife, IV, 9, 4:1.
+
+gna'vat, accompanied by the divine wives: gna'vah (conj. gnavah), II, 1, 5:1.
+
+grabhana-vat, a firm hold, I, 127, 5:5.
+
+gra'ma, hamlet, I, 44, 10.
+
+gra'van, pressing-stone (of the Soma), IV, 3, 3:1; V, 25, 8:1.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ GH
+
+ghana, club, I, 36, 16:1.
+
+gharma, offering of hot milk to the Asvins, III, 26, 7:2; the gharma vessel, V, 19, 4.
+
+ghush: ghoshi, it resounded, IV, 4, 8.
+
+ghri, to besprinkle: gigharmi, II, 10, 4; 5.
+
+ghrina, heat: ghrina', I, 141, 4:4.
+
+ghrita, the Ghrita, or ghee, I, 72, 3; 127, 1, &c.; II, 3, 11:2; 5, 6:1; ghrita'ni aksharan, I, 188, 5; ghritam na putam, III, 2, 1; ghritebhih a'-hutah, worshipped by offerings of ghrita, II, 7, 4:1; suki ghritam na taptam, IV, 1, 6.
+
+ghrita-ahavana, to whom ghrita oblations are poured out, I, 12, 5; 45, 5.
+
+ghrita-nirnig, whose stately robe is ghee, III, 17, 1; 27, 5.
+
+ghrita-prishtha, whose back is covered with ghee, I, 13, 5; V, 4, 3; 14, 5.
+
+ghrita-pratika, whose face shines with ghee, I, 143, 7; III, 1 , 18; V, 11, 1.
+
+ghrita-prasatta, taking his seat in ghee, V, 15, 1.
+
+ghrita-prush, ghrita-sprinkling, I, 45, 1; II, 3, 2.
+
+ghrita-yoni, having his abode in ghee, (I, 140, 1:2); III, 4, 2:1; V, 8, 6.
+
+ghrita-vat, rich in ghee, I, 142, 2; III, 5, 6; 7; 21, 2.
+
+[p. 441]
+
+ghrita-skut, dripping with ghee, III, 21, 3; V, 14, 3.
+
+ghrita-sri', adorned with ghee, I, 128, 4; V, 8, 3.
+
+ghrita-sna', swimming in ghee, IV, 6, 9.
+
+ghrita-snu, swimming in ghee, III, 6, 6:1; IV, 2, 3:1; V, 26, 2.
+
+ghrita'ki, (the ladle) full of ghee, III, 6, 1; 19, 2; 27, 1; IV, 6, 3; V, 28, 1.
+
+ghrishvi, brisk, IV, 2, 13.
+
+ghora, terrible, IV, 6, 6.
+
+ghosha, noise, III, 7, 6.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ K
+
+ka, and: ka ratham for karatham, I, 70, 7:2; (in the first member), I, 77, 2:2.
+
+kakri, maker, III, 16, 4.
+
+kaksh, to look: satam kakshanah akshabhih, I, 128, 3;--anu kakaksha, V, 2, 8;--abhi kakshase, V, 3, 9;--vi kashte, I, 98, 1; V, 19, 1:3;--nah kridhi samkakshe, make us behold, I, 127, 11.
+
+kakshana, appearance, I, 13, 5.
+
+kakshas, look, sight, I, 96, 2:3; V, 15, 4.
+
+kat, to hide: katantam, I, 65, 1;--pra katayasva, drive away, V, 4, 6.
+
+katuh-aksha, four-eyed: katuh-akshah, I, 31, 13:2.
+
+katuh-pad, four-footed, I, 94, 5.
+
+kanah-hita, with satisfied mind, III, 2, 2; 7; 11, 2.
+
+kanas: kanah dhah, accept, I, 26, 10.
+
+kandra, gold, II, 2, 4:2.
+
+kandra-ratha, with a shining chariot, I, 141, 12; III, 3, 5.
+
+kar, to move, walk: karathaya givase, that that we may walk and live, I, 36, 14; kara'tha (conj. karatha), I, 66, 9:1; karatah dhruvasya, of whatever moves or is firm, I, 146, 1; guha karantam, III, 1, 9:3;--nih karati, he comes forward, I, 95, 4;--te pari karanti, they walk around thee, I, 127, 9:2;--vi karanti, spread around, I, 36, 3;--abhi vi karanta, they have come hither and thither, III, 4, 5.
+
+karatha, all that moves, (I, 66, 9:1); sthatuh karatham, I, 58, 5:2; 68, 1; 70, 7:2; sthata'm karatham, I, 70, 3; sthatri'n karatham ka, I, 72, 6:2.
+
+karishnu, speedy, IV, 7, 9.
+
+karman, skin: sasasya karma, III, 5, 6:2; 7:1;--karma-iva, like a hide, IV, 13, 4.
+
+karshani, human tribe, I, 127, 2; III, 6, 5; 10, 1; IV, 7, 4; 8, 8; V, 23, 1.
+
+karshani-dhrit, supporting the human tribes, IV, 1, 2.
+
+karshani-pra', filling the dwellings of people, IV, 2, 13.
+
+kasha'la-vat, with head-pieces, III, 8, 10:1.
+
+kayu, respectful, III, 24, 4.
+
+ka'ru, beautiful, I, 58, 6, &c.; ka'ru, loc., I, 72, 2:3.
+
+ka'ru-pratika, cheerful-faced, II, 8, 2.
+
+ki: ni-ka'yya, revering, III, 26, 1;--vi kinavat, may he distinguish, IV, 2, 11.
+
+kikitvit-manas, attentive-minded, V, 22, 3.
+
+kit, to shine, light up: kitayantam, II, 2, 4; kitayat, II, 2, 5; kitayema, II, 2, 10; kitrena kikite bhasa', II, 4, 5; kiketa, II, 4, 6; kekitanah, resplendent, III, 29, 7; kiketa, he has distinguished himself, V, 27, 1;--pra kiketa, he has shone forth, V, 19, 1;--vi kikite, it shines, I, 71, 7:3.
+
+kit, to see, watch, be intent on: kiketa, I, 67, 7; kiketat asmai, may he pay attention to this (sacrificer), I, 69, 9; kitayantah, awaking attention, I, 94, 4; ketati, I, 128, 4; III, 11, 3:1; ketate, III, 14, 2; kikitanah akittan, seeing the unseen ones, III, 18, 2; ketatah, attentive, IV, 5, 4; kikiddhi, V, 22, 4:1; ketayat, he has enlightened, IV, 1, 9:1; kitayan, enlightening, V, 15, 5:3; kikitva'n, knowing, I, 68, 6, &c.;--a' kiketa, he has understood, I, 95, 4;--keti pra, it has been known, III, 12, 9;--vi kitayantah, causing to discern, V, 19, 2;--sam-kikitva'n, looking over, IV, 7, 8.
+
+kiti, pile, (1, 67, 10:1).
+
+kitta, mind, V, 7, 9.
+
+[p. 442]
+
+kitti, splendour (?), I, 67, 10:1.
+
+kitti, thought, III, 2, 3; 3, 3; wisdom, IV, 2, 11.
+
+kitra, bright, excellent, I, 66, 1; 6, &c.
+
+kitra-bhanu, with bright splendour, I, 27, 6; II, 10, 2; V, 26, 2.
+
+kitra-yama, whose way is bright, III, 2, 13.
+
+kitra-sokis, of bright splendour, V, 17, 2.
+
+kitrasravah-tama, whose glory is brightest, I, 1, 5; 45, 6.
+
+kud, to quicken, promote: kodayasi, I, 94, 15; kodayata, I, 188, 8.
+
+krit: vi kritanti, they get off, I, 67, 8.
+
+ketana, brilliant, II, 5, 1:2; III, 12, 2;--n., splendour, light, I, 13, 11; III, 3, 8; IV, 7, 2.
+
+ketishtha, most famous, I, 65, 9; most shining, I, 128, 8; most brilliant, V, 27, I.
+
+koda, driver, I, 143, 6.
+
+kodayat-mati, stirring thoughts, V, 8, 6.
+
+kyu: a' tva akukyavuh, they have made thee speed hither, I, 45, 8.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ KH
+
+khad, to show oneself: khadayati, III, 9, 7.
+
+khaya', shadow, I, 73, 8.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ G
+
+gathara, belly, I, 95, 10; III, 2, 11; 22, 1; 29, 14:1.
+
+gan, to be born: gagnanah, I, 12, 3; gatah and gani-tvah, I, 66, 8:1; ganayat, he caused to be born, I, 72, 8:5; gatasya ka ga'yamanasya ka ksha'm, the earth (i. e. the support) of what is born and what will be born, I, 96, 7:1; ga'yemahi, we may multiply with offspring, I, 97, 4; ganamasi, III, 2, 1:1; gatah gayate, III, 8, 5:1; ganata, they have generated, IV, 1, 1; gata'n ubhayan, the two races (of men and gods), IV, 2, 2; ganitos, from giving birth, IV, 6, 7;--a' ga'yamanam (conj. ga'yamana), I, 60, 3:1;--pragagni-va'n, generator, III, 2, 11.
+
+gana, man, people, I, 36, 2, &c.; daivyam ganam, the divine host, I, 31, 17; 44, 6; 45, 1:[1, 2]; 9; 10; V, 13, 3; ganaya sasvate, I, 36, 19.
+
+ganas, tribe: ganasi iti ubhe iti, both tribes (of gods and of men), II, 2, 4.
+
+gani, wife, I, 66, 8; ganayah sanilah, I, 71, 1;--woman, III, 26, 3:1; IV, 5, 5.
+
+ganitri, begetter, I, 76, 4:4; ganita', rodasyoh, I, 96, 4; pituh ka garbham ganituh ka, III, 1, 10:1; dyauh pita' ganita', IV, 1, 10.
+
+gani-tva, who will be born: gani-tvam (conj. gani-tvah), I, 66, 8:1.
+
+ganiman, birth, III, 1, 4; 20; trih ganimani, IV, 1, 7;--deva'namn ganimani, III, 4, 10; IV, 2, 17; 18;--offspring, V, 3, 3.
+
+ganus, birth: ganusha, by birth, by nature, I, 94, 6; III, 1, 3; 9; 2, 2; ganusham, I, 141, 4.
+
+gantu, people, human creature, I, 45, 6, &c.; manushah gantu-bhih, III, 3, 6.
+
+ganman, birth: ma'nushasya ganasya ganma, 1, 70, 2; deva'nam ganma, I, 70, 6; ganma-iva nityam tanayam, III, 25, 2:1;--birthplace: parame ganman, II, 9, 3;--race: ubhayaya ganmane, I, 31, 7; divya'ya ganmane, I, 58, 6; deva'n (i. e. deva'm) ganma, I, 67, 3:[5, 6]; ganmani iti ubhe iti, 1, 141, 11:3; ganma ubhaya, II, 6, 7; ganman-ganman, generation by generation, III, 1, 20; 21.
+
+ganya, belonging to one's own people: ganya-iva (conj. ganyah-iva), II, 6, 7:1.
+
+gabaru? IV, 5, 7:1.
+
+gambha, jaw, I, 143, 5; 148, 4; IV, 7, 10.
+
+gar, see gri.
+
+garana, sound (?), I, 141, 7:1.
+
+garat-visha, busy among the decayed (wood), V, 8, 2:1.
+
+Gara-bodha, N. pr. Gara-bodha, I, 27. 10:1.
+
+garitri, praiser, I, 189, 4; II, 9, 5; III, 7, 6:1; 12, 2; 5; 15, 5; V, 3, 11.
+
+gariman, old age, I, 71, 10.
+
+gavishtha, most swift, IV, 2, 3.
+
+ga', people: nah ga'h, I, 143, 8.
+
+gah-patya, householdership, V, 28, 3:1.
+
+[p. 443]
+
+ga'grivi, watchful: ga'grivih, I, 31, 9; III, 2, 12; 3, 7; 24, 3; 26, 3; 28, 5; 29, 2; V, 11, 1.
+
+Gata-vedas, I, 44, 1; 5; 45, 3, &c.; 127, 1:2.
+
+ga'na, birth: tri'ni ga'na, 1, 95, 3.
+
+gamarya?, IV, 3, 9:4.
+
+gami, kinsman, I, 31, 10; 65, 7; 71, 7:3; 75, 3; 4; IV, 4, 5; V, 19, 4; gamina'm svasrinam, uterine sisters, III, 1, 11; lokam gamim, the sister world, III, 2, 9:4.
+
+gaya', wife, I, 66, 5; IV, 3, 2:1.
+
+gayu, victorious, I, 67, 1:1.
+
+gara, lover, I, 66, 8; 69, 1:1; 9.
+
+gi, to conquer, to gain: gayati, I, 36, 4;--sam-gigiva'n, III, 15, 4.
+
+ginv, to stir: ginvate, III, 2, 11; ginva, III, 3, 7; 15, 6;--upa pra ginvan, they have excited, I, 71, 1:1.
+
+givri, aged, I, 70, 10.
+
+gihma, down-streaming, I, 95, 5.
+
+gihva', tongue, I, 140, 2; II, 1, 13; 4, 4; III, 20, 2; IV, 5, 10; 7, 10; 26, 1.
+
+gira, quick, I, 44, 11; III, 3, 6.
+
+gira-asva, with quick horses, I, 141, 12; II, 4, 2.
+
+gira-danu, rich in quickening rain, I, 189, 8.
+
+giv, to live: givase, I, 36, 14; 72, 7; 79, 9; giva'tave, I, 94, 4.
+
+giva, living, I, 68, 3;--life, I, 140, 8.
+
+giva-dhanya, the prize (of contests) which living beings have gained, (I, 149, 2:1).
+
+givapita-sarga, whose stream is drunk by living beings, I, 149, 2:1.
+
+giva-yaga, a sacrifice of living (victims), 1, 31, 15.
+
+gur, see gri.
+
+gush, to be pleased, accept gladly: gushasva, I, 12, 12; 75, 1; 144, 7; gushanta, I, 68, 3; 9; agushran, I, 71, 1, &c.; gushanta pantham, they followed gladly his path, I, 127, 6; tanvam gushasva, III, 1, 1:5; goshi, find pleasure, IV, 9, 7:1;--prati goshayete iti, they caress, I, 95, 5; 6.
+
+gushta, welcome, I, 44, 2; 4;--grateful, I, 73, 10.
+
+guhu-asya, whose mouth is the sacrificial spoon, 1, 12, 6.
+
+guhurana, leading astray, I, 189, 1.
+
+guhu', sacrificial ladle, I, 58, 4:2; 76, 5:2; 145, 3; II, 10, 6; IV, 4, 21; V, 1, 3; sapta guhvah, I, 58, 7:2.
+
+gu, to speed, incite: guna'h, 1, 27, 7; guna'si, I, 71, 6; gugu-vat, impetuous, IV, 11, 4.
+
+gu', speedy: guvah, I, 140, 4:1.
+
+guti, speeding, I, 127, 2;--solicitation, III, 3, 8;--yagnasya gutya', stirring, III, 12, 3.
+
+gu'rni, flaming (?), 1, 127, 10.
+
+gurv, to consume: ni-gu'rvan, IV, 7, 11.
+
+gri, to grow old: guryati, I, 128, 2; gugurva'n, II, 4, 5; gu'ryat-su, III, 23, 1; garayan, making decay, II, 8, 2:1; garase, V, 15, 4:1.
+
+gri, to praise: garate, he is praised (?), I, 59, 7;--sam te gareta, may it resound to thee, IV, 3, 15:1.
+
+gri, to be awake: garate, I, 59, 7; 127, 10:4; garase, I, 94, 14:1; garasva, III, 3, 7:1;--sam garatam, may it awaken, IV, 4, 8:1.
+
+getri, conqueror, I, 66, 3; V, 25, 6.
+
+genya, noble, I, 71, 4; 128, 7; 140, 2; 146, 5; II, 5, 1; V, 1, 5.
+
+gosha, desire: gosham a', I, 77, 5.
+
+gohu'tra, to be invoked, II, 10, 1.
+
+gna, to know: a' ganita, accept, 1, 94, 8;--pra-ganan, prescient, II, 3, 10; anu pra-ganan, III, 26, 8;--vi-ganan, discriminating, I, 69, 3:1;--sam ganata, they were concordant, I, 68, 8:1; sam-ganana'h, being like-minded, I, 72, 5.
+
+gya'yas, better, I, 27, 13.
+
+gyeshtha, tha, the first, I, 127, 2; eldest, IV, 1, 2.
+
+gyotih-ratha, whose chariot is light, I, 140, 1.
+
+gyotis, light, I, 36, 19; 59, 2; III, 26, 8; divah gyotih, I, 69, 1; vipa'm gyotimshi, III, 10, 5:1; vidanta gyotih, IV, 1, 14; svah na gyotih, IV, 10, 3:1.
+
+grayas, space, I, 95, 9; 140, 9; V, 8, 7.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ T
+
+takvan, N. of an animal, I, 66, 21.
+
+taksh, to fashion: hrida' tashta'n mantran, I, 67, 4; tataksha, III, 8, 6; ataksham, V, 2, 11.
+
+[p. 444]
+
+talit, lightning, I, 94, 7.
+
+tat-ogas, having the strength of such a one, V, 1, 8.
+
+tan, to spin out, stretch out: tantum tanushva, I, 142, 1; tantum tatam, II, 3, 6; tanvanah yagnam, III, 3, 6;--ava tanuhi, unbend, IV, 4, 5;--a-tatantha, thou hast spread, III, 22, 2;--ati nih tatanyuh, may they spread out, I, 141, 13:2;--vi tanvate, V, 13, 4; 15, 3:3.
+
+tan, continuation: sasvata tana, constantly, I, 26, 6:1; tana, for ever, I, 77, 4; II, 2, 1:2; III, 25, 1; 27, 9;--tokasya nah tane tanu'nam, 11, 9, 2.
+
+tanaya, offspring, I, 96, 4; III, 15, 2:1,--tokasya tanaye, of kith and kin, I, 37, 12:1; toke iti tanaye, I, 147, 13; toka'ya tanayaya, I, 189, 2; IV, 12, 5.
+
+tanayitnu, thunderbolt, IV, 3, 1.
+
+tana, see tan.
+
+tanu', body: tanvah, I, 31, 12; 72, 3; 5:3; ikkhanta retah mithah tanu'shu, I, 68, 8:1; tane tanu'nam, 11, 9, 2; tanvam gushasva, III, I, 1:5; tanva su-gata, III, 15, 2; tanu'-bhih, IV, 2, 14; tanvah tanvate vi, V, 15, 3:3.
+
+tanu-krit, the body's creator: tanu-krit, I, 31, 9.
+
+Tanu-napat, 'son of the body,' I, 13, 2:1; 142, 2; 188, 2; III, 4, 2; 29, 11.
+
+tanu-ruk, shining with his body, II, 1, 9.
+
+tantu, thread (of sacrifice), I, 142, 1;--tantum tatam, warp, II, 3, 6;--web (of light), IV, 13, 4.
+
+tand, to grow tired: tandate (by conjecture), I, 58, 1:1.
+
+tanyatu, thunder, V, 25, 8.
+
+tap, to burn, heat: tapo iti, tapa, III, 18, 2; tatapate, IV, 2, 6.
+
+tapishtha, hottest, IV, 4, 1; 5, 4.
+
+tapu, hot, II, 4, 6.
+
+tapuh-gambha, with fiery jaws, I, 36, 16; 58, 5.
+
+tapus, heat: tapumshi, IV, 4, 2.
+
+tamah-han, destroyer of darkness, I, 140, 1.
+
+tamas, darkness: dva'ra tamasah, III, 5, 1; tirah tamamsi darsatah, III, 27, 13.
+
+tarani, strongly advancing, triumphant, I, 128, 6; III, 11, 3:2; 29, 13; IV, 4, 12.
+
+taras, advancing power, III, 18, 3.
+
+tarutri, a winner, I, 27, 9.
+
+tarus: dakshasya tarushah, of superior strength, III, 2, 3.
+
+tavas, strong, III, 1, 1:1; 2; 13.
+
+tavisha, powerful, III, 12, 8.
+
+tavishi, strength, I, 128, 5; III, 3, 5; 26, 4.
+
+tavyams, most powerful, I, 143, 1; V, 17, 1.
+
+tayu, thief, I, 65, 1; V, 15, 5:2.
+
+tavaka, thy, I, 94, 11.
+
+tigita, sharp, I, 143, 5.
+
+tigma, sharp, IV, 6, 8; 7, 10; V, 19, 5.
+
+tigma-anika, sharp-faced, I, 95, 2.
+
+tigma-ayudha, with sharp weapons, V, 2, 10.
+
+tigma-gambha, with sharp teeth, I, 79, 6; IV, 5, 4; 15, 5.
+
+tigma-bhrishti, sharp-pointed, IV, 5, 3.
+
+tigma-sokis, sharp-flaming, I, 79, 10.
+
+tigma-heti, with the sharp weapon, IV, 4, 4.
+
+tig, to sharpen: tegamanah, sharpened, III, 8, 11.
+
+titvishana, rushing forward impetuously, V, 8, 5.
+
+tir, see tri.
+
+tirah-ahnya, kept over night, I, 45, 10:1; III, 28, 3; 6.
+
+tirah-hita, dwelling in concealment, III, 9, 5.
+
+tiraska', throughout, II, 10, 4.
+
+tiras, through, III, 27, 13.
+
+tu: tutava, he is strong, I, 94, 2.
+
+tug, to stir, press onward: tutugya't, I, 143, 6; tungamanah, III, 1, 16; tuge, IV, 1, 3.
+
+tug, impetuous: tuga' gira', V, 17, 3:2.
+
+tuturi, conqueror, I, 145, 3.
+
+tud, to strike: ni tundate (conj. nu tandate), I, 58, 1:1.
+
+tura, quick, I, 68, 9; 96, 8; III, 4, 11; IV, 3, 8.
+
+turi'pa; a, seed, I, 142, 10; III, 4, 9.
+
+Turvasa, I, 36, 18:1.
+
+Turvi'ti, I, 36, 18:1.
+
+tuvi-gra, mightily devouring, I, 140, 9.
+
+tuvi-gri'va, with mighty neck, V, 2, 12.
+
+tuvi-gata, strong-born, IV, 11, 2; V, 2, 11; 27, 3.
+
+[p. 445]
+
+tuvi-dyumna, highly glorious, III, 16, 3; 6.
+
+tuvi-brahman, knower of mighty spells, V, 25, 5.
+
+tuvisravah-tama, most mightily renowned, III, 11, 6; V, 25, 5.
+
+tuvishmat, mighty, IV, 5, 3.
+
+tuvi-svan, loudly roaring, V, 16, 3.
+
+tuvi-svanas, roaring mightily, IV, 6, 10; V, 8, 3.
+
+tuvi-svani, loudly roaring, I, 58, 4; 127, 6.
+
+tu'rni, swift, III, 3, 5; II, 5.
+
+tu'rni-tama, quickest, IV, 4, 3.
+
+tri, to get through, to overcome: ataran, I, 36, 8; taran, III, 24, 1; turya'ma, V, 9, 6; tarishani, may they pass across, V, 10, 6:1; tuturyat, may he traverse, V, 15, 3;--titirva'msah ati sridhah, I, 36, 7; ati tarema, III, 27, 3;--with pra to prolong, promote: pra-tiran, I, 44, 6; pra tira, I, 94, 16; III, 17, 2; pra tirasi, IV, 6, 1; pra ta'ri pra-taram, IV, 12, 6;--vi tarit, he has crossed, I, 69, 5:2; 73, 1; vi-taritrata, progressing, I, 144, 3.
+
+trina, grass, III, 29, 6.
+
+trid, to perforate: atrinat, IV, 1, 19;--anu trindhi, V, 12, 2.
+
+trip, to satiate oneself: somasya trimpatam, III, 12, 3.
+
+trish, to be thirsty: tatrishanah, I, 31, 7:2; atrishyantih, free from thirst, I, 71, 3:[2, 4]; tatrishanah, II, 4, 6.
+
+trishu, thirsty, greedy, I, 58, 2; 4; IV, 4, 1; 7, 11.
+
+trishu-kyut, moving about thirstily, I, 140, 3.
+
+trishta, pungent sharpness, III, 9, 3.
+
+tegas, sharp splendour, I, 71, 8:2; sharpness: sam akrinvan tegase, III, 2, 10.
+
+tegishtha, hottest, 1, 127, 4:1.
+
+tegiyas, sharpest, III, 19, 3.
+
+toka, children: toka tanaya, kith and kin, I, 31, 12:1; 147, 1:3; 189, 2; IV, 12, 5; nitye toke, II, 2, 11; tokasya tane tanu'nam, II, 9, 2; toka'ya tuge, IV, 1, 3.
+
+toka-vat, with offspring, III, 13, 7.
+
+toda, an or the impeller, I, 150, 1:2.
+
+tosa, bounteous, III, 12, 4:1.
+
+tmana, by oneself, by one's own power, I, 69, 10; 79, 6, &c.
+
+tmanya, thyself, I, 188, 10.
+
+trayah-trimsat, thirty-three (gods), I, 45, 2.
+
+Trasadasyu, V, 27, 3:2.
+
+tra: trasate, may he protect, I, 128, 5; 7.
+
+tra', protector, (I, 72, 5:3).
+
+tratri, protector, I, 31, 12; V, 24, 1.
+
+tri, three, I, 13, 9, &c.; tri' rokana'ni, the threefold light, I, 149, 4; tisri-bhyah a' varam, II, 5, 5:2; tisrah devi'h, II, 3, 8; III, 4, 8; V, 5, 8; tri'ni sata' tri' sahasrani trimsat ka deva'h nava ka, III, 9, 9; tri'ni a'yumshi, tisrah a-ga'nih, III, 17, 3:1; tri, tisrah, III, 20, 2.
+
+trimsat, thirty: trimsatam tri'n ka deva'n, III, 6, 9.
+
+Tri-aruna, V, 27, 1-3.
+
+tri-asir, with threefold admixture (Soma), V, 27, 5:1
+
+Trita, V, 9, 5.
+
+tri-dha'tu, threefold: arkah tridha'tuh, III, 26, 7:1
+
+tri-murdhan, having three heads, I, 146, 11.
+
+tri-varutha, thrice-protecting, V, 4, 8.
+
+tri-vishti, thrice, IV, 6, 4; 15, 2:1.
+
+tri-vrit, threefold: tri-vrit annam I, 140, 2:2.
+
+tris, thrice: trih sapta, I, 72, 6:1; trih ahan, III, 4, 2; trih (read tri'?), IV, I, 7:1.
+
+tri-sadhastha, dwelling in three abodes, V, 4, 8;--threefold abode, V, 11, 2:2.
+
+Traivrishna, the son of Trivrishan, V, 27, 1.
+
+tvak, skin, III, 21, 5;--leather-bag (cloud), I, 79, 3:3;--tvaki upamasyam, I, 145, 5:2.
+
+tvad, pers. pron.: tve iti, in thee, I, 26, 6; 36, 5:1; 6; te, acc., I, 127, 9:2; V, 6, 4:1; te tubhyam, V, 6, 5:1
+
+tvadrik, directed towards thee, V, 3, 12.
+
+Tvashtri, N. of a god, I, 13, 10; 95, 2:3; 5:2; 142, 10; 188, 9; II, 1, 5; 3, 9; III, 4, 9; V, 5, 9.
+
+tva'-uta, guarded by thee, I, 73, 9; 74, 8; III, 19, 3; IV, 4, 14; V, 3, 6.
+
+[p. 446]
+
+tva'-data, given by thee, V, 7, 10.
+
+tva'-duta, with thee as messenger, II, 10, 6; V, 6, 8.
+
+tva-ya', desire of worshipping thee, IV, 2, 6; 14.
+
+tva'-vat, like thee: tva'-van, I, 189, 6.
+
+Tvashtra, son of Tvashtri, III, 7, 4:1.
+
+tvish, see titvishana.
+
+tvishi, impetuous power, I, 71, 5; V, 8, 5.
+
+tvesha, impetuous, fierce, I, 36, 10; 66, 6; 70, 11; 95, 8; 143, 3; II, 9, 1; III, 22, 2; 26, 5; IV, 6, 10; V, 8, 6.
+
+tveshatha, fierceness, I, 141, 8.
+
+tvesha-pratika, with sharp point, I, 66, 7.
+
+tsar: tatsara, he steals upon (his prey), I, 145, 4;--ava tsarat, he stealthily approached, I, 71, 5.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ D
+
+dams, to bite: dasate, I, 189, 5.
+
+damsana, wonderful deed, III, 3, 11; wonderful power, III, 9, 7.
+
+damsas, wonderful deed, I, 69, 8.
+
+daksha, mind, I, 68, 8;--power, ability, skill, I, 76, 1; 95, 6:1; 141, 11:2; III, 2, 3; 13, 2; IV, 10, 2; V, 10, 2; 18, 2; 20, 3; daksham (conj. yaksham), IV, 3, 13:3; Daksha personified, III, 27, 9:3; 10; V, 16, 2;--skilful, I, 59, 4; III, 14, 7.
+
+daksha-pati, lord of power, I, 95. 6.
+
+dakshas, ability, II, 1, 11.
+
+daksha'yya, to be treated kindly, II, 4, 3.
+
+dakshinatas, from the right side, I, 95, 6:2.
+
+dakshina, the sacrificial gift, V, 1, 3:3.
+
+dakshina-avrit, turned to the right, 1, 144, 1:3.
+
+dakshina-va'h, carrying from left to right, III, 6, 1:2.
+
+dagdhri, burner, V, 9, 4.
+
+datvat, having teeth, I, 189, 5.
+
+Dadhi-kra', III, 20, 1:2; 5.
+
+dan, house: patih dan, lord of the house, I, 149, 1:2.
+
+danta, tooth: atharyah na dantam, IV, 6, 8:2.
+
+dabh, to deceive: dipsantah na debhuh, I, 147, 3; dadabhanta, I, 148, 2; dabhan, I, 148, 5;--satrum a-dabhuh, III, 16, 2.
+
+dabha, deceiver, V, 19, 4:3.
+
+dabhra, few, I, 31, 6.
+
+dam, house: dam-su, I, 141, 4.
+
+dama, house, I, 1, 8, &c.; II, 1, 7:2; 8; kittih apa'm dame, I, 67, 10:1; dame-dame, house by house, I, 128, 4; IV, 7, 3; V, 1, 5; 6, 8.
+
+damunas, domestic, friend of the house, I, 60, 4:2: 68, 9; 140, 10; 141, 11; III, 1, 11; 17; 2, 15; 3, 6; 5, 4; IV, 4, 11; II, 5; V, 1, 8:1; 4, 5; 8, 1.
+
+dam-pati, master of the house, I, 127, 8; V, 22, 4;--dam-pati, husband and wife, V, 3, 2.
+
+damya, domestic, III, 1, 15; 2, 8.
+
+day, to bestow: dayasva, I, 68, 6;--vi dayamanah, distributing, III, 2, 11; vi dayate, he tears to pieces, IV, 7, 10.
+
+darvi, sacrificial ladle, V, 6, 9.
+
+darsata, conspicuous, beautiful, I, 36, 9; 141, 1; 144, 7; III, 1, 3; 10, 6; 27, 13.
+
+dasa-pramati: dasa-pramatim, read: dasa pramatim, I, 141, 2:4.
+
+dasasy: sam dasasya, forgive, III, 7, 10.
+
+das: sam-dadasva'n, being exhausted (?), II, 2, 6:1.
+
+dasma, wonderful, I, 77, 3; 148, 4; II, 1, 4; 9, 5; III, 1, 7; 3, 2; IV, 1, 3; 6, 9; V, 6, 5; 17, 4.
+
+dasmat, possessed of wonderful power, I, 74, 4.
+
+Dasyu, I, 36, 18; 59, 6; V, 4, 6; pl., the Dasyus, I, 78, 4; III, 29, 9; V, 7, 10; 14, 4.
+
+dah, to burn: daha, I, 12, 5, &c.; dhakshat, burning, II, 4, 7;--anu dhakshi, II, 1, 10;--pra dhakshi, I, 76, 3;--prati dahatat, burn against, III, 18, 1;--sam daha, I, 36, 14; 20.
+
+da, to give: anu duh, they give way, I, 127, 4;--na para dat, he will not surrender, V, 3, 12.
+
+da, to bind: ni-daduh, (V, 2, 6:2); ni-ditam, V, 2, 7.
+
+da (do), to cut, to shear: dati, I, 65, 8; V, 7, 7.
+
+datri, giver, I, 13, 11.
+
+da'tri, mower, V, 7, 7.
+
+dana, gift, V, 27, 5.
+
+davan: davane, for the sake of giving, II, 1, 10.
+
+[p. 447]
+
+das, to offer, worship: dada'sa, I, 36, 4, &c.; vah tubhyam da'sat, I, 68, 6; dasat, IV, 2, 9; da'sat yah asmai aram, who satisfies him, I, 70, 5; namah da'sat, I, 71, 6; agnaye dashti avase, I, 127, 4:2.
+
+da's, worship, I, 127, 7.
+
+dasu-adhvara, performing worship, 1, 75, 3:1.
+
+dasvams, worshipper, liberal giver, I, 1, 6; 27, 6, &c.
+
+das: abhi-da'sati, he tries to harm, I, 79, 11.
+
+dasa-patni, (strongholds) of which the Dasas are the lords, III, 12, 6.
+
+da'svat, munificent, I, 227, 1; II, 4, 3; IV, 2, 7; V, 9, 2.
+
+Diti, IV, 2, 11:3.
+
+didrikshenya, worthy to be looked for, I, 146, 5.
+
+didriksheya, visible, III, 1, 12.
+
+didyu, arrow, I, 71, 5.
+
+didyut, shaft, I, 66, 7.
+
+didhisha'yya, worthy to be searched for, desirable, 1, 73, 2:4; II, 4, 1.
+
+didhishu, seeking to obtain, I, 71, 3:2.
+
+div, see dyu.
+
+divah-ruk, shining from heaven, III, 7, 5.
+
+divakshas, dwelling in heaven, III, 7, 2:1.
+
+diva-tarat, more than by day, I, 127, 5:3.
+
+divi-kshaya, dweller in heaven: divi-kshayam (conj. for divi kshayam), III, 2, 13:1.
+
+divitmat, going to heaven, I, 26, 2.
+
+divishti, the striving for day, I, 45, 7:1; 141, 6:--heaven-aspiring sacrifice, IV, 9, 3.
+
+divi-spris, attaining to Heaven, I, 142, 8; V, 11, 1; 13, 2:1.
+
+divya, heavenly, I, 143, 5; 144, 6; III, 2, 4:--divine: divya'ya ganmane, I, 58, 6.
+
+dis, quarter of the world: disah, I, 31, 14:3, pra disam (for pra-disam), I, 95, 3:2.
+
+di, didi, to shine, I, 36, 11, &c.; rayim asma'su didihi, shine upon us with thy wealth, II, 2, 6; didayet, may he illuminate, II, 4, 3; di'dyat (conj. di'dhyat), III, 1, 1:3; deva'n akkha di'dyanah, brightly shining towards the gods, III, 15, 5:1; di'dyatam brihat, III, 27, 15.
+
+didi-vams, resplendent, I, 12, 5; 10, &c.
+
+di'divi, shining, I, 1, 8.
+
+didhiti, (adoring) thought, devotion, III, 4, 3; IV, 2, 16:2, V, 18, 4.
+
+dirgha, long-lasting: dirghah rayih, IV, 2, 5.
+
+dirgha-ayus, long living, IV, 15, 9; 10.
+
+dirghayu-sokis, flaming through long life, V, 18, 3.
+
+duh-ita, trouble, misfortune, danger, I, 99, 1; 128, 5; III, 20, 4; V, 3, 11; 4, 9; 9, 6.
+
+duh-ukta, evil word, I, 147, 4.
+
+duh-eva, of evil conduct, IV, 5, 5; V, 2, 9.
+
+duh-ga, trouble, I, 99, 1; 189, 2.
+
+duh-gaha, difficulty, V, 4, 9.
+
+duh-gribhi, difficult to seize, I, 140, 6.
+
+duh-gribhiy: duh-gribhiyase, thou showest thyself hard to seize, V, 9, 4.
+
+duh-dabha, undeceivable, III, 2, 2; IV, 9, 2; 8.
+
+duh-dhita, badly-composed (prayer), I, 140, 11.
+
+duh-dhi', malicious, I, 94, 8; 9; III, 16, 2.
+
+duh-mati, hatred, ill-will, III, 15, 6; IV, 11, 6.
+
+duh-samsa, one who curses, I, 94, 9.
+
+dugdha, milk, V, 19, 4:1
+
+dukkhuna, misfortune, I, 189, 5.
+
+dudhita, confused, IV, 1, 17:1.
+
+dur, gate, door, I, 68, 10; II, 2, 7:1; IV, 4, 6; durah, the doors (of heaven), I, 69, 10; 188, 5:1; rayah durah, I, 72, 8.
+
+durita, see duh-ita.
+
+duroka-sokis, he to whose flame men do not get accustomed, I, 66, 5:1.
+
+durona, house, I, 69, 4; 5; 70, 4:1, &c.
+
+durga, see duh-ga.
+
+durya, pl., dwelling, IV, 1, 9; 18; 2, 12.
+
+duvas, worship, I, 36, 14:2; III, 2, 6; 16, 4; IV, 2, 9; 8, 6.
+
+duvasana, hastening, IV, 6, 10:2.
+
+duvasy, to exalt: duvasyati, I, 78, 2; III, 3, 1; duvasyan, III, 1, 2; 13; duvasyata, III, 2, 8; V, 28, 6.
+
+[p. 448]
+
+dush, to violate: dudushat, III, 3, 1.
+
+dustara, invincible, I, 79, 8:1; II, 2, 10; III, 24, 1; V, 15, 3.
+
+duh, to milk: dohase, I, 141, 2; amritam duhanah, III, 1, 14.
+
+duhitri, daughter, I, 71, 5:1
+
+duta, messenger (Agni), I, 12, 1; 8; 36, 3-5; 44, 2; 3; 9; 11; 58, 1; 60, 1; 72, 7; 74, 4; 188, 1; II, 6, 6; 7; 9, 2; III, 3, 2; 5, 2; 9; 6, 5; 9, 8; 11, 2; 17, 4; IV, 1, 8; 2, 2; 7, 4; 9; 11; 8, 1; 9, 2; V, 3, 8; 8, 6; 11, 4; 21, 3; 26, 6.
+
+dutya, the work of a messenger: dutyam (yasi), I, 12, 4; 44, 12; 74, 7; messengership, I, 71, 4:3; IV, 7, 8; 8, 4; 9, 6.
+
+dure-bha, far-shining, I, 65, 10.
+
+dri, to rend: dadri-vamsah, IV, 1, 14.
+
+drilha, strong, I, 71, 2; 72, 8.
+
+drisika, beautiful, I, 27, 10;--sight, I, 66, 10; 69, 50.
+
+drisya, visible, IV, 2, 12.
+
+drishat-vati, N. of a river, III, 23, 4.
+
+deva, god, I, 1, 2, &c.; devah devebhih, devanam, &c., I, 1, 5; 13, 11; 31, 1; 9; 68, 2:1; 94, 13; 142, 11; II, 3, 1; IV, 15, 1; devam-devam, this or that god, I, 26, 6; bhuvah deva'nam pita' putrah san, I, 69, 2; deva'nam ganma, I, 70, 6; deva'n (i. e. deva'm) ganma, I, 71, 3:[5, 6]; IV, 1, 2:2; 2, 17:2; pathah devebhyah, I, 188, 10:1; deva'nam ganimani, III, 4, 10; deva'nam guhya na'mani, V, 5, 10; deva'sah sarvaya visa', V, 26, 9;--visve deva'h, II, 3, 4:1; V, 3, 1; 26, 4;--divine, I, 1, 1; III, 20, 4; dva'rah devi'h, I, 13, 6; II, 3, 5; V, 5, 3; deva barhih, II, 3, 4; dhiyam devi'm, III, 18, 3; devi'h patnih, IV, 5, 13.
+
+deva-avi'; eagerly longing for the gods, III, 29, 8.
+
+deva-kama, loving the gods, II, 3, 9; III, 4, 9.
+
+deva-gushta, agreeable to the god, I, 77, 1.
+
+deva-guta, sent by the gods, IV, 11, 4.
+
+deva-tati, the divine world, host of the gods, I, 127, 9; 141, 10; III, 19, 2; 4; 26, 2; IV, 6, 3; 9; deva-tata, among the gods, I, 58, 1; 95, 8:3; 128, 2; III, 19, 1; IV, 6, 1.
+
+deva-tra', to the gods, I, 128, 6:5; III, 1, 22;--among the gods, III, 8, 7; V, 20, 1.
+
+deva-tva, divinity, I, 68, 4; 69, 6:1.
+
+devadryank, turned towards the gods: devadri'kim, III, 6, 1:2.
+
+devapsarah-tama, most agreeable to the gods, I, 75, 1.
+
+deva-bhakta, god-given, IV, 1, 10.
+
+deva-yagya', worship as is due to the gods, V, 21, 4.
+
+deva-yat, worshipping, or longing for, the gods, pious, I, 36, 1:4; 77, 3; III, 5, 1; 6, 1; 3; 8, 1; 4; 6; 10, 7; 29, 12; IV, 2, 17; 11, 5; V, 1, 4; 21, 1.
+
+deva-ya', approaching the gods, III, 8, 5:3.
+
+deva-ya'na, (the ways) which the gods go: adhvanah deva-ya'nan, I, 72, 7:3.
+
+deva-yu, godly, IV, 2, 7; 9, 1.
+
+deva-vata, beloved by the gods, III, 20, 2; IV, 3, 15;--Devavata, N. p., III, 23, 2.
+
+deva-va'hana, drawing hither the gods, III, 27, 14.
+
+deva-vi'tama, most excellently repairing to the gods, I, 36, 9.
+
+deva-viti, feast of the gods, I, 12, 9; III, 17, 5; 21, 2.
+
+devavyakah-tama, which best receives the gods with its wide extent, I, 142, 5; IV, 26, 8; V, 22, 2.
+
+deva-vyakas, receiving the gods, III, 4, 4.
+
+deva-sas, for each of the gods, III, 21, 5.
+
+Deva-sravas, N. p., III, 23, 2; 3.
+
+deva-hu'tama, best invoker of the gods, III, 13, 6.
+
+devahuti, invocation of the gods, I, 12, 12.
+
+deva'nk, turned towards the gods, I, 127, 1.
+
+devi', goddess, I, 13, 9; III, 7, 2:2; 25, 3; IV, 14, 3; tisrah devi'h, II, 3, 8; III, 4, 8; V, 5, 8.
+
+devya, godhead, I, 140, 7.
+
+deshna, gift, II, 9, 4.
+
+Daiva-vata, (Agni) of Devavata, III, 23, 3;--son of Devavata, IV, 15, 4:1.
+
+daivya, divine, I, 27, 1 2; II, 5, 2; [p. 449] III, 20, 4; daivya hotara, I, 13, 8:1; 142, 8; 188, 7; II, 3, 7; III, 4, 7; V, 5, 7; daivyam ganam, host of the gods, I, 31, 17; 44, 6; 45, 1:[1, 2]; 9; 10; V, 13, 3; daivyani vrata', I, 70, 2; daivyah samita', II, 3, 10; madhuna daivyena, III, 8, 1:2; vakasa daivyena, IV, 1, 15; daivyani, divine powers, IV, 4, 5.
+
+do, see da.
+
+dogha, milkstream, V, 15, 5:1.
+
+dosha', evening: dosha' ushasi, II, 8, 3; IV, 2, 8; prati dosha'm ushasam, IV, 12, 2; V, 5, 6; dosha', at evening, IV, 11, 6.
+
+dosha-vastar, shining in the darkness, I, 1, 7:1; IV, 4, 9:1.
+
+dohana, stream (?), I, 144, 2:1.
+
+dya'vaksha'ma, du., Heaven and Earth, I, 96, 5; 140, 13; III, 8, 8:1.
+
+dya'vaprithivi', du., Heaven and Earth, I, 31, 8; II, 1, 15; 2, 3; 7; III, 3, 11; 25, 3; 26, 8; IV, 14, 2.
+
+dyu, sky, heaven, Heaven, I, 31, 4:1, &c.; 67, 5:2; upa-ma' divah, I, 31, 15:1; divah na sa'nu, I, 58, 2; murdha' divah, I, 59, 2; III, 2, 14; divah brihatah. I, 59, 5; 71, 2; dyauh na bhu'ma, I, 65, 3:1; divah gyotih, I, 69, 1; mahe pitre dive, I, 71, 5:1; IV, 1, 10; dyauh (conj. dyoh), I, 71, 8:4; divah akshi' iti, I, 72, 10:1; parigmanam-iva dya'm, I, 127, 2:3; dya'va prithivi' iti, Heaven and Earth, I, 143, 2; visva divah rokana', I, 146, 1; III, 6, 8; 12, 9; dyu-bhih tvam (conj. dyu-bhyah), II, 1, 1:2; asurah mahah divah, II, 1, 6; divah-iva aratih, II, 2, 2; dvauh na stri-bhih, II, 2, 5; IV, 7, 3; tisrah divah, II, 3, 2; divah kavina'm, III, 1, 2; divah prithivya'h, III, 1, 3; 6, 2:3; 3; 25, 1; IV, 5, 11; divah yahvi'h, III, 1, 6; 9:4; divah prishtham, III, 2, 12; divi kshayam (conj. divikshayam) III, 2, 13:1; ketum divah, III, 2, 14; divah na'bha, III, 4, 4; varshman divah, III, 5, 9; dya'va, III, 6, 4:2; divah arnam, III, 22, 3; divah putra'h, IV, 2, 15; divah kikitva'n, IV, 3, 8; diyah a-rodhanan:, IV, 7, 8; 8, 2; 4; divah skambhah, IV, 13, 5; divah sisum, IV, 15, 6:2; divah kit brihat, more mightily than even the sky, V, 10, 4:2; divah dharman, V, 15, 2:2; divah na retasa, V, 17, 3:3.
+
+dyu, day: dive-dive, day by day, I, 1, 3; 7, &c.; divah pu'rvah, before daybreak, I, 60, 2; anu dyu'n, day by day, 1, 71, 6; 148, 4; III, 23, 2; IV, 4, 8; 9; diva naktam, I, 98, 2; 144, 4:2; trih a' divah, I, 142, 3; dyubhih, day by day, III, 3, 2; V, 16, 2.
+
+dyuksha, heavenly, II, 2, 1.
+
+dyut, to shine: vi abhi dyaut, mayest thou beam forth, IV, 4, 6;--vi didyutah, make shine, II, 2, 7; vi adyaut, thou hast shone forth, III, 1, 8; 18; vi didyutanah, flashing, III, 7, 4;--sam adyaut, III, 5, 2.
+
+dyu-bhakta, assigned by Heaven, I, 73, 6; IV, 1, 18.
+
+dyu-mat, brilliant, I, 74, 9; II, 7, 1; 9, 6; III, 10, 8; 13, 7; V, 23, 4.
+
+dyumat-tama, most brilliant, V, 24, 2:1.
+
+dyumna, splendour, I, 73, 4, &c.; dyumnaih, with (songs full of) splendour, I, 78, 1-5; dyumnasya savasa, V, 7, 3.
+
+dyumna-vat, brilliant, III, 29, 15.
+
+dyumnin, brilliant, I, 36, 8.
+
+dyumnin-tama, most brilliant, I, 127, 9.
+
+drapsa, spark, I, 94, 11;--banner, IV, 13, 2:2.
+
+dravat, see dru.
+
+dravinah das, giver of wealth, II, 6, 3.
+
+dravinah-da', giver of wealth, I, 96, 1-8; II, 1, 7.
+
+dravinas, wealth, I, 96, 8;--wealth-giver, III, 7, 10.
+
+dravinasyu, aspiring after wealth, II, 6, 3; V, 13, 2.
+
+dru, to run: dravat, speedily, I, 44, 7; dravatam, III, 14, 3; drunanah? IV, 4, 1:2.
+
+dru-anna, feeding on wood, II, 7, 6.
+
+druh, guile, IV, 4, 15.
+
+dru-hantara, a mighty woodcutter, (I, 127, 3:2).
+
+druham-tara, conqueror of deceitful foes, I, 127, 3:2.
+
+[p. 450]
+
+dvaya, falsehood, I, 147, 4; 5; V, 3, 7; 12, 2.
+
+dva'r, door: dva'rah devi'h, the divine doors, I, 13, 6; 142, 6; II, 3, 5; V, 5, 5; dva'ra, the two folds of the door, I, 128, 6; dva'ra tamasah, III, 5, 1.
+
+dvih panka, twice five, IV, 6, 8:1.
+
+dvi-ganman, of double birth (Agni), I, 60, 1:1; 140, 2:1; 149, 4; 5.
+
+Dvita, V, 18, 2:2.
+
+dvita', forsooth, verily, I, 127, 7; II, 4, 2:2; III, 2, 1:3; 17, 5:1.
+
+dvi-pad, two-footed, I, 94, 5.
+
+dvi-barhas, twofold, I, 71, 6;--doubly-powerful, IV, 5, 3:1
+
+dvi-matri, having two mothers, I, 31, 2:1.
+
+dvish, hostile power, I, 97, 7; II, 7, 2; 3; III, 15, 1.
+
+dveshah-yut, driving away malice, IV, 11, 5; V, 9, 6.
+
+dveshas, hatred, malice, II, 6, 4; IV, 1, 4; 10, 7; V, 20, 2;--hostile power, III, 16, 5:2; 27, 3.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ DH
+
+dhakshi (Samhita: dakshi), voc. (?), O burning one (?), I, 141, 8:2.
+
+dhakshu, burning, II, 4, 4.
+
+dhakshus, burning, I, 141, 7.
+
+dhan: dhanayan, they set into motion, I, 71, 3;--dadhanyuh (read dadhanvuh?), IV, 3, 12:2.
+
+dhana, prize, I, 31, 6; 8; 36, 4.
+
+dhanam-gaya, winning the prize, I, 74, 3.
+
+dhana-sa', gaining wealth, II, 10, 6:1.
+
+dhana-sprit, winner of prizes, I, 36, 10; V, 8, 2.
+
+dhanin, rich, I, 150, 2;--containing the prize of the contest, IV, 2, 15:3.
+
+dhanus, dry land: dhanoh adhi, I, 144, 5:2.
+
+dhanya, precious, III, 1, 16.
+
+dhanv, to run along: dadhanve, II, 5, 3; dadhanvuh, (IV, 3, 12:2).
+
+dhanvan, dry ground, I, 95, 10;--desert, V, 7, 7.
+
+dhanva-sah, a conquering bowman, I, 127, 3:6.
+
+dham, to melt: dhamantah, IV, 2, 17:1:--upa dhamati dhmatari, V, 9, 5:3.
+
+dhariman, firm law, I, 128, 1:1.
+
+dharuna, supporter: dharunah rayina'm, I, 73, 4:2; supporting, V, 15, I; 2; 5:1;--firm ground, III, 3, 1.
+
+dharnasi, firm, I, 141, 11;--supporter, V, 8, 4.
+
+dharni, supporter, I, 127, 7.
+
+dhartri, supporter, V, 1, 6; 9, 3.
+
+dharman, law, ordinance, III, 3, 1; V, 26, 6; prathama' anu dharma, III, 17, 1; anu dharma, III, 17, 5;--support, V, 15, 2.
+
+dha, to put, place, give: dadhire, I, 26, 8, &c.; kanah dhah, accept, I, 26, 10; dadhire, have been laid down, I, 59, 3:1; dadhanah, obtaining, I, 73, 5:2; ma'kih nah duh-ita'ya dhayih, do not deliver us to distress, I, 147, 5; dadhat, 3rd pers. or part., I, 188, 2:1; dadhire purah, they have placed in front (as Purohita), III, 2, 5; dhishva, III, 6, 6; didhishantu, may they bestow, III, 8, 6; dha'mahe, may we acquire, V, 16, 5;--a' dadhe, I have established, III, 27, 9:2;--ni dadhe, he has established, I, 36, 19; ni dadhe, I have laid down, III, 23, 4:1; 27, 10:1; ni dadhuh (conj. ni daduh?), V, 2, 6:2; ni dhatte purah, V, 28, 2:1;--vi-dha'ti, he worships (conj. for vi-bha'ti), I, 71, 6:1; vi dhah, distribute, I, 72, 7; IV, 6, 11; vi dadhau, he determines, I, 95, 3.
+
+dha, to suckle: dhapayete iti, I, 96, 5; adhayat, I, 144, 2; III, 1, 10; V, I, 3:4;--upa dhapayete iti, I, 95, 1.
+
+dhatri, establisher, IV, 7, 1.
+
+dha'na: pari dha'nam aktoh, about nightfall (?), III, 7, 6.
+
+dha'man, foundation, I, 95, 9:1; 144, 1:4; III, 3, 4; IV, 7, 7;--abode, II, 3, 2; 11;--statute, law, III, 2, 10; 7, 6; IV, 5, 4;--form: sapta dha'ma-bhih, IV, 7, 5:1.
+
+dha'yas, prospering, I, 31, 13;--refreshment, refreshing drink, I, 72, 9; 94, 12; 141, 6; II, 5, 7; V, 7, 6; 9; 15, 4.
+
+dha'ra, stream: dha'ram ritasya, I, 67, 7:1; V, 12, 2; dha'rah udanyah-iva, II, 7, 3; dha'rah, III, 1, 8; 9.
+
+[p. 451]
+
+dhav: ni dhavate, he runs down, I, 141, 5.
+
+dhasi, drink, I, 140, 1:2; III, 7, 1:1; 3:2; IV, 3, 9; V, 12, 4.
+
+dhita-van, in whom (wealth) has been laid down, III, 27, 2.
+
+dhiyam-dha', thoughtful, I, 67, 4; 72, 2.
+
+dhiya'-vasu, giving wealth for prayer, I, 58, 9; 60, 5; III, 3, 2; 28, 1.
+
+Dhishana, N. of a goddess, I, 96, 1:2; III, 2, 1:2.
+
+dhishnya, liberal (?), III, 22, 3:1.
+
+dhishnya, the Dhishnya altar, IV, 3, 6:1.
+
+dhi, to think: deva'n akkha di'dhyat (conj. for di'dyat), III, 1, 1:3;--anu vratam di'dhyanah, contemplating the law, III, 4, 7.
+
+dhi', (pious) thought, prayer, I, 1, 7; 27, 11, &c.; 95, 8:2; III, 11, 2; 3; 12, 1; yanta'ram dhina'm, III, 3, 8; dhiya' kakre, III, 27, 9:1; kakripanta dhibhih, IV, 1, 14.
+
+dhiti, thought, I, 68, 5:1; 71, 3:1; III, 12, 7; 13, 5; V, 25, 3; devotion, I, 77, 4; pious thought, i. e. hymn, or prayer, I, 143, I; 144, 5; IV, 5, 7.
+
+dhi'ra, wise, I, 65, 2:1, &c.
+
+dhuni, roaring, I, 79, 1:2.
+
+dhur, to harm: adhurshata, V, 12, 5.
+
+dhur, pole, III, 6, 6,
+
+dhu, to shake: adhunot, I, 59, 6; davidhava, I, 140, 6; dodhaviti, he waves, II, 4, 4:2; adhunutam, you have hurled down, III, 12, 6; davidhvat, shaking, IV, 13, 2; davidhvatah, having shaken, IV, 13, 4:2;--ava-dhunushe, thou hurlest away, I, 78, 4.
+
+dhuh-sad, charioteer, I, 143, 7; II, 2, 1:3.
+
+dhuma, smoke, I, 36, 9; III, 29, 9; IV, 6, 2; V, 11, 3.
+
+dhuma-ketu, whose banner is smoke, I, 27, 11; 44, 3.
+
+dhu'ma-ketu, banner of smoke, I, 94, 10:1.
+
+dhumin, smoky, V, 9, 5:2.
+
+dhurti, mischief, I, 36, 15; 128, 7.
+
+dhri, to hold: dadha'ra, I, 66, 3, &c.;--ni-dharayantah, setting down, IV, 2, 12.
+
+dhrita-vrata, whose laws are firm, I, 44, 14; 141, 9; II, 1, 4.
+
+dhrish: a' dadharshit, may he defy, IV, 4, 3; na a-dhrishe, not to be defied, V, 8, 5.
+
+dhrishag? V, 19, 5:1.
+
+dhrishata', fiercely, I, 71, 5; IV, 4, 2; 5, 6.
+
+dhrishnu-ya', fiercely, V, 10, 5.
+
+dhena, stream, I, 141, 1; shower, III, I, 9:2.
+
+dhenu, milch cow, I, 66, 2; 73, 6; II, 2, 2; 9:1; 5, 5:1; III, 1, 7; 6, 4; IV, 1, 6; 16; dhenu' iti, I, 146, 3:2; divakshasah dhenavah, III, 7, 2:2.
+
+dhma, see dham.
+
+dhmatri, smelter, V, 9, 5.
+
+dhrag: upa dhragantam, speeding forward, I, 149, 1
+
+dhragimat, hasting, I. 79, 1.
+
+dhruva, firm, I, 36, 5:1, &c.; karatah dhruvasya, I, 146, 1; dhruve (for Pada: dhruvah), III, 6, 4:1.
+
+dhruva-kshema, dwelling in firm peace, IV, 13, 3.
+
+dhvams: dhvasayantam, sparkling, I, 140, 3; dhvasayantah, I, 140, 5.
+
+dhvasman, bespatterer, IV, 6, 6.
+
+dhvri, see dhur.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ N
+
+na, 'like,' and na, 'not,' I, 127, 3:6.
+
+nakis, not, I, 27, 8; 69, 7.
+
+nakta, Night nakta ka ushasa, I, 73, 7; naktam, by night, I; 98, 2; 127, 5; 144, 4:2; V, 7, 4.
+
+nakta-ya', by night, IV, 11, 1.
+
+nakti, Night: naktih ushasah, II, 2, 2.
+
+Naktoshasa, du., Night and Dawn, I, 13, 7; 96, 5; 142, 7.
+
+naksh, to reach: nakshante, I, 66, 9;--abhi nakshati, I, 95, 10.
+
+nad: na'nadat, roaring, I, 140, 5; III, 2, 11.
+
+napat, offspring: u'rgah napat, I, 58, 8; II, 6, 2; III, 27, 12; V, 17, 5;--apa'm napat, the child of the Waters, 1, 143, 1:2; III, 9, 1.
+
+naptri, offspring: urgah naptre, V, 7, 1.
+
+nabhanya? I, 149, 3:2.
+
+nabhas, cloud, I, 71, 10; II, 4, 6; III, 12, 1:1.
+
+nam: a-namam, to direct, IV, 8, 3.
+
+namah-ukti, praise, I, 189, 1; III, 14, 2:2.
+
+namas, adoration, reverence, I, 1, 7,
+
+[p. 452]
+
+&c.; namasa, adoringly, III, 14, 5.
+
+namasy, to worship, adore: namasyanti, I, 36, 19; namasya, 1, 44, 6:1; namasyan, I, 72, 5; namasyata, III, 2, 8; namasya'mah, III, 17, 4; namasyantah, adoring, IV, 6, 11.
+
+namasya, to be adored, venerable, I, 72, 5:2; II, 1, 3; 10; III, 5, 2; 27, 13.
+
+namasvin, adorer, I, 36, 7.
+
+Narasamsa, 'song of men' or 'praised by men,' I, 13, 3:1; 142, 3; II, 3, 1; III, 29, 11; V, 5, 2.
+
+narya, manly power, I, 72, 1:1.
+
+nava, new, young, I, 31, 8, &c.;--navyams, navyasi, I, 27, 4; 60, 3; 141, 5; 143, 1; III, 2, 13; naviyasa, I, 12, 11;--navyah, gen., V, 12, 3:1;--navishtha, youngest, V, 27, 3.
+
+nava-ga', new-born, IV, 6, 3.
+
+nava-gata, new-born, V, 15, 3.
+
+navati, ninety: navatim purah, III, 12, 6.
+
+navamam, for the ninth time, V, 27, 3:3.
+
+Nava-vastva, I, 36, 18:1.
+
+navedas, watcher: ushasah navedah, I, 79, 13;--witness, V, 12, 3.
+
+navya, young, I, 141, 10; 189, 2.
+
+nas, to attain: nasate, V, 4, 11;--a' a'nat, I, 71, 8.
+
+nas: nesat, it disappeared, IV, 1, 17.
+
+Nahusha, N. of a clan, I, 31, 11:2; V, 22, 6.
+
+Nahus, (I. 32, 11:2).
+
+na'ka, sky, firmament: pipesa na'kam stribhih, I, 68, 10;--III, 2, 12; 5, 10; IV, 13, 5; V, 1, 1; 17, 2.
+
+nana-ratham, on many chariots, III, 6, 9.
+
+nandi', delight: nandye, I, 145, 4.
+
+Nabhanedishtha, (I, 142, 10:1).
+
+na'bhi, navel, centre, I, 59, 1:2; 142, 10:1; III, 5, 5; IV, 10, 8; na'bhih prithivya'h, I, 59, 2; 143, 4; II, 3, 7; III, 5, 9; 29, 4; pra-ga'm na'bhim, II, 3, 9; divah na'bha, III, 4, 4; amritasya na'bhim, III, 17, 4.
+
+na'man, name: deva-tvam na'ma, amritam na'ma, I, 68, 4:1; na'mani dadhire yagniyani, I, 72, 3; prathatnam na'ma dhenoh, IV, 1, 16; guhyam na'ma, V, 3, 2; 3; 5, 10; bhu'ri na'ma dadhati, V, 3, 10.
+
+na'ri, wife, I, 73, 3.
+
+na'rmini?, 149, 3:1.
+
+nava', boat: navaya, I, 97, 8:1.
+
+Na'satya, IV, 3, 6:3;--du., the Asvins, IV, 14, 1:2.
+
+nims, to kiss: nimsate, I, 144, 1:4.
+
+ni-kama, desirous of, III, 1, 15.
+
+niksh: vi-nikshe, to pierce, V, 2, 9.
+
+ni-kira, watchful, III, 9, 4.
+
+ninik, secretly, IV, 5, 8:1.
+
+ninya, hidden, I, 95, 4:1; inmost, IV, 3, 16.
+
+nitya, one's own, I, 66, 1:1; 5; 71, 1; 140, 7; 148, 3; 5; II, 2, 11;--true (friend of men), I, 141, 2:2;--nityam, constantly, I, 73, 4.
+
+nitya-aritra, with its own rudders, I, 140, 12:1.
+
+nid: nidanah, scolding, IV, 5, 12.
+
+nid, scoffer, III, 16, 5;--revilement, IV, 4, 15.
+
+ninitsu, who tries to revile, I, 189, 6.
+
+ninditri, reproacher, V, 2, 6.
+
+nindya, reproachable, V, 2, 6.
+
+ni-mish, closing of the eyes, I, 72, 5:4.
+
+ni-vakana, invocation, I, 189, 8;--recitation, IV, 3, 16.
+
+ni-vat, depth: ut-vatah ni-vatah, III, 2, 10.
+
+ni-vartana, return, III, 9, 2.
+
+ni-vid, the Nivid formula, I, 96, 2:1.
+
+nishka-griva, with a golden ornament at his neck, V, 29, 3.
+
+ni-hita, laid down, I, 72, 6.
+
+ni, to lead: padam nayanti, they follow his track, I, 146, 4:2;--pari nayanti, they carry around, I, 95, 2:4; pari niyate, he is led around, IV, 15, 1.
+
+nila, nest, IV, 1; 11; 12.
+
+nitha, song, IV, 3, 16.
+
+nitha-vid, knowing all the ways, III, 12, 5.
+
+ni'la-prishtha, with the dark blue back, III, 7, 3.
+
+nu, to low, roar: navanta, I, 66, 10; nonava, I, 79, 2;--to shout (hymns of praise): navanta, I, 69, 10;--abhi pra nonumah, I, 78, 1-5; abhi anushata, they have greeted with shouts, I, 144, 2; IV, I, 16; abhi anushata,
+
+[p. 453]
+
+[paragraph continues] (the hymns) have been sung, V, 5, 4;--sam navanta, IV, 3, 11.
+
+nu, now: nu kit nu, I, 58, 1:1; nu ka pura' ka, I, 96, 7.
+
+nu'tana, present, recent, I, 1, 2; III, 1, 20.
+
+nunam, now: adya nunam ka, I, 13, 6; nunam aparam, now and in future, I, 189, 4.
+
+nri, man: nri'n (for various cases), I, 146, 4:5; III, 14, 4:1; IV, 2, 15:2; V, 15, 2:2; narah marutah, III, 16, 2:1; samse nrina'm, III, 16, 4.
+
+nri-kakshas, beholding men, III, 15, 3; 22, 2; IV, 3, 3.
+
+nri-tama, manliest, I, 59, 4; 77, 4; III, 1, 12; 19, 3; IV, 5, 2; V, 4, 6.
+
+nri-pati, lord of men, I, 71, 8:3; II, 1, 1; 7.
+
+nri-pesas, (the divine doors) with men as their ornaments, III, 4, 5:[3, 4].
+
+nrimna, manly power, I, 67, 3; V, 19, 2.
+
+nri-vat, with men, V, 18, 5.
+
+nrivat-sakhi, rich in manly friends, IV, 2, 5:1.
+
+nri-sadana, seat of men, V, 7, 2.
+
+nri-han, man-killer, IV, 3, 6.
+
+netri, leader, III, 15, 4; 20, 4; isha'm neta', III, 23, 2:2.
+
+nedishtha, near, nearest, I, 127, 11; IV, 1, 5.
+
+nema-dhiti, discord, I, 72, 4:2.
+
+nemi, felly, I, 141, 9; II, 5, 3; V, 13, 6.
+
+nesha-tama, best leading, 1, 141, 12.
+
+neshtri, the N. priest, II, 5, 5:1.
+
+neshtra, office of the Neshtri (priest), II, 1, 2.
+
+nau, boat: nava'-iva, I, 97, 7; 99, 1; V, 25, 9; sindhum na nava', V, 4, 9; na'vam nitya-aritram pat-vatim, I, 140, 12:1.
+
+nyank, directed downwards: ni'kih, I, 66, 10:2; 72, 10:4.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ P
+
+pakva, ripe, I, 66, 3; IV, 3, 9.
+
+pakata, baked, III, 28, 2.
+
+pankan, five: adhi panka krishtishu, over the fivefold dwellings (of the five peoples), II, 2, 10.
+
+pankasat, fifty, V, 28, 5.
+
+pat: patyate, he rules, I, 128, 7; patyase, thou possessest, II, 1, 8.
+
+pat, to fly: patanti mihah, I, 79, 2.
+
+patanga, winged (flames), IV, 4, 2.
+
+patatrin, winged, I, 58, 5:2; 94, 11.
+
+patara, winged: prisnyah pataram, II, 2, 4.
+
+pati, lord, I, 26, 1, &c.; patih dan, I, 149, 1:2;--husband, I, 66, 8; 71, 1; IV, 3, 2:1.
+
+patigushta (na'ri), (a wife) beloved by her husband, I, 73, 3.
+
+pati-rip, deceiving her husband, IV, 5, 5.
+
+patni, consort: devi'h patnih, IV, 5, 13.
+
+patni-vat, together with the wife, I, 72, 5; III, 6, 9.
+
+patman, flight, I, 141, 7; V, 5, 7.
+
+pat-vat, having feet, I, 140, 9; patvatim na'vam, I, 140, 12:1.
+
+patvan, flight, V, 6, 7.
+
+pathya, path, III, 14, 3.
+
+pad, to fall: padishta, I, 79, 11;--ava padyate, IV, 13, 5.
+
+pad, foot: padah ni dadhati, I, 146, 2; pad-bhih (conj. for pat-bhih), IV, 2, 14:2.
+
+pada, footstep, footmark, track, I, 65, 2; 67, 6:2; IV, 5, 3; padam nayanti, they follow his track, I, 146, 4:2; padam veh, III, 5, 5:1; 6; IV, 5, 8:4; padam Vishnoh upa-mam, V, 3, 3;--standing-place, abode: pade parame, I, 72, 2; 4; trih sapta guhyani pada', steps or places, I, 72, 6:1; ilah pade, I, 128, 1; ritasya pade, IV, 5, 9; matuh pade parame, IV, 5, 10.
+
+pada-vi', following the footsteps, I, 72, 2:2; III, 5, 1:1.
+
+pan, to praise: pananta, II, 4, 5:1; panayanta, III, 6, 7; panaya, V, 20, 1:[1, 2].
+
+panishtha, most wonderful, III, 1, 13.
+
+paniyams, highly miraculous, V, 6, 4.
+
+panu', praise, I, 65, 4.
+
+payas, milk, I, 66, 2; 79, 3; IV, 3, 9; 10.
+
+payasvat, rich in milk, II, 3, 6.
+
+par, see pri.
+
+para, distant, III, 18, 2.
+
+parah-pa', a protector far and wide, II, 9, 2; 6.
+
+parasu, axe, I, 127, 3; IV, 6, 8.
+
+[p. 454]
+
+paras, beyond: parah manishaya, V, 17, 22.
+
+parastat, on high, III, 22, 3.
+
+para-vatah, from afar, I, 36, 18; 73, 6; III, 9, 5.
+
+pari, prep., from, I, 31, 4;--for the sake of, III, 5, 10:1.
+
+pari-kshit, encompassing, III, 7, 1.
+
+pari-gman, walking round the earth, I, 79, 3:2; 127, 2:3; III, 2, 9:3; IV, 3, 6:4; V, 10, 5.
+
+pari-takmya, the decisive moment, I, 31, 6:[3, 4].
+
+pari-ba'dh, hindrance, V, 2, 10.
+
+pari-bhu', encompassing, I, 1, 4; 97, 6; 141, 9; III, 3, 10.
+
+pari-vita, enveloped, I, 128, 1:3; III, 8, 4:1; IV, 1, 7.
+
+parishti, encompassing, I, 65, 3:1.
+
+parinas, abundance, III, 24, 5; V, 10, 1.
+
+parishti, searching, (I, 65, 3:1)
+
+parusha, speckled, V, 27, 5.
+
+parvan, joint (of the month): parvana-parvana, I, 94, 4:1.
+
+palita, grey, I, 144, 4; fem. palikni, V, 2, 4:2.
+
+pavitra, purification, III, 1, 5;--purifying strainer, III, 26, 8.
+
+pas, to see: ati pasyasi, I, 94, 7;--pari apasyanta, they have searched, I, 146, 4;--vi pasya, look forth, III, 23, 2:2.
+
+pas, eye: pat-bhih, IV, 2, 12:2; pat-bhih (conj. pad-bhih), IV, 2, 14:2.
+
+pasu, animal, beast: pasva' na tayum, I, 65, 1:[1, 2]; pasuh na sisva, I, 65, 10; (Agni), II, 4, 7; V, 7, 7; cattle, I, 67; 6:2, 72, 6; III, 9, 7; IV, 2, 18:1; V, 2, 5; victim, IV, 6, 3.
+
+pasu-pa', shepherd, 1, 144, 6; IV, 6, 4.
+
+pasu-sa', winner of cattle, I, 127, 10:1.
+
+pasva-yantra, taking ... as an instrument (?), IV, 1, 14.
+
+pastya, dwelling, IV, 1, 11.
+
+pa: sah pati (conj. sapati), V, 22, 6:1.
+
+pa'ka, simple, I, 31, 14; III, 9, 7; IV, 5, 2.
+
+pa'gas, stream of light, I, 58, 5; III, 14, 1; 15, 1; 29, 3; IV, 4, 1; V, 1, 2.
+
+pa'thas, abode, I, 188, 10:1; II, 3, 9; III, 8, 9; pathah (conj. pathah?), II, 2, 4:4.
+
+payu, guardian, I, 31, 12; 13; 95, 9; 143, 8; 147, 3; 189, 4; II, 1, 7; 2, 4; III, 15, 4:1; IV, 2, 6; 4, 3; 12; V, 12, 4.
+
+pa'rthiva, dweller on earth, I, 95, 3;--the terrestrial (space), I, 128, 3; 144, 6; grayamsi pa'rthiva, V, 8, 7.
+
+pavaka, purifier, I, 12, 9; 10; 13, 1; 60, 4; 95, 11; 142, 3; 6; II, 3, 1; 7, 4; III, 5, 7; 10, 8; 17, 1; 21, 2; 27, 4; IV, 5, 6; 6, 7; V, 4, 3; 7; 7, 4; 26, 1.
+
+pa'vaka-soki, whose flame is purifying, III, 2, 6.
+
+pavaka-sokis, purifying with his flames, III, 9, 8:1; 11, 7; IV, 7, 5; V, 22, 1.
+
+pa'sa, fetter, V, 2, 7.
+
+pitu, food, I, 69, 3; V, 7, 6.
+
+pitu-mat, rich in food, I, 141, 2:2; 144, 7; IV, 1, 8.
+
+pitri, father: mahe pitre dive, I, 71, 5; pituh parama't (Heaven), I, 141, 4:1; pituh ka ganituh ka, III, 1, 10:1; pita' yagna'nam, III, 3, 4;--V, 3, 9:2; 10:1;--du., parents, I, 140, 7:2; III, 7, 1:1; 18, 1:1; pitroh upa-sthe, I, 146, 1:2; III, 26, 9; matara pitara, IV, 6, 7;--pitarah Angirasah, I, 71, 2:1; pita' pitri-bhyah utaye, II, 5, 1:3; pitarah manushyah, IV, I, 13:1; pitarah parasah pratna'sah, IV, 2, 16.
+
+pitri-vitta, acquired by the fathers, I, 73, 1:1; 9.
+
+pitrya, paternal: sakhya' pitryani, I, 71, 10.
+
+pinv, to swell: pinvamanah, III, 1, 7; pinvasva, III, 3, 7.
+
+pis, to adorn: pipesa, I, 68, 10.
+
+pisanga-rupa, tawny-coloured, II, 3, 9.
+
+piy, to abuse: pi'yati, I, 147, 2.
+
+putrin, with sons, V, 4, 11.
+
+punar: punah astu sah asmai, may it (the spell) recoil on him, I, 147, 4; punah, give us back, I, 189, 3.
+
+pur, stronghold: puh-bhih a'yasibhih, I, 58, 8;--I, 149, 3; 189, 2; III, 12, 6; 15, 4; V, 19, 2.
+
+purah-etri leader, I, 76, 2:1; III, 11, 5.
+
+purah-ga', going in front, I, 188, 11.
+
+purah-sad, sitting in front, I, 73, 3.
+
+purah-hita, the Purohita, I, 1, 1; [p. 455] 44, 10:1; 12: 58, 3; 94, 6:[1, 2]; 128, 4; III, 2, 8; 3, 2; 11, 1; V, 11, 2.
+
+Puram-dhi, Liberality of the gods, II, 1, 3:3
+
+puras, in front: dadhire purah, III, 2, 5; V, 16, 1:2.
+
+pura', before (with gen.), I, 71, 10;--formerly, I, 96, 7.
+
+purishya, of the soil: purishyasah agnayah, III, 22, 4:1.
+
+puru, many, I, 36, 1:3, &c.; III, 4, 5:3; puru va aram (conj. puruva'ram), I, 142, 10:2; anu purvi'h, III, 15, 3:1;--mightily, I, 127, 3.
+
+puru-anika, with many faces, I, 79, 5.
+
+puru-kshu, rich in food, I, 68, 10; III, 25, 2.
+
+puru-kandra, rich in splendour, I, 27, 11; II, 2, 12; III, 25, 3; V, 8, 1.
+
+puru-tra', in many places, I, 70, 10; 146, 5.
+
+puru-damsa, wonderful, III, 1, 23.
+
+puru-druh, full of deceit, III, 18, 1.
+
+purudha-pratika, with many faces, III, 7, 3.
+
+purudha', manifoldly, IV, 2, 19.
+
+purunih-stha, growing up in many places, V, 1, 6.
+
+Puru-nitha, N. pr., I, 59, 7.
+
+puru-pesa, manifoldly-adorned, II, 10, 3:2.
+
+puru-pesas, manifold-adorned, III, 3, 6.
+
+puru-prasasta, praised by many, I, 73, 2.
+
+puru-priya, beloved of many, I, 12, 2; 44, 3; 45, 6; III, 3, 4; V, 18, 1.
+
+puru-praisha, he who pronounces many Praishas, I, 145, 3:2.
+
+puru-ru'pa, of all kinds, manifold-shaped, II, 2, 9; V, 8, 2; 5.
+
+puru-vasu, rich in wealth, II, 1, 5.
+
+puru-va'ra, with many treasures, bountiful: puru-va'ram (conj. for puru va aram), I, 142, 10:2;--II, 2, 2; IV, 2, 20; 5, 15.
+
+puruva'ra-pushti, lord of bountiful prosperity, I, 96, 4.
+
+purusha-tra': conj. purusha-ta', men as we are, IV, 12, 4:1
+
+puru-stuta, praised by many, I, 141, 6; V, 8, 5.
+
+puru-sprih, much desired, I, 142, 6; II, 7, 1; IV, 8, 7; V, 7, 6.
+
+puru-huta, much-invoked, I, 44, 7.
+
+Pururavas, I, 31, 4.
+
+purola's, sacrificial cake, III, 28, 1-6.
+
+purohita, see purah-hita.
+
+push, to make prosper: pushyasi, I, 94, 6; V, 26, 6; pushyata, I, 94, 8; pushyati, III, 10, 3; pushyantah, causing to thrive, IV, 8, 5.
+
+pushti, prosperity, I, 65, 5; 77, 5; II, 4, 4; V, 10, 3.
+
+pushti-mat with prosperity, III, 13, 7.
+
+pushtim-bhara, bringing prosperity, IV, 3, 7.
+
+pushti-vardhana, augmenter of prosperity, I, 31, 5.
+
+pu, to purify: punana'h, II, 3, 5; kratum punanah, III, 1, 5:1; punanti, III, 8, 5; apupot, III, 26, 8;--abhi punati', IV, 5, 7.
+
+puta, purified, I, 79, 10.
+
+puta-daksha, of pure powers, III, I, 3:2.
+
+Puru, the Purus, 1, 59, 6; V, 17, 1.
+
+pu'rva, former, ancient, I, 1, 2, &c.; purva-vat, as for the ancients, I, 31, 17;--divah purvah, before daybreak, I, 60, 2; to the front, I, 94, 8:1; ma'nushat purvah, II, 3, 3:2; tvat hota purvah, III, 17, 5;--eastern: pu'rvam anu pra-disam, I, 95, 3.
+
+purva-tha, in the old way, III, 29, 1.
+
+purvya, ancient, I, 26, 5; 94, 6; III, 14, 3:2; 23, 3; V, 15, 3:2;--foremost, I, 74, 2:1.
+
+Pushan, 11, 1, 6; IV, 3, 7.
+
+pushan-vat, accompanied by Pushan, I, 142, 12.
+
+pri or par, to bring across: piparshi, thou leadest forward, 1, 31, 6:4; parshi, II, 7, 2; parshat, III, 20, 4; pipritam, III, 26, 9; parshati dvishah, may he help us across our enemies, V, 25, 1; 9;--ati paraya, I, 97, 7; .ati parsha, I, 97, 8; ati parshat, I, 99, 1.
+
+pri, to fill: purdhi, I, 36, 12; papra', I, 69, 1;--apapri-va'n, I, 73, 8; 146, 1; a' aprinat, III, 2, 7; a' aprinah, III, 3, 10; a' aprah, IV, 14, 2;--pra-pra prinitana, [p. 456] fill (with bliss) further and further, V, 5, 5.
+
+priksh, nourishment, I, 71, 7:1; 73, 5; II, 1, 6.
+
+priksha, power, I, 127, 5:1; II, 1, 15:2;--powerful, I, 141, 2:1; sapta priksha'sah, III, 4, 7:1.
+
+priksha-prayag, mighty sacrificer, III, 7, 10:1.
+
+prikshudh: prikshudhah? 1, 141, 4:2.
+
+prik: prinkanti. they fill, I, 79, 3; prinkate, they grow, I, 128, 5; paprikana'sah, swelling, I, 141, 6:3; paprikasi, make swell, I, 141, 11:2;--tamase vi-prike, for dispersing the darkness, IV, 13, 3; vi-prikvat, cleared from admixture, V, 2, 3:2;--sam-prinkanah, being united, I, 95, 8.
+
+prit, battle, I, 27, 7; 79, 8; V, 9, 7; 10, 7; 16, 5; 17, 5.
+
+pritana, battle, III, 16, 2; 24, 1.
+
+pritana'gya, racing of battle, III, 8, 10.
+
+pritana-yu, seeking to combat, III, 1, 16.
+
+pritana-sah, powerful in battles, III, 29, 9; V, 23, 2.
+
+pritanyat, foe, II, 8, 6.
+
+pritsuti, hostility, V, 4, 1.
+
+prithivi', earth, Earth: na'bhih prithivya'h, I, 59, 2; III, 29, 4; agnih dati roma prithivya'h, I, 65, 8; ksha'm and prithivi'm, I, 67, 5; dya'va prithivi' iti, Heaven and Earth, I, 143, 2; divah prithivya'h, III, 1, 3; mahina' prithivya'h, III, 7, 10:2; varshman prithivya'h, III, 8, 3; vare a' prithivya'h, III, 23, 4:3; divah sunuh prithivya'h, III, 25, 1;--Earth, I, 72, 9; 94, 16; 95, 11; 98, 3; III, 8, 8:1; 17, 2; IV, 3, 5.
+
+prithu, broad, I, 65, 5; II, 1, 12.
+
+prithu-pa'gas, with broad stream of light, III, 2, 11; 3, 1; 5, 1; 27, 5.
+
+prithu-pragana, with broad passages, III, 5, 7.
+
+prithu-pragaman, proceeding on his broad way, I, 27, 2.
+
+prithu-budhna, broad-based, IV, 2, 5.
+
+prisani', the speckled (cow), I, 71, 5:1.
+
+prisni, speckled, IV, 3, 10:2;--Prisni, the mother of the Maruts, II, 2, 4:3; IV, 5, 7:1; 10.
+
+prishat-asva, with the spotted deer as horses, III, 26, 6:2.
+
+prishati, the spotted deer, III, 26, 4:2.
+
+prishta-bandhu, after whose relations men ask, III, 20, 3:3.
+
+prishtha, back, I, 58, 2:1; IV, 2, 11:2; ridge, V, 7, 5;--a certain Stotra? IV, 5, 6:1.
+
+prishthya, of the back: payasa prishthyena, IV, 3, 10:1.
+
+pesas, the ornamented form: yagnasya pesah, II, 3, 6:2.
+
+Peshi, V, 2, 2:1.
+
+potri, the Potri priest, I, 94, 6; II, 5, 2; IV, 9, 3.
+
+potra, service of a Potri, I, 76, 4:3; II, 1, 2.
+
+posha, welfare, I, 1, 3; V, 5, 9.
+
+poshayitnu, which is to thrive, III, 4, 9.
+
+pyai, to swell: pipayanta, they were exuberant, I, 73, 6; pipayat, may he augment, I, 77, 5; piyanah (conj. piyanam), I, 79, 3:1; pipaya, it has prospered, II, 2, 9; pi'pyanah, rich in milk, III, 1, 10:2;--pra pipaya, increase, III, 15, 6.
+
+pra-avitri, protector, I, 12, 8; furtherer, III, 21, 3.
+
+pra-avis, zealous, IV, 9, 2.
+
+pra-keta, splendour, I, 94, 5.
+
+pra-ketas, provident, wise, I, 44, 7; 11; II, 10, 3; III, 25, 1; 29, 5.
+
+prakh, to look for: prishtah, I, 98, 2:1.
+
+pra-ganana, the creative organ, III, 29, 1:3.
+
+pra-ga', children: pra-ga'h uta (conj. pra-ga'su), 1, 67, 9:1; pra-ga'm vi syatu, may he deliver a son, II, 3, 9.
+
+praga'-vat, procuring offspring, I, 76, 4; praga'-vat ra'dhas, abundance of progeny, I, 94, 15; accompanied by offspring, II, 2, 12; III, 8, 6; 16, 6; rich in offspring, III, 16, 3; IV, 2, 5.
+
+pra-tarana, carrying forward, II, 1, 12.
+
+pra-tavas, strong, IV, 3, 6.
+
+prati, equal to, II, 1, 8; 15; 3, 2.
+
+prati'tya, to be listened to, IV, 5, 14.
+
+pratna, old: pratnam, I, 36, 4; II, 7, 6; III, 9, 8.
+
+pratna-tha, in the ancient way, I, 96, 1; III, 2, 12; V, 8, 5.
+
+[p. 457]
+
+pratyank, turning back, I, 95, 5; II, 3, 1; III, 18, 1.
+
+prath, to spread out: prathayan nri'n, III, 14, 4; paprathanah, V, 15, 4;--vi prathantam, may they open wide, II, 3, 5; vi prathasva, spread thyself, V, 5, 4.
+
+prathama: prathama' anu dharma, after the primitive ordinances, III, 17, 1.
+
+prathama-ga', first-born (son), III, 29, 15:1.
+
+pra-dakshinit, from left to right, III, 19, 2:1; IV, 6, 3.
+
+pra-diva, ancient, II, 3, 1.
+
+pra-divas, from of old, I, 141, 3:2; IV, 6, 4; 7, 8; V, 8, 7.
+
+pradis, commandment: pradisah, (I, 31, 14:3).
+
+pra-dis, region: pra-disam (conj. for pa disam), I, 95, 3:2.
+
+pra-niti, guidance, III, 15, 1; IV, 4, 14.
+
+pra-netri, leader, II, 9, 2; III, 23, 1.
+
+pra-pitva, the time of the advancing day, I, 189, 7:[2, 3].
+
+pra-bharman, the bringing forward, I, 79, 7.
+
+pra-bhu', eminent: pra-bhvi'h (durah), I, 188, 5:1; 9.
+
+pra-bhuti, copiousness, III, 29, 3.
+
+pra-mati, guardian, I, 31, 9; 10; 14; 16; 141, 2:4;--kindness, I, 71, 7; care, I, 94, 1.
+
+pra-mahas, highly exalted, V, 28, 4.
+
+pra-yagyu, friend of sacrifices, III, 6, 2:1.
+
+pra-yata, forward-bent, IV, 5, 10.
+
+prayata-dakshina, giving sacrificial fees, I, 31, 15.
+
+pra-yantri, giver, I, 76, 4:4.
+
+prayas, joy, delight, feast, I, 31, 7; 45, 8; 58, 7:3; 71, 3; III, 11, 7; 12, 8; IV, 5, 6; 15, 2:2.
+
+prayasvat, offering enjoyment, I, 60, 3; III, 6, 3; V, 20, 3.
+
+pra-ya', onset, III, 29, 15.
+
+pravana, hill-side, III, 22, 4.
+
+pra-vat, declivity, I, 144, 5:2;--precipitous: pra-vata, III, 5, 8.
+
+pra-vakya, to be openly uttered, IV, 5, 8.
+
+pra-vid, finding out, III, 7, 6.
+
+pra-samsya, deserving of praise, II, 2, 3; 11.
+
+pra-sasta, praised, glorious, precious, I, 36, 9; 60, 1; 66, 4.
+
+pra-sasti, praise, I, 26, 9; 70, 9; 74, 6; 148, 3; V, 9, 6; 16, 1.
+
+pra-sastri, the Prasastri priest, I, 94, 6:1; II, 5, 4.
+
+pra-sastra, office of the Prasastri priest, II, 1, 2.
+
+pra-sish, command, I, 145, 1.
+
+pra-sah, power, V, 23, 1.
+
+pra-siti, onslaught, IV, 4, 1.
+
+pra-su', sprouting grass, I, 67, 9:2; 95, 10:2. III, 5, 8.
+
+Praskanva, I 44, 6; 45, 3.
+
+pra-svanita, roaring, I, 44, 12:1.
+
+pra-hosha, libation, I, 150, 2.
+
+praka'-gihva, stretching forward his tongue, I, 140, 3.
+
+praki'na, eastward-turned (barhis), I, 188, 4.
+
+pra'nk, inclined towards, II, 2, 7;--eastward: pra'nkam yagnam kakrima, III, 1, 2:2; pra'ki iti, III, 6, 10:1;--turned forwards, III, 7, 7.
+
+prana, breath: a'yuh pranah, I, 66, 1.
+
+pratah-ya'van, coming early in the morning, I, 44, 13; 45, 9.
+
+pratah-sava, morning libation, III, 28, 1.
+
+priya, beloved, I, 13, 3, &c.; dear = filos, I, 67, 6:1; sapta priya'sah, seven friends, IV, 1, 12; priyam tva krinavate, he gratifies thee, IV, 2, 8.
+
+priya-dhama, whose foundations are pleasant, I, 140, 1.
+
+Priya-medha: priyamedha-vat, I, 45, 3:1; priya-medhah, I, 45, 4:1.
+
+pri, to please: prinanah, I, 73, 1; piprishati, he longs to gladden, IV, 4, 7;--a' piprayah, gladden (the gods), II, 6, 8:1.
+
+prita, well-cared for, I, 66, 4:1; 69, 5.
+
+prush, to sprinkle, shower: prushita, I, 58, 2; prushnavat, III, 13, 4.
+
+pretri, friend, I, 148, 5.
+
+presha, instigation, I, 68, 5:1.
+
+praisha, sacrificial command of a priest, (I, 145, 3:2).
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ PH
+
+phalgva, feeble, IV, 5, 14.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ B
+
+bat, lo! I, 96, 1; 141, 1.
+
+bandhana, fetterer, V, 12, 4.
+
+bandhuta, kinship, IV, 4, 11.
+
+babhri, carrying (the prize), III, 1, 12.
+
+[p. 458]
+
+babhru', brown (plants), I, 140, 6:1.
+
+barhishtham, most powerfully, III, 13, 1.
+
+barhishmat, he who has spread the Barhis, V, 2, 12.
+
+barhis, the sacrificial grass, I, 1 2, 4; 13, 5; 7; 9, &c.; praki'nam barhih, I, 188, 4; deva barhih, II, 3, 4; madhye a' barhih, III, 14, 2.
+
+barhi-sad, sitting on the Barhis, II, 3, 3.
+
+bali, tribute, I, 70, 9; V, 1, 10.
+
+bahu, many: bahvi'h ka bhu'yasih ka ya'h durah, I, 188, 5.
+
+bahula, large, I, 189, 2.
+
+badh, to drive away: ba'dhamanah, III, 8, 2; ba'dhasva, beat away, III, 75, 1.
+
+bahu, arm, III, 29, 6.
+
+budh, to take notice: bodhi, III, 14, 7; V, 24, 3; sah ka bodhati, may he be attentive, I, 77, 2:1.--to think: bodhat, IV, 15, 7:1;--abodhi, he has been awakened, V, 1, 1; 2; budhyamanah, awaking, V, 3, 6; bodhaya, awaken, V, 14, 1:1;--vi bodhaya, awaken, I, 72, 4.
+
+budhna, bottom, base, I, 95, 8:2; 9; 96, 6; II, 2, 3; mahah budhne ragasah, IV, 1, 11:1;--depth, I, 141, 3:1.
+
+brihat, great: brihat bha'h, I, 45, 8:1; brihati' iveti bri degrees, I, 59, 4:1; a' brihat vadema, loud, II, 1, 16; mightily, III, 3, 11:1; V, 25, 8:1.
+
+Brihat-uktha, V, 29, 3.
+
+brihat-uksh, mightily growing, III, 26, 4.
+
+brihat-ketu, with mighty light, V, 8, 2.
+
+brihat-diva, dwelling in the great heaven, II, 2, 9.
+
+brihat-bhanu, with bright light, I, 27, 12; 36, 15.
+
+Brihat-ratha, I, 36, 18:1.
+
+Brihaspati, III, 20, 5; 26, 2:2.
+
+bradhna, ruddy, III, 7, 5.
+
+brahman, the Brahman (priest), II, 1, 2:3; 3:2; IV, 9, 4:2.
+
+brahman, (sacred) spell, I, 31, 18; II, 2, 7; 10; III, 8, 2; 13, 6; 18, 3; V, 2, 6; prathama-ga'h brahmanah III, 29, 15:1;--sacred word, II, 5, 3:1; IV, 3, 15; 4, 6;--prayer, hymn: vokema brahma, I, 75, 2; brahmanah pate, Brahmanaspati, II, 1, 3; akari brahma, IV, 6, 11.
+
+bru: upa-bruve, I invoke, I, 188, 8.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ BH
+
+bhaga, good fortune, I, 141, 6:3; 11:1;--love, V, 7, 8:3;--a winner (in a contest), I, 141, 10:1; 144, 3:3;--Bhaga, the god, I, 44, 8; II, 1, 7; III, 20, 4; 5; IV, 3, 5; V, 16, 2:1.
+
+bhag, to obtain: bhaganta ... na'ma, I, 68, 4; bhaktam abhaktam avah, blessings enjoyed or not enjoyed (before), I, 127, 5:6;--a' nah bhaga, let us partake, I, 27, 5.
+
+bhadra, good, I, 1, 6; fortunate, I, 67, 2; blissful, I, 94, 1; glorious, I, 94, 14, &c.
+
+bhadra-soki, with glorious light, V, 4, 7.
+
+bhand: bhandamane iti, of glorious appearance, I, 142, 7; III, 4, 6:2; bhandamanah, glorified, III, 2, 12; bhandate, he is glorified, III, 3, 4.
+
+bhandishtha, most glorious, I, 97, 3; V, 1, 10:1.
+
+Bharata, Agni the B., I, 96, 3:2; pl., the Bharatas, V, 11, 1.
+
+Bharat-vaga, the Bharadvagas, I, 59, 7.
+
+bhargas, splendour, I, 141, 1.
+
+bharv, to chew: bharvati, I, 143, 5.
+
+bhas: pra babhasat, may he consume, IV, 5, 4.
+
+bhasman, ash, V, 19, 5.
+
+bha, to shine: anu bhasi, III, 6, 7,--vi-bha'ti, he shines (conj. vidha'ti), I, 71, 6:1; vi bhasi, thou shinest, II, 1, 10:[1, 2]; vi bhahi, I, 95, 11.
+
+bhah-rigika, whose rigika (?) is light, I, 44, 3:1; III, 1, 12; 14.
+
+bhaga, share, portion, I, 73, 5:2; II, 10, 6; III, 1, 19.
+
+bhaga-dheya, portion, III, 28, 4.
+
+bhagayu, desirous of distributing (god), II, 1, 4.
+
+bha'-tvakshas, whose power is light, I, 143, 3.
+
+bhanu, ray, I, 36, 3; 97, 5; III, 1, 14; flame, I, 143, 3; V, 1, 1; light, splendour, II, 2, 8, &c.
+
+[p. 459]
+
+bhanu-mat, shining, V, 1, 11.
+
+bha'ma, splendour, III, 26, 6;--flame, V, 2, 10.
+
+bhamin, luminous, I, 77, 1.
+
+bhara, burthen, I, 31, 3.
+
+Bha'rata, (Agni) of the Bharata tribe, II, 7, 1:1; 5;--Bha'rata, the two Bharatas, III, 23, 2:1.
+
+Bharati: Hotra Bharati, I, 142, 9:2; II, 1, 11:1;--I, 188, 8; II, 3, 8; bha'rati bha'ratibhih, III, 4, 8.
+
+bha's, light: brihat bha'h, I, 45, 8:1; IV, 5, 1:1;--II, 4, 5; IV, 7, 9.
+
+bhiksh, to implore, I, 73, 6; 7.
+
+bhid: ava bhet, he cut down, I, 59, 6.
+
+bhug: bhogate, receives nourishment, I, 72, 8:2; bhuge, to enjoy, I, 127, 8; 11; bhugam, for the enjoyment, III, 2, 9;--yasya sam-bhugam, whom I may enjoy, II, 1, 4:1.
+
+bhugman, fertile: bhugma (conj. bhugma'), I, 65, 5:1.
+
+bhur: garbhurat, hurrying around, II, 2, 5; garbhuranah, II, 10, 5; bhuranta, they have made tremble, V, 6, 7:1;--pari-garbhuranah, hurrying around, 1, 140, 10.
+
+bhuranyu, quick, I, 68, 1.
+
+bhurig, pole-arm (?), IV, 2, 14:3.
+
+bhuvana, world, I, 31, 2; 73, 8; II, 3, 1; III, 2, 10; 3, 10; IV, 14, 2; bhuvanasya magmana, I, 143, 4:1;--being, I, 98, 1; III, 16, 4.
+
+bhu: satah ka bhavatah ka, of what is and what comes into being, I, 96, 7;--bhavatat, be, III, 23, 2:2;--pari bhuvat, he encompassed, I, 68, 2; pari babhutha, thou hast excelled, I, 69, 2.
+
+bhu'man, earth, I, 65, 3:1; II, 4, 7;--being: eta' bhu'ma, I, 70, 6;--world: visvani bhu'ma, 11, 4, 2;--V, 7, 5.
+
+bhu'yams, many, I, 31, 6.
+
+bhu'ri, rich, I, 73, 4;--bhu'ri kritvah, many times, III, 18, 4.
+
+bhuri-poshin, rich in manifold prosperity, III, 3, 9.
+
+bhu'ri-retas, rich in seed, III, 3, 11.
+
+bhu'ri-varpas, manifold-shaped, III, 3, 4.
+
+bhu'rni, quick, I, 66, 2; III, 3, 5.
+
+bhush, to be busy: bhu'shan, I, 140, 6; III, 25, 2;--upa bhushema, may we honour, III, 3, 9;--pari bhushasi vratam, thou administerest the law, I, 31, 2; pari bhushanti, they celebrate, I, 95, 3; pari bhushati, he takes care of, III, 3, 2; pari bhushathah, you display, III, 12, 9.
+
+bhri, to bring: namah bharantah, I, 1, 7; bha'r iti bha'h, I, 128, 2; bibharshi (conj. bibharshi), V, 3, 2:1;--ut-bhrita, taken out, III, 21, 5;--pra gabhrire, I, 72, 4; pra bhara (Samhita: bhara), 2nd or 1st person, I, 140, 1:1; pra-bhrita, proffered, I, 147, 2;--vi bharanta, they have brought to different places, I, 70, 10:1; vi-bhritah, brought to many places, I, 71, 4:1; dispersed, I, 144, 2; vi bharibhrat, quickly shaking, II, 4, 4:2.
+
+Bhrigavana, Bhrigu-like, 1, 71, 4:2;--belonging to the Bhrigus, IV, 7, 4.
+
+Bhrigu, I, 60, 1;--bhrigavah, the Bhrigus, I, 58, 5; 127, 7; 143, 4; II, 4, 2; III, 2, 4:1; 5, 10; IV, 7, 1.
+
+bhrimi, quick, I, 31, 16:2.
+
+bhogana, food: visvasya bhogana, O food on which everything lives, I, 44, 5:1;--possession, V, 4, 5.
+
+bhogya, bounty, I, 128, 5.
+
+bhrama, whirl, IV, 4, 2.
+
+bhrag, to shine: bhragante, I, 44, 12; abhrat, I, 66, 6; IV, 6, 5.
+
+bhra'gat-rishti, with brilliant spears, I, 31, 1.
+
+bhra'tri, brother, 1, 65, 7; bhra'taram varunam, IV, 1, 2; bhra'tuh rinam, IV, 3, 13:2.
+
+bhratra, brotherhood, II, 1, 9; IV, 10, 8.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ M
+
+mamhana, bountifulness, IV, 1, 6; V, 10, 2; mamhana, instr., V, 16, 4:2; 18, 2.
+
+mamhishtha, most rich in liberal gifts, I, 147, 2:1.
+
+makshu, quickly, I, 58, 9, &c.
+
+magha, wealth, III, 13, 3;--liberal boon, III, 19, 1;--liberality, V, 10, 3.
+
+magha-vat, generous, I, 58, 9; 140, 10.
+
+[p. 460]
+
+magha-van, liberal giver, I, 31, 12; 58, 9; 73, 5; 8; 77, 4; 98, 3; 127, 11; 140, 12; 141, 13; 146, 5; II, 6, 4; V, 16, 3; 18, 3; 5; maghonah (conj. maghonam), V, 27, 1:1.
+
+magman, greatness, power, I, 128, 5; 141, 6; 143, 2; 4:1; II, 1, 15.
+
+mati, (pious) thought, I, 60, 5; III, 26, 8;--prayer, I, 141, 1; 142, 4; III, 5, 3; IV, 3, 16; vakah matim, I, 143, 1:1.
+
+math or manth, to produce by attrition: mathit, I, 71, 4; 148, 1; mathnantah, I, 127, 7; mathih, I, 127, 11; mathayati, I, 141, 3; mathita, III, 9, 5; amanthishtam, III, 23, 2; manthama, III, 29, 1; manthata, III, 29, 5; manthanti, III, 29, 6; mathyamanah, V, 11, 6;--nih-mathitah, produced by attrition, III, 23, 1; 29, 12.
+
+mad or mand, to be pleased, rejoice: mandasva (with gen.), I, 26, 5; madayante, I, 59; 1:1; madayasva, II, 3, 11:3; III, 6, 9; madanti, III, 4, 7; 7, 7; madayantam, III, 4, 11; madantam, III, 26, 9; madayetham, IV, 14, 4;--abhi pra mande, I gladden, V, 4, 1.
+
+mad, pronoun: me, acc., V, 27, 4:2.
+
+mada, delight, I, 127, 9; V, 2, 10.
+
+madhu, sweet drink madhvah adhave, I, 141, 3:3;--honey, I, 142, 3; 188, 2; III, 1, 7; 8; madhuna daivyena, III, 8, 1:2;--honey-drink, V, 19, 3:2.
+
+madhu-gihva, honey-tongued, I, 13, 3; 44, 6; 60, 3.
+
+madhu-peya, honey-drink, IV, 14; 4:2.
+
+madhu-prik, mixing the honey-drink, II, 10, 6.
+
+madhu-mat, rich in honey, I, 13, 2; 142, 2; honey-sweet, I, 78, 5; III, 4, 2; IV, 3, 9; 12;--sweet (food), III, 7, 2.
+
+madhumat-tama, sweetest, V, 11, 5.
+
+madhu-vakas, sweet-tongued, IV, 6, 5.
+
+madhu-sut, Madhu-presser, IV, 3, 3.
+
+madhu-hastya, with honey in his hand, V, 5, 2.
+
+madhyatah, out from the midst, III, 21, 5.
+
+madhyama, middle: madhyameshu, I, 27, 5.
+
+man: manvata, they have devised, IV, 1, 16; manyase, thou art considered, V, 17, 2:[1, 3].
+
+manana, thought, III., 6, 1:1.
+
+manas, thought: manah na sadyah, I, 71, 9; mind: manasah varaya, I, 76, 1:1; ghrita-prusha manasa, his mind being intent on scattering ghrita, II, 3, 2; manasa sam gagmuh, they agreed in their mind, III, 1, 13.
+
+manisha', (pious) thought: manisha' (Pada text for manisha'h?), I, 70, 1:2; 76, 1; III, 8, 5; prayer, IV, 5, 3; 6, 1; V, 11, 5:1;--thoughtful mind, I, 94, 1;--wise thoughts, IV, 11, 2; 3; parah manishaya, beyond thought, V, 17, 2:2.
+
+manishin, thoughtful man, I, 13, 5; III, 10, 1.
+
+manu, man, 1, 96, 2; 140, 4; V, 2, 12;--manave, to the man, or to Manu, I, 189, 7:4;--Manu, N.p ., I, 31, 4; 36, 10; 19; 68, 7; 128, 2.
+
+manuh-hita, instituted by Manus, I, 13, 4:2; III, 2, 15.
+
+Manu-gata, offspring of Manu, I, 45, 1:2.
+
+Manu-vat, like Manu, II, 10, 6.
+
+manusha, man, I, 31, 11:2.
+
+manushya, man, I, 59, 4;--belonging to men, III, I, 10.
+
+Manushvat, as for Manu, I, 31, 17; II, 5, 2; III, 17, 2; as Manus did, I, 44, II; V, 21, 1.
+
+manus, man, (I, 31, 11:2); I, 36, 7; III, 26, 2; IV, 1, 9:1; 6, 11; V, 3, 4; 5, 7; manushah, (Aryan) men, I, 189, 7:2;--manushah, of the man, or, of Manus, II, 2, 6; 8;--Manus, N.p., I, 26, 4; 76, 5:1; 128, 1; II, 10, 1; IV, 2, 1:1; manushah purah-hitah, III, 3, 2;--Manushah gantu-bhih, III, 3, 6; manotri, deviser, II, 9, 4.
+
+mantra, hymn, I, 31, 13; spell, I, 67, 4; 5; 147, 4; prayer, I, 74, 1.
+
+mand, see mad.
+
+mandra, joy-giving, cheerful, I, 26, 7, &c.; lovely, delightful, V, 17, 2; 26, 1.
+
+[p. 461]
+
+mandra-gihva, with lovely tongues, I, 142, 8;--with agreeable speech, IV, 11, 5;--with the delightful tongue, V, 25, 2.
+
+mandra-tama, most delightful, V, 22, 1.
+
+mandra-tara, a great joy-giver, III, 7, 9.
+
+manman, thought, I, 26, 2:1; III, 14, 5; IV, 6, 1;--prayer, I, 77, 4; 127, 2; 140, 1; 11; 148, 2; II, 4, 8; III, 11, 8; IV, 3, 3; 15; 5, 6; 11, 2; V, 12, 1.
+
+manma-sa'dhana, fulfiller of thought, I, 96, 6.
+
+manyu, spirit, V, 7, 10:1.
+
+mamaka, mine, I, 31, 11:3.
+
+mayah-bhu', comfort-giving, I, 13, 9; III, 16, 6; IV, 11, 4; V, 5, 8.
+
+mayas, happiness, I, 31, 7; freshness, III, 1, 3:1
+
+Marut: marutah, the Maruts, I, 31, 1; 44, 14; 94, 12; 128, 5; 142, 9:1; III, 26, 4-6; 29, 15; IV, 1, 3; 2, 4; V, 3, 3; 5, 11; 26, 9; marutam-iva svanah, I, 143, 5; marutam sardhah, II, 3, 3; IV, 3, 8; visve marutah, III, 14, 4; narah marutah, III, 16, 2:1.
+
+marutvat, accompanied by the Maruts, I, 142, 12; III, 4, 6.
+
+marut-vridh, whom the Maruts strengthen, III, 13, 6:1.
+
+marta, mortal, man: martan (for martam, gen. plur?), I, 70, 6:1; IV, 2, 3:2; 11:1; martaya (for martyaya?), I, 77, 2:1; martam samsam, praise of mortals, I, 141, 6:4.
+
+martya, the mortal, I, 26, 9:1; martyeshu deva'n krinoti, I, 77, 1:1; devasya martyasya ka, II, 7, 2.
+
+marya, manly, I, 77, 3.
+
+maryaka, young bull, V, 2, 5:1.
+
+marya-sri, like a beautiful youth, II, 10, 5.
+
+marya'da, limit, IV, 5, 13.
+
+mah: mamahantam, may they grant, I, 94, 16; 95, 11; mamahe me, he has presented me, V, 27, 1;--to exalt: mahayanta, III, 3, 3; mahayan, III, 3, 11; mahaya, III, 24, 4: mahayamanah, III, 25, 5;--sam mahema (conj. sam ahema), I, 94, 1:1.
+
+mah, great: mahah (acc. pl.), I, 31, 3:2, &c.; IV, 4, III; mahi'nam, of the great (waters), III, 1, 12:1.
+
+mah, greatness: mahe, III, 7. 10.
+
+maha, great: mahah, I, 146, 5:2.
+
+mahan, greatness: mahna' mahat-bhih, I, 72, 9.
+
+mahas, power: mahah-bhih, II, 10, 3:4; III, 4, 6:3; with all their might, IV, 14, 1:1;--mightily: mahah raye kitayan, V, 15, 5:3.
+
+mahi, great, I, 79, 4.
+
+Mahi-keru: mahi-keravah, I, 45, 4:1.
+
+mahi-tva, greatness, might, I, 59, 5; 6; mahi-tva', I, 67, 9; 68, 2; growth, III, 1, 4.
+
+mahina, greatness, III, 6, 2; 7, 10:2.
+
+mahiman, greatness, I, 59, 7.
+
+mahi-ratna, possessor of great treasures, I, 141, 10.
+
+mahi-vrata, lord of high laws, I, 45, 3.
+
+mahisha, buffalo, I, 95, 9:1; 141, 3:1.
+
+mahishi, queen, V, 2, 2:1; buffalo-cow, V, 25, 7:2.
+
+Mahi', 'the Great One,' N. of a goddess, I, 13, 9:1; 142, 9; V, 5, 8.
+
+ma, to create, produce: amimita, he produced, II, 4, 5; mimite, III, 1, 5; amimita (matari), he has been shaped, III, 29, 11:1; mimanam, preparing, V, 2, 3;--upa masi, measure out, I, 142, 2;--vi ragah mame, he passes through the air, I, 58, 1; vima'nah, traversing, III, 26, 7;--sam-ma'ya, building, I, 67, 10.
+
+ma'kis, not, I, 147, 5.
+
+Matarisvan, I, 31, 3; 60, 1; 71, 4:1; 96, 4:1; 128, 2; 141, 3; 143, 2; 148, 1; III, 2, 13; 5, 9; 10; 9, 5; 26, 2:1; 29, 11:1.
+
+matri, mother: mata' Aditih, I, 72, 9; mother (Earth), I, 140, 9:1; matuh, II, 5, 6:1; matuh upasthe, III, 8, 1:3; 29, 14; V, I, 6; amimita matari, III, 29, 11:1; trih sapta matuh parama'ni, IV, 1, 16:1; matuh ushasah, IV, 2, 15; matuh goh, IV, 5, 10:1; mata' yuvatih, V, 2, 1; 2; mata'-iva, V, 15, 4;--du., ubha' matara, I, 140, 3:1; matara samiki', the parents turned towards each other (Heaven and Earth), III, 1, 7:1; parents, III, 2, 2; 5, 7:2; 7, 1:1; V, 11, 3:1; matara pitara, [p. 462] IV, 6, 7; yahvi' iti ritasya matara, V, 5, 6;--pl., mothers, I, 95, 7; 141, 5:1; vatsah matri'h ganavata, I, 95, 4:2; sapta siva'su matrishu, I, 141, 2:2; matri'h apah, III, 9, 2; su-gatam matrishu, III, 23, 3; sasvatishu matrishu, IV, 7, 6.
+
+ma'dhyandina, midday: ma'dhyandine savane, III, 28, 4.
+
+Ma'na, N. p.: ma'nasya sunuh, I, 189, 8:1.
+
+manavasyat, acting as men do, I, 140, 4.
+
+ma'nusha, man, I, 58, 5, &c.;--belonging to men, I, 44, 10:1; 128, 7; human, I, 59, 5; 60, 3; ma'nushasya ganasya ganma, I, 70, 2; ma'nushi vit, I, 72, 8; dhi'h ma'nusha, II, 2, 9; human (sacrificer): ma'nushat pu'rvah, II, 3, 3:2;--belonging to Manus, III, 9, 6; ma'nushe (conj. ma'nushah), III, 23, 4:4.
+
+Mamateya, son of Mamata, I, 147, 3:1.
+
+maya', wonderful power, I, 144, 1;--secret power, III, 20, 3:2; 27, 7:1;--wile, V, 2, 9.
+
+mayin, powerful, III, 20, 3.
+
+Ma'ruta, of the Maruts: sardhah ma'rutam, I, 127, 6; II, 1, 6; IV, 6, 10.
+
+margalya, liking to be groomed, V, 1, 8.
+
+mard ka, mercy, I, 79, 9:3
+
+ma'-vat, like me, I, 142, 2.
+
+ma'hina, mighty, III, 6, 4; 7, 5.
+
+mi, to erect: miyamanah, III, 8, 3;--ni-mimyuh, they have fastened down, III, 8, 6; nimita, III, 8, 7.
+
+miksh, to mix: mimikshati, I, 142, 3; ghritam mimikshe, he is joined with ghrita, II, 3, 11:2.
+
+mita-dru, measuredly running, IV, 6, 5.
+
+mitra, friend, I, (36, 17:1); 67, 1; 75, 4.--friend or Mitra, the god, I, 96, 1:3; II, 2, 3; 4, 1; III, 5, 3;--Mitra, the god, I, 26, 4; 36, 4; 44, 13; 58, 6; 77, 3:2; 79, 3; 94, 12:1; 13:1; 16; 95, 11; 98, 3; 141, 9; 143, 7; II, 1, 4; III, 4, 2; 6; 5, 9; 14, 4; IV, 1, 18; 2, 4; 3, 5; 5, 4; 6, 7:3; 13, 2; V, 3, 2; 2:3; 9, 6; 10, 2; 16, 1; 26, 9; mitra', the two Mitras i. e. Mitra and Varuna, I, 36, 17:1; ksheshyantah na mitram, II. 4, 3:1; mitrah agnih bhavati, III, 5, 4.
+
+mitra-mahas, great like Mitra, I, 44, 12; 58, 8; II, 1, 5; IV, 4, 15.
+
+Mitra'varunau, du., Mitra and Varuna, I, 71, 9:2; 75, 5; III, 20, 5.
+
+mitrya, belonging to one's allies, II, 6, 7.
+
+mithas, mutually, I, 26, 9;--together, I, 68, 8.
+
+mithuna, twin, I, 144, 4.
+
+miyedha, sacrificial meal, III, 19, 1; 5.
+
+miyedhya, sacrificial, I, 26, 1;--holy: I, 36, 9; 44, 5.
+
+mish: ni mishati, he closes his eyes, III, 29, 14.
+
+mih, mist, I, 79, 2; 141, 13.
+
+mi, to break (a law): minanti, I, 69, 7; yasya vratam na mi'yate, II, 8, 3;--to impair: minati, I, 71, 10;--minat, fading, V, 2, 1:2;--a' aminanta (Samhita text:  degreesntan), they were disparaged, I, 79, 2:1;--amemyane ity a-memyane, constantly destroying, I, 96, 5;--pra minanti, they diminish, III, 28, 4; pra-minatah, trespassing, IV, 3, 13; pra mina'ti, he destroys, V, 7, 4.
+
+midhvams, bountiful, I, 27, 2; II, 8, 1; III, 16, 3; IV, 3, 5; 5, 1; 15, 5.
+
+muk, to loosen: mukyase, I, 31, 4.
+
+mud, joy, I, 145, 4.
+
+mumukshu, striving to break loose, I, 140, 4.
+
+muhuh-gir, the sudden devourer, I, 128, 3.
+
+murdhan, ahead: murdha' divah, I, 59, 2; III, 2, 14; murdha'nam tatapate, IV, 2, 6;--summit: murdhan yagnasya, II, 3, 2.
+
+mri, to die: mamrushih, 1, 140, 8.
+
+mri: pra mrinihi, crush, IV, 4, 5.
+
+mrikta-vahas, carrying away injury, V, 18, 2:2.
+
+mriga, animal, 1, 145, 5.
+
+mrik, to injure: markayati, mrikshishta. I, 147, 4; 5; V, 3, 7.
+
+mrig, to rub: margayantah, I, 60, 5; marmrigenya, to be smoothed down, I, 189, 7; II, 10, 1;--to clean, brighten: marmrigma, III, 18, 4; marmrigata, IV, 1, [p. 463] [paragraph continues] 14; marmrigatah, IV, 2, 19; margayema, IV, 4, 8; marmrigyante, IV, 15, 6; margayanta, they have cleansed themselves, V, 3, 3:1;--to groom: mriganti, V, 1, 7; mrigyate, V, 1, 8;--pari marmrigyate, purifies, 1, 95, 8:2.
+
+mrid, to be merciful: mrilaya, I, 12, 9; mrila, I, 36, 12; 94, 12; IV, 9, 1.
+
+mrilayat-tama, most merciful, I, 94, 14.
+
+mrilika, mercy, IV, 1, 3; 5.
+
+mris abhi mrisate, he strokes, I, 145, 4; na abhi-mrise, not to be touched, II, 10, 5.
+
+mrish, to forgive: mimrishah, I, 31, 16; to forget: ma' pra marshishthah, I, 71, 10; na tat pramrishe, it should not be slighted, III, 9, 2.
+
+meli, roaring (?), III, 26, 9:1; IV, 7, 11:2.
+
+metri, builder, IV, 6, 2.
+
+medas, fat, III, 21, 1; 2; 4; 5:1.
+
+medha, sacrifice, I, 77, 3.
+
+medha', wisdom, V, 27, 4.
+
+medhira, wise, 1, 31, 2; 127, 7; 142, 11; III, 1, 3; 21, 4.
+
+medhya, holy, V, 1, 12.
+
+Medhya-atithi, I, 36, 10:1; 11; 17:1.
+
+mena, woman, I, 95, 6.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ Y
+
+yaksh with pra, to aspire after: pra-yakshan vasu, II, 5, 1; pra-yakshe, III, 7, 1.
+
+yaksha, a spirit, IV, 3, 13:[1, 3] (bis).
+
+yag, to sacrifice: yakshi, I, 13, 1; 31, 17; 36, 6; yashtave, 1, 13, 6; yagnam yakshatam, I, 13, 8; arva'nkam yakshva, 1, 45, 10; yagadhyai, III, 4, 3; ayagah hotram, III, 17, 2; yat yagasi, III, 19, 4:2; dhruvam ayah, III, 29, 16; yagathaya, see yagatha;--ava yakshva, cause, by sacrificing, to go away, IV, 1, 5;--a' yagati, procures (blessings) by sacrificing, I, 26, 3; a-yagase, I, 94, 2; a' yaga, produce by sacrifice, I, 88, 9; a' yagasva, obtain by sacrificing, III, 1, 22; a-yagante, they bring hither by sacrifice, III, 4, 2; a' yakshat, V, 13, 3:1.
+
+yagata, to be worshipped, worshipful, I, 59, 7; 128, 8; II, 5, 8; III, 5, 3; IV, 1, 1:2; 15, 8; V, 1, 11; 8, 1.
+
+yagatra, deserving worship, worshipful, I, 65, 2:1, &c.
+
+yagatha, the sacrificing, sacrifice: yagathaya, III, 4, 1; 5, 9; 17, 1; 19, 5; V, 1, 2; 11, 2.
+
+yagamana, sacrificer, I, 127, 2; V, 26, 5.
+
+yagishtha, best sacrificer, I, 36, 10; 44, 5; 58, 7; 77, 1; 127, 1; 28, 1; 149, 4; II, 6, 6; III, 10, 7; 13, 1; 14, 5; IV, 1, 4; 19; 2, 1; 7, 1; 5; 8, 1; V, 14, 2.
+
+yagiyams, the best, or excellent, sacrificer, II, 9, 4; III, 4, 3; 17, 5; 19, 1; IV, 6, 1; V, 1, 5; 6; 3, 5.
+
+yagna, sacrifice, I, 1, 1; 4:1, &c.; II, 2, 1:1; yagna'nam adhvara-sriyam, I, 44, 32; murdhan yagnasya, II, 3, 2; yagnasya netari, II, 5, 2; rudram yagna'nam, III, 2, 5:1; ketum yagna'nam, III, 3, 3; 11, 3; 29, 5; pita' yagnanam, III, 3, 4; yagnam-yagnam, III, 6, 10; yagnasya neta' prathamasya, III, 15, 4.
+
+yagna-bandhu, kinsman of sacrifice, IV, I, 9:1.
+
+yagna-vat, performing the sacrifice, III, 27, 6.
+
+yagna-vanas, accepting the sacrifice, IV, 1, 2.
+
+yagna-vahas, fitting out the sacrifice as a vehicle, III, 8, 3:1; 24, 1:1
+
+yagna-sadh, performer or promoter of sacrifices, I, 96, 3; 128, 2.
+
+yagna-sa'dhana, accomplisher of sacrifices, I, 145, 3.
+
+yagniya, worshipful, I, 27, 10:2; 72, 3; 4; 6; 73, 7; 148, 3:1; II, 3, 4; III, 1, 21; 2, 13; 6, 3; IV, 1, 20; V, 10, 2;--sacrificial, V, 12, 1.
+
+yagyu, sacrificer, I, 31, 13; III, 19, 4.
+
+yagvan, sacrificer, I, 13, 12; III, 14, 1.
+
+yat: yatate, he ranges (the wings of his army), I, 95, 7:2; he unites with, I, 98, 1:2; yatanah, ranging themselves, III, 8, 9;--yatate, he stands firm, III, 16, 4;-- [p. 464] yatayase, thou wilt requite, V, 3, 9.
+
+yatah, since, I, 128, 4.
+
+yata-sruk, holding forth the sacrificial ladle(s), I, 142, 1; 5; III, 2, 5; 27, 6; IV, 2, 9; 12, 1;--to which the sacrificial ladles have been raised, III, 8, 7:1.
+
+yad, adv. when (repeated twice), I, 141, 4:3.
+
+yadi, when: yadi idam, when here (all this happened), I, 79, 2:3;--as I am, IV, 5, 11:2.
+
+Yadu, I, 36, 18:1.
+
+yantur, governor, III, 27, 11:2.
+
+yantri, guider: yanta'ram dhina'm, III, 3, 8;--guide, III, 13, 3.
+
+yam, to command: yanta, 1, 27, 7;--to hold: yayantha, I, 59, 1; yamati, it can hold, 1, 141, 11:3; yemanam, fast-holding. IV, 1, 15; yemuh, they have held up, IV, 2, 14;--to bridle: sakema yamam, I, 73, 10:1; II, 5, 1:4; III, 27, 3; yamate, he holds himself back, I, 127, 3;--ayami te, it has been offered to thee, III, 14, 2:1;--to lead: agur yamuh, V, 6, 10:2;--a-yemire, they have turned themselves hither, III, 6, 8;--ut yamyamiti, he raises again and again, I, 95, 7; ut yamsate, may he lift up, I, 143, 7;--ni-yata, ruled, IV, 3, 9;--with pra, to bestow: pra yamsi, III, 1, 22; pra yandhi, bestow, IV, 2, 20; pra-yata, IV, 15, 8;--vi yamsat, may he spread out, I, 189, 6;--sam ayamsta, he pulls in (the reins), 1, 144, 3.
+
+yama, twin: yamah ha gatah yamah gani-tvam, I, 66, 8:1.
+
+Yayati: yayati-vat, I, 31, 17.
+
+yava, barley, I, 66, 3; corn, II, 5, 6.
+
+yavasa, meadow, V, 9, 4.
+
+yavasa-ad, grass-consuming, I, 94, 11.
+
+yavishtha, the youngest (god, Agni), I, 26, 2; 44, 4; 141, 4; 10; 147, 2; 189, 4; II, 6, 6; 7, 1; III, 15, 3; 19, 4; IV, 2, 10; 13; 4, 6; 11; 12, 3; 4; V, 1, 10; 3, 11.
+
+yavishthya, youngest (Agni), I, 36, 6; 15; 44, 6; III, 9, 6; 28, 2; V, 8, 6; 26, 7.
+
+yavya; bliss in crops, I, 140, 13.
+
+yasah-tama, most glorious, II, 8, 1.
+
+yasas, bringing glory, glorious, I, 1, 3; 31, 8; 60, 1; II, 3, 5; III, 1, 19; V, 15, 1; yasasah (fem.), III, 1, 11:[2, 3]; yasasa goh, through the brilliant (milk?) of the cow, IV, 1, 16:4; martasva yasasa, through the mortal's brilliant (offering), V, 8, 4:1.
+
+yasasvat, glorious, I, 79, 1:4; III, 16, 6.
+
+yahu, young son: sahasah yaho iti, I, 26, 10:1; 74, 5:1; 79, 4.
+
+yahva, vigorous, I, 36, 1:2; III, 2, 9:1; 3, 8; 5, 5; 9; 28, 4; IV, 5, 6; V, 16, 4:3; restless, III, 1, 12:5; IV, 5, 2; 7, 11;--young, V, 1, 1;--yahvi'h, new, I, 59, 4;--sapta yahvi'h, I, 71, 7:2; 72, 8:1; III, 1, 4:1; IV, 13, 3;--divah yahvi'h, young (daughters), III, 1, 6; 9:4;--yahvi' iti matara, I, 142, 7:2; V, 5, 6.
+
+ya, to go: ya'mi ratnam, I pray for treasure, I, 58, 7:3; ya'sat, may he drive on, I, 71, 6:3;--akkha yahi, come hither, I, 31, 17; deva'n akkha ya'tave, I, 44, 4:1;--ava-yata'm (conj. ava-yata'), I, 94, 12:1; ava yasisishthah, mayest thou deprecate, IV, 1, 4.
+
+Yatu, a bad demon, V, 12, 2:1.
+
+yatu-gu, inciting demons, IV, 4, 5.
+
+yatu-ma'vat, ally of the Yatus: yatu-ma'vatah, I, 36, 20.
+
+ya'tri, avenger (?), I, 70, 11:3.
+
+ya'ma, procession, V, 3, 12.
+
+ya'man, way, III, 2, 14; 29, 6:1.
+
+yu: yuyushatah, they try to draw towards themselves, I, 144, 3;--yuyodhi, drive away, I, 189, 1; 3; II, 6, 4; yodhi, V, 3, 9:2;--a' yuvamanah, seizing, I, 58, 2; a-yoyuvanah, drawing towards himself, IV, 1, 11;--vi yoshat, may he be deprived of, IV, 2, 9.
+
+yu, going: yoh, I, 74, 7:2.
+
+yukta, see yug.
+
+yukta-gravan, who sets to work the press-stones, III, 4, 9.
+
+yuga, generation, tribe: ma'nusha yuga', I, 144, 4; II, 2, 2;--age: yuge-yuge, III, 26, 3.
+
+yug, to harness, yoke: yuganam, I, 65, 1:[1, 3]; ayukthah, I, 94, 10; ayukshata, III, 26, 4; dakshina [p. 465] yugyate, V, 1, 3:3; yukta, V, 27, 2; 3:4;--to join: nri-bhih yuktah, I, 69, 8;--yunge, I make ready, III, 1, 1:4.
+
+yug, share: yugam, V, 20, 1:1. 
+
+yugya, companion: yugyebhih, I, 145, 4:2.
+
+yudh, the fighting, I, 59, 5; battle, I, 140, 10; V, 25, 6.
+
+yuvati, young woman: dasa vuvata-yah, I, 95, 2:2;--III, 1, 6; V, 2, 1; 2; 4:2.
+
+yuvan, young, I, 22, 1; 27, 13; 71, 8; 141, 10; 144, 4; III, 23, 1; IV, 1, 12; V, 1, 6; yuva suva'sah, III, 8, 4:1;--see yavishtha, yavishthya.
+
+yushmad, pron.: vah, dativus ethicus, 1, 143, 7:1; vam, III, 4, 4:1.
+
+yutha, herd, I, 58, 5; IV, 2, 18; V, 2, 4:1.
+
+yu'pa, sacrificial post, (I, 13, 11:1); V, 2, 7.
+
+yoga, the yoking, II, 8, 1;--setting to work, III, 27, 11.
+
+yogya', the harnessing, III, 6, 6.
+
+yoni, womb, I, 149, 2; II, 3, 11; 9, 3; ritasya yonau, I, 65, 4; III, 1, 11; IV, 1, 12; V, 21, 4:1; uparasya yonau, I, 79; 3:3; ghritasya yonau, III, 1, 7; ragasah yonau, IV, 1, 11;--couch, I, 66, 5;--receptacle, I, 140, 1:2;--birthplace, I, 144, 2; III, 29, 10;--abode: samane yona, I, 144, 4, su-kritasya yonau, III, 22, 8;--place, III, 5, 7:1; home, IV, 3, 2.
+
+yoshan, young female: dasa yoshanah, I, 141, 2:4; abhratarah na yoshanah, IV, 5, 5:2.
+
+yos: sam yoh, with luck and weal, I, 189, 2; III, 17, 3; 18, 4; IV, 12, 5.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ R
+
+ramh, to hasten: rarahana'h, I, 148, 3.
+
+ramhya, rapidly, IV, 1, 3.
+
+rakshas, pl., rakshamsi, the Rakshas (devils), I, 79, 12; IV, 3, 14; V, 2, 9; 10.
+
+rakshas, sorcerer, I, 36, 15; 76, 3; 79, 6; III, 15, 1; IV, 4, 1; 4, 15.
+
+rakshasvin, sorcerer, I, 12, 5; 36, 20.
+
+raghu, swift, IV, 5, 13.
+
+raghu-dru, quickly running, I, 140, 4; V, 6, 2.
+
+raghu-yat, quickly moving, IV, 5, 9.
+
+raghu-syad, swift runner, I, 140, 4; III, 26, 2; IV, 5, 9; V, 25, 6.
+
+ragas, air, atmosphere, aerial space, I, 58, 1; 5; 79, 1; 141, 7; 149, 4; 11, 2, 3; 4; III, 1, 5; 4, 4:3; 26, 7; ragasah yonau, IV, 1, 11:2.
+
+ragishtha, straightest, I, 79, 3.
+
+ran, to rejoice, delight: ranayanta, I, 147, 1; rananti, III, 7, 5; ranayanta, IV, 7, 7; havya' ranyati, V, 18, 1:2.
+
+rana, battle: rane-rane, I, 74, 3.
+
+ranv, to be joyful: ranvite iti, II, 3, 6.
+
+ranva, pleasant, lovely, I, 65, 5; 66, 3-5; 128, 8; II, 4, 4; IV, 1, 8;--gay, joyous, cheerful, I, 144, 7; II, 4, 6; III, 26, 1; IV, 7, 5; V, 7, 2
+
+ratna, treasure: ya'mi ratnam, I, 58, 73; vasu ratna, III, 2, 11; kridhi ratnam, III, 18, 5.
+
+ratna-dha', bestower of treasures, II, 1, 7.
+
+ratna-dha'tama, highest bestower of treasures, I, 1, 1; V, 8, 3.
+
+ratna-dheya, bestowal of treasures, IV, 13, 1.
+
+ratna-vat, blessed with treasures, III, 28, 5.
+
+ratha, chariot: ratham-iva vedyam, II, 2, 3:2; rathah na sasnih, like a victorious car, III, 15, 5.
+
+rathira, charioteer, III, 1, 17; 26, 1.
+
+rathi', drawing a chariot: asvasah rathyah, I, 148, 3; III, 6, 8;--charioteer, I, 77, 3; III, 3, 6; IV, 15, 2; rathi'h adhvara'nam, I, 44, 2; rathi'h ritasya, III, 2, 8; IV, 10, 2.
+
+rathya, of a chariot: atyah rathyah, II, 4, 4; rathya-iva (supply kakra'?), II, 4, 6:2; kakram rathya-iva (rather rathyam-iva?), IV, I, 3:1.
+
+rad, to cleave: ratsi, V, 10, 1.
+
+radhra: radhrasya for adhrasya, (I, 31, 14:2).
+
+rapas: rapamsi, Pada text instead of apamsi, I, 69, 8:2.
+
+rabh: sam rebhire, they have embraced, I, 140, 8;--abhi sam rabhante, they take care of, III, 29, 13.
+
+[p. 466]
+
+rabhas, vigour, I. 145, 3.
+
+rabhasa, robust, II, 10, 4:1; fierce, III, 1, 8.
+
+ram-su, joyously, II, 4, 5.
+
+ram-sugihva, with lovely tongue, IV, 1, 8.
+
+rayi, riches, treasures: kshapa'-van rayina'm, I, 70, 5:1.
+
+rayi-pati, treasure-lord: rayi-patih rayina'm, I, 60, 4; 72, 1; II, 9, 4.
+
+rayi-vid, gainer of wealth, II, 1, 3; III, 7, 3.
+
+rayisha'h, conqueror of wealth, I, 58, 3.
+
+rava, shouting, roaring, I, 71, 2; 94, 10; agne ravena (Pada: agneh avena), I, 128, 5:1.
+
+rasana', rope, (I, 13, 11:1); IV, 1, 9:2; V, 1, 3:1.
+
+rasmi, ray, I, 59, 3; IV, 13, 4; 14, 2; 3; V, 19, 5;--sapta rasmayah, seven rays or reins, II, 5, 2;--rein, I, 141, 11; III, 7, 9:1; ritasya rasmim, V, 7, 3.
+
+rasa, sap, I, 71, 5:1.
+
+Rahugana, plur., the Rahuganas, I, 78, 5:1.
+
+ra, to give: rasate, I, 96, 8; rarishe, II, 1, 5; rarima, II, 5, 7; raranah, a liberal giver, III, 1, 22; IV, 1, 5; 2, 10.
+
+rag, to be king or lord: ra'gantam adhvara'nam, I, 1, 8; 45, 4; ragasi, I, 36, 12; 188, 1; ragan (conj. ra'gan), 1, 79, 6:1;--vira'gatha, I, 188, 4;--adhi vira'gatah, you reign high, I, 188, 6:1.
+
+ra'gan, king, I, 59, 3; 5, &c.; ra'gana mitra'varuna, I, 71, 9:2; ra'ga Varunah, II, 1, 4; IV, 1, 2; ra'ga visa'm, II, 2, 8; vasa'm ra'ganam, V, 2, 6:1.
+
+rata-havya, who has made offerings: rata-havyah, I, 31, 13:4;--to whom offerings are made, IV, 7, 7.
+
+rati, gift, I, 60, 1; II, 1, 16; III, 2, 4; 19, 2:2.
+
+ratini, full of gifts, III, 19, 2; IV, 6, 3.
+
+Rati-sa'k, pl., the Ratisak or 'bounteous' gods, II, 1, 13.
+
+ra'tri, night, I, 94, 7.
+
+radh, to worship: aradhi, I, 70, 8:2;--ma' nah riradhah, give us not up, III, 16, 5.
+
+ra'dhas, abundance, wealth, I, 94, 15; II, 9, 4.
+
+ra'dhya, beneficent, IV, 11, 3.
+
+ra'mya, night, II, 2, 8.
+
+rayah-kama, desirous of riches, I, 78, 2.
+
+ri, to let loose: arinat, III, 3, 11:1;--svadhitih-iva ri'yate, it streams, V, 7, 8:1;--ni rinati, he destroys, I, 127, 4; 148, 4.
+
+rik: ririkva'msah, abandoning, I, 72, 5:3;--with pra, to exceed: pra ririke, I, 59, 5; pra rikyase, II, 1, 15; pra rikthah, III, 6, 2.
+
+rip, deceiver: priyam ripah agram, III, 5, 5:1.
+
+ripu, impostor, I, 36, 16; 147, 3; 148, 5; 189, 5; IV, 3, 13:3; V, 3, 11; ripave (conj. ripavah?), V, 12, 4:1.
+
+ririkshu, who tries to harm, I, 189, 6.
+
+risa'das, triumphant with riches (?), I, 26, 4:1; 77, 4:1.
+
+rish, to do harm: rishatah, I, 12, 5; 36, 15; ma' rishama, may we suffer no harm, 1, 91, 1-14; IV, 12, 5; reshayanti, I, 148, 5; rishate, I, 189, 5; V, 3, 12.
+
+rish, harm, I, 98, 2.
+
+rishanyu, harmful foe, I, 148, 5.
+
+rih, to lick: rerihat sada, licking and licking, I, 140, 9; rihanti u'dhah, I, 146, 2;--pari rihan, licking everywhere, I, 140, 9.
+
+ri, see ri.
+
+ru: roruvat, roaring, I, 140, 6.
+
+rukma, gold, I, 96, 5:3; IV, 10, 5; 6; V, 1, 12.
+
+rukmin, with golden ornaments, I, 66, 6.
+
+ruk, to shine: rokate, I, 58, 2, &c.; rurukva'n, I, 149, 3; su-ruka rukanah, III, 15, 6; rokata, IV, 10, 6:1;--ati rokase, thou shinest forth, I, 94, 7;--pra arokayat, it filled with light, I, 143, 2;--vi-rokamanam, I, 95, 2; 9; vi rokase, II, 7, 4; vi-rurukuh, they have made shine, IV, 7, 1.
+
+rug, to break: rugan, I, 71, 2; adrim rugema, IV, 2, 15:3;--vi ruga, destroy, IV, 3, 14.
+
+Rudra, a name of Agni, I, 27, 10:3; IV, 3, 1:1; rudram yagna'nam, [p. 467] III, 2, 5:1;--Rudra, the father of the Maruts, II, 1, 6; IV, 3, 6; 7; V, 3, 3:2;--pl., the Rudras, I, 45, 1; 58, 3; III, 8, 8; 20, 5.
+
+Rudriya, Rudra-like: rudriya, I, 72, 4:1;--pl., the sons of Rudra, III, 26, 5.
+
+rudh: vi rodhat, he grows up, I, 67, 9.
+
+rup: rupah? IV, 5, 7:1; 8.
+
+rusat, bright, brilliant, III, 29, 3; IV, 3, 9; 5, 15; 11, 1; V, 1, 2;--red, IV, 7, 9.
+
+rusat-urmi, with fiery waves, I, 58, 4:4.
+
+ruh: vaya'h-iva anu rohate, he mounts up as on the branches (of a tree), II, 5, 4:1.
+
+rupa, appearance, I, 71, 10; 95, 8; IV, 11, 1:2.
+
+reku, empty (?), IV, 5, 12:1.
+
+reknas, property, I, 31, 14.
+
+reg, to tremble: aregetam, I, 31, 3; regante, they roll forward, I, 143, 3.
+
+retas, seed, sperm, I, 68, 8:1; 71, 8; 128, 3; retah (read repah), IV, 3, 7:2; divah na retasa, V, 17, 3:3.
+
+repas, sin: repah (conj. for retah), IV, 3, 7:2; stain, IV, 6, 6.
+
+rebha, singer, I, 127, 10:5.
+
+revat, rich: reva'n, I, 27, 12;--revat, with riches, I, 79, 5; 95, 11; II, 2, 6; 9, 6; III, 7, 10; 18, 4; 5: 23, 2; 4; V, 23, 4.
+
+reshana, harm-doer, I, 148, 5.
+
+rai, wealth: ra'yah, gen., I, 68, 10:1; ya'sat raya' sa-ratham, I, 71, 6:3; rayah durah, I, 72, 8; rayah su-dhurah, I, 73, 10:1; rayah sisihi, III, 16, 3:2.
+
+roka, shining light, III, 6, 7.
+
+rokana, light: visva divah rokana', I, 146, 1; III, 12, 9; divah rokane, III, 6, 8; tri' rokana'ni, I, 149, 4; ut-tamah rokana'nam, III, 5, 10; rokane su'ryasya, III, 22, 3.
+
+rokana-stha', dwelling in light, III, 2, 14.
+
+rokis, splendour, V, 26, 1.
+
+rodasi, du., the two worlds, Heaven and Earth, I, 31, 3, &c.; I, 59, 2; 4:1; III, 7, 9:2; V, 16, 4:3.
+
+rodhas, bank, IV, 5, 1:2.
+
+roman, hair, I, 65, 8.
+
+rohita, red (horses), I, 94, 10; II, 30, 2; III, 6, 6; IV, 2, 3; 6, 9.
+
+rohit-asva, lord of red horses, I, 45, 2; IV, 1, 8.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ L
+
+loka, world: lokam gamim, III, 2, 9:4;--sve u loke, space, III, 29, 8;--surabhau u loke, in the sweet-smelling place, V, 1, 6; lokam syonam, pleasant freedom, V, 4, 11.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ V
+
+vaktva, (speech) to be uttered, III, 26, 9.
+
+vakvan?, I, 141, 7:1.
+
+vakvara, moving crookedly: vakvari iti, I, 144, 6:1.
+
+vaksh, to grow: ukshita, I, 36, 19; II, 3, 6; V, 8, 7; ukshamanam ragasi, II, 2, 4; vavakshe, III, 5, 8; vavaksha, IV, 7, 11;--ati vavakshitha, III, 9, 3:1;--abhi vavakshe, he has grown up, I, 146, 2.
+
+vakshane-stha'? V, 19, 5:1.
+
+vakshatha, growth, IV, 5, 1.
+
+vakshi'? V, 19, 5:1.
+
+vak, to pronounce (a prayer): vokema, I, 74, 1; 75, 2; vakyate, I, 142, 4:2;--anu vokat brahmani, II, 5, 3:1;--with pra, to announce: pra vokah, I, 27, 4; pra-vokati, V, 27, 4; pra vavaka, he indicates, I, 67, 8.
+
+vakas, word: vakah, instr., I, 26, 2:2; adroghena vakasa satyam, according to thy guileless word, III, 14, 6;--prayer, I, 26, 10, &c.
+
+vakasya', eloquence, II, 10, 6.
+
+vakasyu, eloquent, V, 14, 6.
+
+vank, to stir: vakyamana, III, 6, I; vakyantam, may they move along, III, 6, 2.
+
+vat: api vatayamasi, we render attentive, I, 128, 2:1.
+
+vatsa, calf, I, 72, 2:1; 95, 1:1; 4:2; 146, 3; II, 2, 2.
+
+vadha, weapon, I, 94, 9; V, 4, 6.
+
+van, to accept: vanoshi, I, 31, 13:4; vanishishta, I, 127, 7; vaner iti vaneh, II, 6, 1; vanvanah, III, 8, 2;--to gain, win: vanoshi, I, 32, 14:1; vavne, I, 36, 17; vanema, I, 70, 1:2; II, 5, 7; vanvantah, attaining (their aim), II, 4, 9; vanate, may he obtain, III, 19, 1; V, 4, 3;--to conquer, overcome: vanuyama, I, 73, 9; [p. 468] vanavat, V, 3, 5; vanuyama, V, 3, 6;--vanushah, addicted to, eager, I, 150, 3; III, 27, 11; vavanah, thou wilt hold dear, IV, 11, 2;--to grant: vanate, V, 3, 10;--a' vanate, win thou, I, 140, 11;--sam vanamahe, we get together, V, 7, 3.
+
+vana, forest = fuel, wood, I, 58, 5:1; II, 4, 6:1; III, 1, 13:1; 9, 2; 23, 1:1; vane a' vitam, IV, 7, 6:1;--tree: garbhah vananam, I, 70, 3; 9;--forest: vana-iva yat sthiram, I, 127, 3:5;--I, 128, 3:2, &c.
+
+vanad, eater of the forests, II, 4, 5:2.
+
+vanargu, walking in the forest, I, 145, 5:1.
+
+vanaspati, lord of the forest, tree (i. e. sacrificial post), I, 13, 11:1; 142, 11:1; 188, 10; II, 3, 10; III, 4, 10:1; 8, 1:1, 3; 6; 11; V, 5, 10;--vanaspatin pra mina'ti, V, 7, 4.
+
+vanitri, winner, III, 13, 3.
+
+vanin, wooden stick, I, 58, 4;--tree, I, 94, 10; 140, 2.
+
+vand, to worship, salute: vandadhyai, I, 27, I; III, 4, 3.
+
+vanda'ru, reverer, I, 147, 2; V, 1, 12.
+
+vandya, venerable, I, 31, 12; 79, 7; II, 7, 4.
+
+vandhura, chariot-seat: vandhure-iva (conj. for vandhura-iva), III, 14, 3:4.
+
+yap a' upishe, thou pourest forth, I, 31, 9.
+
+vapuh-tara, very marvellous, II, 3, 7.
+
+vapusha: vapushaya darsatam, wonderful to behold, III, 2, 15.
+
+vapushy, to wonder: vapushyan, III, 1, 4.
+
+vapushya, of marvellous appearance, IV, 1, 8; 12; V, 1, 9.
+
+vapus, a wondrous sight, wonder, I, 141, 1; IV, 7, 9; wondrous body, wonderful shape, I, 142, 2:2; 144, 3; 148, 1; III, 1, 8; 18, 5.
+
+vayah-krit, giver of strength: vayah-krit, I, 31, 10.
+
+vayah-dha', giving vigour, I, 73, 1; II, 3, 9; IV, 3, 10.
+
+vayah-vridh, increaser of vital strength, V, 5, 6.
+
+vayas, vigour, strength, vital power, I, 66, 4, &c.; vayah-vayah, life after life, V, 15, 4.
+
+vaya', branch, I, 59, 1; II, 5, 4:1; V, 1, 1.
+
+vayi, weaver (?): vayya-iva, (II, 3, 6:1).
+
+vayuna, established order, rule: vidva'n vayumani, I, 72, 7:1; 189, 1; III, 5, 6; vayuna nava adhita, I, 144, 5:3; 145, 5; vayunam vaghatam, III, 3, 4:2; vayune, in the due way, III, 29, 3:3;--ka' vayuna, what are the objects, IV, 5, 13.
+
+vara, wish: manasah varaya, to thy mind's taste, I, 76, 1:1; a choice boon, I, 140, 13; tisri-bhyah a' varam, according to the wish of the three (sisters), II, 5, 5; desire, II, 10, 6.
+
+vara, the holding back: na varaya, he is not to be kept back, I, 143, 5.
+
+varivas, wide space, I, 59, 5.
+
+Varuna, I, 26, 4; 36, 4; 44, 14; 79, 3; 94, 12:1; 16; 95, 11; 98, 3; 128, 7; 141, 9; 143, 4; II, 1, 4; III, 4, 2; 6; 5, 4; 14, 4; IV, 1, 2-5; 18; 2, 4; 3, 5; 13, 2; V, 3, 1; 5, 11; 26, 9.
+
+varutha, shelter, I, 58, 9; 148, 2; 189, 6.
+
+varuthya, protecting, V, 24, 1.
+
+varenya, elect, desirable, excellent, I, 26, 2; 3; 7, &c.
+
+varkas, splendour, III, 8, 3; 22, 2; 24, 1.
+
+varna, colour, I, 73, 7; II, 1, 12; 4, 5;--(bright) colour, splendour, II, 5, 5; IV, 5, 13,--appearance, I, 96, 5;--race, II, 3, 5:1.
+
+vartani, way: vartani'h (Pada: vartanih), I, 140, 9:3;--III, 7, 2.
+
+vardhana, increaser: vardhanam pituh, I, 140, 3:2.
+
+varpas, sight, shape, I, 140, 5:1; 7; 141, 3.
+
+varman, armour, I, 31, 15; 140, 10.
+
+varsha-nirnig, clothed in rain, III, 26, 5.
+
+varshishtha, most powerful, III, 13, 7; 16, 3; 26, 8; V, 7, 1.
+
+varshman, summit: varshman divah, III, 5, 9; varshman prithivya'h, III, 8, 3.
+
+vava'ta, a favourite wife, IV, 4, 8.
+
+vavra, prison, IV, 1, 13.
+
+[p. 469]
+
+vavri, cover, V, 19, 1.
+
+vas, to be willing, long for, love: usatah, I, 12, 4; usati'h usantam, I, 71, 1; usatah (read usate?), I, 71, 6:2; usmasi, 1, 94, 3; usati'h, 1, 145, 45; II, 4, 3; vakshi, III, 1, 1:1; usantam usanah, III, 5, 7; vavasana'h, III, 20, 1; vavasana, III, 22, I; usati', loving, IV, 3, 2;--anu vashti, I, 127, 1;--abhi vashti, IV, 1, 8.
+
+vasa', heifer, II, 7, 5.
+
+vasin, lord, III, 23, 3.
+
+vashat-kriti, the word Vashat, I, 31, 5.
+
+vas, to shine: ukkhantim, I, 71, 1; ushuh, III, 7, 10; ritam avasran, IV, 2, 19:1.
+
+vas, to clothe: vasishva, I, 26, 1; vasaya (Samhita: vasaya), clothe, or I clothe, I, 140, 1:1; sriyam vasanah, II, 10, 1; sukra' vasanah, arraying themselves in brightness, III, 8, 9; rusat vasanah, clothed in brilliancy, IV, 5, 15;--pari vasanah, III, 1, 5:2.
+
+vas, to dwell: avasayat, he has made depart, III, 7, 3;--prati avasayah, thou hast harboured, III, 1, 17;--sam-vasanah, dwelling together, IV, 6, 8.
+
+vas, dwelling (?): vasa'm ra'ganam, V, 2, 6:1.
+
+vasati, dwelling, I, 31, 15; 66, 9:1.
+
+vasana, garment, I, 95, 7.
+
+vasavya, wealth, II, 9, 5:1.
+
+vasishtha, the highest Vasu, II, 9, 1.
+
+vasu, excellent: vasvibhih dhiti-bhih, III, 13, 5:1;--wealth, treasure, goods, I, 27, 5, &c.; visvah vasuh (conj. visva vasu), I, 128, 6:3; vasvah ra'gati, I, 143, 4; vasu ratna, III, 2, 11; goods, or Vasus, III, 29, 2:2;--see vasyas.
+
+Vasu, ep. of Agni, I, 31, 3; 44, 3; 45, 9; 60, 4; 79, 5; 127, 1:1; II, 7, 1; III, 4, 1:2; 15, 3; 18, 2; 19, 3; 21, 5; IV, 5, 15; V, 3, 10; 12; 6, 1; 2; 24, 2; 25, 1; vasuh vasunam asi, I, 94, 13; vasuh vasu-bhih, I, 143, 6;--pl., the Vasus, a class of gods, I, 45, 1; 58, 3; 143, 1; II, 3, 4:1; III, 8, 8; 19, 2:2; 20, 5; IV, 12, 6; V, 3, 8.
+
+vasu-davan, giver of goods, II, 6, 4.
+
+vasu-dhiti, dispenser of goods, I, 128, 8.
+
+vasu-dhiti, place of wealth, IV, 8, 2:1.
+
+vasu-pati, lord of wealth, II, 1, 11; 6, V, 1.
+
+vasu-ya', desire for wealth, I, 97, 2.
+
+vasu-yu, desirous of goods, I, 128, 8; III, 26, 1; V, 3, 6; 25, 9. 
+
+vasuvit-tama, the greatest acquirer of wealth, I, 45, 7.
+
+vasu-sravas, renowned as Vasu (or, as goods), V, 24, 2.
+
+vastu, daybreak: vastoh ushasah, I, 79, 6.
+
+vastri, illuminator: kshapa'm vasta', (I, 1, 7:1).
+
+vastra, clothing, I, 26, 1.
+
+vasman, cloth, IV, 13, 4.
+
+vasyas, better things, I, 31, 18;--bliss, 1, 141, 12; welfare, II, 1, 16;--greater wealth, II, 9, 2;--wealthier, IV, 2, 20.
+
+vah, to carry: vakshi, (III, 1, 1:1); havya'ya volhave, I, 45, 6; III, 29, 4;--abhi vakshi va'gam, III, 15, 5:2;--a' vakshati, may he conduct, I, 1, 2; a' vakshat, may he carry hither, III, 5, 9; a' vakshi, bring, III, 14, 2; a-vahanti, carrying (bliss), IV, 14, 3:2.
+
+vahat, stream, III, 7, 4:2.
+
+vahishtha, (horses) most ready to drive, IV, 13, 4; 14, 4.
+
+vahni, driven (on a chariot): vahni-bhih devaih, I, 44, 13:1;--carrier (of the gods), I, 60, 1; 128, 4:3; III, 1, 1; 5, 1; 11, 4:1; 20, 1:1;--carrying: vahnih asa', I, 76, 4:1;--horse: vahnayah, III, 6, 2:2;--vahni and va'has, (I, 127, 8:1).
+
+vahni-tama, best carrier (of the gods), IV, 1, 4.
+
+va, to blow: va'tah anu vati, I, 148, 4;--ava vati, he blazes down, I, 58, 5.
+
+va: vivasasi, thou winnest, I, 74, 9;--a-vivasati, (who) invites, I, 12, 9; 58, 1; a-vivasasi, thou invitest, I, 31, 5:2;--a' vivasanti, they seek to win, IV, 11, 5.
+
+va, to weave: samvayanti iti samvayanti, II, 3, 6.
+
+vaghat, worshipper, I, 31, 24; 36, 13:2; 58, 7; IV, 2, 13; invoking, [p. 470] III, 2, I; 3, 8; 8, 10; sacrificer, III, 3, 4.
+
+va'k, word, I, 79, 10.
+
+va'ga, strength, I, 27, 8:[1, 2], 2; 11; 77, 5; II, I, 10:1; 12; 2, 7; 4, 8; 6, 5; III, 10, 6; 11, 9; 19, 1; 22, 1; 25, 2; 3; 27, 1; 11; 29, 9; va'gasya patih, I, 145, 1;--deed of strength, III, 12, 9;--booty, I, 27, 5, &c.;--prize, gain, III, 2, 3:1; 4, &c.; abhi vakshi va'gam, III, 15, 5:2;--race (striving for gain, contest for booty), I, 27, 7:1; 9:1; 36, 2; III, 27, 7; V, 23, 1.
+
+Va'ga, pl., the Vagas, III, 26, 4:1.
+
+va'ga-gathara, with booty in its belly, V, 19, 4.
+
+va'ga-pati, lord of booty, IV, 75, 3.
+
+va'ga-prasuta, bent on the prize, I, 77, 4:2.
+
+vagam-bhara, winning the prize, I, 60, 5; winning booty, IV, 11, 4.
+
+vagay, to run a race: vagayan-iva, 14 8, 1:1;--to further strength: vagayanti iti, III, 14, 3:1;--to drive forward: vagayate, IV, 7, 11;--to strive for gain: vaga-yanti, V, 1, 3; vaga-yantah, V, 4, 1.
+
+vaga-yu, bent on victory, V, 10, 5;--eager for the race, V, 79, 3.
+
+va'ga-vat, bestowing strength, I, 31, 18.
+
+va'ga-sravas, renowned for strength, III, 2, 5.
+
+vaga-sa'tama, highest winner of booty, I, 78, 3; III, 12, 4; V, 13, 5; 20, 1:1.
+
+va'ga-sati, winning of the prize, III, 2, 7:1.
+
+vagin, strong, II, 2, 11; III, 6, 1;--the strong horse, racer, I, 66, 4:1, &c.; II, 5, 1:4; III, 27, 3:1; asvah na vagi', III, 29, 6.
+
+va'gina, strength, III, 20, 2.
+
+va'ni, sound: sapta va'nih, III, 1, 6:1; 7, 1:1.
+
+va'ta, wind, I, 79, 1; 148, 4 . IV, 7, 10; 11; va'taih arunaih, II, 1, 6; va'tasya pathyabhih, III, 14, 3; va'tasya sargah, III, 29, 11:2; va'tasya patman, V, 5, 7; Vata, the god, IV, 3, 6.
+
+va'ta-kodita, stirred by the wind, I, 58, 4; 141, 7.
+
+va'ta-guta, stirred or drivers by the wind, I, 58, 4; 65, 8; 94, 10; 140, 4.
+
+vama, happy, I, 141, 12;--pleasant (wealth), IV, 5, 13.
+
+Vayu, the god, I, 142, 12:1;--vayu, wind, V, 79, 5.
+
+va'r, water, II, 4, 6; usriyanam va'hiva, IV, 5, 8.
+
+va'ra, treasure, I, 128, 6; V, 16, 2.
+
+va'ra, tail, II, 4, 4.
+
+varana, stubborn, I, 140, 2.
+
+va'ra-vat, long-tailed, I, 27, 1.
+
+va'rya, excellent wealth, treasure, I, 26, 8; III, 8, 7; V, 16, 5:1; 17, 5; desirable boon, I, 58, 3; III, 27, 2; V, 23, 3; best gifts, I, 149, 5; III, 11, 9.
+
+vas, to roar, low: avasayah, I, 31, 4:1; vavasana'h, I, 73, 6; vavasire, II, 2, 2.
+
+vasra, lowing, I, 95, 6.
+
+va'has, vehicle, (I, 127, 8:1); III, 11, 7:1.
+
+va'hishtha, which may best bring, V, 25, 7.
+
+vi, to weave. See va.
+
+vi, bird: ver iti veh, I, 72, 9:1; 96, 6:2; III, 5, 5:1; 6; III, 7, 7:1; IV, 5, 8:4; vayah, I, 141, 8; vayya-iva? II, 3, 6:1.
+
+vi, away from, I, 150, 2.
+
+vi-adhvan, straying everywhere, I, 141, 7.
+
+vi-ush, the break of dawn, V, 3, 8.
+
+vi-ushti, dawning: vi-ushtishu, I, 44, 3; 4; 8; III, 20, 1; ushasah vi-ushtau, at the break of dawn, III, 15, 2; IV, 1, 5; 14, 4.
+
+vi-oman, heaven: parame vi-omani, I, 143, 2; V, 15, 2.
+
+vi-gaha, diver, III, 3, 5.
+
+vi-kakshana, far-seeing, III, 3, 70.
+
+vi-karshani, dwelling among all tribes, I, 31, 6:4; 78, 1; 79, 12; III, 2, 8; 11, 1.
+
+vi-ketas, wise, I, 45, 2; II, 10, 1; 2; IV, 5, 2; 7, 3.
+
+vig: vevige iti, they are affrighted, 1, 140, 3.
+
+viga'-van, continuing our race: sunuh tanayah viga'-va, III, 1, 23.
+
+vid, to find: vevidanah, acquiring (or, exploring?), I, 72, 4; avidan (conj. avidan), I, 72, 6:1.
+
+vid, to know: yatha vide, as it is [p. 471] known, I; 127, 4; vidva'n, knowing (with gen. and ace.), V, 1, 11:1;--pari veda, I, 31, 5:1;--vi vidva'n, distinguishing, I, 189, 7.
+
+vid, knowledge: vida', I, 31, 18.
+
+vidatha, sacrifice, I, 31, 6:2; 60, 1:2; 143, 7; III, 1, 1:2; 18; 3, 3; 4, 5; 8, 5; 14, 1:1; 27, 7:2; IV, 6, 2; triti'ye vidathe, II, 4, 8:1;--vidatha,--sacrificial ordinances, III, I, 2:3; 26, 6:2;--sacrificial distribution, III, 28, 4; vidatheshu ahnam, V, 3, 6:1;--assembly, II, 1, 4:3; 16:2.
+
+vidathya, influential in council, (I, 32, 6:2).
+
+viduh-tarah, the greatest sage, 1, 31, 14; II, 3, 7.
+
+vidus, possessed of knowledge, I, 71, 10:1.
+
+vidmana'-apas, active in wisdom, I, 31, 1:1.
+
+vi-dyut, lightning, III, 1, 14; V, 10, 5.
+
+vidyut-ratha, whose chariot is lightning, III, 14, 1.
+
+vidh, to worship: vidhema, I, 36, 2; vidhatah, I, 73, 1, &c.
+
+vidh, vvadh, to pierce, to shoot: vidhya, IV, 4, 1.
+
+Vidhartri, he who keeps asunder all things, II, 1, 3:3.
+
+vi-dharman, sphere, III, 2, 3;--disposer, V, 17, 2:[1, 3].
+
+vip, to tremble: pra vepayanti, they make tremble, III, 26, 4.
+
+vip, prayer, III, 3, 1:1; 7; vipa'm gyotimshi, III, 10, 5.
+
+vipah-kit, knowing prayers, III, 3, 4:1; 26, 9; 27, 2.
+
+vipanya': vipanyaya, in thy admirable way, III, 28, 5; vipanya', wonderfully, IV, 1, 12.
+
+vipanyu, full of admiring praise, III, 10, 9.
+
+vipra, priest, I, 27, 9, &c.; sapta viprah, III, 7, 7; IV, 2, 15:1
+
+vi-bhaktri, distributor: vi-bhakta', I, 27, 6.
+
+vi-bhati,-resplendent, III, 6, 7.
+
+vibha'-van, resplendent, I, 58, 9; 59, 7; 66, 2; 69, 9; 148, 1; 4; III, 3, 9; IV, 1, 8; 12; V, 1, 9; 4, 2.
+
+vibha-vasu, rich in splendour, I, 44, 10; III, 2, 2; V, 25, 2; 7:1.
+
+vi-bhu, mighty, I, 31, 2; 141, 9; III, 6, 9; V, 4, 2; 5, 9; vi-bhvi'h (durah), I, 188, 5:1;--far-extending, I, 65, 10;--spreading, IV, 7, 1.
+
+vi-bhritra, widely-spread, I, 71, 3:2; 95, 2; wide-ranging, II, 10, 2.
+
+vi-bhrashti, shine, I, 127, 1.
+
+vibhva-sah, overpowering skilful men, V, 10, 7.
+
+vi-ma'na, measure, III, 3, 4:2.
+
+vi-yuta? IV, 7, 7:1.
+
+vi-ra'g, Prince, I, 188, 5.
+
+virukmat, shining, I, 127, 3.
+
+vi-rupa, of different shapes or forms, I, 70, 7:1; 73, 7; 95, 1; III, 1, 13; 4, 6;--of different colour, V, 1, 4:1.
+
+Virupa: virupa-vat, I, 45, 3.
+
+vi-roka, the bursting forth: ushasah vi-roke, III, 5, 2.
+
+vivasvat, irradiating: vivasvat (conj. vivasvan), 1, 44, 1:1; vivasvata kakshasa, I, 96, 2:3.
+
+Vivasvat, N. pr., I, 31, 3; 58, 1:[1, 2]; IV, 7, 4; V, 11, 3:2.
+
+vivasvan, the shining forth: vivasvat (conj. vivasvan) ushasah, at the rising of the dawn, I, 44, 1:1.
+
+viviki, separating, V, 8, 3:1.
+
+vis, house, clan, tribe: vise-vise, I, 27, 10:2, &c.; visa'm na visvah, I, 70, 4:2; ma'nushi vit, 1, 72, 8; ra'ga visa'm, II, 2, 8; visa'm kavim vispatim, III, 2, 10; purah-eta' visa'm ma'nushinam, III, 11, 5; visah martan, IV, 2, 3:2; visah atithih, V, 18, 1; deva'sah sarvaya visa', the gods with all their folk, V, 26, 9.
+
+vi-sikshu, a hewer, II, 1, 10:3.
+
+vispati, lord of the clans, I, 12, 2; 26, 7; 27, 12; 31, 11; 60, 2; 128, 7; II, 1, 8; III, 2, 20; 3, 8; 13, 5; V, 4, 3; 6, 5.
+
+vispatni, housewife, III, 29, 1:4.
+
+vispa', lord of clans, (I, 70, 4:2).
+
+visva, every one: visa'm na visvah, I, 70, 4:2; visvam idam, this whole world, I, 98, 1; visve deva'h, II, 3, 4:1; V, 3, 1; 26, 4; visvam it viduh, III, 29, 15:1.
+
+visva-apsu? I, 148, 1:2.
+
+visva-ayu, having a full life, or, in whom all life dwells, I, 27, 3; 67, 6; 10; 73, 4; 128, 8; visva-ayuh [p. 472] (conj. visva-ayoh), I, 68, 5:2.
+
+visva-ayus, adv., eternally (?), (I, 68, 5:2).
+
+visva-krishti, extending over all dominions, I, 59; 7; belonging to all races of men, III, 26, 5.
+
+visva-karshani, dwelling among all tribes, I, 27, 9:3; III, 2, 15; V, 6, 3; 14, 6; 23, 4.
+
+visva-ganya, encompassing all people, III, 25, 3.
+
+visvatah-mukha, whose face is turned everywhere, I, 97, 6; 7.
+
+visva-turti, all-victorious, II, 3, 8.
+
+visva-tha, everywhere, I, 142, 9.
+
+visva-darsata, visible to all, I, 44, 10; 146, 5; V, 8, 3.
+
+visva-deva, accompanied by the Visve devah, I, 142, 12.
+
+visva-devya, belonging to all gods, I, 148, 1; united with all the gods, III, 2, 5.
+
+visvadha, everywhere, I, 141, 6; always, V, 8, 4.
+
+visva-dhayas, possessing every refreshment, I, 73, 3; V, 8, 1.
+
+visva-bharas, supporter of everything, IV, 1, 19:1.
+
+visva-bhanu, all-brilliant, IV, 1, 3.
+
+visvam-inva, all-embracing, I, 76, 2;--all-enlivener, III, 20, 3.
+
+visva-rupa, all-shaped, I, 13, 10; assuming every shape, III, 2, 7.
+
+visva-vara, rich in all boons, III, 4, 3; giver of all treasures, III, 17, 1; with all goods, V, 4, 7; rich in all treasures, V, 28, 1.
+
+visva-vid, all-knowing, III, 19, 1,--omniscient, III, 29, 7; V, 4, 3.
+
+visva-vedas, all-possessor, possessor of all wealth, I, 12, 1; 36, 3; 44, 7; 128, 8; 143, 4; 147, 3; III, 20, 4; 25, 1; 26, 4; IV, 8, 1.
+
+visva-srushti, always listening, I, 128, 1.
+
+Visva-saman, V, 22, 1.
+
+Visva'mitra, pl., the Visvamitras, III, I, 21; 18, 4.
+
+visva'yu-poshas, lasting all our life, I, 79, 9:2.
+
+visva'ha, day by day, III, 16, 2.
+
+vish, to accomplish: vividdhi, I, 27, 10; vevishat, busy, III, 2, 10.
+
+vishuna, manifold, IV, 6, 6;--turning oneself from one, V, 12, 5:1.
+
+vishu-rupa, in manifold shapes, V, 15, 4.
+
+vishta? I, 148, 1:1.
+
+Vishnu, II, 1, 3; IV, 3, 7; V, 3, 3.
+
+vishpas, descrier: vishpat, I, 189, 6:1.
+
+vishvak, in all directions, I, 36, 16; IV, 4, 2.
+
+vi-sara, expanse, I, 79, 1:1.
+
+vi-stir, laid out: vi-stirah, I, 140, 7:1.
+
+vi-hava, the emulating call, III, 8, 6:1.
+
+vi-hayas, far-reaching, I, 128, 6:1; whose energy expands roundabout, IV, 11, 4:1.
+
+vi, to accomplish, pursue, perform eagerly: viveh rapamsi (rather viver apamsi), I, 69, 8:2; veshi (hotram), I, 76, 4; veh, II, 5, 3:2; IV, 7, 8;--to come or approach eagerly, to move: veshi, I, 74, 4; 189, 7; IV, 9, 5; 6; veh, he repairs, I, 77, 2; IV, 7, 7; vetu, I, 77, 4; veti, I, 141, 6; vitaye, that they may eagerly come or partake, I, 74; 6; II, 2, 6:2; see also viti;--vihi, accept eagerly, III, 28, 3;--vyantah, tending to I, 127, 5; vyantu, may they eagerly seek, III, 8, 7; vihi mrilikam, love mercy, IV, 1, 5; ma' veh, require not, IV, 3, 13;--a' dutyam vivaya, he has undertaken the messengership, I, 71, 4:3;--upa vetu, may he come, V, 11, 4;--pra-vita, having conceived, III, 29, 3; prati vihi, accept eagerly, III, 21, 5.
+
+vi, to envelop. See vya.
+
+vi', eager: vi'h, I, 143, 6.
+
+vilu, strong, safe, I, 127, 3; 5; IV, 3, 14;--fortress, I, 71, 2.
+
+vilu-gambha, with strong jaws, III, 29, 13.
+
+vita, straight, IV, 2, 11.
+
+viti, (sacrificial) feast: vitaye, I, 13, 2; 74, 4; 142, 13; III, 13, 4; V, 26, 2.
+
+viti-hotra, offerer of a feast (to the gods), III, 24, 2; V, 26, 3.
+
+vira, hero, a manly son, I, 73, 3, &c.
+
+vira-pesas, adorned with heroes, IV, II, 3:1.
+
+vira-vat, with valiant heroes, I, 12, 11; 96, 8; III, 24, 5; V, 4, 11.
+
+[p. 473]
+
+viravat-tama, high bliss of valiant offspring, I, 1, 3.
+
+virudh, plant, I, 67, 9; 141, 4; garbhah virudham, II, 1, 14.
+
+virya, mighty deed, III, 12, 9;--heroic power, III, 25, 2.
+
+vri, to choose: vrinimahe, I, 12, 1, &c.; vrinite, he demands, I, 67, 1;--uranah, choosing, III, 19, 2; IV, 6, 3; chosen, IV, 6, 4; 7, 8.
+
+vri, to hold back, hinder: varate, I, 65, 6; varanta, IV, 6, 6; avari, IV, 6, 7; apa vridhi, open, II, 2, 7; apa avar ity avah, he has opened, III, 5, 1; apa vran, they have uncovered, IV, 5, 8; apa vran, they disclosed, IV, 2, 16;--ka'man a-varat, would he fulfil our desire, I, 143, 6;--pari-vrita, hidden, I, 144, 2;--see urnu.
+
+vrikta-barhis, having spread the sacrificial grass, I, 12, 3:1; III, 2, 5; 6; V, 23, 3;--where they spread sacrificial grass, V, 9, 2.
+
+vrigana, settlement, I, 60, 3:2; 73, 2:2; II, 2, 1:4; 9;--enclosure, I, 128, 7;--masc.? I, 189, 8:2.
+
+vrigina, wrong, dishonest, IV, 1, 17, V, 3, 11; 12, 5.
+
+vrigina-vartani, following crooked ways, I, 31, 6:[1, 4].
+
+vring, to trim: vringe, I, 142, 5:2;--to turn: vrinakti, IV, 7, 10;--a' vrikshi, may I draw on myself, (I, 27, 13:2);--pari vrinakti, he spares, III, 29, 6.
+
+vritra, foe, I, 36, 8:1.
+
+vritra-hatha, the killing of foes, III, 16, 1.
+
+vritra-han, slayer of foes or of Vritra, I, 59, 6:1; 74, 3; II, 1, 11; III, 12, 4:2; 20, 4:2.
+
+vritrahan-tama, the greatest destroyer of enemies (or of Vritra), I, 78, 4.
+
+vritha, lightly, I, 58, 4:1;--wildly, I, 140, 5.
+
+vriddha sokis, mightily brilliant, V, 16, 3.
+
+vridh, to increase, grow, &c.: vardhamanam, increasing, I, 1, 8, &c.; vavridhasva, be magnified, I, 31, 18; vridhe, for welfare, prosperity, III, 3, 8; 6, 10; IV, 2, 18; vriddha, grown full of, V, 20, 2:1;--vardhanti, they nourish, I, 65, 4;--vardhayamasi, we extol, I, 36, 11; vardhaya girah, make prosper, III, 29, 10;--vi vavridhe (conj. vi-vavridhe), I, 141, 5:2.
+
+vridh, furtherer, III, 16, 2:2.
+
+vridha, helper, furtherer, (III, 16, 2:2); IV, 2, 10.
+
+vridhasana, growing: vridhasana'su, in the growing (plants), II, 2, 5:2.
+
+vridha-snu, mighty, IV, 2, 3:1.
+
+vrishan, manly, bull, I, 36, 82; 10:1, &c.; III, 29, 9:1; ritasya vrishne, V, 12, 1:1; arushasya vrishnah, V, 12, 2:2.
+
+Vrishan, N. pr., I, 36, 10:1.
+
+vrishabha, bull (Agni), 1, 31, 5, &c.; I, 141, 2:2; IV, 1, 11:3; 12:2; V, 2, 12:1; krishnah vrishabhah, I, 79, 2:2.
+
+vrishay: vrisha-yase, thou rushest on (acc.) like a bull, I, 58, 4:1;--vrisha-yante, they are full of (sexual) desire, III, 7, 9.
+
+vrishti, rain, II, 5, 6; 6, 5.
+
+vedas, property, I, 70, 10; 99, 1; V, 2, 12.
+
+vedi, sacrificial altar: vedi iti asya'm, II, 3, 4.
+
+vedi-sad, sitting on the sacrificial bed, I, 140, 1.
+
+vedya, well known: ratham-iva vedyam, II, 2, 3:2;--renowned, V, 15, 1.
+
+vedhah-tama, best worshipper, I, 75, 2.
+
+vedhas, worshipper, I, 60, 2; 65, 10; 69, 3; 72, 1:1; 73, 10; III, 10, 5; 14, 1; IV, 2, 15; 20; 3, 3; 16; 6, 1;--helpful, I, 128, 4 (bis).
+
+vepas, trembling, IV, 11, 2.
+
+vesa, vassal, IV, 3, 13.
+
+veshana, officiating, V, 7, 5.
+
+Vaisvanara, I, 59, 1-7; 98, 1-3; III, 2, 1; 11; 12; 3, 1; 5; 10; 11; 26, 1-3; IV, 5, 1; 2; V, 27, 1:2; 2.
+
+volhri, draught-horse, I, 144, 3.
+
+vyakasvat, far-embracing, II, 3, 5.
+
+vyakishtha, most capacious, II, 10, 4.
+
+vyathis, track, IV, 4, 3.
+
+vyadh, see vidh.
+
+vya (vi), to envelop: ava-vyayan, removing, [p. 474] IV, 13, 4;--a' vitam, enveloped, IV, 7, 6:1;--parivita, dressed (in offerings and prayers?), IV, 3, 2:2.
+
+vyoman, see vi-oman.
+
+vrag, to go: vavra'ga, III, I, 6;--abhi-vragan, proceeding, I, 58, 5:2; abhivragat-bhih, approaching, I, 144, 5:3.
+
+vraga, stable, IV, 1, 15; V, 6, 7.
+
+vrata, law, I, 31, 1; 2; 12; 65, 3; 69, 7; II, 8, 3; III, 3, 9; 4, 7; 6, 5; 7, 7; IV, 13, 2; vrata' dhruva', I, 36, 5:1; II, 5, 4; daivyani vrata', I, 70, 2;--anu vratam, according to his will, I, 128, I;--duty, I, 144, 1.
+
+vrata-pa', guardian of the law, I, 31, 10; III, 4, 7; V, 2, 8:3.
+
+vrask: ma' gya'yasah samsam a' vrikshi, may I not fall as a victim to the curse of my better, I, 27, 13:2; vrikna'sah, hewn, III, 8, 7.
+
+vra', host, IV, I, 16:2.
+
+vra'ta, host: vra'tam-vratam, III, 26, 6.
+
+vradh: vradhanta, they have boasted, V, 6, 7.
+
+vra'dhan-tama, most powerful, I, 150, 3.
+
+vris, finger: dasa vrisah, I, 144, 5:1.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ S
+
+sams, to recite: asamsan, I, 67, 4; manma samsi, II, 4, 8;--to teach: ritam samsantah, III, 4, 7.
+
+samsa, curse, I, 27, 13:2; 94, 8; III, 18, 2; samsat agha't, from evil spell, I, 128, 5;--praise, I, 141, 6:4; 11; samse nrina'm, III, 16, 4; ubha' samsa, IV, 4, 14:1; samsam ayoh, IV, 6, 11:2; V, 3, 4:2.
+
+sak, to be able: saknavama, I, 27, 13; sakema yamam, 1, 73, 10:1; II, 5, 1:4; III, 27, 3; sakema sam-idham, I, 94, 3;--to help to: sagdhi (with gen.), II, 2, 12; III, 16, 6; sagdhi svastaye, V, 17, 5.
+
+sakti, skill: sakti, I, 31, 18.
+
+sagma, mighty, I, 143, 8.
+
+saki-vat, full of power, III, 21, 4.
+
+sata, hundred: sata' ka vimsatim ka, V, 27, 2:1.
+
+sata-atman, endowed with hundredfold life, I, 149, 3.
+
+satada'van, giver of a hundred (bulls), V, 27, 6.
+
+sata-dhara, with a hundred rills, III, 26, 9.
+
+sata-valsa, with a hundred branches, III, 8, 11.
+
+sata-seya, attainment of hundredfold blessings, III, 18, 3.
+
+sata-hima, living a hundred winters, II, 1, 11.
+
+sata-hima, pl., a hundred winters, I, 73, 9.
+
+satin, hundredfold, I, 31, 10; II, 2, 9; satinibhih, with his hundredfold blessings, I, 59, 7.
+
+satru, enemy: satrum a-dabhuh, III, 16, 2:4.
+
+satru-yat, being at enmity, V, 4, 5; 28, 3.
+
+sad, to be glorious: sasadre, I, 141, 9.
+
+sapha, hoof, V, 6, 7.
+
+sam, to toil (esp. in performing worship): sasamana, who has toiled hard, I, 141, 10; 142, 2; III, 18, 4; IV, 2, 9; 13; asamishthah, III, 29, 16; asamishta, he toiled, V, 2, 7.
+
+sam, bliss, luck: sam yoh, with luck and weal, I, 189, 2; III, 17, 3; 18, 4; IV, 12, 5; sam nah soka, III, 13, 6; sam kridhi, IV, 1, 3; sam asti, he satisfies, V, 7, 9; sam hride, V, 11, 5.
+
+samay, to toil: sam-aye, III, 1, 1.
+
+sami, toiling, (sacrificial) work: samya, II, I, 9:1; samyai (read samyah?), IV, 3, 4:1.
+
+samitri, the sacrificial butcher, or slaughterer, (I, 13, 12:1); II, 3, 10; III, 4, 10.
+
+sam-gaya, bringing happiness to our home, II, 1, 6.
+
+sam-tama, most agreeable, beneficial, blissful, I, 76, 1:1; 77, 2; 128, 7; III, 13, 4.
+
+Sambara, I, 59, 6.
+
+sam-bhu, refreshing, I, 65, 5; bringing luck, III, 17, 5.
+
+sayu, reposing, I, 31, 2.
+
+sarani, fault (?), I, 31, 16:1.
+
+sarad, autumn: tisrah saradah, I, 72, 3.
+
+saru, weapon, IV, 3, 7.
+
+sardha, host, I, 71, 8:6; IV, 1, 12:[1, 3]; sardhaya marutam, IV, 3, 8.
+
+sardhas, host: sardhah ma'rutam, I, [p. 475] 127, 6; II, 1, 6; IV, 6, 10; marutam sardhah, II, 3, 3; nara'm sardhah, II, 1, 5:4; sardhah divyam, III, 19, 4;--sardhah, m. or n.? IV, 1, 12:[1, 3].
+
+sarman, shelter, protection, I, 58, 8, &c.; sarmani syam, III, 15, 1; akkhidra sarma, III, 15, 5:1.
+
+sarma-sad, sitting under shelter, I, 73, 3.
+
+sarya, arrow, I, 148, 4.
+
+savas, strength, might, power: savasa (conj. savasah), I, 27, 2:1, &c.; savasah sushminah patih, I, 145, 1. savasah pate, V, 6, 9.
+
+savishtha, most powerful, I, 77, 4; mightiest, I, 127, 11.
+
+sasvat: sasvata tana, constantly, I, 26, 6:1; sasvatih, constant, 1, 27, 7; ganaya sasvate, all people, I, 36, 19; sasvatah, many, I, 72, 1:1.
+
+sasvat-tamam, for ever, III, 1, 23.
+
+sasti, hymn, praise, IV, 3, 3; 15.
+
+sa, to sharpen, further: sisihi, III, 16, 3:1; 24, 5:1; sisite, V, 2, 9; 9, 5;--ati sisite, I, 36, 16;--nisishat, he stirs up, IV, 2, 7:1.
+
+saka, powerful, V, 25, 2:1.
+
+Sata-vaneya, N. pr., I, 59, 7.
+
+sas, to teach, instruct: sasasuh, III, 1, 2; IV, 2, 12;--anu-sishta, instructed, V, 2, 8;--pra sa'ssi, thou instructest, I, 31, 14; prasa'sat, commanding, I, 95, 3.
+
+sa's, command, I, 68, 9.
+
+sa'sana, command, III, 7, 5.
+
+sa'sani, teacher, I, 31, 11.
+
+sa'sus, command, instruction, I, 60, 2; 73, 1.
+
+sa'sya, governable, I, 189, 7:4.
+
+sikvan, plur., locks of flames, I, 141, 8:1.
+
+siksh, to help one to, to favour with a thing (gen.): siksha, I, 27, 5; III, 19, 3; yah te sikshat, who does service to thee, I, 68, 6:1.
+
+sikshu, rich in favours: sikshoh (conj. siksho), III, 19, 3:1.
+
+siti-prishtha, white-backed, III, 7, 1:1.
+
+simi-vat, powerful (?), I, 141, 13;1.
+
+sirina? II, 10, 3:3.
+
+siva, kind, bounteous, gracious, blessed: I, 31, 1; 79, 2; 143, 8; III, 1, 9; 19; IV, 10, 8; 11, 6; V, 24, 1.
+
+sisu, the young one: pasuh na sisva, like a pregnant cow, (I, 65, 10:1); young calf, I, 96, 5:1; the young child (Agni), I, 140, 3; 145, 3; V, 9, 3; a foal, III, 1, 4; divah sisum, (Soma) the child of heaven, IV, 15, 6:2.
+
+sisu-mati, the mother of the young child, I, 140, 10:1.
+
+sisvan (?), young: pasuh na sisva, I, 65, 10:1.
+
+sira, sharp, III, 9, 8.
+
+sukra, bright, I, 12, 12, &c.;--brightness: sukra' vasanah, III, 8, 9.
+
+sukra-varna, whose colour is bright, I, 140, 1; 143, 7.
+
+sukra-sokis, brightly shining, II, 2, 3.
+
+suk, to shine forth, flame up: sokasva, I, 36, 9; susukva'n, flaming, I, 69, 1; sukayantah, the resplendent ones, I, 147, 1; susukana, I, 149, 4; sam nah soka, III, 13, 6; asokat, III, 29, 14; sukadhyai, IV, 2, 1:1;--to kindle: sukantah agnim, IV, 2, 17;--apa nah sosukat agham, driving away evil with thy light, I, 97, 1-8;--susugdhi a' rayim, shine upon us with wealth, I, 91, 1;--vi sosukanah, flaming, III, 15, 1.
+
+suk, flash: suka'-suka, flash by flash, III, 4, 1.
+
+suki, brilliant, bright, I, 31, 17, &c.; V, 7, 8:1; sukim sukayah, I, 72, 3:1; suki it (for sukim it?), IV, 2, 16:2.
+
+suki-ganman, whose birth is bright, I, 141, 7.
+
+suki-gihva, pure-tongued, II, 9, 1.
+
+suki-dant, with brilliant teeth, V, 7, 7. 
+
+suki-pesas, brightly adorned, I, 144, I.
+
+suki-pratika, whose face is bright, I, 143, 6.
+
+suki-bhragas, brightly resplendent, I, 79, 1.
+
+suki-varna, brilliant-coloured, V, 2, 3.
+
+Sunah-sepa, V, 2, 7.
+
+sunam, prosperously, IV, 3, 11.
+
+subh, to adorn, beautify: sumbhanti, V, 10, 4:1; 22, 4.
+
+subh, a triumphal procession, I, 127, 6; III, 26, 4:3.
+
+subham-ya', going in triumph, IV, 3, 6:2.
+
+subhra, beautiful, III, 26, 2.
+
+surudh, gift, 1, 72, 7:2.
+
+sush, see svas.
+
+[p. 476]
+
+sushka, dry (wood), I, 68, 3.
+
+sushma, roaring, IV, 10, 4;--power, V, 10, 4; 16, 3.
+
+sushmin, mighty, powerful, 1, 145, 1; III, 16, 3; V, 10, 4.
+
+sushmin-tama, strongest, I, 127, 9.
+
+su'ra, mighty, I, 70, 11;--hero, IV, 3, 15.
+
+su'ra-sati, strife of heroes: su'ra-sata, I, 31, 6.
+
+susha, song of praise, III, 7, 6.
+
+sringa, horn, III, 8, 10; V, 2, 9.
+
+sringin, horned animal, III, 8, 10.
+
+sridh: sardha, show thy prowess, V, 28, 3.
+
+seva, a kind friend, I, 58, 6; 69, 4; 73, 2;--friendship, III, 7, 5.
+
+se-vridha, joy-furthering, III, 16, 2.
+
+sesha, offspring, V, 12, 6.
+
+soka, flame, IV, 6, 5.
+
+sokih-kesa, whose hair is flame, I, 45, 6; 127, 2; III, 14, 1; 17, 1; 27, 4; V, 8, 2.
+
+sokishtha, brightest, V, 24, 4.
+
+sokishmat, flaming, II, 4, 7.
+
+sokis, splendour, flame, I, 12, 12, &c.
+
+skut, to drip down: skotanti, III, 1, 8; 21, 2; 4; 5.
+
+sya'va, dark: sya'vim (conj. sya'vih?), I, 71, 1:2; syava', the two tawny horses, II, 10, 2.
+
+syeta, reddish, I, 71, 4.
+
+syena, hawk, IV, 6, 10.
+
+syeni, the reddish white one, I, 140, 9:2.
+
+srath, to let loose: sisrathat, I, 128, 6;--vi sisrathah, release from, IV, 12, 4.
+
+sram: sasramanah, toiling, IV, 12, 2.
+
+sramayu, wearying oneself, I, 72, 2.
+
+sravayat-pati, who brings renown to his lord, V, 25, 5:1.
+
+sravas, glory, renown, I, 31, 7, &c.; sravase, I, 73, 5:2.
+
+sravasya, glorious, II, 10, 1.
+
+sravasyat, aspiring to renown, I, 128, 1.
+
+sravasya', desire of glory, I, 128, 6; 149, 5.
+
+sravasyu, glorious, V, 9, 2.
+
+srava'yya, glorious, celebrated, I, 27, 8; 31, 5; V, 20, 1.
+
+sra, see sri.
+
+sri, to rest, abide: asi sritah, I, 75, 3; III, 9, 3; sisriyana, dwelling here and there, V, 11, 6;--asret, he has spread forth, established, III, 14, 1; 19, 2;--to send: urdhvam asret, he has sent upwards, IV, 6, 2; 13, 2; 14, 2; asret, he has sent, V, 1, 22; 28, 1;--ut srayasva, rise up, III, 8, 2;--with vi, to open (intr.): vi srayantam, I, 13, 6; 142, 6; II, 3, 5; vi srayadhvam, V, 5, 5.
+
+sri, to cook: srinan, I, 68, 1:1; sisrita, he has ripened, I, 149, 2; srinishe, thou warmest, V, 6, 9.
+
+sri', splendour, beauty, glory, I, 72, 10:2, &c.; sriyam vasanah, II, 10, 1; sriye, gloriously, IV, 5, 15.
+
+sru, to hear: srudhi, I, 26, 5, &c.; sruvat (conj. sruvat), it melts away, I, 127, 3:4; sroshamanah, hearing, III, 8, 10;--vi srinvire, they are renowned, IV, 8, 6.
+
+sruti, glory, II, 2, 7.
+
+srut-karna, with attentive ears, I, 44, 13; 45, 7.
+
+srutya, glorious, I, 36, 12.
+
+srushti, obedience, I, 67, 1:2; III, 9, 8;--hearing, readiness to hear, I, 69, 7; II, 3, 9; 9, 4.
+
+srushti-van, ready to listen, hearing, I, 45, 2; III, 27, 2;--obedient, I, 127, 9.
+
+sreni-sas, in rows, III, 8, 9.
+
+svas, to hiss: svasiti ap-su, I, 65, 9;--abhi-svasan, panting, I, 140, 5;--asushana'h, aspiring after, I, 147, 1; IV, 2, 14; 16.
+
+svasivat, mightily breathing, I, 140, 10.
+
+svatra, power (?), I, 31, 4:2.
+
+svanta? I, 145, 4:4.
+
+sveta, white (horse?), I, 66, 6:1;--svetam gagnanam, who had been born white (Agni), III, 1, 4.
+
+Svaitreya, V, 19, 3:1.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ S
+
+samyat-vira, with a succession of valiant men, II, 4, 8.
+
+samvatsara, year: samvatsare, after a year, I, 140, 2:3.
+
+sakman, company: sakman (loc.), I, 31, 6:4.
+
+sa-kshita, dwelling together, I, 140, 3.
+
+sakhi, friend, I, 31, 1; 75, 4; III, 9, 1:1; sakha sakhye, I, 26, 3; III, 18, 1; sakha sakhyuh nimishi rakshamanah, I, 72, 5:4; guha sakhi-bhih, III, I, 9:3.
+
+[p. 477]
+
+sakhi-yat, wishing to be a friend, I, 128, 1.
+
+sakhya, friendship, I, 26, 5; 71, 10; 94, 1-14; III, 9, 3; IV, 10, 8.
+
+sagh, to sustain: asaghnoh, I, 31, 3.
+
+sak (sask), to be united with, accompany: sakasva nah, stay with us, I, 1, 9; sakase, II, I, 3; saskire, II, 1, 13;--to attend, worship: sakante, I, 59, 6; sakanta, I, 73, 4; sakantam, I, 98, 3;--to follow: sakante, I, 60, 2; sisakshi, I, 73, 8;--to hold, cling, adhere: sisakti, I, 66, 2; sakate (kratva), I, 145, 2; sakante, III, 13, 2; saskata, III, 16, 2;--sakanta, they have attained, V, 17, 5:1;--anu sakate vartani'h, she follows her ways, I, 140, 9:3;--apa saskire, they turn away to encounter, V, 20, 2;--abhi sakante, go towards, I, 71, 7:1;--a' sa'kyam, whom men should attach to themselves, I, 140, 3.
+
+sa-kanas, graciously united, I, 127, 11.
+
+saka, together with: saka san, being attached, I, 71, 4;--III, 12, 2; IV, 5, 10.
+
+sa-gatya, relationship, II, 1, 5:2.
+
+sa-gitvan: sa-gitvana, united conquerors, III, 12, 4.
+
+sa-gush, united with: sa-gu'h, I, 44, 2; 14.
+
+sa-gosha, unanimous, concordant, I, 65, 2; 72, 6.
+
+sa-goshas, in concord with, unanimous, III, 4, 8; 8, 8; 20, 1; 22, 4; IV, 5, 1; V, 4, 4; 21, 3; 23, 3.
+
+samgnata-rupa, of familiar form, I, 69, 9.
+
+sattri, sitting down, III, 17, 5.
+
+sat-pati, lord of beings, II, 1, 4;--a good lord, V, 25, 6; 27, 1.
+
+satya, true, truthful, I, 1, 5; 73, 2; 79, I; 98, 3; krinvan satya', I, 70, 8; satyam, true (fulfilment), IV, 1, 18;--satyam, verily, I, 1, 6;--efficacious, I, 67, 5;--real, IV, 1, 10.
+
+satya-girvahas, truly carried by prayers as by a vehicle, I, 127, 8:1.
+
+satya-tara, highly truthful, I, 76, 5; III, 4, 10.
+
+satya-tati, truth, IV, 4, 14.
+
+satya-dharman, whose ordinances are true, I, 12, 7.
+
+satya-manman, truthful, I, 73, 2. 
+
+satya-yag, truly sacrificing, IV, 3, 1.
+
+satya-va'k, truth-speaking, III, 26, 9.
+
+satya-sushma, truly strong, I, 59, 4; IV, 11, 4.
+
+satra', altogether, 1, 71, 9;--together: satra' kakranah, I, 72, 1.
+
+satra-saha, always conquering, I, 79, 7.
+
+satvan, warrior, I, 140, 9; IV, 13, 2:3.
+
+sad, to sit: upa sidan, they reverentially approached, I, 72, 5;--pari-sadantah, besieging, IV, 2, 17:4.
+
+sadana, (priestly) seat, I, 31, 17;--seat, abode, I, 95, 8; 96, 7.
+
+sa-dris, of like appearance, I, 94, 7.
+
+sadman, seat, I, 67, 10; the (sacrificial) seat, I, 73, 1; IV, 1, 8; 9, 3; V, 23, 3.
+
+sadyah-artha, immediately successful, I, 60, 1.
+
+sadyas, instantly, I, 27, 6, &c.; quickly, I, 71, 9:1.
+
+sadhani-tva, companionship, IV, 1, 9.
+
+sa-dhani', companion: sa-dhanyah, IV, 4, 14.
+
+sadha-ma'd, rejoicing, V, 20, 4.
+
+sadha-ma'dya, sharing in rejoicings, IV, 3, 4.
+
+sadha-stuti, song of praise, V, 18, 5:1.
+
+sadha-stha, abode, II, 9, 3; III, 6, 4; 7, 4; 12, 8; 23, 1; 25, 5; apa'm sadha-sthe, I, 149, 4; II, 4, 2; tri' sadha-stha, III, 20, 2.
+
+sadhryank, together, IV, 4, 12.
+
+san, to win: sanema, I, 73, 5; 189, 8; sanishyan, sanishyantah, desirous of winning, III, 2, 3:1; 4; 13, 2; sanishamahe, III, 11, 9; sasa-va'n, having obtained, III, 22, 1; sasa-va'msah, successful, IV, 8, 6; sanishanta, they were successful, V, 12, 4;--see also sa.
+
+sana, old, I, (27, 13:1); 95, 10; III, 1, 6; 20.
+
+sanaka't, from of old, III, 29, 14.
+
+sanata, from of old, II, 3, 6; III, 3, 1.
+
+sanaya, ancient, III, 20, 4.
+
+sanara, united with strong men, I, 96, 8:1.
+
+sana-sruta, old-renowned, III, 11, 4.
+
+[p. 478]
+
+sana-gu, inciting from old, I, 141, 5:3.
+
+sani, efficient, I, 27, 4;--sani, gain: sanaye, I, 31, 8; sanim goh, the acquiring of the cow, III, 1, 23; sanim yate, V, 27, 4.
+
+sanitri, a gainer, winner: sanita, I, 27, 9; 36, 13; sanituh, V, 12, 3.
+
+sa-nila, dwelling in the same nest, I, 69, 6; 71, 1.
+
+sanutar, far, V, 2, 4.
+
+sanemi, entirely, IV, 10, 7.
+
+santya (voc.), good, I, 36, 2; 45, 5; 9; III, 21, 3.
+
+sap, to serve, worship: rita' sapantah, I, 67, 8; 68, 4; sapema, IV, 4, 9; sapami, V, 12, 2; sapati (Pada: sah pati), V, 12, 6:1;--to attach oneself: sapanta, V, 3, 4.
+
+sapatni, the two wives, III, 1, 10:3; 6, 4.
+
+sapary, to worship, do service: saparyati, I 12, 8; saparya'mi prayasa, I, 58, 7:3; saparya'n, I, 72, 3:2; saparyatah, I, 144, 4; saparyema saparyavah, II, 6, 3; saparyata, III, 9, 8; V, 14, 5; 25, 4; asaparyan, III, 9, 9; saparyantah, V, 21, 3;--a' saparyan, IV, 22, 2;--vi saparyan, I, 70, 10.
+
+saparyu, devoted servant, II, 6, 3.
+
+sapta-gihva, seven-tongued, III, 6, 2:2.
+
+sapta-dhatu, consisting of seven elements, IV, 5, 6:2.
+
+saptan, seven: sapta guhvah, I, 58, 7; yahvi'h, I, 71, 7; 72, 8:1; III, 1, 4:1; rasmayah, II, 5, 2:1; va'nih, III, 1, 6:1; 7, 1:1;. hotra'ni, III, 4, 5:2; priksha'sah, III, 4, 7:1; viprah, III, 7, 7; IV, 2, 15:1; hotri-bhih, III, 10, 4:1; priya'sah, IV, 1, 12; dha'ma-bhih, IV, 7, 5:1; ratna, V, 1, 5;--trih sapta, I, 72, 6:1; IV, 1, 16:1.
+
+sapta-rasmi, having seven rays (or reins), I, 146, 1:1.
+
+sapta-siva: sapta-sivasu, read: sapta siva'su, I, 141, 2:3.
+
+sapta-sirshan, seven-headed, III, 5, 5:3.
+
+sapta-hotri, the god of the seven Hotris, III, (10, 4:1); 29, 14.
+
+sapti, racer: atyam na saptim, III, 22, 1:1.
+
+saprathah-tama, most widely extended, I, 45, 7:2; most widely-sounding, 1, 75, 1:1; most wide-reaching, I, 94, 13.
+
+sa-prathas, widely extended: sarma sa-prathah, a big shelter, I, 142, 5;--V, 13, 4.
+
+sabah-dugha, juice-yielding, 111, 6, 4:4.
+
+sabandhu, bound in kinship, III, 1, 10.
+
+sa-ba'dh, pressing: sa-ba'dhah a' kakruh, III, 27, 6:1.
+
+sa-ba'dhas, urgent, V, 10, 6.
+
+sabha'-vat, with (brilliant) assemblies, IV, 2, 5.
+
+sam, together: yasasah sam hi purvi'h, many glorious ones have come together, III, 1, 11:3.
+
+sama, every, V, 24, 3.
+
+samad, contest: tveshah samat-su, I, 66, 6; 70, 11.
+
+sa-manas, one-minded, V, 3, 2.
+
+samana', alike, IV, 5, 7.
+
+sam-antam, in the neighbourhood of, V, 1, 11.
+
+sa-manyu, concordant, IV, 1, 1.
+
+samaya, through the midst, I, 73, 6.
+
+sa-marya, assembly, III, 8, 5;--contest, V, 3, 6.
+
+samana, companion, I, 69, 8:1;--common, I, 127, 8, &c.; samanam artham, I, 144, 3:2.
+
+sam-iti, meeting, I, 95, 8.
+
+sam-itha, battle, I, 73, 5;--assembly, III, 1, 12.
+
+sam-idh, log of wood, fuel, I, 95, 11; II, 6, 1; III, 1, 2; 10, 3; IV, 4, 15; V, 1, 1; 4, 4; 6, 4:2; tisrah sam-idhah, III, 2, 9; samit-samit, log by log, III, 4, 1:1.
+
+samudra, ocean, I, 71, 7; 95, 3:1.
+
+sam-riti, battle, I, 31, 6;--onslaught, I, 127, 3:3; V, 7, 2:1.
+
+sam-okas, dwelling together, 1, 144, 4.
+
+sam-gamana, assembler, I, 96, 6.
+
+sam-tarutra, victorious, III, I, 29.
+
+sam-dris, the shine (of the sun), I, 66, 1;--appearance,, aspect, II, 1, 12; III, 5, 2; IV, 1, 6; 6, 6.
+
+sam-drishti, aspect, I, 144, 7; II, 4, 4; IV, 10, 5.
+
+sam-bhuga, enjoyment, (II, 1, 4:1).
+
+sam-misla, united, III, 26, 4:2.
+
+samyank, turned towards each other: samiki' iti sam-iki', I, 69, 1; 96, 5:2; II, 3, 6; III, 1, 7:1;--united: [p. 479] sam-iki'h, III, 29, 13; samyankam, V, 7, 1.
+
+sam-yat: kshapah sam-yatah, on continuous nights, II, 2, 2:3.
+
+sam-ra'g, the Sovereign, 1, 188, 5; III, 10, 1.
+
+sam-ra'gat, king: sam-ra'gantam, I, 27, 1.
+
+sam-vat, space, V, 15, 3.
+
+sam-sad, companionship, I, 94, 1;--assembly, IV, 1, 8.
+
+sam-stir, laid together: sam-stirah vi-stirah, I, 140, 7:1.
+
+sam-stha, abode, V, 3, 8.
+
+sam-hat, a compact mass, III, 1, 7.
+
+saya'van, accompanying, I, 44, 13.
+
+sa-yoni, having the same origin, III, 1, 6.
+
+sarany, to speed: saranyan, III, 1, 19.
+
+sa-ratham, on one chariot with, I, 71, 6:3; III, 4, 11; 6, 9; V, 11, 2.
+
+Sarama, I, 72, 8.
+
+Sarasvati, N. of a goddess, I, 13, 9:1; 142, 9; 188, 8; II, 1, 11:[1, 2]; 3, 8; III, 4, 8; V, 5, 8;--N. of a river, III, 23, 4.
+
+sariman, swift course, III, 29, 11:2.
+
+sarga, rush: va'tasya sargah, III, 29, 11:2;--the letting loose, IV, 3, 12.
+
+sarga-pratakta, urged forward, I, 65, 6.
+
+sarpih-asuti, drinking butter, II, 7, 6; V, 7, 9; 21, 2.
+
+sarpis, butter, I, 127, 1; V, 6, 9.
+
+sarva-tati, health and wealth, I, 94, 15.
+
+savana, libation, III, 1, 20; triti'ye savane, III, 28, 5; ma'dhyandine savane, III, 28, 4.
+
+sa-vayas, of the same age, I, 144, 3:1; 4.
+
+Savitri, I, 36, 13; 44, 8; 73, 2; 95, 7:1; II, 1, 7; III, 20, 5; IV, 6, 2; 13, 2; 14, 2.
+
+sask, see sak.
+
+saskat, hindrance, III, 9, 4:1.
+
+sasa, herbs, III, 5, 6:2; IV, 5, 7:1; 7, 7:1; V, 21, 4:2.
+
+sasahi, victorious, III, 16, 4.
+
+sasni, victorious, III, 15, 5.
+
+sa-srut, flowing, I, 141, 1.
+
+sah, to overcome, be victorious: sahva'n, III, 11, 6; sahasva, III, 24, 1; asahanta, III, 29, 9; sasa'ha, V, 25, 6;--abhi sasahat, it may prevail, V, 23, 1;--nih-sahamanah, conquering, I, 127, 3;--pra-sakshat, victorious, IV, 12, 1.
+
+sahah-krita, produced by strength, I, 45, 9; III, 27, 10; V, 8, 1.
+
+sahah-ga, strength-begotten, I, 58, 1.
+
+sahah-vridh, augmenter of strength, I, 36, 2; III, 10, 9.
+
+sahan-tama, mightiest, I, 127, 9.
+
+sahantya, conqueror, I, 27, 8.
+
+sahamana, victorious, IV, 6, 10.
+
+sahas, strength: sahasah yaho iti, I, 26, 10:1; 74, 5:1; 79, 4; suno iti sahasah, I, 58, 8; 127, 1; 143, I; III, 1, 8; 11, 4; 24, 3; 25, 5; 28, 3; 5; IV, 2, 2; II, 6; V, 3, 9; 4, 8; sahasa ga'yamanah, I, 96, 1:1; sahasah yatah gani, I, 141, 1; sahasah yuvan, O young (son) of strength, I, 141, 10; sahasah putrah, II, 7, 6; III, 14, 1; 4; 6; 16, 5; 18, 4; V, 3, 1; 6; 4, 6; 11, 6;--sahah, (Agni our) strength, I, 36, 18;--sahasa, strongly, I, 98, 2;--might, power, I, 127, 9; 10; V, 1, 8; devasya sahasa, V, 3, 10; abhi-mati sahah dadhe, V, 23, 4:1;--violence, V, 12, 2.
+
+sahasana, mighty, strong, I, 189, 8; II, 10, 6; V, 25, 9.
+
+sahasa-vat, mighty, strong, 1, 189, 5; III, 1, 22; V, 20, 4.
+
+sahasin, strong, IV, 11, 1.
+
+sahasya, strong, I, 147, 5; II, 2, 11; V, 22, 4.
+
+sahasra, thousand: sahasrani sata' dasa, II, 1, 8; sahasrat yu'pat, V, 2, 7; dasa-bhih sahasraih, V, 27, 1:3.
+
+sahasra-aksha, thousand-eyed, I, 79, 12.
+
+sahasra-git, conqueror of thousandfold wealth, I, 188, I; V, 26, 6.
+
+sahasram-bhara, bringing thousandfold gain, II, 9, 1.
+
+sahasra-retas, with thousandfold sperm, IV, 5, 3.
+
+sahasra-vat, thousandfold, III, 13, 7.
+
+sahasra-valsa, with a thousand branches, III, 8, 11.
+
+sahasra-vira, blessing with a thousand men, I, 188, 4:1.
+
+sahasra-sringa, with a thousand horns, V, 1, 8.
+
+[p. 480]
+
+sahasra-sa', a winner of thousandfold bliss, I, 188, 3.
+
+sahasra-sa'tama, the greatest winner of thousandfold wealth, III, 13, 6.
+
+sahasrin, thousandfold, I, 31, 10; 188, 2; II, 2, 7.
+
+sahasvat, mighty, strong, I, 97, 5; 127, 10; 189, 4; III, 14, 2; 4; V, 7, 1; 9, 7; 23, 2.
+
+sahiyas, mightier, I, 71, 4.
+
+sahuti, joint invocation, I, 45, 10.
+
+sahvat, strong, I, 58, 5.
+
+sa: sisasantah, wishing to acquire, I, 146, 4.
+
+sa: anava-syantah artham, never losing their object, IV, 13, 3;--vi syatu, may he pour forth, I, 142, 10; pra-ga'm vi syatu, may he deliver a son, II, 3, 9; vi syasva, send forth, III, 4, 9; vi sahi, disclose, IV, 11, 2.
+
+sati, acquirement (of wealth), success, I, 36, 17; 143, 6; V, 5, 4; 9, 7.
+
+sa'tu, womb, mother (?), IV, 6, 7:1.
+
+sadh, to prosper (intr.): sadhati, I, 94, 2;--sa'dhate matih, the prayer goes straight to him, I, 141, 1:2; sadhan, straightway, III, I, 17;--to prosper (tr.), further: sadhaya, I, 94, 3; pra-taram sadhaya, I, 94, 4; sadhan, I, 96, 1;--to accomplish, perform: sadhayanti dhiyam, II, 3, 8; sa'dhan, III, 1, 18; 5, 3.
+
+sa'dhat-ishti, accomplishing the oblations, III, 2, 5; 3, 6.
+
+sa'dhana, performer: yagnasya (vidathasya) sa'dhanam, I, 44, 11; III, 3, 3; 27, 2; 8;--giver, V, 20, 3.
+
+sa'dhishtha, best, I, 58, 1.
+
+sadhu, good, I, 67, 2;--going straight (to his aim), I, 70, 11; straightforward, I, 77, 3; III, 18, 1;--real, IV, 10, 2; efficacious, V, 1, 7.
+
+sadhu-ya', straightway, V, 11, 4.
+
+sanasi, successful, winning (booty), I, 75, 2; IV, 15, 6.
+
+sa'nu, ridge, I, 128, 3; divah na sa'nu, I, 58, 2; adhi sa'nushu trishu, II, 3, 7;--surface, I, 146, 2;--top, III, 5, 3.
+
+sa'man, song: ritasya sa'man, I, 147, 1:4;--the Saman, IV, 5, 3.
+
+sa'm-ragya, sovereignty, I, 141, 13.
+
+sa'rathi, charioteer (Agni), I, 144, 3:4.
+
+sarasvata, beings belonging to Sarasvati, III, 4, 8.
+
+Saha-devya, Sahadeva's son, IV, 15, 7-10.
+
+simha, lion, I, 95, 5; III, 9, 4; 11, 26, 5; V, 15, 3.
+
+sik, wing (of an army): sikau, 1, 95, 7:2.
+
+si(n)k: ni-siktam, poured down, I, 71, 8;--pari-sikta, poured, IV, 1, 19.
+
+sita, bound: padi sita'm, IV, 12, 6.
+
+sidh, to scare away: sedhati, I, 79, 12.
+
+sidhra, successful, I, 142, 8; effective, V, 13, 2.
+
+sindhu, river, stream, I, 27, 6; 72, 10; 73, 6; 97, 8; 99, 1; 143, 3; 146, 4:3; III, 5, 4; V, 4, 9; gamih sindhunam, I, 65, 7; pl., the Rivers, I, 140, 13;--the river Sindhu, I, 44, 12:1; 94, 16; 95, 11; 98, 3; V, 11, 5; sindhuh na kshodah, I, 65, 6:1; 10.
+
+sima, self, I, 95, 7:3; 145, 2:1.
+
+siv, see syu.
+
+su, to bear. See su.
+
+su, to press Soma: sunvatah, I, 94, 8; sunava'ma, 1, 99, 1; sunvate, I, 141, 10; V, 26, 5; somam sutam, III, 22, 1.
+
+su-agni, possessed of a good Agni (fire): su-agnayah, I, 26, 7; 8 (bis).
+
+su-ank, fleet, IV, 6, 9.
+
+su-adhvara, best performer of worship, I, 44, 8; 127, 1; II, 2, 8; III, 2, 8; 9, 8; V, 9, 3; 28, 5;--receiving good sacrifices, I, 45, 1:1;--yagne su-adhvare, at the decorous service of the sacrifice, I, 142, 5;--splendid worship, III, 6, 6; 29, 12; V, 17, 1.
+
+su-anika, with beautiful face, II, 1, 8; IV, 6, 6.
+
+su-apatya, with good offspring, I, 72, 9:2; II, 2; 12; 4, 8; 9, 5;--blessed with offspring, III, 3, 7; consisting in offspring, III, 16, 1;--good offspring, III, 19, 3.
+
+su-apas, good worker, IV, 2, 19; V, 2, 11.
+
+su-apasya', great skill, III, 3, 11.
+
+[p. 481]
+
+su-apaka, most skilful, IV, 3, 2:3.
+
+su-arkis, endowed with beautiful light, II, 3, 2.
+
+su-artha, pursuing a good aim, I, 95, 1;--well-employed, I, 141, 11.
+
+su-avas, giving good help, V, 8, 2.
+
+su-asva, with good horses, IV, 2, 4;--rich in horses, IV, 4, 8; 10.
+
+su-asvya, abundance in horses, II, 1, 5; III, 26, 3.
+
+su-adhi', of a good mind, kind, well-wishing, I, 67, 2; 70, 4:2; 71, 8;--with good intentions, I, 72, 8; IV, 3, 4;--full of pious thoughts, III, 8, 4;--longing, V, 14, 6.
+
+su-abhu', truly helpful: raye su-abhuvam, V, 6, 3:1.
+
+su-a'sa, whose mouth is beautiful, IV, 6, 8.
+
+su-ahuta, best receiver of offerings, I, 44, 4; 6; III, 27, 5.
+
+su-ukta, well-spoken (prayer), I, 36, 1; 70, 5; II, 6, 2.
+
+su-upayana, easy of access, I, 1, 9.
+
+su-karman, well performing the acts (of worship), IV, 2, 17.
+
+su-kirti, beautiful praise, I, 60, 3;--glory, V, 10, 4.
+
+su-krit, well-doing: su-krite su-krit-tarah, I, 31, 4; righteous, I, 128, 6; who has done good deeds, 147, 3:2; virtuous, well-doer, IV, 13, 1; V, 4, 8; 11.
+
+su-krita, good works, III, 29, 8.
+
+su-ketu, bright, III, 7, 10.
+
+su-kratu, highly wise, I, 12, 1; 128, 4; III, I, 22; IV, 4, 11; V, 11, 2; 20, 4; 25, 9;--full of good-will, I, 141, 11; 144, 7; III, 3, 7.
+
+sukratu-ya', high wisdom, I, 31, 3.
+
+su-kshiti, with fine dwellings, V, 6, 8.
+
+su-kshetriya', desire for rich fields, I, 97, 2.
+
+su-kha, easy-going, V, 5, 3.
+
+sukha-tama, easy-moving: sukha-tame (rathe), I, 13, 4.
+
+su-ga, a good path, I, 94, 9;--going well, I, 94, 11.
+
+sugatu-ya', desire for a free path, I, 97, 2.
+
+so-garhapatya, with a good household, V, 4, 2:1.
+
+su-kandra, resplendent, I, 74; 6; IV, 2, 19; V, 6, 5; 9.
+
+su-ketuna, through thy kindness, I, 79, 9:1; benignantly, I, 127, 11.
+
+su-gata, well born, I, 65, 4; 72, 3:1; II, 1, 15; 2, 11; 6, 2; III, 15, 2; 23, 3; V, 6, 2; 21, 2.
+
+su-gihva, with beautiful tongue(s), I, 13, 8; 142, 4.
+
+su gurni, glowing, IV, 6, 3.
+
+su-gyotis, rich in light, III, 20, 1.
+
+suta, the pressed (Soma), III, 12, 1; 2.
+
+suta-vat, rich in pressed (Soma), III, 25, 4.
+
+suta-soma, having pressed Soma, I, 44, 8; 45, 8; 142, 1; IV, 2, 13.
+
+su-tuka, quick, I, 149, 5.
+
+su-damsas, endowed with wonderful power, II, 2, 3.
+
+su-daksha, highly dexterous, II, 9, 1; III, 4, 9; 23, 2; V, 11, 1.
+
+sudarsa-tara, more visible, I, 127, 5:3.
+
+su-da'nu, giving good rain, I, 44, 14; 45, 10; 141, 9; III, 26, 1; 5; 29, 7;--blessed with good rain, IV, 4, 7.
+
+su-da'van, good giver, I, 76, 3.
+
+su-dina, auspicious day, IV, 4, 6; 7.
+
+sudina-tva, auspiciousness of days, III, 8, 5; sudina-tve ahnam, III, 23, 4.
+
+su-di'diti, with fine splendour, III, 9, 1:2.
+
+su-diti, resplendent, III, 2, 13; 17, 4; 27, 10; V, 25, 2;--glorious splendour, V, 8, 4.
+
+sudugha, flowing with plenty, II, 3, 6; su-dughah usra'h, IV, 1, 13.
+
+su-dris, full of beauty, III, 57, 4; V, 3, 4:1.
+
+su-drisika, beautiful to behold, V, 4, 2.
+
+sudrisika-rupa, with his shape beautiful to behold, IV, 5, 15.
+
+su-deva, a friend of the gods, I, 74, 5.
+
+su-dogha, rich in milk, III, 15, 6.
+
+su-dyut, brilliant, I, 140, 1; 143, 3.
+
+su-dyumna, splendid, III, 19, 2.
+
+su-dyotman, brilliant, I, 141, 12; II, 4, 1.
+
+su-dravinas, possessor of beautiful wealth, I, 94, 15.
+
+su-dhita, well-composed (prayer), I, 140, 11;--blissful gift, III, 11, 8;--well-preserved, III, 23, 1; lying safe, III, 29, 2;--well-ordered, IV, 2, 10;--well-placed, [p. 482] IV, 6, 3; well-established, IV, 6, 7:3; V, 3, 2.
+
+su-dhi', wise, IV, 2, 14.
+
+su-dhur, well-harnessed: rayah sudhurah, I, 73, 10:1; hari iti sudhura, well-yoked, V, 27, 2.
+
+sunih-math, skilful rubbing, III, 29, 12.
+
+su-nidha', skilful establishing, III, 29, 12.
+
+su-nitha, the best leader, II, 8, 2; III, 8, 8.
+
+su-patha, good path, I, 189, 1.
+
+su-parna, beautifully-winged, I, 79, 2.
+
+su-pani, with graceful hands, I, 71, 9:2.
+
+su-putra, with noble sons, III, 4, 11.
+
+su-puta, well-clarified, V, 12, 1.
+
+su-pesas, wearing beautiful ornaments, I, 13, 7; 142, 7:1; 188, 6.
+
+supra-ayana, easily passable, II, 3, 5; V, 5, 5.
+
+supra-avya, ready, I, 60, 1.
+
+su-pratika, whose face is beautiful, I, 94, 7; 143, 3; III, 29, 5; V, 5, 6.
+
+su-praturti, gloriously advancing, III, 9, 1.
+
+su-praniti, a good guide, I, 73, 1; III, 1, 16; 15, 4; IV, 2, 13.
+
+su-prayas, receiver of good offerings, II, 2, 1; 4, 1.
+
+su-bandhu, well-allied, III, 1, 3.
+
+su-barhis, possessor of good sacrificial grass, I, 74, 5.
+
+su-bhaga, blessed, I, 36, 6; III, 1, 4; 13; 9, 1:2; 16, 6; 18, 5; IV, 1, 6;4, 7; V, 8, 3.
+
+su-bhara, rich in gain, II, 3, 4; 9.
+
+su-bhrita, well kept, II, 1, 12.
+
+su-makha, martial, IV, 3, 7; 14:1.
+
+su-mat, together, I, 142, 7:3;--see sumat-yutha.
+
+su-mati, favour, I, 31, 18, &c.; III, 4, 1:2; V, 27, 3:1; kindness: su-mati', IV, 1, 2:3.
+
+sumat-yutha, together with the herd: sumat-yutham (conj. for sumat yutham), V, 2, 4:1.
+
+sumat-ratha, on his chariot, III, 3, 9.
+
+su-manas, gracious, kind-hearted, I, 36, 2, &c.;--joyous, IV, 4, 9.
+
+su-manman, rich in good thoughts, III, 2, 12.
+
+su-mahas, very great, IV, 11, 2.
+
+su-miti, skilful erection, III, 8, 3.
+
+su-mrilika, merciful, IV, 1, 20; 3, 3.
+
+su-meka, well-established, I, 146, 3:1; III, 6, 10:2; 15, 5:3; IV, 6, 3.
+
+su-medhas, wise, II, 3, 1; III, 15, 5.
+
+sumna, blessing, III, 2, 5; 3, 3;--favour, grace, V, 3, 10; 24, 4;--pleasant, III, 14, 4.
+
+sumna-yu, desirous of favour, I, 79, 10; III, 27, 1; V, 8, 7.
+
+su-yag, excellent sacrificer, V, 8, 3.
+
+su-yagna, skilled in sacrifice, III, 17, 1.
+
+su-yama, well-manageable, III, 7, 3; (4:2); V, 28, 3:1.
+
+su-yavasa, good pasture: suyavasa-iva, conj. for svasya-iva, II, 4, 4:1.
+
+su-yama, easily directing, III, 7, 9:1.
+
+su-yug, well-yoked, IV, 14, 3.
+
+su-rana, joyous, III, 3, 9; 29, 14.
+
+su-ratha, with good chariot: su-rathasya (conj. su-ratha asya), III, 14, 7:1;--IV, 2, 4;--rich in chariots, IV, 4, 8.
+
+surabhi, sweet-smelling, V, 1, 6.
+
+su-ra'dhas, rich in wealth, IV, 2, 4; 5, 4.
+
+su-rukma, adorned with gold, I, 188, 6.
+
+su-ruk, with beautiful splendour, II, 2, 4; III, 2, 5; 7, 5; 15, 6; IV, 2, 17.
+
+su-retas, fertile, III, 1, 16.
+
+su-varkas, full of fine splendour, I, 95, 1.
+
+su-va'k, adorned with fine speech, III, 1, 19;--well-spoken, III, 7, 10.
+
+su-va'kas, fine-voiced, I, 188, 7.
+
+su-va'sas, well-clothed, III, 8, 4; IV, 3, 2.
+
+suvita, welfare, I, 141, 12; 189, 3; II, 2, 6; III, 2, 13; IV, 14, 3; V, 11, 1.
+
+su-vidatra, bounteous, II, 1, 8; 9, 6.
+
+su-vi'ra, rich in heroes, in valiant men, I, 31, 10; II, 1, 16; 3, 4, 5; 4, 9; III, 29, 9;--giving valiant offspring, III, 8, 2.
+
+su-vi'rya, abundance in heroes, bliss of valiant offspring, I, 36, 6; 17, &c.; I, 127, 11:1;--host of heroes, III, 6, 4.
+
+su-vrikti, praised with beautiful praise, II, 4, 1:1;--beautiful prayer, or praise, III, 3, 9; V, 25, 3:1.
+
+su-veda, easily to be found, IV, 7, 6.
+
+[p. 483]
+
+su-samsa, kind-spoken, I, 44, 6.
+
+su-sarman, well-protecting, III, 15, 1; V, 8, 2.
+
+su-sasti, best praise, III, 26, 6.
+
+su-sipra, strong-jawed, V, 22, 4:2.
+
+su-sisvi, fine child, I, 65, 4.
+
+su-seva, propitious, I, 27, 2; kind, gracious, II, 1, 9; III, 29, 5; IV, 4, 12; V, 15, 1.
+
+su-soka, with pure splendour, I, 70, 1.
+
+su-sri'; in great beauty, III, 3, 5.
+
+su-samsita, well-sharpened, V, 19, 5.
+
+su-sanitri, best gainer, III, 18, 5.
+
+su-samdris, beautiful to behold, I, 143, 3.
+
+su-samiddha, well-kindled, I, 13, 1; V, 5, 1.
+
+su-samidh, good fuel, V, 8, 7.
+
+su-su' well-bearing, V, 7, 8.
+
+su-suta, well-born, II, 10, 3.
+
+su-stuta, highly praised, V, 27, 2.
+
+su-stuti, rich in perfect praise, III, 19, 3.
+
+su-hava, easy to invoke, readily hearing (our) call, I, 58, 6; III, 6, 8; 15, 1; IV, 1, 5.
+
+su-havis, offering good oblations, IV, 2, 4.
+
+su-havya, giver of good oblations, I, 74, 5.
+
+su-hiranya, rich in gold, IV, 4, 10.
+
+su, to give birth: suvate iti, they give birth, V, 1, 4;--asuta, V, 2, 2; 7, 8.
+
+su', a progenitor, I, 146, 5.
+
+sukta, see su-ukta.
+
+sud, to further: sudayat, I, 71, 8; susudah, I, 73, 8;--to shape: asudayanta, I, 72, 3;--to make ready: susudati, I, 142, 11:3; V, 5, 2;--sudayati, III, 4, 10;--sudaya, accomplish, IV, 4, 14;--sudayati pra, may he make ready, II, 3, 10.
+
+sunu, son, I, 1, 9, &c.; I, 59, 4:1; III, 1, 12:2; suno iti sahasah, I, 58, 127, 1; III, 1, 8; 11, 4; nityah sunuh, I, 66, 1:1.
+
+sunu-mat, rich in sons, III, 24, 5.
+
+sunrita-vat, rich in loveliness, 1, 59, 7.
+
+su'ra, Sun, I, 71, 9; 141, 13; 149, 3; III, 15, 2,
+
+suri, the rich man, liberal lord or patron, I, 31, 7, &c.; 1, 73, 5:1; 141, 8:2.
+
+su'rya, the sun, or Sun, I, 59, 3; 98, I; 146, 4:4; III, 14, 4; IV, 1, 17; 13, 1-4; 14, 2; V, 1, 4; 4, 4; karanam su'ryasya, III, 5, 5; rokane su'ryasya, III, 22, 3; divi su'ryam-iva agaram, V, 27, 6.
+
+sri, to run: sasranah, I, 149, 2; sasriva'msam-iva, III, 9, 5;--pra sarsrate iti, they go forth, III, 7, 1; pra sisrate, they stream forward, V, 1, 1; pra-sarsranasya, advancing, V, 12, 6;--vi sasruh, they have broken through with their floods, I, 73, 6.
+
+srig, to let loose: sena-iva srishta', like an army that is sent forward, I, 66, 7; 143, 5:1; srigat didyum asmai, he shot an arrow at him, I, 71, 5; srishta'h, I, 72, 10;--ava sriga, let go, 1, 33, 11; ava-srigan, letting go (the sacrificial food to the gods), I, 142, 11; II, 3, 10; ma' ava srigah, do not deliver, I, 189, 5;--upa sriga, yield up, I, 188, 10; upa-sriganti, they pour out, II, 1, 16;--vi sriga, emit, I, 36, 9;--sam nah sriga, let us be united, I, 31, 18; III, 16, 6.
+
+Sringaya, son of Devavata, IV, 15, 4:1.
+
+srini, sickle: srinya, I, 58, 4:2.
+
+sripra, mighty (?), III, 18, 5:1.
+
+sripra-danu, bestower of mighty rain (?), I, 96, 3:3.
+
+sena, army, I, 66, 7; sena-iva srishta', I, 143, 5:1.
+
+sotri, presser (of Soma), IV, 3, 3.
+
+soma, Soma (juice), I, 44, 14; 45, 10; 99, 1:1; III, 12, 3; 22, 1; 29, 16; somasya tavasam, III, I, 1:1; somah, IV, 14, 4; V, 27, 5:1;--Soma, the god, I, 65, 10; II, 8, 6.
+
+soma-ahuta, fed with Soma, 1, 94, 14.
+
+Somaka, Sahadeva's son, IV, 15, 9.
+
+soma-pati, lord of Soma (Indra), I, 76, 3.
+
+soma-piti, drinking of Soma: soma-pitaye, I, 44, 9.
+
+soma-peya, drink of Soma, I, 45, 9; III, 25, 4.
+
+somya, one who offers Soma, I, 31, 16.
+
+saubhaga, prosperity, delight, happiness, I, 36, 17; III, 8, 2; 3; 11; 15, 4; 16, 1; V, 28, 3.
+
+[p. 484]
+
+saubhaga-tva, happiness, I, 94, 16.
+
+saumanasa, graciousness, I, 76, 2; kindness, III, 1, 21.
+
+skambha, pillar, IV, 13, 5.
+
+stan, to thunder: stanayan, I, 58, 2; 140, 5; stanayanti abhra', I, 79, 2; pra stanayanti, IV, 10, 4.
+
+stabhu-yamana, firmly fixed, III, 7, 4.
+
+sta(m)bh, to uphold: tastambha, I, 67, 5;--ut astambhit, he has upheld, III, 5, 10;--upa stabhayat, he supports, IV, 5, 1; stabhayat upa dya'm, he has reared ... up to the sky, IV, 6, 2.
+
+sta'yam, stealthily: upa sta'yani karati, conj., (I, 145, 4:3).
+
+stu, to praise: stavanah, praised, I, 12, 11; 31, 8, &c.
+
+stubh: pra-stubhanah, incited by shouting, IV, 3, 12.
+
+stubhvan, uttering (sacred) shouts, I, 66, 4.
+
+stri, to strew: strinita, I, 13, 5; strinana'sah barhih, I, 142, 5.
+
+stri, star: pipesa na'kam stribhih, I, 68, 10; dyauh na stri-bhih, II, 2, 5; IV, 7, 3.
+
+stena, thief, V, 3, 11.
+
+stoka; drop, III, 22, 1-5.
+
+stotri, praiser, I, 58, 8; II, 1, 16; III, 5, 2.
+
+stoma, praise, song of praise, I, 12, 12, &c.; stomaih (conj. stomam), IV, 10, 1:3.
+
+stomavahas, (I, 127, 8:1).
+
+stha, to stand: urdhvah tishtha, I, 36, 13; abhi tishtha, set thy foot on, V, 28, 3;--a' tasthuh, they have assumed, I, 72, 9:2;--upa sthat, he has approached, I, 68, 1; see upa-stha'yam;--pra-sthita, ready, III, 4, 4:3;--abhi pra asthat, he gains advantage, I, 74, 8:1;--with vi, to spread: vi tishthate, I, 58, 4; vi tasthe, I, 72, 9; vi asthat, I, 65, 8; 141, 7; vi asthiran, they are scattered, I, 94, 11; vi tishthase, V, 8, 7.
+
+sthatu, what stands: sthatuh karatham, what is movable and immovable, I, 58, 5:2; 68, 1:2; 70, 7:2; (72, 6:2).
+
+sthatri, that which stands: sthata'm karatham, I, 70, 3; what remains steadfast: sthatri'n, I, 72, 6:2.
+
+sthira, solid: sthira' kit anna, IV, 7, 10.
+
+sthu'na, a column: sthu'na-iva upamit, I, 59, 1:3.
+
+sni'hiti? I, 74, 2:2.
+
+snehiti, (I, 74, 2:2).
+
+spas, spy, IV, 4, 3;--observer: spasam visvasya gagatah, IV, 13, 3.
+
+sparha, desirable, lovely, I, 31, 14; II, 1, 12; IV, 1, 6; 7; 12.
+
+spri: aspar ity aspah, thou hast freed, V, 15, 5;--ava spridhi, protect, V, 3, 9.
+
+spris, to touch: sprisanti, I, 36, 3.
+
+sprihayat-varna, having the appearance of one eagerly striving, II, 10, 5.
+
+sphati, increase, I, 188, 9.
+
+sphur, to sparkle: prati sphura, IV, 3, 14.
+
+smat-udhni, with full udders, I, 73, 6.
+
+smi, to smile, laugh: smayamanabhih, I, 79, 2:4; smayamanah (dyauh), II, 4, 6:3; smayete iti, III, 4, 6.
+
+syu: syutam, well-stitched, I, 31, 15.
+
+syona-krit, making comfortable, 1, 31, 15.
+
+syona-si', comfortably resting, I, 73, 1:2.
+
+sravat, river: sravatah sapta yahvi'h, 1, 71, 7.
+
+sravatha, streaming, III, 1, 7.
+
+sridh: asredhantah, without fail, III, 29, 9.
+
+sridh, failure, I, 36, 7; III, 9, 4; 10, 7.
+
+sru, to flow: sruvat (conj. for sruvat), it melts away, I, 127, 3:4
+
+sruk, sacrificial ladle, I, 144, 1; V, 14, 3; 21, 2.
+
+srotas, stream, I, 95, 10:1.
+
+sva: tanvah krinvata sva'h, I, 72, 5:3; svasya-iva, conj. suyavasa-iva, II, 4, 4:1.
+
+svah-dris, of sun-like aspect, I, 44, 9; III, 2, 14; V, 26, 2.
+
+svah-nara, the solar hero, II, 2, 1;--realm of the Sun, V, 18, 4.
+
+svah-vat, together with the sun, I, 59, 4; V, 2, 11.
+
+svah-vid, finding the sun, I, 96, 4; III, 3, 5; 10; 26, 1.
+
+[p. 485]
+
+sva-gurta, delightful by their own nature, I, 140, 13.
+
+sva-genya, noble by his own nature, V, 7, 5.
+
+sva-tavat, self-strong, IV, 2, 6.
+
+svad, to taste: svadante, II, 1, 24; asvadayat, II, 4, 7;--to make relishable, savoury: sisvadat, I, 188, 10; svada, III, 14, 7.
+
+sva-dharman, following his own ordinances, III, 21, 2.
+
+svadha', inherent power: svadha'bhih, by one's self, by the power of his own nature, I, 95, 4; III, 26, 8; svadhaya, according to their wont, II, 3, 8; III, 4, 7; by himself, III, 17, 5; by his own power, IV, 13, 5;--svadha'h adhayat, he drank the draughts, I, 144, 2:2.
+
+svadha'-vat, self-dependent, I, 36, 12; 144, 7; 147, 2; III, 20, 3; IV, 5, 2; 10, 6; 12, 3; V, 3, 2; 5; moving according to one's wont, I, 95, 1:2; moving by his own strength, I, 95, 4.
+
+sva-dhiti, axe, III, 2, 10; 8, 6; 11; V, 7, 8:1.
+
+svan, to resound: svanit, II, 4, 6.
+
+svana, noise, I, 94, 11.
+
+sva-patya, a man's own dominion: sva-patya'ni (conj. for su-apatya'ni), I, 72, 9:2.
+
+svayasah-tara, highly brilliant by oneself, V, 17, 2:[1, 3].
+
+sva-yasas, endowed with his own splendour, I, 95, 2; 5; 9.
+
+sva-yu, free, II, 4, 7.
+
+svar, sun, or Sun: su'rah na sam-drik, I, 66, 1; svah drisike, I, 66, 10:3; 69, 10; svah (loc.), I, 70, 8:1; 9:1; svah vividuh, I, 71, 2; svah na, I, 148, 1; II, 2, 7; 8; 10; 8, 4; svah mahat, III, 2, 7; sure, IV, 3, 8; avih svah abhavat, IV, 3, 11:3; su'rah varnena, IV, 5, 1 3; svah na gyotih, IV, 10, 3:1; avindat ga'h apah svah, V, 14, 4:1.
+
+sva-ra'g, king, I, 36, 7.
+
+sva-ra'gya, royalty, II, 8, 5:2.
+
+svaru, sacrificial post, III, 8, 6:1; 9; 10; IV, 6, 3.
+
+svarnri, sun-hero: svarnah (?), (I, 70, 9:1).
+
+svartha, see su-artha.
+
+svasara, fold, II, 2, 2.
+
+svasri, sister, I, 65, 7; II, 5, 6:1; svasarah, I, 71, 1:2; tisrah, II, 5, 5:1; dasa, III, 29, 13:2; dvih panka, IV, 6, 8:1; apasi svasrinam, III, 1, 3:3; 11.
+
+svasti, happiness, welfare, I, 1, 9, &c.; svasti-bhih, safely, I, 189, 2;--with welfare, happily, II, 9, 6; IV, 11, 6; V, 4, 11.
+
+sva'dana, sweetener, V, 7, 6.
+
+svadu-kshadman, having sweet food, I, 31, 15.
+
+sva'dman, sweetness, I, 69, 3:1.
+
+svana, roaring, V, 2, 10; 25, 8;--thundering, V, 10, 5.
+
+svanin, tumultuous, III, 26, 5.
+
+sva'ha, the word Svaha, I, 13, 12; III, 4, 11; V, 5, 11; sva'ha havyam kartana, pronounce the Svaha over the offering, I, 142, 12.
+
+sva'ha-krita, (offerings) over which the Svaha has been pronounced, I, 142, 13; II, 3, 11.
+
+sva'ha-kriti, pronouncing Svaha, I, 188, 11.
+
+svid, to sweat: sisvidanah, IV, 2, 6.
+
+sveda, sweat, V, 7, 5.
+
+     
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+ H
+
+hamsa, swan, I, 65, 9; III, 8, 9.
+
+han, to kill, slay: hamsi, I, 31, 6; gighamsatah, I, 36, 15; ahan (without an object), I, 69, 8:1;--vi gahi, smite, I, 36, 16.
+
+har: haryamana, longed for, III, 6, 4;--prati harya, accept graciously, I, 144, 7; prati haryah, thou acceptest, V, 2, 11.
+
+hari, golden, I, 95, 1;--bay horse, fallow steed: hari-bhyam, I, 76, 3; IV, 15, 7:1; hari iti, IV, 15, 8; V, 27, 2.
+
+hari-kesa, whose hair is golden, III, 2, 13.
+
+harit, pl., the golden horses, IV, 6, 9:1; haritah sapta yahvi'h, the seven young fallow mares, IV, 13, 3.
+
+hari-vrata, whose every law is golden, III, 3, 5:1.
+
+haryata, delightful, III, 5, 3.
+
+hava, invocation, I, 45, 3.
+
+havih-adya, eating the oblation, V, 1, 11; 4, 4.
+
+havih-krit, preparer of the sacrificial food, I, 13, 3.
+
+[p. 486]
+
+havih-da', giver of offerings, IV, 3, 7:1.
+
+havih-pati, master of sacrificial food, I, 12, 8.
+
+havih-va'h, bearer of oblations, I, 72, 7.
+
+havis, sacrificial food, I, 12, 10, &c.
+
+havishmat, rich in sacrificial food, offering sacrificial food, I, 12, 9, &c.; 1, 128, 2:2.
+
+haviman, invocation, I, 12, 2.
+
+havya, to be proclaimed: bhagah na havyah, I, 144, 3:3;--to be invoked, III, 5, 3; V, 17, 4.
+
+havya, sacrificial food: havya'ya volhave, I, 45, 6;--I, 74, 4, &c.
+
+havya-dati, giver of offerings, III, 2, 8;--gift of offerings, IV, 8, 5; V, 26, 4.
+
+havya-va'h, bearer of oblations, carrier of offerings, I, 12, 2; 6; 44, 8; 67, 2; 128, 8; III; 2, 2; 5, 10; 10, 9; 11, 2; 17, 4; 27, 5; 29, 7; IV, 8, 1; V, 4, 2; 6, 5; 28, 5.
+
+havya-va'hana, carrier of oblations, I, 36, 10; 44, 2; 5; V, 8, 6; 11, 4; 25, 4; 28, 6; devebhyah havya-vahana, III, 9, 6:1.
+
+haskartri, producing joy, IV, 7, 3.
+
+ha, to give (up to): gahati, I, 95, 7.
+
+ha: ut-gihanah, flying up, V, 1, 1.
+
+hi, to incite, stir up: hinvatu, I, 27, 11; hinuhi, I, 143, 4; hinvanti, I, 144, 5; hiyana, driven forward, II, 4, 4; hinve, he speeds along, IV, 7, 11; hinvire, they drive forward, V, 6, 6;--sam ahema (conj. for sam mahema), we have sent forward, I, 94, 1:1.
+
+hita-mitra, who has made himself (valiant) friends, I, 73, 3:2.
+
+hiranya, gold, IV, 10, 6.
+
+hiranya-kesa, golden-haired, I, 79, 1.
+
+hiranya-danta, gold-toothed, V, 2, 3.
+
+hiranyaya, golden: hiranyayi iti, I, 144, 6.
+
+hiranya-ratha, with the golden chariot, IV, 1, 8.
+
+hiranya-rupa, golden-coloured, IV, 3, 1.
+
+hiri-sipra, with golden jaws, II, 2, 5:1.
+
+hiri-smasru, golden-bearded, V, 7, 7.
+
+hu, to offer, sacrifice: huyate, I, 26, 6, &c.; guhure, II, 9, 3;--a'-hutah, worshipped by offerings, into whom offerings are poured, I, 36, 8, &c.; II, 7, 4:1; 5; III, 24, 3, &c.; a-guhvanah, receiving libations, I, 188, 3; a' guhota, with Acc., make offerings in, III, 9, 8.
+
+huras, on a crooked way, IV, 3, 13.
+
+hri, to take: vi-haran, spreading out, IV, 13, 4.
+
+hri, to be angry: hriniyamanah, V, 2, 8.
+
+hrid, heart, mind, I, 60, 3, &c.
+
+hridi-spris, touching the heart, IV, 10, 1:3.
+
+hrish: harshat, joyous, I, 127, 6;--ut-harshayanti, they delight, V, 27, 5.
+
+hrishivat, joyful, I, 127, 6.
+
+helas, anger, I, 94, 12:1; IV, 1, 4. 
+
+hemya'-vat, well-impelled, IV, 2, 8:1.
+
+hesha-kratu, hot-spirited, III, 26, 5:2.
+
+hotri, the Hotri priest, I, 1, 1; 5, &c.; I, 94, 6; II, 9, 1; III, 17, 5; hotara daivya, I, 13, 8:1; 142, 8; 188, 7; II, 3, 7; III, 4, 7; V, 5, 7;--sapta hotri-bhih, III, 10, 4.
+
+hotri-vu'rya, election as Hotri, I, 31, 3.
+
+hotri-sadana, the Hotri's seat, II, 9, 1.
+
+hotra, service of a Hotri, the Hotri's office, I, 76, 4; II, 1, 2; III, 17, 2; sapta hotra'ni, III, 4, 5:2.
+
+hotra-va'h, carrier of offerings, V, 26, 7.
+
+hotra, oblation, I, 36, 7; II, 2, 8;--Hotra Bharati, I, 142, 92; II, 1, 11:1;--the Hotri's work, worship, IV, 2, 10:1.
+
+hotra-vid, knowing the art of sacrificial libations, V, 8, 3.
+
+hru, see hvri.
+
+hvaras, tricks, V, 20, 2.
+
+hvara, serpent (1), I, 141, 7:1; hvare (conj. hvaram), II, 2, 4:1.
+
+hvarya? V, 9, 4:1.
+
+hvri: upa hvarate, he slinks away, I, 141, 1:1;--hrunanah? (IV, 4, 1:2).
+
+hve, to call, invoke . huvema, I, 127, 2:1; iha huve (read iha hve?), III, 20, 5:1;--vahnih asa a' huve, 1, 76, 4:[1, 2];--vi-hvayamahe, we call (thee) in emulation (with other people), I, 36, 13:2.
+
+    
+Vedic Hymns, Part II (SBE46), by Hermann Oldenberg [1897], at sacred-texts.com
+
+[p. 487]
+
+[lmip]
+
+  
+
+II. LIST OF THE MORE IMPORTANT PASSAGES QUOTED IN THE NOTES.
+
+  
+
+RIG-VEDA.
+
+         	 
+
+      	PAGE
+
+     
+     	I, 1, 8
+
+      	<page 260>
+
+     
+     	6, 10
+
+      	<page 312>
+
+     
+     	10, 2
+
+      	<page 262>
+
+     
+     	11, 5
+
+      	<page 400>
+
+     
+     	15, 12
+
+      	<page 260>, <page 306>
+
+     
+     	19, 3
+
+      	<page 192>
+
+     
+     	22, 10
+
+      	<page 122>, <page 156>
+
+     
+     	24, 9
+
+      	<page 251>
+
+     
+     	26, 10
+
+      	<page 86>
+
+     
+     	27, 10
+
+      	<page 327>
+
+     
+     	29, 4
+
+      	<page 71>
+
+     
+     	30, 7
+
+      	<page 257>
+
+     
+     	31, 8
+
+      	<page 224>
+
+     
+     	32, 14
+
+      	<page 73>
+
+     
+     	33, 4
+
+      	<page 362>
+
+     
+     	33, 14
+
+      	<page 408>
+
+     
+     	34, 2
+
+      	<page 306>
+
+     
+     	34, 3
+
+      	<page 69>
+
+     
+     	34, 6
+
+      	<page 28>, <page 272>
+
+     
+     	34, 9
+
+      	<page 269>
+
+     
+     	34, 10
+
+      	<page 112>
+
+     
+     	37, 3
+
+      	<page 305>
+
+     
+     	37, 12
+
+      	<page 172>
+
+     
+     	38, 13
+
+      	<page 195>
+
+     
+     	42, 7
+
+      	<page 257>
+
+     
+     	44, 4
+
+      	<page 211>
+
+     
+     	47, 1
+
+      	<page 44>
+
+     
+     	48, 9
+
+      	<page 359>
+
+     
+     	48, 10
+
+      	<page 40>
+
+     
+     	51, 3
+
+      	<page 243>
+
+     
+     	51, 8
+
+      	<page 183>
+
+     
+     	52, 1
+
+      	<page 286>
+
+     
+     	52, 6
+
+      	<page 312>
+
+     
+     	53, 7
+
+      	<page 63>
+
+     
+     	60, 1
+
+      	<page 231>
+
+     
+     	61, 3
+
+      	<page 155>, <page 203>
+
+     
+     	61, 4
+
+      	<page 110>
+
+     
+     	62, 5
+
+      	<page 106>
+
+     
+     	62, 9
+
+      	<page 18>
+
+     
+     	64, 1
+
+      	<page 203>
+
+     
+     	64, 5 105
+
+      	 
+
+     
+     	64, 9
+
+      	<page 90>, <page 269>
+
+     
+     	64, 14
+
+      	<page 19>
+
+     
+     	66, 2
+
+      	<page 243>
+
+     
+     	66, 4
+
+      	<page 380>
+
+     
+     	69, 2
+
+      	<page 65>
+
+     
+     	69, 5
+
+      	<page 380>
+
+     
+     	70, 7
+
+      	<page 76>
+
+     
+     	70, 10
+
+      	<page 78>
+
+     
+     	71, 1
+
+      	<page 294>
+
+     
+     	71, 3
+
+      	<page 65>
+
+     
+     	71, 4
+
+      	<page 174>
+
+     
+     	72
+
+      	<page 66>
+
+     
+     	72, 5
+
+      	<page 66>
+
+     
+     	72, 8
+
+      	<page 66>
+
+     
+     	76, 5
+
+      	<page 319>
+
+     
+     	80, 4
+
+      	<page 177>
+
+     
+     	81, 5
+
+      	<page 257>
+
+     
+     	84, 18
+
+      	<page 3>
+
+     
+     	88, 3
+
+      	<page 84>
+
+     
+     	89, 1
+
+      	<page 134>
+
+     
+     	89, 10
+
+      	<page 59>
+
+     
+     	92, 3
+
+      	<page 359>
+
+     
+     	92, 8
+
+      	<page 101>
+
+     
+     	95, 1
+
+      	<page 168>
+
+     
+     	95, 3
+
+      	<page 27>
+
+     
+     	95, 9
+
+      	<page 150>
+
+     
+     	95, 10
+
+      	<page 63>
+
+     
+     	96, 3
+
+      	<page 101>
+
+     
+     	96, 5
+
+      	<page 168>
+
+     
+     	100, 7
+
+      	<page 84>
+
+     
+     	100, 16
+
+      	<page 380>
+
+     
+     	[p. 488]
+
+      	 
+
+     
+     	102, 1
+
+      	<page 122>
+
+     
+     	102, 8
+
+      	<page 257>
+
+     
+     	104, 4
+
+      	<page 324>
+
+     
+     	105, 2
+
+      	<page 78>
+
+     
+     	105, 12
+
+      	<page 152>, <page 162>
+
+     
+     	105, 14
+
+      	<page 156>
+
+     
+     	109, 3
+
+      	<page 121>, <page 122> 
+
+     
+     	109, 4
+
+      	<page 250>
+
+     
+     	111, 1
+
+      	<page 25>
+
+     
+     	112, 25
+
+      	<page 35>
+
+     
+     	113, 2
+
+      	<page 124>
+
+     
+     	113, 3
+
+      	<page 168>
+
+     
+     	113, 15
+
+      	 <page 359>
+
+     
+     	115, 1
+
+      	<page 338>
+
+     
+     	116, 1
+
+      	<page 7>
+
+     
+     	116, 4
+
+      	<page 312>
+
+     
+     	116, 5
+
+      	<page 134>
+
+     
+     	116, 6
+
+      	<page 59>
+
+     
+     	118, 9
+
+      	<page 59>
+
+     
+     	119, 3
+
+      	<page 62>
+
+     
+     	119, 10 59
+
+      	 
+
+     
+     	120, 1
+
+      	<page 79>
+
+     
+     	120, 2
+
+      	<page 46>
+
+     
+     	122, 14
+
+      	<page 71>
+
+     
+     	223, 9
+
+      	<page 250>
+
+     
+     	127, 5
+
+      	<page 192>
+
+     
+     	128, 1
+
+      	<page 327>
+
+     
+     	129, 5
+
+      	<page 98>, <page 133>
+
+     
+     	129, 11
+
+      	<page 133>
+
+     
+     	130, 3
+
+      	<page 242>
+
+     
+     	130, 4
+
+      	<page 132>
+
+     
+     	130, 5
+
+      	<page 162>
+
+     
+     	130, 6
+
+      	<page 286>, <page 370>
+
+     
+     	132, 5
+
+      	<page 223>
+
+     
+     	134, 1
+
+      	<page 144>
+
+     
+     	134, 5
+
+      	<page 58>
+
+     
+     	135, 4
+
+      	<page 133>
+
+     
+     	138, 3
+
+      	<page 320>
+
+     
+     	139, 1
+
+      	<page 223>
+
+     
+     	139, 2
+
+      	<page 35>
+
+     
+     	139, 4
+
+      	<page 269>
+
+     
+     	142, 7
+
+      	<page 239>
+
+     
+     	143, 5
+
+      	<page 97>
+
+     
+     	143, 7
+
+      	<page 184>
+
+     
+     	144, 1 
+
+      	<page 245>
+
+     
+     	146, 1
+
+      	<page 207>
+
+     
+     	147, 3
+
+      	<page 334>
+
+     
+     	148, 1
+
+      	<page 78>
+
+     
+     	151, 1
+
+      	<page 152>
+
+     
+     	151, 4
+
+      	<page 224>
+
+     
+     	152, 6
+
+      	<page 321>
+
+     
+     	158, 5
+
+      	<page 368>
+
+     
+     	159, 5
+
+      	<page 107>
+
+     
+     	163, 4; 5
+
+      	<page 365>
+
+     
+     	264, 3
+
+      	<page 314>
+
+     
+     	I, 164, 6
+
+      	<page 62>
+
+     
+     	164, 35
+
+      	<page 66>
+
+     
+     	164, 51
+
+      	<page 117>, <page 144>, <page 250>
+
+     
+     	166, 2
+
+      	<page 58>
+
+     
+     	166, 11
+
+      	<page 294>
+
+     
+     	166, 12
+
+      	<page 84>
+
+     
+     	267, 4
+
+      	<page 274>
+
+     
+     	168, 6
+
+      	<page 312>
+
+     
+     	169, 5
+
+      	<page 265>
+
+     
+     	171, 1
+
+      	<page 112>
+
+     
+     	171, 2
+
+      	<page 53>
+
+     
+     	171, 6
+
+      	<page 112>
+
+     
+     	173, 1
+
+      	<page 177>
+
+     
+     	173, 6
+
+      	<page 184>
+
+     
+     	179, 1
+
+      	<page 81>
+
+     
+     	184, 2
+
+      	<page 155>
+
+     
+     	184, 4
+
+      	<page 111>
+
+     
+     	185, 2
+
+      	<page 58>
+
+     
+     	186, 4
+
+      	<page 69>
+
+     
+     	186, 10
+
+      	<page 311>
+
+     
+     	188, 4
+
+      	<page 224>
+
+     
+     	188, 5
+
+      	<page 239>
+
+     
+    
+
+         	II, 1, 1
+
+      	<page 71>
+
+     
+     	1, 2
+
+      	<page 111>
+
+     
+     	1, 4
+
+      	<page 27>
+
+     
+     	1, 11
+
+      	<page 156>
+
+     
+     	1, 12
+
+      	<page 91>
+
+     
+     	2, 2
+
+      	<page 76>
+
+     
+     	2, 3
+
+      	<page 312>
+
+     
+     	2, 6
+
+      	<page 319>
+
+     
+     	2, 8
+
+      	<page 319>
+
+     
+     	3, 9
+
+      	<page 156>
+
+     
+     	3, 11
+
+      	<page 143>, <page 238>
+
+     
+     	4, 1
+
+      	<page 90>
+
+     
+     	5, 1
+
+      	<page 91>, <page 381>
+
+     
+     	5, 2
+
+      	<page 168>
+
+     
+     	5, 5
+
+      	<page 76>
+
+     
+     	5, 7
+
+      	<page 71>
+
+     
+     	11, 12
+
+      	<page 71>
+
+     
+     	14, 2
+
+      	<page 132>
+
+     
+     	14, 11
+
+      	<page 216>
+
+     
+     	16, 1
+
+      	<page 214>
+
+     
+     	16, 3
+
+      	<page 402>
+
+     
+     	17, 4
+
+      	<page 315>
+
+     
+     	17, 7
+
+      	<page 145>
+
+     
+     	18, 1
+
+      	<page 191>
+
+     
+     	19, 7
+
+      	<page 111>
+
+     
+     	24, 1
+
+      	<page 210>
+
+     
+     	24, 8
+
+      	<page 347>
+
+     
+     	24, 15
+
+      	<page 398>
+
+     
+     	26, 3
+
+      	<page 272>
+
+     
+     	34, 4
+
+      	<page 295>
+
+     
+     	35, 2
+
+      	<page 53>
+
+     
+     	36, 2
+
+      	<page 294>
+
+     
+     	37, 6
+
+      	<page 25>
+
+     
+     	[p. 489]
+
+      	 
+
+     
+     	39, 1
+
+      	<page 210>
+
+     
+     	40, 4
+
+      	<page 156>
+
+     
+     	41, 5
+
+      	<page 246>
+
+     
+    
+
+         	III, 1, 6
+
+      	<page 19>
+
+     
+     	2, 1
+
+      	<page 122>
+
+     
+     	2, 3
+
+      	<page 286>
+
+     
+     	2, 5
+
+      	<page 327>
+
+     
+     	2, 7
+
+      	<page 286>
+
+     
+     	2, 14
+
+      	<page 305>
+
+     
+     	3, 4
+
+      	<page 421>
+
+     
+     	4, 3
+
+      	<page 223>
+
+     
+     	4, 10
+
+      	<page 201>
+
+     
+     	5, 6
+
+      	<page 134>
+
+     
+     	5, 8
+
+      	<page 118>
+
+     
+     	6, 1
+
+      	<page 161>, <page 224>
+
+     
+     	6, 2
+
+      	<page 168>
+
+     
+     	6, 6
+
+      	<page 319>
+
+     
+     	6, 7
+
+      	<page 224>, <page 272>
+
+     
+     	6, 9
+
+      	<page 201>
+
+     
+     	6, 10
+
+      	<page 269>
+
+     
+     	7, 1
+
+      	<page 225>
+
+     
+     	7, 9
+
+      	<page 25>
+
+     
+     	8, 1; 3; 6; 11
+
+      	<page 12>
+
+     
+     	8, 10
+
+      	<page 35>
+
+     
+     	8, 11
+
+      	<page 12>
+
+     
+     	20, 5
+
+      	<page 234>
+
+     
+     	11, 8
+
+      	<page 14>
+
+     
+     	12, 2
+
+      	<page 210>
+
+     
+     	14, 4
+
+      	<page 169>
+
+     
+     	15, 2
+
+      	<page 40>
+
+     
+     	15, 5
+
+      	<page 223>
+
+     
+     	16, 4
+
+      	<page 151>
+
+     
+     	18, 2
+
+      	<page 214>
+
+     
+     	24, 1
+
+      	<page 254>
+
+     
+     	27, 1
+
+      	<page 294>
+
+     
+     	27, 3
+
+      	<page 91>, <page 207>
+
+     
+     	27, 7
+
+      	<page 161>
+
+     
+     	28, 4
+
+      	<page 27>
+
+     
+     	29, 3
+
+      	<page 29>, <page 228>
+
+     
+     	29, 11
+
+      	<page 10>
+
+     
+     	29, 13
+
+      	<page 76>
+
+     
+     	29, 14
+
+      	<page 260>
+
+     
+     	30, 7
+
+      	<page 134>
+
+     
+     	30, 11
+
+      	<page 272>
+
+     
+     	30, 13
+
+      	<page 123>
+
+     
+     	30, 15
+
+      	<page 29>
+
+     
+     	31, 1
+
+      	<page 323>
+
+     
+     	31, 1-5
+
+      	<page 80>
+
+     
+     	31, 16
+
+      	<page 225>
+
+     
+     	34, 3
+
+      	<page 245>
+
+     
+     	38, 1
+
+      	<page 286>
+
+     
+     	39, 1
+
+      	<page 155>
+
+     
+     	43, 1
+
+      	<page 269>
+
+     
+     	43, 5
+
+      	<page 30>
+
+     
+     	49, 4
+
+      	<page 5>, <page 41>
+
+     
+     	53, 16
+
+      	<page 380>
+
+     
+     	54, 3
+
+      	<page 48>
+
+     
+     	54, 19
+
+      	<page 113>
+
+     
+     	54, 22
+
+      	<page 376>
+
+     
+     	55, 3
+
+      	<page 223>
+
+     
+     	55, 4
+
+      	<page 78>
+
+     
+     	55, 6
+
+      	<page 25>
+
+     
+     	55, 11
+
+      	<page 76>
+
+     
+     	55, 12
+
+      	<page 226>
+
+     
+     	55, 21
+
+      	<page 90>
+
+     
+     	56, 5
+
+      	<page 312>
+
+     
+     	56, 7
+
+      	<page 81>
+
+     
+     	56, 8
+
+      	<page 312>
+
+     
+     	58, 7
+
+      	<page 44>
+
+     
+     	58, 9
+
+      	<page 144>
+
+     
+     	59, 2
+
+      	<page 65>
+
+     
+     	61, 3
+
+      	<page 162>
+
+     
+     	62, 3
+
+      	<page 156>
+
+     
+    
+
+         	IV, 1, 4
+
+      	<page 112>
+
+     
+     	1, 5
+
+      	<page 40>
+
+     
+     	1, 6
+
+      	<page 383>
+
+     
+     	1, 9
+
+      	<page 365>
+
+     
+     	1, 11
+
+      	<page 106>, <page 329>
+
+     
+     	1, 12
+
+      	<page 329>
+
+     
+     	1, 12 seq.
+
+      	<page 80>
+
+     
+     	2, 3
+
+      	<page 246>
+
+     
+     	2, 5
+
+      	<page 92>
+
+     
+     	2, 9
+
+      	<page 274>
+
+     
+     	2, 15
+
+      	<page 314>
+
+     
+     	4, 15
+
+      	<page 210>
+
+     
+     	5, 1
+
+      	<page 44>, <page 50>
+
+     
+     	5, 7
+
+      	<page 242>, <page 243>
+
+     
+     	5, 8
+
+      	<page 242>
+
+     
+     	5, 10
+
+      	<page 145>
+
+     
+     	5, 11
+
+      	<page 105>
+
+     
+     	5, 13
+
+      	<page 152>
+
+     
+     	6, 3
+
+      	<page 255>, <page 280>
+
+     
+     	6, 8
+
+      	<page 76>
+
+     
+     	6, 9
+
+      	<page 319>
+
+     
+     	6, 11
+
+      	<page 27>, <page 373>
+
+     
+     	7, 4
+
+      	<page 78>
+
+     
+     	7, 7
+
+      	<page 171>, <page 243>
+
+     
+     	7, 9
+
+      	<page 48>
+
+     
+     	7, 10
+
+      	<page 133>
+
+     
+     	7, 11
+
+      	<page 295>
+
+     
+     	9, 6
+
+      	<page 78>
+
+     
+     	11, 6
+
+      	<page 254>
+
+     
+     	14, 2
+
+      	<page 80>
+
+     
+     	15, 6
+
+      	<page 118>
+
+     
+     	16, 4
+
+      	<page 315>
+
+     
+     	16, 15
+
+      	<page 204>
+
+     
+     	17, 14
+
+      	<page 106>, <page 312>
+
+     
+     	17, 18
+
+      	<page 298>
+
+     
+     	18, 4
+
+      	<page 59>
+
+     
+     	19, 8
+
+      	<page 272>
+
+     
+     	[p. 490]
+
+      	 
+
+     
+     	19, 10
+
+      	<page 69>
+
+     
+     	20, 4
+
+      	<page 329>
+
+     
+     	23, 4
+
+      	<page 105>, <page 394>
+
+     
+     	23, 8
+
+      	<page 65>, <page 77>, <page 171>
+
+     
+     	23, 10
+
+      	<page 322>
+
+     
+     	24, 3
+
+      	<page 84>
+
+     
+     	29, 3
+
+      	<page 116>
+
+     
+     	33, 3
+
+      	<page 19>
+
+     
+     	33, 10
+
+      	<page 204>
+
+     
+     	34, 9
+
+      	<page 86>
+
+     
+     	35, 3
+
+      	<page 191>
+
+     
+     	36, 3
+
+      	<page 151>
+
+     
+     	37, 3
+
+      	<page 134>
+
+     
+     	37, 5
+
+      	<page 411>
+
+     
+     	37, 7
+
+      	<page 390>
+
+     
+     	40, 2
+
+      	<page 357>
+
+     
+     	42, 1
+
+      	<page 65>
+
+     
+     	44, 2
+
+      	<page 79>
+
+     
+     	50, 4
+
+      	<page 243>
+
+     
+     	50, 11
+
+      	<page 71>
+
+     
+     	51, 4
+
+      	<page 243>
+
+     
+     	52, 2; 3
+
+      	<page 314>
+
+     
+     	54, 3
+
+      	<page 355>
+
+     
+     	55, 5
+
+      	<page 210>
+
+     
+    
+
+         	V, 1, 4
+
+      	<page 59>
+
+     
+     	1, 10
+
+      	<page 73>
+
+     
+     	3, 4
+
+      	<page 342>
+
+     
+     	3, 6
+
+      	<page 27>
+
+     
+     	4, 4
+
+      	<page 127>
+
+     
+     	6, 9
+
+      	<page 226>
+
+     
+     	7, 2
+
+      	<page 232>
+
+     
+     	7, 6
+
+      	<page 68>
+
+     
+     	11, 4
+
+      	<page 73>, <page 78>
+
+     
+     	12, 2
+
+      	<page 63>
+
+     
+     	12, 3
+
+      	<page 105>
+
+     
+     	14, 3
+
+      	<page 3>
+
+     
+     	21, 4
+
+      	<page 243>, <page 345>
+
+     
+     	25, 1
+
+      	<page 136>
+
+     
+     	28, 1
+
+      	<page 3>, <page 224>
+
+     
+     	29, 15
+
+      	<page 370>
+
+     
+     	30, 10
+
+      	<page 400>
+
+     
+     	30, 14
+
+      	<page 381>
+
+     
+     	31, 1
+
+      	<page 323>
+
+     
+     	31, 11
+
+      	<page 112>
+
+     
+     	34, 6
+
+      	<page 394>
+
+     
+     	42, 13
+
+      	<page 53>
+
+     
+     	42, 17
+
+      	<page 226>
+
+     
+     	43, 7
+
+      	<page 224>
+
+     
+     	44, 1
+
+      	<page 184>
+
+     
+     	45, 2
+
+      	<page 314>
+
+     
+     	47, 5
+
+      	<page 226>
+
+     
+     	48, 4 
+
+      	<page 383>
+
+     
+     	53, 11
+
+      	<page 295>
+
+     
+     	53, 16
+
+      	<page 140>
+
+     
+     	56, 2
+
+      	<page 421>
+
+     
+     	56, 6
+
+      	<page 87>
+
+     
+     	57, 2
+
+      	<page 29>
+
+     
+     	57, 5
+
+      	<page 65>
+
+     
+     	58, 6
+
+      	<page 25>
+
+     
+     	59, 8
+
+      	<page 25>
+
+     
+     	64, 2
+
+      	<page 136>
+
+     
+     	68, 1
+
+      	<page 234> 
+
+     
+     	68, 3
+
+      	<page 216>
+
+     
+     	70, 4
+
+      	<page 330>
+
+     
+     	76, 1
+
+      	<page 255>
+
+     
+     	83, 1
+
+      	<page 105>
+
+     
+    
+
+         	VI, 1, 2
+
+      	<page 400>
+
+     
+     	1, 9
+
+      	<page 26>
+
+     
+     	2, 8
+
+      	<page 381>, <page 388>
+
+     
+     	2, 9
+
+      	<page 388>
+
+     
+     	3, 5
+
+      	<page 139>
+
+     
+     	4, 5
+
+      	<page 158>
+
+     
+     	5, 2
+
+      	<page 262>
+
+     
+     	5, 4
+
+      	<page 214>
+
+     
+     	6, 2
+
+      	<page 214>
+
+     
+     	6, 6
+
+      	<page 178>
+
+     
+     	8, 1
+
+      	<page 27>, <page 149>
+
+     
+     	8, 7
+
+      	<page 259>
+
+     
+     	10, 2
+
+      	<page 383>
+
+     
+     	11, 2
+
+      	<page 98>
+
+     
+     	11, 4
+
+      	<page 328>
+
+     
+     	12, 2
+
+      	<page 328>
+
+     
+     	13, 1
+
+      	<page 270>
+
+     
+     	15, 5
+
+      	<page 305>
+
+     
+     	16, 2
+
+      	<page 25>
+
+     
+     	16, 9
+
+      	<page 98>
+
+     
+     	16, 15
+
+      	<page 35>
+
+     
+     	16, 22
+
+      	<page 267>
+
+     
+     	16, 27
+
+      	<page 71>
+
+     
+     	16, 42
+
+      	<page 90>
+
+     
+     	16, 46
+
+      	<page 327>
+
+     
+     	17, 15
+
+      	<page 210>
+
+     
+     	19, 3
+
+      	<page 123>, <page 323>
+
+     
+     	19, 4
+
+      	<page 400>
+
+     
+     	19, 10
+
+      	<page 216>
+
+     
+     	20, 5
+
+      	<page 93>
+
+     
+     	20, 11
+
+      	<page 36>
+
+     
+     	21, 4
+
+      	<page 97>
+
+     
+     	21, 12
+
+      	<page 272>
+
+     
+     	24, 2
+
+      	<page 190>
+
+     
+     	27, 7
+
+      	<page 361>
+
+     
+     	31, 3
+
+      	<page 69>
+
+     
+     	34, 1
+
+      	<page 270>
+
+     
+     	35, 5
+
+      	<page 184>, <page 185>
+
+     
+     	37, 3
+
+      	<page 46>
+
+     
+     	38, 4
+
+      	<page 72>
+
+     
+     	39, 4
+
+      	<page 272>
+
+     
+     	45, 14
+
+      	<page 111>
+
+     
+     	46, 10
+
+      	<page 274>
+
+     
+     	46, 12
+
+      	<page 400>
+
+     
+     	[p. 491]
+
+      	 
+
+     
+     	47, 16
+
+      	<page 319>
+
+     
+     	48, 4
+
+      	<page 25>
+
+     
+     	48, 5
+
+      	<page 71>, <page 189>
+
+     
+     	48, 21
+
+      	<page 84>
+
+     
+     	51, 2
+
+      	<page 27>, <page 205>, <page 322>
+
+     
+     	51, 8
+
+      	<page 251>
+
+     
+     	59, 8
+
+      	<page 274>
+
+     
+     	59; 9
+
+      	<page 207>, <page 216>
+
+     
+     	61,1
+
+      	<page 84>
+
+     
+     	61, 2
+
+      	<page 203>
+
+     
+     	61, 7
+
+      	<page 192>
+
+     
+     	63, 4
+
+      	<page 341>
+
+     
+     	64, 2
+
+      	<page 359>
+
+     
+     	66, 1
+
+      	<page 329>
+
+     
+     	66, 5
+
+      	<page 112>
+
+     
+     	67, 10
+
+      	<page 134>
+
+     
+     	68, 9
+
+      	<page 95>
+
+     
+     	70, 1
+
+      	<page 127>
+
+     
+     	70, 4
+
+      	<page 3>
+
+     
+     	71, 6
+
+      	<page 190>
+
+     
+    
+
+         	VII, 1, 21
+
+      	<page 272>
+
+     
+     	2, 3
+
+      	<page 218>
+
+     
+     	2, 5
+
+      	<page 239>
+
+     
+     	2, 6
+
+      	<page 200>
+
+     
+     	2, 7
+
+      	<page 11>
+
+     
+     	2, 8-11
+
+      	<page 239>
+
+     
+     	3, 3
+
+      	<page 214>
+
+     
+     	3, 4
+
+      	<page 345>
+
+     
+     	3, 5
+
+      	<page 320>
+
+     
+     	4, 3
+
+      	<page 58>
+
+     
+     	7, 2
+
+      	<page 246>
+
+     
+     	9, 3
+
+      	<page 63>, <page 118>
+
+     
+     	9, 5
+
+      	<page 40>
+
+     
+     	10, 5
+
+      	<page 72>
+
+     
+     	11, 1
+
+      	<page 50>
+
+     
+     	16, 9
+
+      	<page 98>
+
+     
+     	17, 4
+
+      	<page 210>
+
+     
+     	18, 2
+
+      	<page 81>
+
+     
+     	18, 18
+
+      	<page 84>
+
+     
+     	18, 25
+
+      	<page 274>
+
+     
+     	22, 8
+
+      	<page 46>
+
+     
+     	24, 5
+
+      	<page 135>, <page 286>
+
+     
+     	31, 11
+
+      	<page 203>
+
+     
+     	32, 27
+
+      	<page 184>, <page 185>
+
+     
+     	36, 1
+
+      	<page 105>
+
+     
+     	36, 6
+
+      	<page 226>
+
+     
+     	38, 8
+
+      	<page 408>
+
+     
+     	39, 1
+
+      	<page 238>
+
+     
+     	39, 3
+
+      	<page 373>
+
+     
+     	40, 3
+
+      	<page 18>
+
+     
+     	42, 1
+
+      	<page 177>, <page 200>
+
+     
+     	42, 4
+
+      	<page 90>
+
+     
+     	43, 2
+
+      	<page 238>
+
+     
+     	43, 4
+
+      	<page 63> 
+
+     
+     	43, 5
+
+      	<page 411>
+
+     
+     	48, 3
+
+      	<page 71>
+
+     
+     	51, 3
+
+      	<page 200>
+
+     
+     	56, 4
+
+      	<page 116>
+
+     
+     	56, 6
+
+      	<page 294>
+
+     
+     	56, 16
+
+      	<page 320>
+
+     
+     	57, 4
+
+      	<page 355>
+
+     
+     	58, 5
+
+      	<page 112>
+
+     
+     	59, 2
+
+      	<page 97>
+
+     
+     	61, 5
+
+      	<page 116>
+
+     
+     	63, 2
+
+      	<page 286>
+
+     
+     	66, 10
+
+      	<page 205>
+
+     
+     	66, 11
+
+      	<page 27>, <page 208>
+
+     
+     	77, 2
+
+      	<page 314>
+
+     
+     	77, 3
+
+      	<page 59>
+
+     
+     	82, 4
+
+      	<page 216>
+
+     
+     	82, 5
+
+      	<page 159>
+
+     
+     	83, 5
+
+      	<page 216>
+
+     
+     	83, 9
+
+      	<page 203>
+
+     
+     	86, 7
+
+      	<page 312>
+
+     
+     	87, 3
+
+      	<page 101>
+
+     
+     	87, 4
+
+      	<page 314>
+
+     
+     	90, 5
+
+      	<page 79>
+
+     
+     	91, 2
+
+      	<page 4>
+
+     
+     	91, 3
+
+      	<page 86>
+
+     
+     	95, 4
+
+      	<page 411>
+
+     
+     	96, 1
+
+      	<page 203>
+
+     
+     	97, 4
+
+      	<page 257>
+
+     
+     	97, 9
+
+      	<page 71>, <page 203>
+
+     
+     	97, 10
+
+      	<page 216>
+
+     
+     	98, 2
+
+      	<page 222>
+
+     
+     	101, 1
+
+      	<page 105>, <page 260>
+
+     
+     	104, 21
+
+      	<page 132>
+
+     
+    
+
+         	VIII, 1, 29
+
+      	<page 258>
+
+     
+     	5, 26
+
+      	<page 35>
+
+     
+     	5, 21
+
+      	<page 296>
+
+     
+     	5, 25
+
+      	<page 35>
+
+     
+     	5, 33
+
+      	<page 43>
+
+     
+     	6, 24
+
+      	<page 381>
+
+     
+     	7, 30
+
+      	<page 107>
+
+     
+     	8, 22
+
+      	<page 203>
+
+     
+     	12, 11
+
+      	<page 225>
+
+     
+     	12, 32
+
+      	<page 261>
+
+     
+     	13, 1
+
+      	<page 225>
+
+     
+     	23, 6
+
+      	<page 207>
+
+     
+     	13, 14
+
+      	<page 154>
+
+     
+     	15, 10
+
+      	<page 86>
+
+     
+     	17, 15
+
+      	<page 404>
+
+     
+     	19, 1
+
+      	<page 140>
+
+     
+     	29, 2
+
+      	<page 299>
+
+     
+     	19, 4
+
+      	<page 257>
+
+     
+     	19, 22
+
+      	<page 212>
+
+     
+     	19, 31
+
+      	<page 41>, <page 106>
+
+     
+     	21, 2; 9
+
+      	<page 257>
+
+     
+     	22, 12
+
+      	<page 174>
+
+     
+     	23, 23
+
+      	<page 171>
+
+     
+     	[p. 492]
+
+      	 
+
+     
+     	23, 28
+
+      	<page 84>
+
+     
+     	24, 1
+
+      	<page 320>
+
+     
+     	24, 14
+
+      	<page 152>
+
+     
+     	25, 5
+
+      	<page 123>
+
+     
+     	26, 13
+
+      	<page 272>
+
+     
+     	27, 10
+
+      	<page 190>
+
+     
+     	31, 9
+
+      	<page 274>
+
+     
+     	31, 14
+
+      	<page 204>
+
+     
+     	32, 10
+
+      	<page 123>, <page 278>
+
+     
+     	35, 19
+
+      	<page 44>
+
+     
+     	38, 2
+
+      	<page 265>
+
+     
+     	39, 1
+
+      	<page 201>
+
+     
+     	39, 2
+
+      	<page 71>
+
+     
+     	39, 9
+
+      	<page 210>
+
+     
+     	40, 1
+
+      	<page 133>
+
+     
+     	41, 3
+
+      	<page 208>
+
+     
+     	41, 10
+
+      	<page 62>
+
+     
+     	43, 2
+
+      	<page 53>
+
+     
+     	43, 31
+
+      	<page 258>
+
+     
+     	44, 19
+
+      	<page 260>
+
+     
+     	47, 16
+
+      	<page 406>
+
+     
+     	49, 2
+
+      	<page 56>
+
+     
+     	50, 2
+
+      	<page 56>
+
+     
+     	50, 8
+
+      	<page 183>
+
+     
+     	51, 4
+
+      	<page 242>, <page 295>
+
+     
+     	52, 8
+
+      	<page 280>
+
+     
+     	53, 6
+
+      	<page 225>
+
+     
+     	59, 6
+
+      	<page 158>
+
+     
+     	60, 3
+
+      	<page 132>
+
+     
+     	61, 7
+
+      	<page 210>
+
+     
+     	67, 3
+
+      	<page 191>
+
+     
+     	71, 12
+
+      	<page 255>
+
+     
+     	71, 15
+
+      	<page 136>
+
+     
+     	72, 3
+
+      	<page 243>, <page 327>, <page 404>
+
+     
+     	73, 12
+
+      	<page 190>
+
+     
+     	74, 6
+
+      	<page 3>
+
+     
+     	76, 9
+
+      	<page 44>
+
+     
+     	76, 12
+
+      	<page 212>
+
+     
+     	82, 3
+
+      	<page 97>
+
+     
+     	84, 1
+
+      	<page 195>
+
+     
+     	84, 4
+
+      	<page 97>
+
+     
+     	87, 4
+
+      	<page 156>
+
+     
+     	88, 1
+
+      	<page 195>
+
+     
+     	96, 10
+
+      	<page 203>
+
+     
+     	96, 13
+
+      	<page 93>
+
+     
+     	98, 6
+
+      	<page 183>
+
+     
+     	101, 16
+
+      	<page 19>
+
+     
+     	102, 11
+
+      	<page 258>
+
+     
+     	102, 12
+
+      	<page 361>
+
+     
+     	102, 22
+
+      	<page 40>
+
+     
+     	103, 7
+
+      	<page 118>, <page 171>
+
+     
+     	103, 8
+
+      	<page 35>
+
+     
+     	103, 13
+
+      	<page 29>
+
+     
+    
+
+         	IX, 5, 3
+
+      	<page 3>
+
+     
+     	5, 10
+
+      	<page 12>
+
+     
+     	8, 4
+
+      	<page 162>
+
+     
+     	11, 5
+
+      	<page 150>
+
+     
+     	12, 9
+
+      	<page 380>
+
+     
+     	15, 8
+
+      	<page 162>
+
+     
+     	16, 6
+
+      	<page 353>
+
+     
+     	18, 4
+
+      	<page 140>
+
+     
+     	19, 1
+
+      	<page 216>
+
+     
+     	22, 3
+
+      	<page 234>
+
+     
+     	33, 5
+
+      	<page 362>
+
+     
+     	38, 5
+
+      	<page 362>
+
+     
+     	39, 2
+
+      	<page 146>
+
+     
+     	40, 2
+
+      	<page 246>
+
+     
+     	43, 5
+
+      	<page 286>
+
+     
+     	47, 4
+
+      	<page 118>
+
+     
+     	50, 1
+
+      	<page 41>
+
+     
+     	53, 2
+
+      	<page 210>
+
+     
+     	59, 2
+
+      	<page 122>
+
+     
+     	62, 17
+
+      	<page 225>
+
+     
+     	63, 11
+
+      	<page 106>
+
+     
+     	64, 10
+
+      	<page 207>
+
+     
+     	65, 12
+
+      	<page 234>
+
+     
+     	66, 1
+
+      	<page 3>
+
+     
+     	67, 12
+
+      	<page 383>
+
+     
+     	68, 3
+
+      	<page 312>
+
+     
+     	68, 8
+
+      	<page 200>
+
+     
+     	69, 5
+
+      	<page 264>
+
+     
+     	70, 3
+
+      	<page 245>
+
+     
+     	71, 1; 3
+
+      	<page 264>
+
+     
+     	71, 3
+
+      	<page 234>
+
+     
+     	71, 5
+
+      	<page 111>
+
+     
+     	71, 7
+
+      	<page 272>
+
+     
+     	73, 6
+
+      	<page 313>
+
+     
+     	74, 1
+
+      	<page 404>
+
+     
+     	74, 4
+
+      	<page 264>
+
+     
+     	75, 3
+
+      	<page 161>, <page 180>
+
+     
+     	76, 4
+
+      	<page 65>, <page 77>
+
+     
+     	81, 1
+
+      	<page 314>
+
+     
+     	82, 2
+
+      	<page 286>
+
+     
+     	83, 5
+
+      	<page 264>
+
+     
+     	85, 5
+
+      	<page 286>
+
+     
+     	85, 11
+
+      	<page 324>
+
+     
+     	86, 3
+
+      	<page 286>
+
+     
+     	86, 4
+
+      	<page 139>
+
+     
+     	86, 14
+
+      	<page 264>
+
+     
+     	87, 1
+
+      	<page 312>, <page 365>
+
+     
+     	87, 2
+
+      	<page 90>
+
+     
+     	92, 5
+
+      	<page 183>
+
+     
+     	93, 1
+
+      	<page 162>
+
+     
+     	96, 10
+
+      	<page 93>
+
+     
+     	96, 20
+
+      	<page 286>
+
+     
+     	97, 21
+
+      	<page 264>
+
+     
+     	97, 34
+
+      	<page 65>, <page 77>
+
+     
+     	97, 48
+
+      	<page 90>
+
+     
+     	97, 57
+
+      	<page 162>
+
+     
+     	98, 1
+
+      	<page 410>
+
+     
+     	[p. 493]
+
+      	 
+
+     
+     	100, 3
+
+      	<page 216>
+
+     
+     	102, 1; 8
+
+      	<page 323>
+
+     
+     	103, 3
+
+      	<page 225>
+
+     
+     	106, 14
+
+      	<page 210>
+
+     
+     	107, 18
+
+      	<page 344>
+
+     
+     	111, 2
+
+      	<page 65>, <page 77>
+
+     
+     	111, 3
+
+      	<page 116>, <page 127>
+
+     
+    
+
+         	X, 1, 2
+
+      	<page 78>
+
+     
+     	2, 6
+
+      	<page 136>
+
+     
+     	3, 2
+
+      	<page 225> seq.
+
+     
+     	3, 3
+
+      	<page 98>
+
+     
+     	4, 3
+
+      	<page 162>
+
+     
+     	4, 7
+
+      	<page 134>
+
+     
+     	5, 1
+
+      	<page 408>
+
+     
+     	6, 1
+
+      	<page 136>
+
+     
+     	7, 5
+
+      	<page 171>
+
+     
+     	8, 1
+
+      	<page 150>
+
+     
+     	8, 2
+
+      	<page 306>
+
+     
+     	9, 1
+
+      	<page 224>
+
+     
+     	11, 5
+
+      	<page 196>, <page 204>
+
+     
+     	11, 6
+
+      	<page 234>
+
+     
+     	12, 3
+
+      	<page 338>
+
+     
+     	13, 3
+
+      	<page 242>
+
+     
+     	14, 10; 11
+
+      	<page 29>
+
+     
+     	15, 6
+
+      	<page 355>
+
+     
+     	16, 5
+
+      	<page 225>
+
+     
+     	17, 2
+
+      	<page 122>
+
+     
+     	21, 1
+
+      	<page 258>
+
+     
+     	21, 2
+
+      	<page 390>
+
+     
+     	23, 7
+
+      	<page 80>
+
+     
+     	26, 4
+
+      	<page 149>
+
+     
+     	27, 4
+
+      	<page 184>, <page 185>
+
+     
+     	27, 7
+
+      	<page 402>
+
+     
+     	27, 13
+
+      	<page 224>
+
+     
+     	30, 6
+
+      	<page 122>
+
+     
+     	31, 5
+
+      	<page 124>
+
+     
+     	31, 7
+
+      	<page 272>
+
+     
+     	32, 6
+
+      	<page 370>
+
+     
+     	33, 2
+
+      	<page 254>
+
+     
+     	33, 7
+
+      	<page 36>
+
+     
+     	39, 4
+
+      	<page 19>
+
+     
+     	39, 10
+
+      	<page 59>
+
+     
+     	39, 14
+
+      	<page 58>, <page 272>
+
+     
+     	40, 2
+
+      	<page 100>
+
+     
+     	41, 1
+
+      	<page 203>
+
+     
+     	44, 1
+
+      	<page 86>
+
+     
+     	44, 4
+
+      	<page 48>
+
+     
+     	45, 1
+
+      	<page 189>
+
+     
+     	45, 2
+
+      	<page 78>
+
+     
+     	45, 10
+
+      	<page 59>
+
+     
+     	46, 2
+
+      	<page 204>
+
+     
+     	46, 8
+
+      	<page 171>
+
+     
+     	46, 410
+
+      	<page 226>
+
+     
+     	47, 6
+
+      	<page 243>
+
+     
+     	47, 7
+
+      	<page 155>, <page 245>
+
+     
+     	48, 2
+
+      	<page 384>
+
+     
+     	49, 6
+
+      	<page 36>
+
+     
+     	50, 1
+
+      	<page 267>
+
+     
+     	52, 6
+
+      	<page 258>
+
+     
+     	53, 1
+
+      	<page 200>
+
+     
+     	53, 2
+
+      	<page 3>, <page 73>
+
+     
+     	53, 3
+
+      	<page 225>
+
+     
+     	53, 6
+
+      	<page 43>
+
+     
+     	61, 4
+
+      	<page 398>
+
+     
+     	61, 7
+
+      	<page 80>
+
+     
+     	61, 8
+
+      	<page 79>
+
+     
+     	61, 13
+
+      	<page 323>
+
+     
+     	61, 14
+
+      	<page 73>
+
+     
+     	61, 21
+
+      	<page 165>
+
+     
+     	63, 5
+
+      	<page 231>
+
+     
+     	63, 8
+
+      	<page 251>
+
+     
+     	64, 4
+
+      	<page 203>
+
+     
+     	64, 11
+
+      	<page 163>
+
+     
+     	64, 15
+
+      	<page 417>
+
+     
+     	65
+
+      	<page 250>
+
+     
+     	65, 6
+
+      	<page 250>
+
+     
+     	65, 8
+
+      	<page 250>
+
+     
+     	65, 10
+
+      	<page 11>, <page 218>
+
+     
+     	66, 12
+
+      	<page 224>
+
+     
+     	66, 13
+
+      	<page 11>
+
+     
+     	67, 1
+
+      	<page 242>
+
+     
+     	70, 7
+
+      	<page 11>
+
+     
+     	70, 10
+
+      	<page 12>
+
+     
+     	73, 5
+
+      	<page 35>
+
+     
+     	74, 3
+
+      	<page 324>
+
+     
+     	76, 3
+
+      	<page 69>
+
+     
+     	79, 2
+
+      	<page 270>
+
+     
+     	79, 3
+
+      	<page 242>, <page 243>
+
+     
+     	79, 5
+
+      	<page 345>
+
+     
+     	80, 4
+
+      	<page 78>
+
+     
+     	80, 7
+
+      	<page 203>
+
+     
+     	81, 1
+
+      	<page 264>
+
+     
+     	82, 6
+
+      	<page 62>
+
+     
+     	83, 4
+
+      	<page 414>
+
+     
+     	84, 7
+
+      	<page 216>
+
+     
+     	85, 18
+
+      	<page 116>
+
+     
+     	85, 19
+
+      	<page 27>
+
+     
+     	85, 23
+
+      	<page 424>
+
+     
+     	87, 9
+
+      	<page 224>
+
+     
+     	87, 18
+
+      	<page 20>
+
+     
+     	87, 20
+
+      	<page 214>
+
+     
+     	89, 7
+
+      	<page 132>
+
+     
+     	89, 10
+
+      	<page 274>
+
+     
+     	89, 11
+
+      	<page 267>
+
+     
+     	90, 15
+
+      	<page 85>
+
+     
+     	91, 1
+
+      	<page 191>
+
+     
+     	91, 7
+
+      	<page 345>
+
+     
+     	91, 10
+
+      	<page 189>
+
+     
+     	92, 1
+
+      	<page 196>
+
+     
+     	93, 4
+
+      	<page 106>
+
+     
+     	[p. 494]
+
+      	 
+
+     
+     	93, 6
+
+      	<page 177>
+
+     
+     	93, 10
+
+      	<page 19>
+
+     
+     	94, 7; 8
+
+      	<page 314>
+
+     
+     	94, 11
+
+      	<page 77>
+
+     
+     	96, 10
+
+      	<page 286>
+
+     
+     	97, 1
+
+      	<page 144>
+
+     
+     	99, 6
+
+      	<page 234>
+
+     
+     	100, 8
+
+      	<page 427>
+
+     
+     	101, 7
+
+      	<page 58>, <page 38>
+
+     
+     	103, 3
+
+      	<page 29>
+
+     
+     	104, 8
+
+      	<page 330>
+
+     
+     	106, 5
+
+      	<page 320>
+
+     
+     	108, 3
+
+      	<page 90>
+
+     
+     	108, 7
+
+      	<page 339>
+
+     
+     	190
+
+      	<page 180>
+
+     
+     	110, 3
+
+      	<page 238>
+
+     
+     	110, 4
+
+      	<page 224>
+
+     
+     	110, 9
+
+      	<page 238>
+
+     
+     	110, 10
+
+      	<page 180>
+
+     
+     	113, 8
+
+      	<page 345>
+
+     
+     	114, 9
+
+      	<page 207>
+
+     
+     	115, 3
+
+      	<page 98>
+
+     
+     	115, 8; 9
+
+      	<page 35>
+
+     
+     	118, 3
+
+      	<page 3>
+
+     
+     	118, 5
+
+      	<page 257>
+
+     
+     	119, 13
+
+      	<page 257>
+
+     
+     	121, 2
+
+      	<page 151>
+
+     
+     	122, 3
+
+      	<page 380>
+
+     
+     	122, 4
+
+      	<page 392>
+
+     
+     	123, 4
+
+      	<page 65>
+
+     
+     	125, 1
+
+      	<page 200>
+
+     
+     	126, 8
+
+      	<page 355>
+
+     
+     	132, 5
+
+      	<page 90>
+
+     
+     	133, 3
+
+      	<page 71>
+
+     
+     	138, 6
+
+      	<page 27>
+
+     
+     	139, 2
+
+      	<page 90>
+
+     
+     	139, 3
+
+      	<page 124>
+
+     
+     	147, 1
+
+      	<page 69>
+
+     
+     	148, 3
+
+      	<page 71>, <page 422>
+
+     
+     	150, 1
+
+      	<page 257>
+
+     
+     	159, 5
+
+      	<page 29> seq.
+
+     
+     	164, 3
+
+      	<page 93>
+
+     
+     	168, 3
+
+      	<page 306>
+
+     
+     	172, 1
+
+      	<page 145>
+
+     
+     	172, 1; 4
+
+      	<page 250>
+
+     
+     	172, 2
+
+      	<page 267>
+
+     
+     	176, 3
+
+      	<page 94>
+
+     
+     	190, 2
+
+      	<page 27>
+
+     
+     
+
+ATHARVA-VEDA.
+
+         	IV, 1, 2
+
+      	<page 195>
+
+     
+     	V, 4, 3
+
+      	<page 11>
+
+     
+     	28, 7
+
+      	<page 11>
+
+     
+     	VI, 43, 3
+
+      	<page 30>
+
+     
+     	VII, 90, 3
+
+      	<page 408>
+
+     
+     	VIII, 2, 7
+
+      	<page 353>
+
+     
+     	XI, 2, 13
+
+      	<page 168>
+
+     
+     	7, 5
+
+      	<page 295>
+
+     
+     	XII, 2, 45
+
+      	<page 376>
+
+     
+     	4, 6; 12; 26
+
+      	<page 20>
+
+     
+     	XV, 12, 6; 10
+
+      	<page 20>
+
+     
+     	XIX, 39, 6-8
+
+      	<page 11>
+
+     
+     
+
+VAGASANEYI-SAMHITA.
+
+         	V, 17
+
+      	<page 224>
+
+     
+     	VI, 26
+
+      	<page 121>
+
+     
+     	35
+
+      	<page 121>
+
+     
+     	IX, 4
+
+      	<page 369>
+
+     
+     	XVII, 54
+
+      	<page 254>
+
+     
+     	XX, 44
+
+      	<page 328>
+
+     
+     	XXII, 2
+
+      	<page 171>
+
+     
+     	XXIII, 57
+
+      	<page 27>
+
+     
+     	XXVIII, 7
+
+      	<page 11>
+
+     
+     	XXXVIII, 20
+
+      	<page 411>
+
+     
+     
+
+MAITRAYANIYA-SAMHITA.
+
+         	II, 4, 2
+
+      	<page 333>
+
+     
+     
+
+TAITTIRIYA-SAMHITA.
+
+         	I, 3, 6, 1
+
+      	<page 12>, <page 254>
+
+     
+     	5, 3, 2
+
+      	<page 168>
+
+     
+     	6, 6, 1
+
+      	<page 20>
+
+     
+     	7, 8, 2
+
+      	<page 408>
+
+     
+     	II, 4, 11, 4
+
+      	<page 20>
+
+     
+     	III, 1, 6, 2
+
+      	<page 369>
+
+     
+     	IV, 1, 8, 3
+
+      	<page 156>
+
+     
+     	2, 4, 2
+
+      	<page 286>
+
+     
+     	V, 7, 8, 1
+
+      	<page 295>
+
+     
+   [p. 495]
+
+  
+
+AITAREYA-BRAHMANA.
+
+         	II, 2
+
+      	<page 253>
+
+     
+     	40
+
+      	<page 267>
+
+     
+     	III, 34
+
+      	<page 80>
+
+     
+     	VII, 34
+
+      	<page 361>
+
+     
+     
+
+SATAPATHA-BRAHMANA.
+
+         	I, 6, 3, 38
+
+      	<page 86>
+
+     
+     	7, 4, 4
+
+      	<page 80>
+
+     
+     	II, 1, 1, 8
+
+      	<page 306>
+
+     
+     	4, 4, 4
+
+      	<page 361>
+
+     
+     	III, 4, 1, 20
+
+      	<page 304> seq.
+
+     
+     	4, 1, 21
+
+      	<page 306>
+
+     
+     	9, 4, 18
+
+      	<page 121>
+
+     
+     	IV, 6, 6, 5
+
+      	<page 289>
+
+     
+     	VII, 1, 1, 22 seq.
+
+      	<page 285>
+
+     
+     	XII, 4, 4, 2
+
+      	<page 386>
+
+     
+     	5, 2, 15
+
+      	<page 244>
+
+     
+     	XIV, 3, 1, 9
+
+      	<page 411>
+
+     
+     	9, 4, 3
+
+      	<page 19>
+
+     
+     
+
+TAITTIRIYA-BRAHMANA.
+
+         	I, 2, 1, 13
+
+      	<page 305>
+
+     
+     	2, 1, 20
+
+      	<page 376>
+
+     
+     	III, 7, 3, 5
+
+      	<page 386>
+
+     
+     
+
+PANKAVIMSA-BRAHMANA.
+
+         	XIII, 3, 12
+
+      	<page 358>
+
+     
+     	XXV, 7, 4
+
+      	<page 180>
+
+     
+     
+
+TAITTIRIYA-ARANYAKA.
+
+         	IV, 11, 4
+
+      	<page 411>
+
+     
+     	23
+
+      	<page 93>
+
+     
+     	V, 9, 7
+
+      	<page 411>
+
+     
+     
+
+ASVALAYANA-SRAUTASUTRA.
+
+         	III 1, 8 seq.
+
+      	<page 253>
+
+     
+     	4, 1
+
+      	<page 284>
+
+     
+     	12, 4
+
+      	<page 5>
+
+     
+     	IV, 8, 20
+
+      	<page 286>
+
+     
+     	V, 7, 3
+
+      	<page 197>
+
+     
+     	XII, 11, 1
+
+      	<page 102>
+
+     
+     
+
+SANKHAYANA-SRAUTASUTRA.
+
+         	V, 15, 2 seq.
+
+      	<page 253>
+
+     
+     	VIII, 6
+
+      	<page 267>
+
+     
+     	VIII, 21
+
+      	<page 20>
+
+     
+     
+
+KATYAYANA-SRAUTASUTRA.
+
+         	IV, 8, 16
+
+      	<page 306>
+
+     
+     	VI, 3, 17
+
+      	<page 255>
+
+     
+     	IX, 8, 8 seq.
+
+      	<page 189>
+
+     
+     	IX, 8, 11
+
+      	<page 189>
+
+     
+     	XII, 6, 10
+
+      	<page 44>
+
+     
+     	XXIV, 3, 42
+
+      	<page 44>
+
+     
+     
+
+SANKHAYANA-GRIHYASUTRA.
+
+         	II, 2,
+
+      	<page 200>
+
+     
+     	V, 5, 4
+
+      	<page 5>
+
+     
+     
+
+MANU.
+
+         	VIII, 44
+
+      	<page 168>
+
+     
+     
+
+MAHABHARATA.
+
+         	XIV, 280
+
+      	<page 224>
+
+     
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    

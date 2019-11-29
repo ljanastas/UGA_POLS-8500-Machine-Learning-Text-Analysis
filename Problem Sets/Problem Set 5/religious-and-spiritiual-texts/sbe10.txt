@@ -1,0 +1,7527 @@
+
+    
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+ 
+
+THE DHAMMAPADA
+
+ 
+
+A COLLECTION OF VERSES
+
+ 
+
+BEING ONE OF THE CANONICAL BOOKS OF THE
+ BUDDHISTS
+
+ 
+
+ 
+
+TRANSLATED FROM PALI
+
+ 
+
+BY
+
+ 
+
+F. MAX MULLER
+
+ 
+
+Oxford, the Clarendon Press
+
+ 
+
+[1881]
+
+ 
+
+{partially scanned, (re)proofread, and formatted by Christopher M. Weimer, March 2002}
+
+ 
+
+Vol. X Part I of The Sacred Books of the East
+
+ 
+
+translated by various Oriental scholars and edited by F. Max Muller
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+ 
+
+CONTENTS.
+
+ 
+
+  PAGE 
+  INTRODUCTION TO THE DHAMMAPADA  ix-lv 
+     
+   DHAMMAPADA. 
+  CHAPTER  1.  The Twin Verses  3 
+  "  2.  On Earnestness  9 
+  "  3.  Thought  12 
+  "  4.  Flowers  16 
+  "  5.  The Fool  20 
+  "  6.  The Wise Man (Pandita)  23 
+  "  7.  The Venerable (Arhat)  27 
+  "  8.  The Thousands  31 
+  "  9.  Evil  34 
+  "  10.  Punishment  36 
+  "  11.  Old Age  41 
+  "  12.  Self  45 
+  "  13.  The World  47 
+  "  14.  The Buddha (the Awakened)  49 
+  "  15.  Happiness  53 
+  "  16.  Pleasure  56 
+  "  17.  Anger  58 
+  "  18.  Impurity  60 
+  "  19.  The Just  64 
+  "  20.  The Way  67 
+  "  21.  Miscellaneous  70 
+  "  22.  The Downward Course  74 
+  "  23.  The Elephant  77 
+  "  24.  Thirst  80 
+  "  25.  The Bhikshu (Mendicant)  85 
+  "  26.  The Brahmana (Arhat)  89 
+  Index        97 
+  
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. ix 
+
+ 
+
+INTRODUCTION
+
+TO
+
+ 
+
+THE DHAMMAPADA.
+
+THE DHAMMAPADA, A CANONICAL BOOK.
+
+   THE Dhammapada forms part of the Pali Buddhist canon, though its exact place varies according to different authorities, and we have not as yet a sufficient number of complete MSS. of the Tipitaka to help us to decide the question[1].
+
+   Those who divide that canon into three Pitakas or baskets, the Vinaya-pitaka, Sutta-pitaka, and Abhidhamma-pitaka, assign the Dhammapada to the Sutta-pitaka. That Pitaka consists of five Nikayas: the Digha-nikaya, the Magghima-nikaya, the Samyutta-nikaya, the Anguttara-nikaya, and the Khuddaka-nikaya. The fifth, or Khuddaka-nikaya, comprehends the following works: 1. Khuddaka-patha; 2. DHAMMAPADA; 3. Udana; 4. Itivuttaka; 5. Sutta-nipata; 6. Vimanavatthu; 7. Petavatthu; 8. Theragatha; 9. Therigatha; 10. Gataka; 11. Niddesa; 12. Patisambhida; 13. Apadana; 14. Buddhavamsa; 15. Kariya-pitaka.
+
+   According to another division[2], however, the whole Buddhist canon consists of five Nikayas: the Digha-nikaya, the Magghima-nikaya, the Samyutta-nikaya, the Anguttara-nikaya, and the fifth, the Khuddaka-nikaya, which Khuddaka-nikaya is then made to comprehend the whole of the Vinaya (discipline) and Abhidhamma (metaphysics), together with the fifteen books beginning with the Khuddaka-patha.
+
+   The order of these fifteen books varies, and even, as it would seem, their number. The Dighabhanaka school
+
+[1. see Feer, Journal Asiatique, 1871, p. 263. There is now at least one complete MS. of the Tipitaka, the Phayre MS., at the India Office, and Professor Forchhammer has just published a most useful List of Pali MSS. collected in Burma, the largest collection hitherto known.
+
+2. See Childers, s. v. Nikaya, and extracts from Buddhaghosa's commentary on the Brahmagala-sutta.]
+
+p. x admits twelve books only, and assigns them all to the Abhidhamma, while the Magghimabhanakas admit fifteen books, and assign them to the Sutta-pitaka. The order of the fifteen books is: 1. Gataka [10]; 2. Mahaniddesa [11]; 3. Kullaniddesa [11]; 4. Patisambhidamagga [12]; 5. Sutta-nipata [5]; 6. DHAMMAPADA [2]; 7. Udana [3]; 8. Itivuttaka [4]; 9. Vimanavatthu [6]; 10. Petavatthu [7]; 11. Theragatha [8]; 12. Therigatha [9]; 13. Kariya-pitaka [15]; 14. Apadana [13]; 15. Buddhavamsa [14][1].
+
+   The Khuddaka-patha is left out in the second list, and the number is brought to fifteen by dividing Niddesa into Maha-niddesa and Kulla-niddesa.
+
+   There is a commentary on the Dhammapada in Pali, and supposed to be written by Buddhaghosa[2], in the first half of the fifth century A.D. In explaining the verses of the Dhammapada, the commentator gives for every or nearly every verse a parable to illustrate its meaning, which is likewise believed to have been uttered by Buddha in his intercourse with his disciples, or in preaching to the multitudes that came to hear him.
+
+ 
+
+DATE OF THE DHAMMAPADA.
+
+   The only means of fixing the date of the Dhammapada is trying to ascertain the date of the Buddhist canon of which it forms a part, or the date of Buddhaghosa, who wrote a commentary on it. This, however, is by no means easy, and the evidence on which we have to rely is such that we must not be surprised if those who are accustomed to test historical and chronological evidence
+
+[1. The figures within brackets refer to the other list of books in the Khuddaka-nikiya. See also <page xxviii>.
+
+2. M. Leon Feer in the Journal Asiatique, 1871, p. 266, mentions another commentary of a more philosophical character, equally ascribed to Buddhaghosa. and having the title Vivara Bra Dhammapada, i.e. L'auguste Dhammapada devoile. Professor Forchhammer in his 'List of Manuscripts,' 1879-80, mentions the following works in connection with the Dhammapada: Dhammapada-Nissayo; Dh. P. Atthakatha by Buddhaghosa; Dh. P. Atthakatha Nissayo. 3 vols., containing a complete translation of the commentary; Dh. P. Vatthu. Of printed books he quotes: Kayanupassanakyam, a work based on the Garavaggo, Mandalay, 1876 (390 pages), and Dhammapada-desanakyam, printed in 'British Burma News.']
+
+p. xi in Greece and Rome, decline to be convinced by it. As a general rule, I quite agree that we cannot be too sceptical in assigning a date to ancient books, particularly if we intend to use them as documents for tracing the history of human thought. To the initiated, I mean to those who have themselves worked in the mines of ancient Oriental literature, such extreme scepticism may often seem unscientific and uncalled for. They are more or less aware of hundreds of arguments, each by itself, it may be, of small weight, but all combined proving irresistible. They are conscious, too, of having been constantly on the look out for danger, and, as all has gone on smoothly, they feel sure that, in the main, they are on the right road. Still it is always useful to be as incredulous as possible, particularly against oneself, and to have before our eyes critics who will not yield one inch beyond what they are forced to yield by the strongest pressure of facts.
+
+   The age of our MSS. of the canonical books, either in Pali or Sanskrit, is of no help to us. All Indian MSS. are comparatively modern, and one who has probably handled more Indian MSS. than anybody else, Mr. A. Burnell, has lately expressed his conviction that 'no MS. written one thousand years ago is now existent in India, and that it is almost impossible to find one written five hundred years ago, for most MSS. which claim to be of that date are merely copies of old MSS. the dates of which are repeated by the copyists[1].'
+
+   Nor is the language, whether Sanskrit or Pali, a safe guide for fixing dates. Both languages continue to be written to our own time, and though there are some characteristic marks to distinguish more modern from more ancient Buddhist Sanskrit and Pali, this branch of critical scholarship requires to be cultivated far more extensively and accurately before true scholars would venture to fix the date of a Sanskrit or Pali text on the strength of linguistic evidence alone[2].
+
+[1. Indian Antiquary, 1880, p. 233.
+
+2. See some important remarks on this subject in Fausboll's Introduction to Sutta-nipita, <page xi>.]
+
+p. xii 
+
+   The Buddhists themselves have no difficulty in assigning a date to their sacred canon. They are told in that canon itself that it was settled at the First Council, or immediately after the death of Buddha, and they believe that it was afterwards handed down by means of oral tradition, or actually written down in books by order of Kasyapa, the president of the First Council[1]. Buddhaghosa, a learned and in some respects a critical scholar, living in the beginning of the fifth century A.D., asserts that the canon which he had before him, was the same as that fixed by the First Council[2].
+
+   Several European students have adopted the same opinion, and, so far as I know, no argument has yet been advanced showing the impossibility of the native view, that some collection of Buddha's doctrines was made immediately after his death at Ragagaha, and that it was finally settled at what is called the Second Council, or the Council of Vesali. But what is not impossible is not therefore true, nor can anything be gained by appealing to later witnesses, such as, for instance, Hiouen Thsang, who travelled through India in the seventh century, and wrote down anything that he could learn, little concerned whether one statement tallied with the other or not[3]. He says that the Tipitaka was written down on palm leaves by Kasyapa at the end of the First Council. But what can be the weight of such a witness, living more than a thousand years after the event, compared with that, for instance, of the Mahavamsa, which dates from the fifth century of our era, and
+
+[1. Bigandet, Life of Gaudama (Rangoon, 1866), p. 350; but also p. 120 note.
+
+2. See Childers, s.v. Tipitaka. There is a curious passage in Buddhaghosa's account of the First Council. 'Now one may ask,' he says, 'Is there or is there not in this first Paragika anything to be taken away or added?' I reply, There is nothing in the words of the Blessed Buddha that can be taken away, for the Buddhas speak not even a single syllable in vain, yet in the words of disciples and devatas there are things which may be omitted, and these the elders who made the recension, did omit. On the other hand, additions are everywhere necessary, and accordingly, whenever it was necessary to add anything, they added it. If it be asked, What are the additions referred to? I reply, Only sentences necessary to connect the text, as 'at that time,' 'again at that time,' 'and so forth.'
+
+3. Pelerins Bouddhistes, vol. i. p. 158.]
+
+p. xiii tells us in the account of Mahinda's missionary journey to Ceylon (241/318), that the son of Asoka had to spend three years in learning the Tipitaka by heart from the mouth of a teacher[1]? No mention is then made of any books or MSS., when it would have been most natural to do so[2]. At a later time, during the reign of King Vattagamani[3] (88-76 B.C.), the same chronicle, the Mahavamsa, tells us that 'the profoundly wise priests had theretofore orally (mukhapathena) perpetuated the Pali of the Pitakattaya and its Atthakatha (commentary), but that at this period the priests, foreseeing the perdition of the people assembled, and in order that the religion might endure for ages, recorded the same in books (potthakesu likhapayum)[4].'
+
+   No one has yet questioned the dates of the Dipavamsa, about 400 A.D., or of the first part of the Mahavamsa, between 459-477 A.D., and though no doubt there is an interval of nearly 600 years between the composition of the Mahavamsa and the recorded writing down of the Buddhist canon under Vattagamani, yet we must remember that the Ceylonese chronicles were confessedly founded on an older Atthakatha preserved in the monasteries of the island, and representing an unbroken line of local tradition.
+
+   My own argument therefore, so long as the question was only whether we could assign a pre-Christian date to the Pali Buddhist canon, has always been this. We have the commentaries on the Pali canon translated from Sinhalese into Pali, or actually composed, it may be, by Buddhaghosa. Buddhaghosa confessedly consulted various
+
+[1. Mahavamsa, p. 37; Dipavamsa VII, 28-31; Buddhaghosha's Parables, p. xviii.
+
+2. Bigandet, Life of Gaudama, p. 351.
+
+3. Dr. E. Muller (Indian Antiquary, Nov. 1880, p. 270) has discovered inscriptions in Ceylon, belonging to Devanapiya Maharaga Gamini Tissa, whom he identifes with Vattagamani.
+
+4. The same account is given in the Dipavamsa XX, 20, and in the Sarasangraha, as quoted by Spence Hardy, Legends, p. 192. As throwing light on the completeness of the Buddhist canon at the time of King Vattagamani, it should be mentioned that, according to the commentary on the Mahavamsa (Turnour, p. liii), the sect of the Dhammarukikas established itself at the Abhayavihara, which had been constructed by Vattagamani, and that one of the grounds of their secession was their refusing to acknowledge the Parivara (thus I read instead of Pariwana) as part of the Vinaya-pitaka. According to the Dipavamsa (VII, 42) Mahinda knew the Parivara.]
+
+p. xiv MSS., and gives various readings, just as any modern scholar might do. This was in the beginning of the fifth century A.D., and there is nothing improbable, though I would say no more, in supposing that some of the MSS., consulted by Buddhaghosa, dated from the first century B.C., when Vattagamani ordered the sacred canon to be reduced to writing.
+
+   There is one other event with reference to the existence of the sacred canon in Ceylon, recorded in the Mahavamsa, between the time of Buddhaghosa and Vattagamani, viz. the translation of the Suttas from Pali into the language of Ceylon, during the reign of Buddhadasa, 339-368 A.D. If MSS. of that ancient translation still existed, they would, no doubt, be very useful for detrmining the exact state of the Pali originals at that time[1]. But even without them there seems no reason to doubt that Buddhaghosa had before him old MSS. of the Pali canon, and that these were in the main the same as those written down at the time of Vattagamani.
+
+ 
+
+BUDDHAGHOSA'S AGE.
+
+   The whole of this argument, however, rested on the supposition that Buddhaghosa's date in the beginning of the fifth century A.D. was beyond the reach of reasonable doubt. 'His age,' I had ventured to say in the Preface to Buddhaghosha's Parables (1870), 'can be fixed with greater accuracy than most dates in the literary history of India.' But soon after, one of our most celebrated Pali scholars, the great Russian traveller, Professor Joh. Minayeff, expressed in the Melanges Asiatiques (13/25 April, 1871) the gravest doubts as to Buddhaghosa's age, and thus threw the whole Buddhist chronology, so far as it had then been accepted by all, or nearly all scholars, back into chaos. He gave as his chief reason that Buddhaghosa was not, as I supposed, the contemporary of Mahanama, the
+
+[1. A note is added, stating that several portions of the other two divisions also of the Pitakattaya were translated into the Sinhalese language, and that these alone are consulted by the priests, who are unacquainted with Pali. On the other hand, it is stated that the Sinhalese text of the Atthakatha exists no longer. See Spence Hardy, Legends, p. xxv, and p. 69.]
+
+p. xv author of the Mahavamsa, but of another Mahanama, the king of Ceylon.
+
+   Professor Minayeff is undoubtedly right in this, but I am not aware that I, or anybody else, had ever questioned so palpable a fact. There are two Mahanamas; one, the king who reigned from 410-432 A.D.; the other, the supposed author of the Mahavamsa, the uncle and protector of King Dhatusena, 459-477. 'Dhatusena,' I had written, 'was the nephew of the historian Mahanama, and owed the throne to the protection of his uncle. Dhatusena was in fact the restorer of a national dynasty, and after having defeated the foreign usurpers (the Damilo dynasty) "he restored the religion which had been set aside by the foreigners"' (Mahav. p. 256). Among his many pious acts it is particularly mentioned that he gave a thousand, and ordered the Dipavamsa to be promulgated. As Mahanama was the uncle of Dhatusena, who reigned from 459-477, he may be considered as a trustworthy witness with regard to events that occurred between 410 and 432. Now the literary activity of Buddhaghosa in Ceylon falls in that period[1].'
+
+   These facts being admitted, it is surely not too great a stretch of probability to suppose, as I did, that a man whose nephew was king in 459-477, might have been alive in 410-432, that is to say, might have been a contemporary of Buddhaghosa. I did not commit myself to any further theories. The question whether Mahanama, the uncle of Dhatusena, was really the author of the Mahavamsa, the question whether he wrote the second half of the 37th chapter of that work, or broke off his chronicle in the middle of that chapter, I did not discuss, having no new materials to bring forward beyond those on which Turnour and those who followed him had founded their conclusions, and which I had discussed in my History of Sanskrit Literature (1859), p. 267. All I said was, 'It is difficult to determine whether the 38th as well as the (whole of the) 37th chapter came from the pen of Mahanama, for
+
+[1. 'Ungefahr 50 Jahre alter als Mahanama ist Buddhaghosha,' see Westergaard, Uber Buddha's Todesjahr, p. 99.]
+
+p. xvi the Mahavamsa was afterwards continued by different writers, even to the middle of the last century. But, taking into account all the circumstances of the case, it is most probable that Mahanama carried on the history to his own time, to the death of Dhatusena, 477 A.D.'
+
+   What I meant by 'all the circumstances of the case' might easily be understood by any one who had read Turnour's Preface to the Mahavamsa. Turnour himself thought at first that Mahanama's share in the Mahavamsa ended with the year 301 A.D., and that the rest of the work, called the Sulu Wanse, was composed by subsequent writers[1]. Dharmakirti is mentioned by name as having continued the work to the reign of Prakrama Bahu (A.D. 1266). But Turnour afterwards changed his mind[2]. Considering that the account of Mahasena's reign, the first of the Seven Kings, terminates in the middle of a chapter, at verse 48, while the whole chapter is called the Sattaragiko, 'the chapter of the Seven Kings,' he naturally supposed that the whole of that chapter, extending to the end of the reign of his nephew Dhatusena, might be the work of Mahanama, unless there were any strong proofs to the contrary. Such proofs, beyond the tradition of writers of the MSS., have not, as yet, been adduced[3].
+
+   But even if it could be proved that Mahanama's own pen did not go beyond the 48th verse of the 37th chapter, the historical trustworthiness of the concluding portion of that chapter, containing the account of Buddhaghosa's literary activity, nay, even of the 38th chapter, would be little affected thereby. We know that both the Mahavamsa and the somewhat earlier Dipavamsa were founded on the Sinhalese Atthakathas, the commentaries and chronicles preserved in the Mahavihara at Anuradhapura. We also know that that Vihara was demolished by Mahasena, and deserted by nearly all its inmates for the space of nine years (p. 235), and again for the space of nine months
+
+[1. Introduction, p. ii. The Kulavamsa is mentioned with the Mahavamsa, both as the works of Mahanama, by Professor Forchhammer in his List of Pali MSS. 
+
+2. Introduction, p. xci.
+
+3. See Rhys Davids, Journal of the Royal Asiatic Society, 1875, p. 196.]
+
+p. xvii (p. 237). We can well understand therefore why the older history, the Dipavamsa, should end with the death of Mahasena (died 302 A.D.), and why in the Mahavamsa too there should have been a break at that date. But we must not forget that, during Mahanama's life, the Mahavihara at Anuradhapura was restored, that some kind of chronicle, called the Dipavamsa, whether it be a general name of any 'chronicle of the island,' or of our Dipavamsa, or, it may be, even of our Mahavamsa, was ordered to be published or promulgated (dipetum) under Dhatusena, the nephew and protege of Mahanama. Therefore, even if we do not insist on the personal authorship of Mahanama, we may certainly maintain that historical entries had been made in the chronicles of Anuradhapura during Dhatusena's reign, and probably under the personal auspices of Mahanama, so that if we find afterwards, in the second half of the 37th chapter of his Mahavamsa, an account of events which had happened between the destruction of the Mahavihara and the reign of Dhatusena, and among them an account of so important an event as the arrival of Buddhaghosa from Magadha and his translation of the Sinhalese Atthakatha into the language of Magadha, we may well suppose that they rest on the authority of native chronicles, written not long after the events, and that therefore, 'under all the circumstances of the case,' the age of Buddhaghosa can be fixed with greater accuracy than most dates in the literary history of India.
+
+   There is one difficulty still remaining with regard to the date of the historian Mahanama which might have perplexed Turnour's mind, and has certainly proved a stumbling-block to myself. Turnour thought that the author of the commentary on the Mahavamsa, the Vamsatthappakasini, was the same as the author of the Mahavamsa, viz. Mahanama. The date of that commentary, however, as we know now, must be fixed much later, for it speaks of a schism which took place in the year 601 A.D., during the reign of Agrabodhi (also called Dhatapatisso). Turnour[1] looked
+
+[1. Introduction, p. liii.]
+
+p. xviii upon that passage as a later interpolation, because he thought the evidence for the identity of the author and the commentator of the Mahavamsa too strong to be set aside. He trusted chiefly to a passage in the commentary, and if that passage had been correctly rendered, the conclusion which be drew from it could hardly be resisted. We read in the Mahavamsa (p. 254):
+
+   'Certain members of the Moriyan dynasty, dreading the power of the (usurper) Subho, the balattho, had settled in various parts of the country, concealing themselves. Among them there was a certain landed proprietor Dhatusena, who had established himself at Nandivapi. His son named Dhata, who lived at the village Ambiliyago, had two sons, Dhatusena and Silatissabodhi, of unexceptional descent. Their mother's brother (Mahanama), devoted to the cause of religion, continued to reside (at Anuradhapura) in his sacerdotal character, at the edifice built by the minister Dighasandana. The youth Dhatusena became a priest in his fraternity, and on a certain day, while he was chaunting at the foot of a tree, a shower of rain fell, and a Naga, seeing him there, encircled him in his folds, and covered him and his book with his hood. . . . Causing an image of Maha Mahinda to be made, and conveying it to the edifice (Ambamalaka) in which the thera's body had been burnt, in order that be might celebrate a great festival there, and that he might also promulgate the contents of the Dipavamsa, distributing a thousand pieces, he caused it to be read aloud[1].'
+
+   If we compare with this extract from the Mahavamsa a passage from the commentary as translated by Turnour, we can well understand how he arrived at the conclusion that it was written by the same person who wrote the Mahavamsa.
+
+   Turnour translates (p. liv):
+
+   'Upon these data by me, the thera, who had, with due
+
+[1. Mr. Turnour added a note in which he states that Dipavamsa is here meant for Mahavamsa, but whether brought down to this period, or only to the end of the reign of Mahasena, to which alone the Tika extends, there is no means of ascertaining (p. 257).]
+
+p. xix solemnity, been invested with the dignified title of Mahanama, resident at the parivena founded by the minister Dighasandana, endowed with the capacity requisite to record the narrative comprised in the Mahavamsa, in due order, rejecting only the dialect in which the Singhalese Atthakatha are written, but retaining their import and following their arrangement, the history, entitled the Palapadoruvamsa (Padyapadanuvamsa), is compiled. As even in times when the despotism of the ruler of the land, and the horrors arising from the inclemencies of the seasons, and when panics of epidemics and other visitations prevailed, this work escaped all injury; and moreover, as it serves to perpetuate the fame of the Buddhas, their disciples, and the Pache Buddhas of old, it is also worthy of bearing the title of Vamsatthappakasini.'
+
+   As the evidence of these two passages in support of the identity of the author and the commentator of the Mahavamsa seemed to me very startling, I requested Mr. Rhys Davids to copy for me the passage of the commentary. The passage runs as follows:
+
+   Ya ettavata mahavamsatthanusarakusalena Dighasanda-senapatina karapita-mahaparivenavasina Mahanamo ti garuhi gahitanamadheyyena therena pubba-Sihala-bhasitaya Sihalatthakathaya bhasantaram eva vaggiya atthasaram eva gahetva tantinayanurupena katassa imassa Padyapada-nuvamsassa atthavannana maya tam eva sannissitena araddha, padesissariya-dubbutthibhaya-rogabhayadi-vividha-antaraya-yuttakale pi anantarayena nitthanam upagata, sa buddha-buddhasavaka-pakkekabuddhadinam porananam kikkam pubbavamsatthappakasanato ayam Vamsatthappakasini nama ti dharetabba. . . . Padyapadanuvamsa-vannana Vamsatthappakasini nitthita.
+
+   Mr. Rhys Davids translates this:
+
+   'The commentary on this Padyapadanuvamsa, which (latter work) was made (in the same order and arrangement, and retaining the sense, but rejecting the dialect, of the Sinhalese commentary formerly expressed in the Sinhalese tongue) by the elder who bore the name of Mahanama, which he had p. xx received from the venerable, who resided at the Mahaparivena built by the minister Dighasanda, and who was well able to conform to the sense of the Mahavamsa--(this commentary) which was undertaken by me out of devotion to that (history), and which (though thus undertaken) at a time full of danger of various kinds--such as the danger from disease, and the danger from drought, and the danger from the government of the province--has been safely brought to a conclusion--this (commentary), since it makes known the meaning of the history of old, the mission of the ancients, of the Buddhas, of their disciples, and of the Pakkeka Buddhas, should bear the name Vamsatthappakasini. . . .
+
+'End of the Vamsatthappakasini, the commentary on the Padyapadanuvamsa.'
+
+   This shows clearly that Turnour made a mistake in translating this exceedingly involved, yet perfectly intelligible, passage, and that so far from proving that the author of the commentary was the same person as the author of the text[1], it proves the very contrary. Nay, I feel bound to add, that we might now argue that as the commentator must have lived later than 601 A.D., the fact that he too breaks off at verse 48 of chapter 37, seems to show that at his time also the Mahavamsa did not extend as yet beyond that verse. But even then, the fact that with the restoration of the Mahavihara of Anuradhapura an interest in historical studies revived in Ceylon, would clearly show that we may trust the date of Buddhaghosa, as fixed by the second part of the 37th chapter of the Mahavamsa, at all events till stronger evidence is brought forward against such a date.
+
+   Now I am not aware of any such evidence[2]. On the contrary, making allowance for a difference of some ten or twenty years, all the evidence which we can gain from other quarters tends to confirm, the date of
+
+[1. Dr. Oldenberg informs me that the commentator quotes various readings in the text of the Mahavamsa.
+
+2. The passage, quoted by Professor Minayeff from the Sasanavamsa, would assign to Buddhaghosa the date of 930-543 = 387 A.D., which can easily be reconciled with his accepted date. If he is called the contemporary of Siripala, we ought to know who that Siripala is.]
+
+p. xxi Buddhaghosa[1]. I therefore feel no hesitation in here reprinting that story, as we find it in the Mahavamsa, not free from legendary ingredients, it is true, yet resting, I believe, on a sound foundation of historical fact.
+
+   'A Brahman youth, born in the neighbourhood of the terrace of the great Bo-tree (in Magadha), accomplished in the "vigga" (knowledge) and "sippa" (art), who had achieved the knowledge of the three Vedas, and possessed great aptitude in attaining acquirements; indefatigable as a schismatic disputant, and himself a schismatic wanderer over Gambudipa, established himself, in the character of a disputant, in a certain vihara[2], and was in the habit of rehearsing, by night and by day with clasped hands, a discourse which he had learned, perfect in all its component parts, and sustained throughout in the same lofty strain. A certain Mahathera, Revata, becoming acquainted with him there, and (saying to himself), "This individual is a person of profound knowledge, it will be worthy (of me) to convert him;" enquired, "Who is this who is braying like an ass?" The Brahman replied to him, "Thou canst define, then, the meaning conveyed in the bray of asses." On the Thera rejoining, "I can define it;" he (the Brahman) exhibited the extent of the knowledge he possessed. The Thera criticised each of his propositions, and pointed out in what respect they were fallacious. He who had been thus refuted, said, "Well, then, descend to thy own creed;" and he propounded to him a passage from the Abhidhamma (of the Pitakattaya). He (the Brahman) could not divine the signification of that passage, and enquired, "Whose manta is this?"--"It is Buddha's manta." On his exclaiming, "Impart it to me;" the Thera replied, "Enter the sacerdotal order." He who was desirous of acquiring the knowledge of the Pitakattaya, subsequently coming to this conviction, "This is the sole road" (to salvation), became a convert to that faith. As he was as profound in his eloquence (ghosa) as Buddha himself, they conferred on him the appellation of Buddhaghosa (the
+
+[1. See Bigandet, Life of Gaudama. pp. 351, 381.
+
+2. On this vihara, its foundation and character, see Oldenberg, Vinaya, vol. i. p. liii; Hiouen-thsang, III, p. 487 seq.]
+
+p. xxii voice of Buddha); and throughout the world he became as renowned as Buddha. Having there (in Gambudipa) composed an original work called Nanodaya (Rise of Knowledge), he, at the same time, wrote the chapter called Atthasalini, on the Dhammasangani (one of the commentaries on the Abhidhamma).
+
+   'Revata Thera then observing that he was desirous of undertaking the compilation of a general commentary on the Pitakattaya, thus addressed him: "The text alone of the Pitakattaya has been preserved in this land, the Atthakatha are not extant here, nor is there any version to be found of the schisms (vada) complete. The Sinhalese Atthakatha are genuine. They were composed in the Sinhalese language by the inspired and profoundly wise Mahinda, who had previously consulted the discourses (kathamagga) of Buddha, authenticated at the three convocations, and the dissertations and arguments of Sariputta and others, and they are extant among the Sinhalese. Preparing for this, and studying the same, translate them according to the rules of the grammar of the Magadhas. It will be an act conducive to the welfare of the whole world."
+
+   'Having been thus advised, this eminently wise personage rejoicing therein, departed from thence, and visited this island in the reign of this monarch (i.e. Mahanama, 410-432). On reaching the Mahavihara (at Anuradhapura), he entered the Mahapadhana hall, the most splendid of the apartments in the vihara, and listened to the Sinhalese Atthakatha, and the Theravada, from the beginning to the end, propounded by the Thera Sanghapala; and became thoroughly convinced that they conveyed the true meaning of the doctrines of the Lord of Dhamma. Thereupon paying reverential respect to the priesthood, he thus petitioned: "I am desirous of translating the Atthakatha; give me access to all your books." The priesthood, for the purpose of testing his qualifications, gave only two gathas, saying, "Hence prove thy qualification; having satisfied ourselves on this point, we will then let thee have all our books." From these (taking these gatha for his text), and p. xxiii consulting the Pitakattaya, together with the Atthakatha, and condensing them into an abridged form, he composed the work called the Visuddhimagga. Thereupon, having assembled the priesthood, who had acquired a thorough knowledge of the doctrines of Buddha, at the Bo-tree, he commenced to read out the work he had composed. The devatas, in order that they might make his (Buddhaghosa's) gifts of wisdom celebrated among men, rendered that book invisible. He, however, for a second and third time recomposed it. When he was in the act of producing his book for the third time, for the purpose of propounding it, the devatas restored the other two copies also. The assembled priests then read out the three books simultaneously. In those three versions there was no variation whatever from the orthodox Theravadas in passages, in words, or in syllables. Thereupon, the priesthood rejoicing, again and again ferventIy shouted forth, saying, "Most assuredly this is Metteya (Buddha) himself," and made over to him the books in which the Pitakattaya were recorded, together with the Atthakatha. Taking up his residence in the secluded Ganthakara-vihara (at Anuradhapura), he translated, according to the grammatical rules of the Magadhas, which is the root of all languages, the whole of the Sinhalese Atthakatha (into Pali). This proved an achievement of the utmost consequence to all beings, whatever their language.
+
+   'All the Theras and Akariyas held this compilation in the same estimation as the text (of the Pitakattaya). Thereafter, the objects of his mission having been fulfilled, he returned to Gambudipa, to worship at the Bo-tree (at Uruvelaya, or Uruvilva, in Magadha).'
+
+   Here[1] we have a simple account of Buddhaghosa[2] and
+
+[1. Mahavamsa, p. 250, translated by Turnour.
+
+2. The Burmese entertain the highest respect for Buddhaghosa. Bishop Bigandet, in his Life or Legend of Gaudama (Rangoon, 1866), writes: 'It is perhaps as well to mention here an epoch which has been, at all times, famous in the history of Budhism in Burma. I allude to the voyage which a Religious of Thaton, named Budhagosa, made to Ceylon, in the year of religion 943 = 400 A.D. The object of this voyage was to procure a copy of the scriptures. He succeeded in his undertaking. He made use of the Burmese, or rather Talaing characters, in transcribing the manuscripts, which were written with the characters of Magatha. The Burmans lay much stress upon that voyage, and always carefully note down the year it took place. In fact, it is to Budhagosa that the people living on the shores of the Gulf of Martaban owe the possession of the Budhist scriptures. From Thaton, the collection made by Budhagosa was transferred to Pagan, six hundred and fifty years after it had been imported from Ceylon.' See ibid. p. 392.]
+
+p. xxiv his literary labours written by a man, himself a priest, and who may well have known Buddhaghosa during his stay in Ceylon. It is true that the statement of his writing the same book three times over without a single various reading, partakes a little of the miraculous; but we find similar legends mixed up with accounts of translations of other sacred books, and we cannot contend that writers who believed in such legends are therefore altogether unworthy to be believed as historical witnesses.
+
+   But although the date which we can assign to Buddhaghosa's translation of the commentaries on the Pali Tipitaka proves the existence of that canon, not only for the beginning or the fifth century of our era, but likewise, though it may be, with less stringency, for the first century before our era, the time of Vattagamani, the question whether Buddhaghosa was merely a compiler and translator of old commentaries, and more particularly of the commentaries brought to Ceylon by Mahinda (241 B.C.), or whether he added anything of his own[1], requires to be more carefully examined. The Buddhists themselves have no difficulty on that point. They consider the Atthakathas or commentaries as old as the canon itself. To us, such a supposition seems improbable, yet it has never been proved to be impossible. The Mahavamsa tells us that Mahinda, the son of Asoka, who had become a priest, learnt the whole of the Buddhist canon, as it then was, in three years (p. 37)[2]; and that at the end of the Third Council he was despatched to Ceylon, in order to establish there the religion of Buddha (p. 71). The king of Ceylon, Devanampiya Tissa, was converted, and Buddhism soon became the dominant
+
+[1. He had written the Nanodaya, and the Atthasalini, a commentary on the Dhamma-sangani, before he went to Ceylon. Cf. Mahavamsa, p. 251.
+
+2. He learnt the five Nikayas, and the seven sections (of the Abhidhamma); the two Vibhangas of the Vinaya, the Parivara and the Khandhaka. See Dipavamsa VII, 42.]
+
+p. xxv religion of the island, The Tipitaka and the Atthakatha, such as they had been collected or settled at the Third Council in 242 B.C., were brought to Ceylon by Mahinda, who promulgated them orally, the Tipitaka in Pali, the Atthakatha in Sinhalese, together with an additional Atthakatha of his own. It does not follow that Mahinda knew the whole of that enormous literature by heart, for, as he was supported by a number of priests, they may well have divided the different sections among them, following the example of Ananda and Upali at the First Council. The same applies to their disciples also. But the fact of their transmitting the sacred literature by oral tradition[1] was evidently quite familiar to the author of the Mahavamsa. For when he comes to describe the reign of Vattagamani (88-76 B.C.) he simply says: 'The profoundly wise priests had heretofore orally perpetuated the Pali Pitakattaya and its Atthakatha (commentaries). At this period these priests, foreseeing the perdition of the people (from the perversions of the true doctrines), assembled; and in order that the religion might endure for ages, wrote the same in books.' No valid objection has yet been advanced to our accepting Buddhaghosa's Atthakathas as a translation and new redaction of the Atthakathas which were reduced to writing under Vattagamani[2], and these again as a translation of the old Atthakathas brought to Ceylon by Mahinda[3]. There is prima facie evidence in favour of the truth of historical events vouched for by such works as the Dipavamsa and the Mahavamsa so far back at least as Mahinda, because we know that historical events were recorded in the monasteries of Ceylon long before Mahanama's time. Beyond Mahinda we move in legendary history, and must be ready to surrender every name and every date as soon as rebutting evidence has been produced, but not till then.
+
+   I cannot, therefore, see any reason why we should not treat the verses of the Dhammapada, if not as the utterances of Buddha, at least as what were believed by the
+
+[1. On the importance of oral tradition in the history of Sanskrit literature see the writer's Ancient Sanskrit Literature, 1859, pp. 497-524.
+
+2. Mahavamsa, p. 207; Dipavamsa XX, 20.
+
+3. Mahavamsa, p. 251.]
+
+p. xxvi members of the Council under Asoka, in 242 B.C., to have been the utterances of the founder of their religion; nor can I see that Professor Minayeff has shaken the date of Buddhaghosa and the general credibility of the Ceylonese tradition, that he was the translator and editor of commentaries which had existed in the island for many centuries; whether from the time of Vattagamani or from the time of Mahinda.
+
+ 
+
+DATE OF THE BUDDHIST CANON.
+
+   We now return to the question of the date of the Buddhist canon, which, as yet, we have only traced back to the first century before Christ, when it was reduced to writing in Ceylon under King Vattagamani. The question is, how far beyond that date we may trace its existence in a collected form, or in the form of the three Pitakas or baskets. There may be, and we shall see that there is, some doubt as to the age of certain works, now incorporated in the Tipitaka. We are told, for instance, that some doubt attached to the canonicity of the Kariya-pitaka; the Apadana, and the Buddhavamsa[1], and there is another book of the Abhidhamma-pitaka, the Kathavatthu, which was reported to be the work of Tissa Moggaliputta, the president of the Third Council. Childers, s.v., stated that it was composed by the apostle Moggaliputtatissa, and delivered by him at the Third Mahasangiti. The same scholar, however, withdrew this opinion on p. 507 of his valuable Dictionary, where he says: 'It is a source of great regret to me that in my article on Kathavatthuppakaranam I inadvertently followed James D'Alwis in the stupendous blunder of his assertion that the Kathavatthu was added by Moggaliputtatissa at the Third Convocation. The Kathavatthu is one of the Abhidhamma books, mentioned by Buddhaghosa as having been rehearsed at the First Convocation, immediately after Gotama's death; and the passage in Mahavamsa upon which D'Alwis rests his assertion is as follows, Kathavatthuppakararanam paravadappamaddanam abhasi Tissatthero ka tasmim sangitimandale, which simply means 'in that Convocation-assembly
+
+[1. See Childers, s.v. Nikaya.]
+
+p. xxvii the Thera Tissa also recited (Buddha's) heresy-crushing Kathavatthuppakarana.'
+
+   This mistake, for I quite agree with Childers that it was a mistake, becomes however less stupendous than at first sight it would appear, when we read the account given in the Dipavamsa. Here the impression is easily conveyed that Moggaliputta was the author of the Kathavatthu, and that he recited it for the first time at the Third Council. 'Wise Moggaliputta,' we read[1], 'the destroyer of the schismatic doctrines, firmly established the Theravada, and held the Third Council. Having destroyed the different (heretical) doctrines, and subdued many shameless people, and restored splendour to the (true) faith, he proclaimed (pakasayi) (the treatise called) Kathavatthu.' And again: 'They all were sectarians[2], opposed to the Theravada; and in order to annihilate them and to make his own doctrine resplendent, the Thera set forth (desesi) the treatise belonging to the Abhidhamma, which is called Kathavatthu[3].'
+
+   At present, however, we are not concerned with these smaller questions. We treat the canon as a whole, divided into three parts, and containing the books which still exist in MSS., and we want to find out at what time such a collection was made. The following is a short abstract of the Tipitaka, chiefly taken from Childers' Pali Dictionary:
+
+I. Vinaya-pitaka.
+
+	    
+	
+	    Vibhanga[4].
+    Vol. I, beginning with Paragika, or sins involving expulsion.
+    Vol. II, beginning with Pakittiya, or sins involving penance.    
+
+ Khandhaka.
+    Vol. I, Mahavagga, the large section.
+    Vol. II, Kullavagga, the small section.    
+
+ Parivarapatha, an appendix and later resume (25 chapters). See p. xiii, n. 4; p. xxiv, n. 2.
+
+[1. Dipavamsa VII, 40.
+
+2. Dipavamsa VII, 55.
+
+3. Dr. Oldenberg, in his Introduction to the Vinaya-pitaka, p. xxxii.
+
+4. Oldenberg, Vinaya-pitaka I, p. xvi, treats it as an extended reading of Patimokkha.]
+
+p. xxviii 
+
+II. Sutta-pitaka.
+
+	    
+	
+	    Digha-nikaya, collection of long suttas (34 suttas)[1]. Magghima-nikaya, collection of middle suttas (152 suttas).  Samyutta-nikaya, collection of joined suttas.  Anguttara-nikaya[2], miscellaneous suttas, in divisions the length of which increases by one.  Khuddaka-nikaya[3], the collection of short suttas, consisting of--    Khuddakapatha, the small texts[4].  Dhammapada, law verses (423)[5].  Udana, praise (82 suttas).  Itivuttaka, stories referring to sayings of Buddha.  Suttanipata 70 suttas[6].  Vimanavatthu, stories of Vimanas, celestial palaces.  Petavatthu, stories of Pretas, departed spirits.  Theragatha, stanzas of monks.  Therigatha, stanzas of nuns.  Gataka, former births (550 tales)[7].  Niddesa, explanations of certain suttas by Sariputta.
+
+[1. The Mahaparinibbana-sutta, ed. by Childers, Journal of the Royal Asiatic Society, translated with other Suttas by Rhys Dayids (). Sept Suttas Palis, par Grimblot, Paris, l876.
+
+2. The first four are sometimes called the Four Nikayas, the five together the five Nikayas. They represent the Dharma, as settled at the First and Second Councils, described in the Kullavagga (Oldenberg, I, p. xi).
+
+3. Sometimes Khuddaka-nikaya stands for the whole Vinaya and Abhidhamma- pitaka, with the fifteen divisions here given of Khuddaka-nikaya. In the commentary on the Brahmagala-sutta it is said that the Dighanikaya professors rehearsed the text of the Gataka, Maha and Kulla Niddesa, Patisambhidamagga, Suttanipata, Dhammapada, Udana, Itivuttaka, Vimana, and Petavatthu, Thera and Theri Gatha, and called it Khuddakagantha, and made it a canonical text, forming part of the Abhidhamma; while the Magghimanikaya professors assert that, with the addition of the Kariyapitaka, Apadana, and Buddhavamsa, the whole of this Khuddakagantha was included in the Suttapitaka. See Childers, s.v. Nikaya;. See also <page x>.
+
+4. Published by Childers, Journal of the Royal Asiatic Society, 1869.
+
+5. Published by Fausboll, 1855.
+
+6. Thirty translated by Sir Coomara Swamy; the whole by Fausboll, in Sacred Books of the East, vol. x.
+
+7. Published by Fausboll, translated by Rhys Davids.]
+
+p. xxix 
+
+    Patisambhidamagga, the road of discrimination, and intuitive insight.  Apadana[1], legends.  Buddhavamsa[1], story of twenty-four preceding Buddhas and of Gotama.  Kariyapitaka[1], basket of conduct, Buddha's meritorious actions[2].III. Abhidhamma-pitaka.
+
+   Dhammasangani, numeration of conditions of life[3].  Vibhanga, disquisitions (18).  Kathavatthupakarana, book of subjects for discussion (1000 suttas).  Puggalapannatti or pannatti, declaration on puggala, or personality.  Dhatukatha, account of dhatus or elements.  Yamaka, pairs (ten divisions).  Patthanapakarana, book of causes.   Taking this collection as a whole we may lay it down as self-evident that the canon, in its collected form, cannot be older than any of the events related therein.
+
+   There are two important facts for determining the age of the Pali canon, which, as Dr. Oldenberg[4] has been the first to show, should take precedence of all other arguments, viz.
+
+   1. That in the Tipitaka, as we now have it, no mention is made of the so-called Third Council, which took place at Pataliputta, under King Asoka, about 242 B.C.
+
+   2. That in the Tipitaka, as we now have it, the First Council of Ragagaha (477 B.C.) and the Second Council of Vesali (377 B.C.) are both mentioned.
+
+   From these two facts it may safely be concluded that the Buddhist canon, as handed down to us, was finally closed
+
+[1. Buddhaghosa does not say whether these were recited at the First Council.
+
+2. Partly translated by Gogerly, Journal of the Asiatic Society of Ceylon, 1852.
+
+3. Cf. Gogerly, Journal of the Asiatic Society of Ceylon. 1848, p. 7.
+
+4. See Oldenberg's Vinaya-pitaka, Introduction. p. xxv. The kings Agatasatru (485-453 B.C.), Udayin (453-437 B.C.), and Munda (437-429 B.C.) are all mentioned in the Tipitaka. See Oldenberg, Zeitschrift der D. M. G., XXXIV. pp. 752, 753.]
+
+p. xxx after the Second and before, or possibly at, the Third Council. Nay, the fact that the description of the two Councils stands at the very end of the Kullavagga may be taken, as Dr. Oldenberg remarks, as an indication that it was one of the latest literary contributions which obtained canonical authority, while the great bulk of the canon may probably claim a date anterior to the Second Council.
+
+   This fact, namely, that the collection of the canon, as a whole, must have preceded the Second Council rests on an argument which does great credit to the ingenuity of Dr. Oldenberg. The Second Council was convoked to consider the ten deviations[1] from the strict discipline of the earliest times. That discipline had been laid down first in the Patimokkha rules, then in the commentary now included in the Vibhanga, lastly in the Mahavagga and Kullavagga. The rules as to what was allowed or forbidden to a Bhikkhu were most minute[2], and they were so firmly established that no one could have ventured either to take away or to add anything to them as they stood in the sacred code. In that code itself a distinction is made between the offences which were from the first visited with punishment (paragika and pakittiya) and those misdemeanours and crimes which were put down as punishable at a later time (dukkata and thullakkaya). With these classes the code was considered as closed, and if any doubt arose as to the criminality of certain acts, it could be settled at once by an appeal to the Vinaya-pitaka. Now it so happens that, with one exception, the ten deviations that had to be considered at the Second Council, are not provided for in the Vinaya-pitaka; and I quite agree with Dr. Oldenberg's argument that, if they had been mentioned in the Vinaya-pitaka, the Second Council would have been objectless. A mere appeal to chapter and verse in the existing Pitaka would then have silenced all dissent. On the other side, if it had been possible to add anything to the canon, as it then existed, the ten, or nine, deviations might have been condemned
+
+[1. Oldenberg, Introduction, p. xxix.
+
+2. Oldenberg, loc. cit. p. xx.]
+
+p. xxxi by a few additional paragraphs of the canon, without convoking a new Council.
+
+   I think we may be nearly certain, therefore, that we possess the principal portion of the Vinaya-pitaka as it existed before the Council of Vesali.
+
+   So far I quite agree with Dr. Oldenberg. But if he proceeds to argue[1] that certain portions of the canon must have been finally settled before even the First Council took place, or was believed to have taken place, I do not think his arguments conclusive. He contends that in the Parinibbana-sutta, which tells of the last days of Buddha's life, of his death, the cremation of his body, and the distribution of his relics, and of Subhadda's revolt, it would have been impossible to leave out all mention of the First Council, if that Council had then been known. It is true, no doubt, that Subhadda's disloyalty was the chief cause of the First Council, but there was no necessity to mention that Council. On the contrary, it seems to me that the unity of the Parinibbana-sutta would have been broken if, besides telling of the last days of Buddha, it had also given a full description of the Council. The very title, the Sutta of the Great Decease, would have become inappropriate, if so important a subject as the first Sangiti had been mixed up with it. However, how little we may trust to such general arguments, is best shown by the fact that in some very early Chinese renderings of the Hinayana text of the Mahaparinibbana-sutta the story is actually carried on to the First Council, two (Nos. 552 and 119) mentioning the rehearsal under Kasyapa, while the third (No. 118) simply states that the Tiptaka was then collected[2].
+
+[1. Loc. cit. pp. xxvi-xxviii.
+
+2. There are several Chinese translations of Sutras on the subject of the Mahaparinirvana. Three belong to the Mahayana school: 1. Mahaparinirvana-sutra, translated by Dharmaraksha, about 414-423 A.D.; afterwards revised, 424-453 (Nos. 113, 114). 2. Translation by Fa-hian and Buddhabhadra, about 415 A.D.; less complete (No. 120). 3. Translation (vaipulya) by Dharmaraksha I, i.e. Ku Fa-hu, about 261-308 A.D. (No. 116). Three belong to the Hinayana school: 1. Mahiparinirvana-sutra. translated by Po-fa-tsu, about 290-306 A.D. (No. 552). 2. Translation under the Eastern Tsin dynasty, 317-42O A.D. (No. 119). 3. Translation by Fa-hian, about 415 A.D. (No. 118).]
+
+p. xxxii 
+
+   We must be satisfied therefore, so far as I can see at present, with fixing the date, and the latest date, of a Buddhist canon at the time of the Second Council, 377 B.C. That some works were added later, we know; that many of the treatises included in the canon existed before that Council, can hardly be doubted. The second chapter of the Dhammapada, for instance, is called the Appamada-vagga, and if the Mahavamsa (p. 25) tells us that at the time when Asoka was converted by Nigrodha, that Buddhist priest explained to him the Appamada-vagga, we can hardly doubt that there existed then a collection (vagga) of verses on Appamada, such as we now possess in the Dhammapada and in the Samyutta-nikaya[1].
+
+   With regard to the Vinaya, I should even feel inclined to admit, with Dr. Oldenberg, that it must have existed in a more or less settled form before that time. What I doubt is whether such terms as Pitaka, basket, or Tipitaka, the three baskets, i.e. the canon, existed at that early time. They have not been met with, as yet, in any of the canonical books; and if the Dipavamsa (IV, 32) uses the word 'Tipitaka,' when describing the First Council, this is due to its transferring new terms to older times. If Dr. Oldenberg speaks of a Dvi-pitaka[2] as the name of the canon before the third basket, that of the Abhidhamma, was admitted, this seems to me an impossible name, because at the time when the Abhidhamma was not yet recognised as a third part of the canon, the word pitaka had probably no existence as a technical term[3].
+
+   We must always, I think, distinguish between the three portions of the canon, called the basket of the Suttas, the
+
+[1. Feer, Revue Critique, 1870, No. 24, p. 377.
+
+2. Introduction. pp. x, xii.
+
+3. Dr. Oldenberg informs me that pitaka occurs in the Kankisuttanta in the Magghima Nikaya (Turnour's MS., fol. the), but applied to the Veda. He also refers to the tipitakakaryas mentioned in the Western Cave inscriptions as compared with the Pankanekayaka in the square Asoka character inscriptions (Cunningham, Bharhut, pl. lvi, No. 52). In the Sutrakrid-anga of the Gainas, too, the term pidagam occurs (MS. Berol. fol. 77 a). He admils, however, that pitaka or tipitaka, as the technical name of the Buddhist canon, has not yet been met with in that canon itself, and defends Dvipitaka only as a convenient term.]
+
+p. xxxiii basket of Vinaya, and the basket of Abhidhamma, and the three subjects of Dhamma (sutta), Vinaya, and Abhidhamma, treated in these baskets. The subjects existed and were taught long before the three baskets were definitely arranged. Dhamma had originally a much wider meaning than Sutta-pitaka. It often means the whole teaching of Buddha; and even when it refers more particularly to the Sutta-pitaka, we know that the Dhamma there taught deals largely with Vinaya and Abhidhamma doctrines. Even the fact that at the First Council, according to the description given in the Kullavagga, the Vinaya and Dhamma only were rehearsed, though proving the absence at that time of the Abhidhamma, as a separate Pitaka, by no means excludes the subject of the Abhidhamma having been taught under the head of Dhamma. In the Mahakarunapundarika-sutra the doctrine of Buddha is divided into Dharma and Vinaya; the Abhidharma is not mentioned. But the same text knows of all the twelve Dharmapravakanani[1], the 1. Sutra; 2. Geya; 3. Vyakarana; 4. Gatha; 5. Udana; 6. Nidana; 7. Avadana; 8. Itivrittaka; 9. Gataka; 10. Vaipulya; 11. Adbhutadharma; 12. Upadesa; some of these being decidedly metaphysical.
+
+   To my mind nothing shows so well the historical character both of the Kullavagga and of Buddhaghosa in the Introduction to his commentary on the Digha-nikaya, as that the former, in its account of the First Council, should know only of the Vinaya, as rehearsed by Upali, and the Dhamma, as rehearsed by Ananda, while the much later Buddhaghosa, in his account of the First Council[2], divides the Dhamma into two parts, and states that the second part, the Abhidhamma, was rehearsed after the first part, the Dhamma. Between the time of the Kullavagga and the time of Buddhaghosa the Abhidhamma must have assumed its recognised position by the side of Vinaya and Sutta. It must be left to further researches to determine, if possible,
+
+[1. See Academy, August 28, 1880, Division of Buddhist Scriptures.
+
+2. Oldenberg, Introduction, p. xii; Turnour, Journal of the Asiatic Society of Bengal, vi, p. 510 seq.]
+
+p. xxxiv the time when the name of pitaka was first used, and when Tipitaka was accepted as the title of the whole canon.
+
+   Whenever we see such traces of growth, we feel that we are on historical ground, and in that sense Dr. Oldenberg's researches into the growth of the Vinaya, previous to the Second Council, deserve the highest credit. He shows, in opposition to other scholars, that the earliest elements of Vinaya must be looked for in the short Patimokkha rules, which were afterwards supplemented by explanations, by glosses and commentaries, and in that form answered for some time every practical purpose. Then followed a new generation who, not being satisfied, as it would seem, with these brief rules and comments, wished to know the occasion on which these rules had been originally promulgated. What we now call the Vibhanga, i.e. the first and second divisions of the Vinaya-pitaka, is a collection of the stories, illustrating the origin of each rule, of the rules themselves (the Patimokkha), and of the glosses and comments on these rules.
+
+   The third and fourth books, the Mahavagga and Kullavagga, are looked upon as possibly of a slightly later date. They treat, in a similar manner as the Vibhanga, on the rules not included in that collection, and give a general picture of the outward life of the monks. While the Vibhanga deals chiefly with the original so-called paragika, sanghadisesa, and pakittiya offences, the Khandhaka, i.e. the Mahavagga and Kullavagga, treats of the so-called dukkata and thullakkaya crimes. The arrangement is the same, story, rule, and comment succeeding each other in regular sequence. If we follow the guidance of the Vinaya-pitaka, we should be able to distinguish the following steps in the growth of Buddhism before the Second Council of Vesali:
+
+   Teaching of Buddha and his disciples (543/477 A.D. Buddha's death).  Collection of Patimokkha rules (first code).  Comment and glosses on these rules.  Stories in illustration of these rules (vibhanga).  Mahavagga and Kullavagga (Khandhaka).p. xxxv 
+
+   Council of Vesali for the repression of ten abuses (443/377 A.D.)  Description of First and Second Councils in Kullavagga.   The Kulavagga ascribes the settlement of the canon to the First Council, and does not even claim a revision of that canon for the Second Council. The Dipavamsa claims a revision of the canon by the 700 Arhats for the Second Council.
+
+ 
+
+CHRONOLOGY.
+
+   In order to bring the Council of Vesali in connection with the chronology of the world, we must follow the Buddhist historians for another century. One hundred and eighteen years after the Council of Vesali they place the anointment of King Asoka, during whose reign a Third Council, under the presidency of Tissa Moggaliputta, took place at Pataliputta, the new capital adopted by that king, instead of Ragagaha and Vesali. This Council is chiefly known to us through the writings of the southern Buddhists (Dipavamsa, Mahavamsa, and Buddhaghosa), who belong to the school of Moggaliputta (Theravada or Vibhaggavada), which ruled supreme at Pataliputta, while Upagupta, the chief authority of the northern Buddhists, is altogether ignored in the Pali chronicles.
+
+   Now it is well known that Asoka was the grandson of Kandagutta, and Kandagutta the contemporary of Alexander the Great. Here we see land, and I may refer to my History of Sanskrit Literature, published in 1859, for the process by which the storm-tossed ship of Indian chronology has been landed in the harbour of real historical chronology. We are told by the monks of the Mahavihara in Ceylon that Asoka was crowned, according to their computation, 146 + 18 years before the accession of Dutthagamani, 161 B.C., i.e. 325 B.C.; that between his coronation and his father's death four years had elapsed (329 B.C.); that his father Bindusara had reigned twenty-eight years[1] (357-329 B.C.), and Bindusara's father, Kandagutta,
+
+[1. Mahavamsa, p. 21.]
+
+p. xxxvi twenty-four years (381-357). As we know that Kandagutta, whom the Ceylonese place 381-357 B.C., was king of India after Alexander's conquest, it follows that Ceylonese chronology is wrong by more than half a century. For reasons stated in my History of Sanskrit Literature, I fix the exact fault in Ceylonese chronology as sixty-six years, assigning to Kandagutta the dates 315-291, instead of 381-357. This gives us 291-263 for Bindusara, 259 for Asoka's abhisheka; 259 + 118 = 377 for the Council of Vesali, and 377 + 100 = 477 for Buddha's death, instead of 543 B.C.[1]
+
+    These dates are, of course, approximate only, and they depend on one or two points on which people may differ. But, with that reservation, I see no ground whatever for modifying the chronological system which I put forward more than twenty years ago. Professor Westergaard and Professor Kern, who have since suggested different dates for the death of Buddha, do not really differ from me in principle, but only in their choice of one or the other alternative, which I readily admit as possible, but not as more certain than my own. Professor Westergaard[2], for instance, fixes Buddha's death at 368 (370), instead of 477. This seems a wide difference, but it is so in appearance only.
+
+   Following Justinus, who says that Sandrokyptos[3] had conquered the empire of India at the time when Seleucus laid the foundations of his own greatness, I had accepted 315[4], half-way between the murder of Porus and the taking of Babylon by Seleucus, as the probable beginning
+
+[1. According to Bigandet, Life of Gaudama, p. 361, the era of Buddha's death was introduced by Agatasatru, at the conclusion of the First Council, and began in the year 46 of the older Eetzana era (p. 12). See, however, Rhys Davids, Num. Orient. vi, p. 38. In the Karanda-vyuha, p. 96, a date is given as 300 after the Nirvana, 'tritiye varshasate gate mama parinirvritasya.' In the Asoka-avadana we read, mama nirvritim arabhya satavarshagata Upagupto nama bhikshur utpatsyati.
+
+2. Uber Buddha's Todesjahr (1860), 1862.
+
+3. The Greek name Sandrokyptus shows that the Pali corruption Kandagutta was not yet the recognised name of the king.
+
+4. Mr. Rhys Davids accepts 315 B.C. as the date when, after the murder of king Nanda, Kandragupta stept into the vacant throne, though he had begun to count his reign seven or eight years before. Buddhism, p. 22O.]
+
+p. xxxvii of Kandragupta's reign. Westergaard prefers 320 as a more likely date for Kandragupta, and therefore places the death of the last Nanda and the beginning of Asoka's royal pretensions 268. Here there is a difference between him and me of five years, which depends chiefly on the view we take as to the time when Seleucus really laid what Justinus calls the foundation of his future greatness. Secondly, Westergaard actually adopts the idea, at which I only hinted as possible, that the southern Buddhists made two Asokas out of one, and two Councils out of one. Trusting in the tradition that 118 years elapsed between Buddha's death and the Council under Asoka (at Pataliputra), and that the Council took place in the king's tenth year (as was the case with the imaginary Kalasoka's Council), he gets 268 - 10 = 258 as the date of the Council, and 368 or 370 as the date of Buddha's death[1].
+
+   The two points on which Westergaard differs from me, seem to me questions which should be kept before our mind in dealing with early Buddhist history, but which, for the present at least, admit of no definite solution.
+
+   The same remark seems to me to apply to the calculations of another eminent Sanskrit scholar, Professor Kern[2]. He lays great stress on the general untrustworthiness of Indian chronology, and I am the last to differ from him on that point. He then places the beginning of Kandragupta's reign in 322 B.C. Allowing twenty-four years to him and twenty-eight to his son Bindusara, he places the beginning of Asoka's reign in 270. Asoka's inscriptions would fall about 258. As Asoka reigned thirty-six or thirty-seven years, his death would fall in 234 or 233 B.C. Like Westergaard, Professor Kern too eliminates Kalasoka, as a kind of chronological Asoka, and the Council of Vaisali, and therefore places Buddha's death, according to the northern tradition, 100 or 110 years before Dharmasoka, i.e. 270 + 100 or + 110 = 370 or 380[3]; while, according to the southern
+
+[1. Westergaard. loc. cit. p. 128.
+
+2. Jaartelling der Zuidelijke Buddhisten, 1873.
+
+3. See Professor Kern's remark in Indian Antiquary, 1874, p. 79.]
+
+p. xxxviii tradition, that 118 years elapsed between Asoka's accession and Buddha's death, the Ceylonese monks would seem originally to have retained 270 + 118[1] = 388 B.C. as Buddha's Nirvana, a date which, as Professor Kern holds, happens to coincide with the date assigned to the death of Mahavira, the founder of the Gaina religion.
+
+   Here we see again that the moot point is the beginning of Kandragupta's reign in accordance with the information supplied by Greek historians. Professor Kern places it in 322, Westergaard in 320, I myself in 315. That difference once granted, Dr. Kern's reasoning is the same as my own. According to the traditions which we follow, Buddha's death took place 100, 110, 118, or 228 years before Asoka. Hence Professor Westergaard arrives at 368 or 370 B.C., Professor Kern at 370 (380) or 388 B.C., I myself at 477 B.C. Every one of these dates is liable to certain objections, and if I prefer my own date, 477 B. C., it is simply because it seems to me liable to neither more nor less reservations than those of Professor Westergaard and Professor Kern, and because, so long as we always remember the grounds of our differences, namely, the beginning of Kandragupta's reign, and the additional century, every one of these dates furnishes a good hypothesis to work on, until we can arrive at greater certainty in the ancient chronology of India. To my mind all dates beyond Kandragupta are as yet purely tentative, resting far more on a chronological theory than on actual tradition; and though I do not doubt the historical chatacter of the Council of Vaisali, I look upon the date assigned to it, on the authority of the Dipavamsa and Mahavamsa, as, for the present, hypothetical only.
+
+[1. When Professor Kern states that the Mahavamsa (p. 22) places the Third Council 218 years after Buddha's death, this is not so. Asoka's abhisheka takes place in that year. The prophecy that a calamity would befall their religion, 118 years after the Second Council (Mahavamsa, p. 28), does not refer to the Council, but to Kandasoka's accession, 477 - 218 = 259 B.C.]
+
+p. xxxix 
+
+   B.C. 
+  557.    Buddha born. 
+  552.    Bimbisara born. 
+  537-485.    Bimbisara, 5 years younger than Buddha, was 15 when crowned, 30 or 31 when he met Buddha in 522. 
+  485-453.    Agatasatru (4 &times; 8 years). 
+  477.    Buddha's death (485 - 8 = 477). 
+  477.    COUNCIL AT RAGAGRIHA under Kasyapa, Ananda, and Upali. 
+  453-437.    Udayibhadra (2 &times; 8 years). 
+  437-429.    {  Anuruddhaka (8 years). 
+  Munda (at Pataliputra). 
+  429-405.    Nagadasaka (3 &times; 8 years). 
+  405-387.    Sisunaga (at Vaisali). 
+  387-359.    Kalasoka. 
+  377.    COUNCIL AT VAISALI, under Yasas and Revata, a disciple of Ananda (259 + 118 = 377). 
+  359-337.    Ten sons of Kalasoka (22 years). 
+  337-315.    Nine Nandas (22 years); the last, Dhanananda, killed by Kanakya. 
+  315-291.     Kandragupta (477 - 162 = 315; 3 &times; 8 years)[1]. 
+  291-263.    Bindusara. 
+  263-259.    Asoka, sub-king at Uggayini, as pretender--his brothers killed. 
+  259.    Asoka anointed at Pataliputra (477 - 218 = 259). 
+  256.    Asoka converted by Nigrodha (D. V. VI, 18). 
+  256-253.    Building of Viharas, Sthupas, &c. 
+  255.    Conversion of Tishya (M. V. p. 34). 
+  253.    Ordination of Mahendra (born 477 - 204 = 273). 
+  251.    Tishya and Sumitra die (D. V. VII, 32). 
+  242.    COUNCIL AT PATALIPUTRA (259 - 17 = 242; 477 - 236 = 271), under Tishya Maudgaliputra (477 - 236 = 241; D.V. VII, 37). 
+  241.    Mahendra to Ceylon. 
+  222.    Asoka died (259 - 37 = 222). 
+  193.    Mahendra died (D. V. XVII, 93). 
+  161.    Dutthagamani. 
+  88-76.    Vattagamani, canon reduced to writing. 
+  A.D.       
+  400.    Dipavamsa. 
+  420.    Buddhaghosha, Pali commentaries. 
+  459-477.    Mahavamsa. 
+ 
+
+[1. Westergaard, 320-296; Kern, 322-298.]
+
+p. xl 
+
+   Though the preceding table, embodying in the main the results at which I arrived in my History of Ancient Sanskrit Literature, still represents what I hold to be true or most probable with respect to Indian chronology, previous to the beginning of our era, yet I suppose I may be expected to say here a few words on the two latest attempts to fix the date of Buddha's death; the one by Mr. Rhys Davids in the Numismata Orientalia, Part VI, 1877, the other by Dr. Buhler in the Indian Antiquary, 1877 and 1878[1]. Mr. Rhys Davids, to whom we owe so much for the elucidation of the history of Buddha's religion, accepts Westergaard's date for the beginning of Kandragupta's reign, 320 B.C., instead of 322 (Kern), 315 (myself); and as he assigns (p. 41) to Bindusara 25 years instead of 28 (Mahavamsa, p. 21), he arrives at 268 as the year of Asoka's coronation[2]. He admits that the argument derived from the mention of the five foreign kings in one of Asoka's inscriptions, dated the twelfth year of his reign, is too precarious to enable us to fix the date of Asoka's reign more definitely, and though, in a general way, that inscription confirms the date assigned by nearly all scholars to Asoka in the middle of the third century B.C., yet there is nothing in it that Asoka might not have written in 247 quite as well as in 258-261. What chiefly distinguishes Mr. Rhys Davids' chronology from that of his predecessors is the shortness of the period between Asoka's coronation and Buddha's death. On the strength of an examination of the list of kings and the list of the so-called patriarchs, he reduces the traditional 218 years to 140 or 150, and thus arrives at 412 B.C. as the probable beginning of the Buddhist era.
+
+   In this, however, I cannot follow him, but have to follow Dr. Buhler. As soon as I saw Dr. Buhler's first essay on the Three New Edicts of Asoka, I naturally felt delighted at the unexpected confirmation which he furnished of the date which I had assigned to Buddha's death, 477 B.C. And though I am quite aware of the
+
+[1. Three New Edicts of Asoka, Bombay, 1877; Second Notice, Bombay, 1878.
+
+2. Mr. Rhys Davids on p. 50 assigns the 35 years of Bindusara rightly to the Puranas, the 38 years to the Ceylon Chronicles.]
+
+p. xli danger of unexpected confirmations of one's own views, yet, after carefully weighing the objections raised by Mr. Rhys Davids and Professor Pischel against Dr. Buhler's arguments, I cannot think that they have shaken Dr. Buhler's position. I fully admit the difficulties in the phraseology of these inscriptions: but I ask, Who could have written these inscriptions, if not Asoka? And how, if written by Asoka, can the date which they contain mean anything but 256 years after Buddha's Nirvana? These points, however, have been argued in so masterly a manner by Dr. Buhler in his 'Second Notice,' that I should be afraid of weakening his case by adding anything of my own, and must refer my readers to his 'Second Notice.' Allowing that latitude which, owing to the doubtful readings of MSS., and the constant neglect of odd months, we must allow in the interpretation of Buddhist chronology, Asoka is the only king we know of who could have spoken of a thirty-fourth year since the beginning of his reign and since his conversion to Buddhism. And if he calls that year, say the very last of his reign (212 B.C.), 256 after the departure of the Master, we have a right to say that as early as Asoka's time, Buddha was believed to have died about 477 B.C. Whether the inscriptions have been accurately copied and rightly read is, however, a more serious question, and the doubts raised by Dr. Oldenberg (Mahavagga, p. xxxviii) make a new collation of the originals absolutely indispensable, before we can definitely accept Dr. Buhler's interpretation.
+
+   I cannot share Dr. Buhler's opinion[1] as to the entire worthlessness of the Gaina chronology in confirming the date of Buddha's death. If the Svetambara Gainas place the death of Mahavira 470 before Vikramaditya, i.e. 56 B.C. + 470 = 526 B.C.,and the Digambaras 605, i.e. 78 A.D. deducted from 605 = 527 B.C., this so far confirms Dr. Buhler's and Dr. Jacobi's brilliant discovery that Mahavira was the same as Nigantha Nataputta, who died at Pava during Buddha's lifetime[2]. Most likely 527 is too early a date, while another
+
+[1. Three Edicts. p. 21; Second Notice. pp. 9, 10.
+
+2. See Jacobi, Kalpa-sutra of Bhadrabahu, and Oldenberg, Zeitschrift der D.M.G., XXXIV, p. 749.]
+
+p. xlii tradition fixing Mahavira's death 155 years before Kandragupta[1], 470 B.C., is too late. Yet they both show that the distance between Asoka (259-222 B.C.), the grandson of Kandragupta (315-291 B.C.), and the contemporaries of Buddha was by the Gainas also believed to be one of two rather than one century.
+
+   When I saw that the date of Buddha's death, 477 B.C., which in my History of Ancient Sanskrit Literature (1859) I had myself tried to support by such arguments as were then accessible, had received so powerful a support by the discovery of the inscriptions of Sahasram, Rupnath, and Bairat, due to General Cunningham, who had himself always been an advocate of the date 477 B.C., and through their careful decipherment by Dr. Buhler, I lost no time in testing that date once more by the Dipavamsa, that Ceylonese chronicle having lately become accessible through Dr. Oldenberg's edition and translation[2]. And here I am able to say that, before having read Dr. Buhler's Second Notice, I arrived, though by a somewhat different way, at nearly the same conclusions as those so well worked out by Dr. Buhler in his restoration of the Episcopal Succession (theravali) of the Buddhists, and therefore feel convinced that, making all such allowances as the case requires, we know now as much of early Buddhist chronology as could be known at the time of Asoka's Council, 242 B.C.
+
+   Taking the date of Buddha's death 477 B.C. for granted, I found that Upali, who rehearsed the Vinaya at the First Council, 477 B.C., had been in orders sixty years in the twenty-fourth year of Agatasatru, i.e. 461 B.C., which was the sixteenth year A.B. He must therefore[3] have been born in 541 B.C., and he died 447 B.C., i.e. thirty years A.D., at the age of 94. This is said to have been the sixth year of Udayi, and so it is, 453 - 6 = 447 B.C.
+
+   In the year 461 B.C. Dasaka received orders from Upali, who was then 80 years of age; and when Dasaka had been
+
+[1. Oldenberg, loc. cit. p. 750.
+
+2. The Dipavamsa, an ancient Buddhist historical record. London, 1879.
+
+3. Assuming twenty to be the minimum age at which a man could be ordained.]
+
+p. xliii in orders forty-five years (Dipavamsa IV, 41), he ordained Saunaka. This would give us 461 - 45 = 416 B.C., while the tenth year of Nagadasa, 429 - 10, would give us 419 A.D. Later on the Dipavamsa (V, 78) allows an interval of forty years between the ordinations of Dasaka and Saunaka, which would bring the date of Saunaka's ordination to 421 B.C., instead of 419 or 416 B.C. Here there is a fault which must be noted. Dasaka died 461 - 64 = 397 A.D., which is called the eighth year of Sisunaga, and so it is 405 - 8 = 397 A.D.
+
+   When Saunaka had been in orders forty years, i.e. 416 - 40 = 376, Kalasoka is said to have reigned a little over ten years, i.e. 387 - 11 = 376 A.D., and in that year Saunaka ordained Siggava. He died 416 - 66 = 350 A.D., which is called the sixth year of the Ten, while in reality it is the ninth, 359 - 6 = 353 A.D. If, however, we take 419 as the year of Saunaka's ordination, his death would fall 419 - 66 = 353 B.C.
+
+   Siggava, when he had been in orders sixty-four years, ordained Tishya Maudgaliputra. This date 376 - 64 = 312 B.C. is called more than two years after Kandragupta's accession, and so it very nearly is, 315 - 2 = 313.
+
+   Siggava died when he had been in orders seventy-six years, i.e. 376 - 76 = 300 A.D. This year is called the fourteenth year of Kandragupta, which it very nearly is, 315 - 14 = 301.
+
+   When Tishya had been in orders sixty[1] years, he ordained Mahendra, 312 - 60 = 252 B.C. This is called six years after Asoka's coronation, 259 - 6 = 253, and so it very nearly is. He died 312 - 80 = 232 B.C., which is called the twenty-sixth year of Asoka, and so it very nearly is.
+
+[1. I take 60 (80), as given in Dipavamsa V, 95, 107, instead of 66 (86), given in Dipavamsa V. 94.]
+
+p. xliv 
+
+ 
+
+BUDDHIST PATRIARCHS.
+
+{not all of the formatting could be reproduced in this table; all cells with three number are joined with a brace on the right in the original}
+
+    Birth.   Ordination.   Ordination of
+ successor.   Death.   Age.   Patriarchate. 
+  Upali  (Generally
+ 20 years
+ before
+ ordination.)  527  461    447  94    30 
+  (60)             
+  Dasaka  461  416  
+ 419  
+ 421    397  84    50 
+       45
+   42
+   40             
+   Saunaka  "  416
+ 419
+ 421  376  
+ 379  
+ 381    350
+ 353  86    44 (47) 
+     (40)             
+  Siggava  "  376&frac12;  312&frac12;  300&frac12;  96    50 (52) 
+     (64)             
+  Tishya  "  312&frac12;  253    233  100    68 
+     (60)             
+  Mahendra  273  253  "  193  80    40 
+                    282 (284) 
+  
+
+   If we test the dates of this table by the length of time assigned to each patriarchate, we find that Upali ruled thirty years, from Buddha's death, 477 to 447; Dasaka fifty years. To Saunaka forty-four years are assigned, instead of forty-seven, owing to a fault pointed out before; and to Siggava fifty-two years, or fifty-five[1] instead of fifty. Tishya's patriarchate is said to have lasted sixty-eight years, which agrees with previous statements.
+
+   Lastly, the years of the death of the six patriarchs, as fixed according to the reigns of the kings of Magadha, agree extremely well.
+
+   Upali died in the sixth year of Udayi, i.e. 453 - 6 = 447 B.C.
+
+   Dasaka died in the eighth year of Sisunaga, i.e. 405 - 8 = 397 B.C.
+
+   Saunaka died in the sixth year of the Ten, i.e. 359 - 6 = 353 B.C., showing again the difference of three years.
+
+[1. The combined patriarchates of Saunaka and Siggava are given as 99 by the Dipavamsa.]
+
+p. xlv 
+
+   Siggava died in the fourteenth year of Kandragupta, i.e. 315 - 14 = 301 B.C.
+
+   Tishya died in the twenty-sixth or twenty-seventh year of Asoka, i.e. 259 - 27 = 233 B.C.
+
+   This general and more than general agreement between dates taken from the history of the kings and the history of the patriarchs leaves on my mind a decided impression of a tradition which, though not strictly historical, in our sense of the word, represents at all events the result of such enquiries as could be made into the past ages of Buddhism at the time of Asoka. There are difficulties in that tradition which would certainly have been avoided, if the whole chronology had been simply made up: but there is no doubt a certain method too perceptible throughout, which warns us that we must not mistake a smooth chronology for solid history.
+
+ 
+
+THE TITLE OF DHAMMAPADA.
+
+   The title of Dhammapada has been interpreted in various ways. It is an ambiguous word, and has been accepted as such by the Buddhists themselves. Dhamma has many meanings. Under one aspect it means religion, particularly the religion taught by Buddha, the law which every Buddhist should accept and observe. Under another aspect dhamma is virtue, or the realisation of the law.
+
+   Pada also has many meanings. In the Abhidhanapadipika it is explained by place, protection, Nirvana, cause, word, thing, portion, foot, footstep.
+
+   Hence dhammapada may mean 'footstep of religion,' and thus the title was first rendered by Gogerly, only that he used the plural instead of the singular, and called it 'The Footsteps of Religion,' while Spence Hardy still more freely called it 'The Paths of Religion.' It may be quite true, as pointed out by Childers, that pada by itself never means path. But it means footstep, and the footstep towards a thing is much the same as what we call the path to a thing. Thus we read, verse 21, 'appamado amatapadam,' earnestness is the step, i.e. the path that leads to immortality. p. xlvi Again, 'pamado makkuno padam' can hardly mean anything but that thoughtlessness is the path of death, is the path that leads to death. The commentator, too, rightly explains it here by amatasya adhigamupaya, the means of obtaining immortality, i.e. Nirvana, or simply by upayo, and even by maggo, the way. If we compare verses 92 and 93 of our text, and verses 254 and 255, we see that pada is used synonymously with gati, going. In the same manner dhammapada would mean the footstep or the footpath of virtue, i.e. the path that leads to virtue, and supply a very appropriate title for a collection of moral precepts. In verses 44 and 45 'path of virtue' seems to be the most appropriate meaning for dhammapada[1], and it is hardly possible to assign any other meaning to it in the following verse (Kundasutta, v. 6):
+
+  Yo dhammapade sudesite
+ Magge givati sannato satima,
+ Anavagga-padani sevamano
+ Tatiyam bhikkhum ahu maggagivim,
+  
+  
+
+'He who lives restrained and attentive in the way that has been well pointed out, in the path of the law, cultivating blameless words, such a Bhikkhu they call a Maggagivi (living in the way).'
+
+   I therefore think that 'Path of Virtue,' or 'Footstep of the Law,' was the idea most prominent in the mind of those who originally framed the title of this collection of verses. It seems to me that Buddhaghosa also took the same view, for the verse which D'Alwis[2] quotes from the introduction of Buddhaghosa's commentary,--
+
+ Sampatta-saddhammapado sattha dhammapadam subham Desesi,and which he translates, 'The Teacher who had reached the very depths (lit. bottom) of Saddhamma, preached this holy Dhammapada,'--lends itself far better to another translation, viz. 'The Teacher who had gained a firm
+
+[1. Cf. Dhammapada, v. 285, nibbanam sugatena desitam.
+
+2. Buddhist Nirvana, p. 62.]
+
+p. xlvii footing in the Good Law, showed (preached) the holy Path of the Law.'
+
+   Gogerly, again, who may generally be taken as a faithful representative of the tradition of the Buddhists still preserved in Ceylon, translates the title by the 'Footsteps of Religion,' so that there can be little doubt that the priests of that island accept Dhammapada in the sense of 'Vestiges of Religion,' or, from a different point of view, 'The Path of Virtue.'
+
+   M. L. Feer[1] takes a slightly different view, and assigning to pada the meaning of foot or base, he translates Dhammapada by Loi fondamentale, or Base de la Religion.
+
+   But it cannot be denied that the title of Dhammapada was very soon understood in a different sense also, namely, as 'Sentences of Religion.' Pada means certainly a foot of a verse, a verse, or a line, and dhammapadam actually occurs in the sense of a 'religious sentence.' Thus we read in verse 102, 'Though a man recite a hundred Gathas made up of senseless words, one dhammapadam, i.e. one single word or line of the law, is better, which if a man hears, he becomes quiet.' But here we see at once the difficulty of translating the title of 'dhammapadam' by 'religious sentences.' Dhammapadam means one law verse, or wise saw, not many. Professor Fausboll, who in his excellent edition of the Dhammapada translated that title by 'a collection of verses on religion,' appeals to such passages as verses 44 and 102 in support of his interpretation. But in verse 42 dhammapadam sudesitam, even if it does not mean the path of the law, could never mean 'versus legis bene enarratos,' but only versum legis bene enarratum, as Dr. Fausboll himself renders ekam dhammapadam, in verse 102, by unus legis versus. Buddhaghosa, too, when he speaks of many law verses uses the plural, for instance[2], 'Be it known that the Gatha consists of the Dhammapadani, Theragatha, Therigatha, and those unmixed (detached) Gatha not comprehended in any of the above-named Suttanta.'
+
+[1. Revue Critique, 1870, p. 378.
+
+2. D'Alwis, Pali Grammar, p. 61.]
+
+p. xlviii 
+
+   The only way in which Dhammapada could be defended in the sense of 'Collection of Verses of the Law,' would be if we took it for an aggregate compound. But such aggregate compounds, in Sanskrit at least, are possible with numerals only; for instance, tribhuvanam, the three worlds; katuryugam, the four ages[1]. It might therefore be possible in Pali, too, to form such compounds as dasapadam, a collection of ten padas, a work consisting of ten padas, a decamerone, but it would in no wise follow that we could in that language attempt such a compound as Dhammapadam, in order to express a collection of law verses[2]. Mr. Beal[3] informs us that the Chinese seem to have taken Dhammapada in the sense of 'stanzas of law,' 'law texts,' or 'scripture texts.'
+
+   It should be remembered, also, that the idea of representing life, and particularly the life of the faithful, as a path of duty or virtue leading to deliverance, (in Sanskrit dharmapatha,) is very familiar to Buddhists. The four great truths of their religion[4] consist in the recognition of the following principles: 1. that there is suffering; 2. that there is a cause of that suffering; 3. that such cause can be removed; 4. that there is a way of deliverance, viz. the doctrine of Buddha. This way is the ashtanga-marga, the eightfold way[5], taught by Buddha, and leading to Nirvana[6]. The faithful advances on that road, padat padam,
+
+[1. See M. M.'s Sanskrit Grammar, &sect; 519.
+
+2. Mr. D'Alwis' arguments (Buddhist Nirvana, pp. 63-67) in support of this view, viz. the dhammapada may be a collective term, do not seem to me to strengthen my own conjecture.
+
+3. Dhammapada from Chinese, p. 4.
+
+4. Spence Hardy, Manual, p. 496.
+
+5. Burnouf, Lotus, p. 520, 'Ajoutons, pour terminer ce que nous trouvons a dire sur le mot magga, quelque commentaire qu'on en donne d'ailleurs, que suivant une definition rapportee par Turnour, le magga renferme une sous-division que l'on nomme patipada, en sanscrit pratipad. Le magga, dit Tumour, est la voie qui conduit au Nibbana, la patipada, litteralement "la marche pas a pas, ou le degre," est la vie de rectitude qu'on doit suivre, quand on marche dans la voie du magga.'
+
+6. See Spence Hardy, Manual, p. 496. Should not katurvidha-dharmapada, mentioned on p. 497, be translated by 'the fourfold path of the Law?' It can hardly be the fourfold word of the Law.]
+
+p. xlix step by step, and it is therefore called patipada, lit. the step by step.
+
+   If we make allowance for these ambiguities, inherent in the name of Dhammapada, we may well understand how the Buddhists themselves play with the word pada (see v. 45). Thus we read in Mr. Beal's translation of a Chinese version of the Pratimoksha[1]:
+
+  'Let all those who desire such birth,
+ Who now are living in the world,
+ Guard and preselve these Precepts, as feet.' 
+  
+
+ 
+
+TRANSLATION.
+
+   In translating the verses of the Dhammapada, I have followed the edition of the Pali text, published in 1855 by Dr. Fausboll, and I have derived great advantage from his Latin translation, his notes, and his copious extracts from Buddhaghosa's commentary. I have also consulted translations, either of the whole of the Dhammapada, or of portions of it, by Burnouf, Gogerly[2], Upham, Weber, and others. Though it will be seen that in many places my translation differs from those of my predecessors, I can only claim for myself the name of a very humble gleaner in this field of Pali literature. The greatest credit is due to Dr. Fausboll, whose editio princeps of the Dhammapada will mark for ever an important epoch in the history of Pali scholarship; and though later critics have been able to point out some mistakes, both in his text and in his translation, the value of their labours is not to be compared with that of the work accomplished single-handed by that eminent Danish scholar.
+
+   In revising my translation, first published in 1870[3], for
+
+[1. Catena, p. 207.
+
+2. Several of the chapters have been translated by Mr. Gogerly, and have appeared in The Friend, vol. iv, 1840. (Spence Hardy, Eastern Monachism, p. 169.)
+
+3. Buddhaghosha's Parables, translated from Burmese by Captain T. Rogers, R. E. With an Introduction, containing Buddha's Dhammapada, translated from Pali by F. Max Muller. London, 1870.]
+
+p. l the Sacred Books of the East, I have been able to avail myself of 'Notes on Dhammapada,' published by Childers in the Journal of the Royal Asiatic Society (May, 1871), and of valuable hints as to the meaning of certain words and verses scattered about in the Pali Dictionary of that much regretted scholar, 1875. I have carefully weighed the remarks of Mr. James D'Alwis in his 'Buddhist Nirvana, a review of Max Muller's Dhammapada' (Colombo, 1871), and accepted some of his suggestions. Some very successful renderings of a number of verses by Mr. Rhys Davids in his ('Buddhism,' and a French translation, too, of the Dhammapada, published by Fernand Hu[1], have been consulted with advantage.
+
+   It was hoped for a time that much assistance for a more accurate understanding of this work might be derived from a Chinese translation of the Dhammapada[2], of which Mr. S. Beal published an English translation in 1878. But this hope has not been entirely fulfilled. It was, no doubt, a discovery of great interest, when Mr. Beal announced that the text of the Dhammapada was not restricted to the southern Buddhists only, but that similar collections existed in the north, and had been translated into Chinese. It was equally important when Schiefner proved the existence of the same work in the sacred canon of the Tibetans. But as yet neither a Chinese nor a Tibetan translation of the Pali Dhammapada has been rendered accessible to us by translations of these translations into English or German, and what we have received instead, cannot make up for what we had hoped for.
+
+   The state of the case is this. There are, as Mr. Beal informs us, four principal copies of what may be called Dhammapada in Chinese, the first dating from the Wu dynasty, about the beginning of the third century A.D. This translation, called Fa-kheu-king, is the work of a
+
+[1. Le Dhammapada avec introduction et notes par Fernand Hu, suivi du Sutra en 42 articles, traduit du Tibetain, par Leon Feer. Paris, 1878.
+
+2. Texts from the Buddhist Canon, commonly known as Dhammapada, translated from the Chinese by Samuel Beal. London, 1878.]
+
+p. li Shaman Wei-ki-lan and others. Its title means 'the Sutra of Law verses,' kheu being explained by gatha, a verse, a word which we shall meet with again in the Tibetan title, Gathasangraha. In the preface the Chinese translator states that the Shamans in after ages copied from the canonical scriptures various gathas, some of four lines and some of six, and attached to each set of verses a title, according to the subject therein explained. This work of extracting and collecting is ascribed to Tsun-ke-Fa-kieou, i.e. Arya-Dharmatrata, the author of the Samyuktabhidharma-sastra and other works, and the uncle of Vasumitra. If this Vasumitra was the patriarch who took a prominent part in the Council under Kanishka, Dharmatrata's collection would belong to the first century B.C.; but this is, as yet, very doubtful.
+
+   In the preface to the Fa-kheu-king we are told that the original, which consisted of 500 verses, was brought from India by Wai-ki-lan in 223 A.D., and that it was translated into Chinese with the help of another Indian called Tsiang-sin. After the translation was finished, thirteen sections were added, making up the whole to 752 verses, 14,580 words, and 39 chapters[1].
+
+   If the Chinese translation is compared with the Pali text, it appears that the two agree from the 9th to the 35th chapter (with the exception of the 33rd), so far as their subjects are concerned, though the Chinese has in these chapters 79 verses more than the Pali. But the Chinese translation has eight additional chapters in the beginning (viz. On Intemperance, Inciting to Wisdom; The Sravaka, Simple Faith, Observance of Duty, Reflection, Loving-kindness, Conversation), and four at the end (viz. Nirvana, Birth and Death, Profit of Religion, and Good Fortune), and one between the 24th and 25th chapter of the Pali text (viz. Advantageous Seivice), all of which are absent in our Pali texts. This, the most ancient
+
+[1. Beal, Dhammapada, p. 30. The real number of verses, however, is 760. In the Pali text, too, there are five verses more than stated in the Index; see M.M., Buddhaghosha's Parables, p. ix, note; Beal, loc. cit. p. 11. note.]
+
+p. lii Chinese translation of Dharmatrata's work, has not been rendered into English by Mr. Beal, but he assures us that it is a faithful reproduction of the original. The book which he has chosen for translation is the Fa-kheu-pi-u, i.e. parables connected with the Dhammapada, and translated into Chinese by two Shamans of the western Tsin dynasty (A.D. 265-313). These parables are meant to illustrate the teaching of the verses, like the parables of Buddhaghosa, but they are not the same parables, nor do they illustrate all the verses.
+
+   A third Chinese version is called Kuh-yan-king, i.e. the Sutra of the Dawn (avadana?), consisting of seven volumes. Its author was Dharmatrata, its translator Ku-fo-nien (Buddhasmriti), about 410 A.D. The MS. of the work is said to have been broght from India by a Shaman Sanghabhadanga of Kipin (Cabul), about 345 A.D. It is a much more extensive work in 33 chapters, the last being, as in the Pali text, on the Brahmana.
+
+   A fourth translation dates from the Sung dynasty (800 or 900 A.D.), and in it, too, the authorship of the text is ascribed to Arya-Dharmatrata.
+
+   A Tibetan translation of a Dhammapada was discovered by Schiefner in the 28th volume of the Sutras, in the collection called Udanavarga. It contains 33 chapters, and more than 1000 verses, of which about one-fourth only can be traced in the Pali text. The same collection is found also in the Tangur, vol. 71 of the Sutras, foll. 1-53, followed by a commentary, the Udanavarga-vivarana by the Akarya Pragnavarman. Unfortunately Schiefner's intention of publishing a translation of it (Melanges Asiatiques, tom. viii. p. 560) has been frustrated by his death. All that he gives us in his last paper is the Tibetan text with translation of another shorter collection, the Gathasangraha by Vasubandhu, equally published in the 72nd volume of the Sutras in the Tangur, and accompanied by a commentary.
+
+p. liii 
+
+ 
+
+SPELLING OF BUDDHIST TERMS.
+
+   I had on a former occasion[1] pleaded so strongly in favour of retaining, as much as possible, the original Sanskrit forms of Pali Buddhist terms, that I feel bound to confess openly that I hold this opinion no longer, or, at all events, that I see it is hopeless to expect that Pali scholars will accept my proposal. My arguments were these: 'Most of the technical terms employed by Buddhist writers come from Sanskrit; and in the eyes of the philologist the various forms which they have assumed in Pali, in Burmese, in Tibetan, in Chinese, in Mongolian, are only so many corruptions of the same original forms. Everything, therefore, would seem to be in favour of retaining the Sanskrit forms throughout, and of writing, for instance, Nirvana instead of the Pali Nibbana, the Burmese Niban or Nepbhan, the Siamese Niruphan, the Chinese Nipan. The only hope, in fact, that writers on Buddhism will ever arrive at a uniform and generally intelligible phraseology seems to lie in their agreeing to use throughout the Sanskrit terms in their original form, instead of the various local disguises and disfigurements which they present in Ceylon, Burmah, Siam, Tibet, China, and Mongolia.'
+
+   I fully admitted that many Buddhist words have assumed such a strongly marked local or national character in the different countries and in the different languages in which the religion of Buddha has found a new home, that to translate them back into Sanskrit might seem as affected, nay, prove in certain cases as misleading, as if, in speaking of priests and kings, we were to speak of presbyters and cynings. The rule by which I meant mainly to be guided was to use the Sanskrit forms as much as possible; in fact, everywhere except where it seemed affected to do so. I therefore wrote Buddhaghosha instead of the Pali Buddhaghosa, because the name of that famous theologian, 'the Voice of Buddha,' seemed to lose its significance if turned
+
+[1. Introduction to Buddhaghosha's Parables, 1870. p. l.]
+
+p. liv into Buddhaghosa. But I was well aware what may be said on the other side. The name of Buddhaghosa, 'Voice of Buddha,' was given him after he had been converted from Brahmanism to Buddhism, and it was given to him by people to whom the Pali word ghosa conveyed the same meaning as ghosha does to us. On the other hand, I retained the Pali Dhammapada instead of Dharmapada, simply because, as the title of a Pali book, it has become so familiar that to speak of it as Dharmapada seemed like speaking of another work. We are accustomed to speak of Samanas instead of Sramanas, for even in the days of Alexander's conquest, the Sanskrit word Sramana had assumed the prakritized or vulgar form which we find in Pali, and which alone could have been rendered by the later Greek writers (first by Alexander Polyhistor, 80-60 B.C.) by {Greek: samanaioi}[1]. As a Buddhist term, the Pali form Samana has so entirely supplanted that of Sramana that, even in the Dhammapada (v. 388), we find an etymology of Samana as derived from sam, 'to be quiet,' and not from sram, 'to toil.' But if we speak of Samanas, we ought also to speak of Bahmanas instead of Brahmanas, for this word had been replaced by bahmana at so early a time, that in the Dhammapada it is derived from a root vah, 'to remove, to separate, to cleanse[2].'
+
+   I still believe that it would be best if writers on Buddhist literature and religion were to adopt Sanskrit throughout as the lingua franca. For an accurate understanding of the original meaning of most of the technical terms of Buddhism a knowledge of their Sanskrit form is indispensable; and nothing is lost, while much would be gained, if, even in the treating of southern Buddhism, we were to
+
+[1. See Lassen, Indische Alterthumskunde, vol. ii. p. 700, note. That Lassen is right in taking the {Greek: Sarmanai}, mentioned by Megasthenes, for Brahmanic, not for Buddhist ascetics, might be proved also by their dress. Dresses made of the bark of trees are not strictly Buddhistic.
+
+2. See Dhammapada, v. 388; Bastian. Volker des ostlichen Asien, vol iii. p. 412: 'Ein buddhistischer Monch erklarte mir, dass die Brahmanen ihren Namen fuhrten, als Leute, die ihre Sunden abgespult hatten.' See also Lalita-Vistara, p. 551, line 1; p. 553, line 7.]
+
+p. lv speak of the town of Sravasti instead of Savatthi in Pali, Sevet in Sinhalese; of Tripitaka, 'the three baskets,' instead of Tipitaka in Pali, Tunpitaka in Sinhalese; of Arthakatha, 'commentary,' instead of Atthakatha in Pali, Atuwava in Sinhalese; and therefore also of Dharmapada, 'the path of virtue,' instead of Dhammapada.
+
+   But inclinations are stronger than arguments. Pali scholars prefer their Pali terms, and I cannot blame them for it. Mr. D'Alwis (Buddhist Nirvana, p. 68) says: 'It will be seen how very difficult it is to follow the rule rigidly. We are, therefore, inclined to believe that in translating Pali works, at least, much inconvenience may not be felt by the retention of the forms of the language in which the Buddhist doctrines were originally delivered.' For the sake of uniformity, therefore, I have given up my former plan. I use the Pali forms when I quote from Pali, but I still prefer the Sanskrit forms, not only when I quote from Sanskrit Buddhist books, but also when I have to speak of Buddhism in general. I speak of Nirvana, dharma, and bhikshu, rather than of Nibbana, dhamma, and bhikkhu, when discussing the meaning of these words without special reference to southern Buddhism; but when treating of the literature and religion of the Theravada school I must so far yield to the arguments of Pali scholars as to admit that it is but fair to use their language when speaking of their opinions.
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 3
+
+ 
+
+DHAMMAPADA.
+
+ 
+
+CHAPTER I.
+
+THE TWIN-VERSES.
+
+   1. All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with an evil thought, pain follows him, as the wheel follows the foot of the ox that draws the carriage.
+
+[1. Dharma, though clear in its meaning, is difficult to translate. It has different meanings in different systems of philosophy, and its peculiar application in the phraseology of Buddhism has been fully elucidated by Burnouf, Introduction a l'Histoire du Buddhisme, p. 41 seq. He writes: 'Je traduis ordinairement ce terme par condition, d'autres fois par lois, mais aucune de ces traductions n'est parfaitement complete; il faut entendre par dharma ce qui fait qu'une chose est ce qu'elle est, ce qui constitue sa nature propre, comme l'a bien montre Lassen, a l'occasion de la celebre formule, "Ye dharma hetuprabhava."' Etymologically the Latin for-ma expresses the same general idea which was expressed by dhar-ma. See also Burnouf, Lotus de la bonne Loi, p. 524. Fausboll translates: 'Naturae a mente principium ducunt,' which shows that he rightly understood dharma in the Buddhist sense. Gogerly (see Spence Hardy, Eastern Monachism, p. 28) translates: 'Mind precedes action,' which, if not wrong, is at all events wrongly expressed; while Professor Weber's rendering, 'Die Pflichten aus dem Herz folgern,' is quite inadmissible. D'Alwis (Buddhist Nirwana, p. 70 seq.), following the commentary, proposes to give a more technical interpretation of this verse, viz. 'Mind is the leader or all its faculties. Mind is the chief (of all its faculties). The very mind is made up of those (faculties). If one speaks or acts with a polluted mind, then affliction follows him as the wheel follows the feet of the bearer (the bullock).' To me this technical acceptation seems not applicable here, where we have to deal with the simplest moral precepts, and not with psychological niceties of Buddhist philosophy. It should be stated, however, that Childers, who first (s.v. dhamma) approved of my translation, seems afterwards to have changed his opinion. On p. 120 of his excellent Pali Dictionary he said: 'Three of the five khandhas, viz. vedana, sanna, and sankhara, are collectively termed dhamma (plur.), "mental faculties," and in the first verse of Dhammapada the commentator takes the word dhamma to mean those three faculties. But this interpretation appears forced and unnatural, and I look upon Dr. Max Muller's translation, "All that we are is the result of what we have thought," as the best possible rendering of the spirit of the phrase mano pubbangama dhamma.' But on p. 577 the same scholar writes: 'Of the four mental khandhas the superiority of vinnana is strongly asserted in the first verse of Dhammapada, "The mental faculties (vedana, sanna, and sankhara) are dominated by Mind," they are governed by Mind, they are made up of Mind." That this is the true meaning of the passage I am now convinced; see D'Alwis, Nirwana, pp. 70-75.' I do not deny that this may have been the traditional interpretation, at all events since the days of Buddhaghosa, but the very legend quoted by Buddhaghosa in illustration of this verse shows that its simpler and purely moral interpretation was likewise supported by tradition, and I therefore adhere to my original translation.]
+
+p. 4
+
+   2. All that we are is the result of what we have thought: it is founded on our thoughts, it is made up of our thoughts. If a man speaks or acts with a pure thought, happiness follows him, like a shadow that never leaves him.
+
+   3. 'He abused me, he beat me, he defeated me, he robbed me,'--in those who harbour such thoughts hatred will never cease.
+
+   4. 'He abused me, he beat me, he defeated me, he robbed me,'--in those who do not harbour such thoughts hatred will cease.
+
+[2. See Beal, Dhammapada, p. 169.
+
+3. On akkokkhi, see Kakkayana VI, 4, 17. D'Alwis, Pali Grammar, p. 38 note, 'When akkokkhi means "he abused," it is derived from krus, not from krudh.' See Senart, Kakkayana, I. c.]
+
+p. 5
+
+   5. For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.
+
+   6. The world does not know that we must all come to an end here;--but those who know it, their quarrels cease at once.
+
+   7. He who lives looking for pleasures only, his senses uncontrolled, immoderate in his food, idle, and weak, Mara (the tempter) will certainly overthrow him, as the wind throws down a weak tree.
+
+   8. He who lives without looking for pleasures, his senses well controlled, moderate in his food, faithful and strong, him Mara will certainly not overthrow, any more than the wind throws down a rocky mountain.
+
+   9. He who wishes to put on the yellow dress without having cleansed himself from sin, who disregards temperance and truth, is unworthy of the yellow dress.
+
+[6. Pare is explained by 'fools,' but it has that meaning by implication only. It is {Greek: oi polloi}, cf. Vinaya, ed. Oldenberg, vol. i., p. 5, l. 4. Yamamase, a 1 pers. plur. imp. Atm., but really a Let in Pali. See Fausboll, Five Gatakas, p. 38.
+
+7. Mara must be taken in the Buddhist sense of 'tempter,' or 'evil spirit.' See Burnouf, Introduction, p. 76: 'Mara est le demon de l'amour, du peche et de la mort; c'est le tentateur et l'ennemi de Buddha.' As to the definite meaning of virya, see Burnouf, Lotus, p. 548.
+
+In the Buddhistical Sanskrit, kusida, 'idle,' is the exact counterpart of the Pali kusita; see Burnouf, Lotus, p. 548. On the change of Sanskrit d into Pali t, see Kuhn, Beitrage zur Pali Grammatik, p. 40; Weber, Ind. Studien, XIII, p. 135.
+
+9. The dark yellow dress, the Kasava or Kashaya, is the distinctive garment of the Buddhist priests. See Vishnu-sutra LXIII, 36. The play on the words anikkasavo kasavam, or in Sanskrit anishkashayah kashayam, cannot be rendered in English. Kashaya means 'impurity,' nish-kashaya, 'free from impurity,' anish-kashaya, 'not free from impurity,' while kashaya is the name of the yellowish Buddhist garment. The pun is evidently a favourite one, for, as Fausboll shows, it occurs also in the Mahabharata, XII, 568:
+       Anishkashaye kashayam ihartham iti viddhi tam,
+       Dharmadhvaganam mundanam vrittyartham iti me matih.
+ 'Know that this yellow-coloured garment on a man who is not free from impurity, serves only for the purpose or cupidity; my opinion is, that it is meant to supply the means of living to those shavelings, who carry their virtue or the dharma like a flag.'
+
+(I read vrittyartham, according to the Bombay edition, instead of kritartham, the reading of the Calcutta edition.)
+
+On the exact colour of the dress, see Bishop Bigandet, The Life or Legend or Gaudama, the Budha of the Burmese, Rangoon, 1866, p. 504. Cf. Gataka, vol. ii. p. 198.]
+
+p. 6
+
+   10. But he who has cleansed himself from sin, is well grounded in all virtues, and regards also temperance and truth, he is indeed worthy of the yellow dress.
+
+   11. They who imagine truth in untruth, and see untruth in truth, never arrive at truth, but follow vain desires.
+
+   12. They who know truth in truth, and untruth in untruth, arrive at truth, and follow true desires.
+
+   13. As rain breaks through an ill-thatched house, passion will break through an unreflecting mind.
+
+   14. As rain does not break through a well-thatched house, passion will not break through a well-reflecting mind.
+
+   15. The evil-doer mourns in this world, and he
+
+[10. With regard to sila, 'virtue,' see Burnouf, Lotus, p. 547.
+
+11, 12. Sara, which I have translated by 'truth,' has many meanings in Sanskrit. It means the sap of a thing, then essence or reality; in a metaphysical sense, the highest reality; in a moral sense, truth. It is impossible in a translation to do more than indicate the meaning of such words, and in order to understand them fully, we must know not only their definition, but their history. See Beal, Dhammapada, p. 64.
+
+13. See Beal, Dhammapada, p. 65.
+
+15. Kilittha is klishta, a participle of klis. It means literally, what is spoilt. The abstract noun klesa, 'evil or sin,' is contantly employed in Budddist works; see Burnouf, Lotus, p. 443.]
+
+p. 7
+
+mourns in the next; he mourns in both. He mourns and suffers when he sees the evil of his own work.
+
+   16. The virtuous man delights in this world, and he delights in the next; he delights in both. He delights and rejoices, when he sees the purity of his own work.
+
+   17. The evil-doer suffers in this world, and he suffers in the next; he suffers in both. He suffers when he thinks of the evil he has done; he suffers more when going on the evil path.
+
+   18. The virtuous man is happy in this world, and he is happy in the next; he is happy in both. He is happy when he thinks of the good he has done; he is still more happy when going on the good path.
+
+   19. The thoughtless man, even if he can recite a large portion (of the law), but is not a doer of it, has no share in the priesthood, but is like a cowherd counting the cows of others.
+
+[16. Like klishta in the preceding verse, visuddhi in the present has a technical meaning. One of Buddhaghosa's most famous works is called Visuddhi-magga. See Burnouf, Lotus, p. 844; Beal, Dhammapada, p. 67.
+
+17, 18. 'The evil path and the good path' are technical expressions for the descending and ascending scale of worlds through which all beings have to travel upward or downward, according to their deeds; see Bigandet; Life of Gaudama, p. 5, note 4, and p. 449; Burnouf, Introduction, p. 599; Lotus, p. 865, l. 7; l. 11. Fausboll translates 'heaven and hell,' which comes to the same; cf. vv. , .
+
+19. In taking sahitam in the sense of samhitam or samhita, I follow the commentator who says, Tepitakassa Buddhavakanass' etam namam, but I cannot find another passage where the Tipitaka, or any portion of it, is called Sahita. Samhita in  has a different meaning. The fact that some followers of Buddha were allowed to learn short portions only of the sacred writings by heart, and to repeat them, while others had to learn a larger collection, is shown by the story of Kakkhupala, p. 3. of Mahakala, p. 26, &c. See Childers, s.v. sahita.]
+
+p. 8
+
+   20. The follower of the law, even if he can recite only a small portion (of the law), but, having forsaken passion and hatred and foolishness, possesses true knowledge and serenity of mind, he, caring for nothing in this world or that to come, has indeed a share in the priesthood.
+
+[20. Samanna, which I have rendered by 'priesthood,' expresses all that belongs to, or constitutes a real Samana or Sramana, this being the Buddhist name corresponding to the Brahmana, or priest, of the orthodox Hindus. Buddha himself is frequently called the Good Samana. Fausboll takes the abstract word samanna as corresponding to the Sanskrit samanya, 'community,' but Weber has well shown that it ought to be taken as representing sramanya. He might have quoted the Samanna-phala-sutta, of which Burnouf has given such interesting details in his Lotus, p. 449 seq. Fausboll also, in his notes on v. 332, rightly explains samannata by sramanyata. See Childers, s.v. samanna.
+
+Anupadiyano, which I have translated by 'caring for nothing,' has a technical meaning. It is the negative of the fourth Nidana, the so-called Upadana, which Koppen has well explained by Anhanglichkeit, 'taking to the world, loving the world.' Koppen, Die Religion des Buddha, p. 610. Cf. .]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 9
+
+ 
+
+CHAPTER II.
+
+ON EARNESTNESS[1].
+
+   21. Earnestness is the path of immortality (Nirvana), thoughtlessness the path of death. Those who are in earnest do not die, those who are thoughtless are as if dead already.
+
+   22. Those who are advanced in earnestness, having understood this clearly, delight in earnestness, and rejoice in the knowledge of the Ariyas (the elect).
+
+   23. These wise people, meditative, steady, always possessed of strong powers, attain to Nirvana, the highest happiness.
+
+[1. There is nothing in the tenth section of the Dhammapada, as translated by Beal, corresponding to the verses of this chapter.
+
+21. Apramada, which Fausboll translates by 'vigilantia,' Gogerly by 'religion,' Childers by 'diligence,' expresses literally the absence of that giddiness or thoughtlessness which characterizes the state of mind of worldly people. It is the first entering into oneself, and hence all virtues are said to have their root in apramada. (Ye keki kusala dhamma sabbe te appamadamulaka.) I have translated it by 'earnestness,' sometimes by 'reflection.' 'Immortality,' amrita, is explained by Buddhaghosa as Nirvana. Amrita is used, no doubt, as a synonym of Nirvana, but this very fact shows how many different conceptions entered from the very first into the Nirvana of the Buddhists. See Childers, s.v. nibbana, p. 269.
+
+This verse, as recited to Asoka; occurs in the Dipavamsa VI, 53, and in the Mahavamsa, p. 25. See also Sanatsugatiya, translated by Telang, Sacred Books of the East, vol. viii. p. 138.
+
+22. The Ariyas, the noble or elect, are those who have entered on the path that leads to Nirvana; see Koppen, p. 396. Their knowledge and general status is minutely described; see Koppen, p. 436.
+
+23. Childers, s.v. nibbana, thinks that nibbana here and in many other places means Arhatship.]
+
+p. 10
+
+   24. If an earnest person has roused himself, if he is not forgetful, if his deeds are pure, if he acts with consideration, if he restrains himself, and lives according to law,--then his glory will increase.
+
+   25. By rousing himself, by earnestness, by restraint and control, the wise man may make for himself an island which no flood can overwhelm.
+
+   26. Fools follow after vanity, men of evil wisdom. The wise man keeps earnestness as his best jewel.
+
+   27. Follow not after vanity, nor after the enjoyment of love and lust! He who is earnest and meditative, obtains ample joy.
+
+   28. When the learned man drives away vanity by earnestness, he, the wise, climbing the terraced heights of wisdom, looks down upon the fools, serene he looks upon the toiling crowd, as one that stands on a mountain looks down upon them that stand upon the plain.
+
+   29. Earnest among the thoughtless, awake among the sleepers, the wise man advances like a racer, leaving behind the hack.
+
+   30. By earnestness did Maghavan (Indra) rise to the lordship of the gods. People praise earnestness; thoughtlessness is always blamed.
+
+   31. A Bhikshu (mendicant) who delights in earnestness, who looks with fear on thoughtlessness,
+
+[25. Childers explains this island again as the state of an Arhat (arahatta-phalam).
+
+28. Cf. Childers, Dictionary, Preface, p. xiv. See Vinaya, ed. Oldenberg, vol. i. p. 5, s.f.
+
+31. Instead of saham, which Dr. Fausboll translates by 'vincens,' Dr. Weber by 'conquering,' I think we ought to read dahan, 'burning,' which was evidently the reading adopted by Buddhaghosa. Mr. R. C. Childers, whom I requested to see whether the MS. at the India Office gives saham or daham, writes that the reading daham is as clear as possible in that MS. The fetters are meant for the senses. See .]
+
+p. 11
+
+moves about like fire, burning all his fetters, small or large.
+
+   32. A Bhikshu (mendicant) who delights in reflection, who looks with fear on thoughtlessness, cannot fall away (from his perfect state)--he is close upon Nirvana.
+
+[1. See Childers, Notes, p. 5.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 12
+
+ 
+
+CHAPTER III.
+
+THOUGHT.
+
+   33. As a fletcher makes straight his arrow, a wise man makes straight his trembling and unsteady thought, which is difficult to guard, difficult to hold back.
+
+   34. As a fish taken from his watery home and thrown on dry ground, our thought trembles all over in order to escape the dominion of Mara (the tempter).
+
+   35. It is good to tame the mind, which is difficult to hold in and flighty, rushing wherever it listeth; a tamed mind brings happiness.
+
+   36. Let the wise man guard his thoughts, for they are difficult to perceive, very artful, and they rush wherever they list: thoughts well guarded bring happiness.
+
+   37. Those who bridle their mind which travels far, moves about alone, is without a body, and hides in the chamber (of the heart), will be free from the bonds of Mara (the tempter).
+
+   38. If a man's thoughts are unsteady, if he does not know the true law, if his peace of mind is troubled, his knowledge will never be perfect.
+
+   39. If a man's thoughts are not dissipated, if
+
+[33. Cf. Gataka, vol. i. p. 400.
+
+34. On Mara, see .
+
+35-39. Cf. Gataka, vol. i. pp. 312, 400.
+
+39. Fausboll traces anavassuta, 'dissipated,' back to the Sanskrit root syai, 'to become rigid;' but the participle of that root would be sita, not syuta. Professor Weber suggests that anavassuta stands for the Sanskrit anavasruta, which he translates unbefleckt, 'unspotted.' If avasruta were the right word; it might be taken in the sense of 'not fallen off, not fallen away,' but it could not mean 'unspotted;' cf. dhairyam no 'susruvat, 'our firmness ran away.' I have little doubt, however, that avassuta represents the Sanskrit avasruta, and is derived from the root sru, here used in its technical sense, peculiar to the Buddhist literature, and so well explained by Burnouf in his Appendix XIV (Lotus, p. 820). He shows that, according to Hemakandra and the Gina-alankara, asravakshaya, Pali asavasamkhaya is counted as the sixth abhigna, wherever six of these intellectual powers are mentioned, instead of five. The Chinese translate the term in their Own Chinese fashion by 'stillationis finis,' but Burnouf claims for it the definite sense of destruction of faults or vices. He quotes from the Lalita-vistara (Adhyaya XXII, ed. Rajendra Lal Mittra, p. 448) the words uttered by Buddha when he arrived at his complete Buddhahood:--
+       Sushka asrava na punah sravanti,
+       'The vices are dried up, they will not flow again;'
+ and he shows that the Pali Dictionary, the Abhidhanappadipika, explains asava simply by kama, 'love, pleasure of the senses.' In the Mahaparinibbana-sutta, three classes of asava are distinguished, the kamasava, the bhavasava, and the aviggasava. See also Burnouf, Lotus, p. 665; Childers, s.v. asavo.
+
+That sru means 'to run,' and is in fact a merely dialectic variety of sru, has been proved by Burnouf, while Boehtlingk thinks the substitution of s for s is a mistake. Asrava therefore, or asrava, meant originally 'the running out towards objects of the senses' (cf. sanga, alara, &c.), and had nothing to do with asrava, 'a running, a sore,' Atharva-veda I, 2, 4. This conception of the original purport of a + sru or ava-sru is confirmed by a statement of Colebrooke's, who, when treating of the Gainas, writes (Miscellaneous Essays, I, 382); 'Asrava is that which directs the embodied spirit (asravayati purusham) towards external objects. It is the occupation and employment (vritti or pravritti) of the senses or organs on sensible objects. Through the means of the senses it, affects the embodied spirit with the sentiment of taction, colour, smell, and taste. Or it is the association or connection of body with right and wrong deeds. It comprises all the karmas, for they (asravayanti) pervade, influence, and attend the doer, following him or attaching to him. It is a misdirection (mithya-pravritti) of the organs, for it is vain, a cause of disappointment, rendering the organs of sense and sensible objects subservient to fruition. Samvara is that which stops (samvrinoti) the course of the foregoing, or closes up the door or passage to it, and consists in self-command or restraint of organs internal and external, embracing all means of self-control and subjection of the senses, calming and subduing them.'
+
+For a full account of the asravas, see Lalita-vistara, ed. Calc. pp. 445 and 552, where Kshinasrava is given as a name of Buddha. Asrava occurs in Apastamba's Dharma-sutras II, 5, 9, where the commentator explains it by objects of the senses, by which the soul is made to run out. It is better, however, to take asrava here, too, as the act of running out, the affections, appetites, passions.]
+
+p. 13
+
+his mind is not perplexed, if he has ceased to think of good or evil, then there is no fear for him while he is watchful.
+
+p. 14
+
+   40. Knowing that this body is (fragile) like a jar, and making this thought firm like a fortress, one should attack Mara (the tempter) with the weapon of knowledge, one should watch him when conquered, and should never rest.
+
+   41. Before long, alas! this body will lie on the earth, despised, without understanding, like a useless log.
+
+   42. Whatever a hater may do to a hater, or
+
+[40. Anivesana has no doubt a technical meaning, and may signify, one who has left his house, his family and friends, to become a monk. A monk shall not return to his home, but travel about; he shall be anivesana, 'homeless,' anagara, 'houseless.' But I doubt whether this can be the meaning of anivesana here, as the sentence, let him be an anchorite, would come in too abruptly. I translate it therefore in a more general sense, let him not return or turn away from the battle, let him watch Mara, even after he is vanquished, let him keep up a constant fight against the adversary, without being attached to anything or anybody.]
+
+p. 15
+
+an enemy to an enemy, a wrongly-directed mind will do us greater mischief.
+
+   43. Not a mother, not a father will do so much, nor any other relative; a well-directed mind will do us greater service.
+
+[43. See Beal, Dhammapada, p. 73.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 16
+
+ 
+
+CHAPTER IV.
+
+FLOWERS[1].
+
+   44. Who shall overcome this earth, and the world of Yama (the lord of the departed), and the world of the gods? Who shall find out the plainly shown path of virtue, as a clever man finds out the (right) flower?
+
+   45. The disciple will overcome the earth, and the world of Yama, and the world of the gods. The disciple will find out the plainly shown path of virtue, as a clever man finds out the (right) flower.
+
+[1. See Beal, Dhammapada, p. 75.
+
+44, 45. If I differ from the translation of Fausboll and Weber, it is because the commentary takes the two verbs, vigessati and pakessati, to mean in the end the same thing, i.e. sakkhi-karissati, 'he will perceive.' I have not ventured to take vigessate for viganissati, though it should be remembered that the overcoming of the earth and of the worlds below and above, as here alluded to, is meant to be achieved by means of knowledge. Pakessati, 'he will gather' (cf. vi-ki, Indische Spruche, 4560), means also, like 'to gather' in English, 'he will perceive or understand,' and the dhammapada, or 'path of virtue,' is distinctly explained by Buddhaghosa as consisting of the thirty-seven states or stations which lead to Bodhi. (See Burnouf, Lotus, p. 430; Hardy, Manual, p. 497.) Dhammapada might, no doubt, mean also 'a law-verse,' and sudesita, 'well taught,' and this double meaning may be intentional here as elsewhere. Buddha himself is called Marga-darsaka and Marga-desika (cf. Lal. Vist. p. 551). There is a curions similarity between these verses and verses 6540-41, and 9939 of the Santi-parva:
+       Pushpaniva vikinvantam anyatragatamanasam,
+       Anavapteshu kameshu mrityur abhyeti manavam.
+ 'Death approaches man like one who is gathering flowers, and whose mind is turned elsewhere, before his desires have been fulfilled.'
+       Suptam vyaghram mahaugho va mrityur adaya gakkhati,
+       Sankinvanakam evainam kamanam avitriptikam.
+ 'As a stream (carries off) a sleeping tiger, death carries off this man who is gathering flowers, and who is not satiated in his pleasures.'
+
+This last verse, particularly, seems to me clearly a translation from Pali, and the kam of sankinvanakam looks as if put in metri causa.]
+
+p. 17
+
+   46. He who knows that this body is like froth, and has learnt that it is as unsubstantial as a mirage, will break the flower-pointed arrow of Mara, and never see the king of death.
+
+   47. Death carries off a man who is gathering flowers and whose mind is distracted, as a flood carries off a sleeping village.
+
+   48. Death subdues a man who is gathering flowers, and whose mind is distracted, before he is satiated in his pleasures.
+
+   49. As the bee collects nectar and departs without injuring the flower, or its colour or scent, so let a sage dwell in his village.
+
+   50. Not the perversities of others, not their sins
+
+[46. The flower-arrows of Mara, the tempter, are borrowed from Kama, the Hindu god of love. For a similar expression see Lalita-vistara, ed. Calc. p. 40, l. 20, mayamarikisadrisa vidyutphenopamas kapalah. It is on account of this parallel passage that I prefer to translate mariki by 'mirage,' and not by 'sunbeam,' as Fausboll, or by 'solar atom,' as Weber proposes. The expression, 'he will never see the king of death,' is supposed to mean Arhatship by Childers, s.v. nibbana, p. 270.
+
+47. See Thiessen, Die Legende von Kisagotami, p. 9.
+
+48. Antaka, 'death,' is given as an explanation of Mara in the Amarakosha and Abhidhanappadipika (cf. Fausboll, p. 210).
+
+49. See Beal, Catena, p. 159, where vv. 49 and 50 are ascribed to Wessabhu, i.e. Visvabhu. See also Der Weise und der Thor, p. 134.]
+
+p. 18
+
+of commission or omission, but his own misdeeds and negligences should a sage take notice of.
+
+   51. Like a beautiful flower, full of colour, but without scent, are the fine but fruitless words of him who does not act accordingly.
+
+   52. But, like a beautiful flower, full of colour and full of scent, are the fine and fruitful words of him who acts accordingly.
+
+   53. As many kinds of wreaths can be made from a heap of flowers, so many good things may be achieved by a mortal when once he is born.
+
+   54. The scent of flowers does not travel against the wind, nor (that of) sandal-wood, or of Tagara and Mallika flowers; but the odour of good people travels even against the wind; a good man pervades every place.
+
+   55. Sandal-wood or Tagara, a lotus-flower, or a Vassiki, among these sorts of perfumes, the perfume of virtue is unsurpassed.
+
+   56. Mean is the scent that comes from Tagara and sandal-wood;--the perfume of those who possess virtue rises up to the gods as the highest.
+
+   57. Of the people who possess these virtues, who live without thoughtlessness, and who are emancipated
+
+[51. , 'For they say, and do not.'
+
+54. Tagara, a plant from which a scented powder is made. Mallaka or mallika, according to Benfey, is an oil vessel. Hence tagaramallika was supposed to mean a bottle holding aromatic powder, or oil made of the Tagara. Mallika, however, is given by Dr. Eitel (Handbook of Chinese Buddhism) as the name of a flower now called Casturi (musk) on account of its rich odour, and Dr. Morris informs me that he has found mallika in Pali as a name of jasmine. See also Childers, s.v.; Notes, p. 6 ; and Beal, Dhammapada, p. 76.]
+
+p. 19
+
+through true knowledge, Mara, the tempter, never finds the way.
+
+   58., 59. As on a heap of rubbish cast upon the highway the lily will grow full of sweet perfume and delight, thus the disciple of the truly enlightened Buddha shines forth by his knowledge among those who are like rubbish, among the people that walk in darkness.
+
+[58, 59. Cf. Beal, Dhammapada, p. 76.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 20
+
+ 
+
+CHAPTER V.
+
+THE FOOL.
+
+   60. Long is the night to him who is awake; long is a mile to him who is tired; long is life to the foolish who do not know the true law.
+
+   61. If a traveller does not meet with one who is his better, or his equal, let him firmly keep to his solitary journey; there is no companionship with a fool.
+
+   62. 'These sons belong to me, and this wealth belongs to me,' with such thoughts a fool is tormented. He himself does not belong to himself; how much less sons and wealth?
+
+   63. The fool who knows his foolishness, is wise at least so far. But a fool who thinks himself wise, he is called a fool indeed.
+
+   64. If a fool be associated with a wise man even all his life, he will perceive the truth as little as a spoon perceives the taste of soup.
+
+   65. If an intelligent man be associated for one minute only with a wise man, he will soon perceive the truth, as the tongue perceives the taste of soup.
+
+   66. Fools of little understanding have themselves
+
+[60. 'Life,' samsara, is the constant revolution of birth and death which goes on for ever until the knowledge of the true law or the true doctrine of Buddha enables a man to free himself from samsara, and to enter into Nirvana. See Buddhaghosha's Parables, Parable XIX, p. 134.
+
+61. Cf. .
+
+63. Cf. Beal, Dhammapada, p. 77.
+
+65. Cf. Beal, Dhammapada, p. 78.]
+
+p. 21
+
+for their greatest enemies, for they do evil deeds which must bear bitter fruits.
+
+   67. That deed is not well done of which a man must repent, and the reward of which he receives crying and with a tearful face.
+
+   68. No, that deed is well done of which a man does not repent, and the reward of which he receives gladly and cheerfully.
+
+   69. As long as the evil deed done does not bear fruit, the fool thinks it is like honey; but when it ripens, then the fool suffers grief.
+
+   70. Let a fool month after month eat his food (like an ascetic) with the tip of a blade of Kusa grass, yet he is not worth the sixteenth particle of those who have well weighed the law.
+
+   71. An evil deed, like newly-drawn milk, does not turn (suddenly); smouldering, like fire covered by ashes, it follows the fool.
+
+[67. See Beal, l.c. p. 78.
+
+69. Taken from the Samyutta-nikaya, where, however, we read thananhi instead of madhuva; see Feer, Comptes Rendus, 1871, p. 64.
+
+70. The commentator clearly takes sankhata in the sense of sankhyata, 'reckoned,' for he explains it by natadhamma, tulitadhamma. The eating with the tip of Kusa grass has reference to the fastings performed by the Brahmans, but disapproved of, except as a moderate discipline, by the followers of Buddha. This verse seems to interrupt the continuity of the other verses which treat of the reward of evil deeds, or of the slow but sure ripening of every sinful act. See Childers, s.v. sankhato.
+
+71. I am not at all certain of the simile, unless mukkati, as applied to milk, can be used in the sense of changing or turning sour. In Manu IV, 172, where a similar sentence occurs, the commentators are equally doubtful: Nadharmas karito loke sadyah phalati gaur iva, 'for an evil act committed in the world does not bear fruit at once, like a cow;' or 'like the earth (in due season);' or 'like milk.' See Childers, Notes, p. 6.]
+
+p. 22
+
+   72. And when the evil deed, after it has become known, brings sorrow to the fool, then it destroys his bright lot, nay, it cleaves his head.
+
+   73. Let the fool wish for a false reputation, for precedence among the Bhikshus, for lordship in the convents, for worship among other people!
+
+   74. 'May both the layman and he who has left the world think that this is done by me; may they be subject to me in everything which is to be done or is not to be done,' thus is the mind of the fool, and his desire and pride increase.
+
+   75. 'One is the road that leads to wealth, another the road that leads to Nirvana;' if the Bhikshu, the disciple of Buddha, has learnt this, he will not yearn for honour, he will strive after separation from the world.
+
+[72. I take nattam for gnapitam, the causative of gnatam, for which in Sanskrit, too, we have the form without i, gnaptam. This gnaptam, 'made known, revealed,' stands in opppsition to the khanna, 'covered, hid,' of the preceding verse. Sukkamsa, which Fausboll explains by suklamsa, has probably a more technical and special meaning. Childers traces nattam to the Vedic gnatram, 'knowledge.' Fausboll refers to Gataka, vol. i. p. 445, v. 118.
+
+75. Viveka, which in Sanskrit means chiefly understanding, has with the Buddhists the more technical meaning of separation, whether separation from the world and retirement to the solitude of the forest (kaya-viveka), or separalion from idle thoughts (kitta-viveka), or the highest separation and freedom (Nirvana).]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 23
+
+ 
+
+CHAPTER VI.
+
+THE WISE MAN (PANDITA).
+
+   76. If you see an intelligent man who tells you where true treasures are to be found, who shows what is to be avoided, and administers reproofs, follow that wise man; it will be better, not worse, for those who follow him.
+
+   77. Let him admonish, let him teach, let him forbid what is improper!--he will be beloved of the good, by the bad he will be hated.
+
+   78. Do not have evil-doers for friends, do not have low people for friends: have virtuous people for friends, have for friends the best of men.
+
+   79. He who drinks in the law lives happily with a serene mind: the sage rejoices always in the law, as preached by the elect (Ariyas).
+
+   80. Well-makers lead the water (wherever they like); fletchers bend the arrow; carpenters bend a log of wood; wise people fashion themselves.
+
+[78. It is hardly possible to take mitte kalyane in the technical sense of kalyana-mitra, 'ein geistlicher Rath,' a spiritual guide. Burnouf (Introd. p. 284) shows that in the technical sense kalyana-mitra was widely spread in the Buddhist world.
+
+79. Ariya, 'elect, venerable,' is explained by the commentator as referring to Buddha and other teachers.
+
+80. See verses  and , the latter being a mere repetition of our verse. The nettikas, to judge from the commentary and from the general purport of the verse, are not simply water-carriers, but builders of canals and aqueducts, who force the water to go where it would not go by itself. The Chinese translator says, 'the pilot manages his ship.' See Beal, l.c. p. 79.]
+
+p. 24
+
+   81. As a solid rock is not shaken by the wind, wise people falter not amidst blame and praise.
+
+   82. Wise people, after they have listened to the laws, become serene, like a deep, smooth, and still lake.
+
+   83. Good people walk on whatever befall, the good do not prattle, longing for pleasure; whether touched by happiness or sorrow wise people never appear elated or depressed.
+
+   84. If, whether for his own sake, or for the sake of others, a man wishes neither for a son, nor for wealth, nor for lordship, and if he does not wish for his own success by unfair means, then he is good, wise, and virtuous.
+
+   85. Few are there among men who arrive at the other shore (become Arhats); the other people here run up and down the shore.
+
+[83. The first line is very doubtful. I have adopted, in my translation, a suggestion of Mr. Childers, who writes, 'I think it will be necessary to take sabbattha in the sense of "everywhere," or "under every condition;" pankakhandadibhedesu, sabbadhammesu, says Buddhaghosha. I do not think we need assume that B. means the word vigahanti to be a synonym of vaganti. I would rather take the whole sentence together as a gloss upon the word vaganti:--vagantiti arahattananena apakaddhanta khandaragam vigahanti; vaganti means that, ridding themselves of lust by the wisdom which Arhatship confers, they cast it away.' I am inclined to think the line means 'the righteous walk on (unmoved) in all the conditions of life.' Ninda, pasamsa, sukha, dukkha are four of the eight lokadhammas, or earthly conditions; the remaining lokadhammas are labba, alabha, yasa, ayasa.
+
+In , passata, 'by a man who sees,' means 'by a man who sees clearly or truly.' ln the same manner vrag may mean, not simply 'to walk,' but 'to walk properly,' or may be used synonymously with pravrag.
+
+85. 'The other shore' is meant for Nirvana, 'this shore' for common life. On reaching Nirvana, the dominion of death is overcome. The commentator supplies taritva, 'having crossed,' in order to explain the accusative makkudheyyam. Possibly param essanti should here be taken as one word, in the sense of overcoming.]
+
+p. 25
+
+   86. But those who, when the law has been well preached to them, follow the law, will pass across the dominion of death, however difficult to overcome.
+
+   87., 88. A wise man should leave the dark state (of ordinary life), and follow the bright state (of the Bhikshu). After going from his home to a homeless state, he should in his retirement look for enjoyment where there seemed to be no enjoyment. Leaving all pleasures behind, and calling nothing his own, the wise man should purge himself from all the troubles of the mind.
+
+   89. Those whose mind is well grounded in the (seven) elements of knowledge, who without clinging
+
+[87, 88. Dark and bright are meant for bad and good; cf. , and . Leaving one's home is the same as becoming a mendicant, without a home or family, an anagara, or anchorite. A man in that state of viveka, or retirement (see , note), sees, that where before there seemed to be no pleasure there real pleasure is to be found, or vice versa. A similar idea is expressed in . See Burnouf, Lotus, p. 474, where he speaks of 'Le plaisir de la satisfaction, ne de la distinction.'
+
+The five troubles or evils of the mind are passion, anger, ignorance, arrogance, pride; see Burnouf, Lotus, pp. 360, 443. As to pariyodapeyya, see , and Lotus, pp. 523, 528; as to akinkano, see Mahabh. XII, 6568, 1240.
+
+89. The elements of knowledge are the seven Sambodhvangas, on which see Burnouf, Lotus, p. 796. D'Alwis explains them as the thirty-seven Bodhipakkhiya-dhamma. Khinasava, which I have translated by 'they whose frailties have been conquered,' may also be taken in a more metaphysical sense, as explained in the note to . The same applies to the other terms occurring in this verse, such as adana, anupadaya, &c. Dr. Fausboll seems inclined to take asava in this passage, and in the other passages where it occurs, as the Pali representative of asraya. But asraya, in Buddhist phraseology, means rather the five organs of sense with manas, 'the soul,' and these are kept distinct from the asavas, 'the inclinations, the appetites, passions, or vices.' The commentary on the Abhidharma, when speaking of the Yogakaras, says, 'En reunissant ensemble les receptacles (asr ya), les choses recues (asrita) et les supports (alambana), qui sont chacun composes de six termes, on a dix-huit termes qu'on appelle "Dhatus" ou contenants. La collection des six receptacles, ce sont les organes de la vue, de l'ouie, de l'odorat, du gout, du toucher, et le "manas" (ou l'organe du coeur), qui est le dernier. La collection des six choses recues, c'est la connaissance produite par la vue et par les autres sens jusqu'au "manas" inclusivement. La collection des six supports, ce sont la forme et les autres attributs sensibles jusqu'au "Dharma" (la loi ou l'etre) inclusivement.' See Burnouf, Introduction, p. 449.
+
+Parinibbuta is again a technical term, the Sanskrit parinivrita meaning 'freed from all worldly fetters,' like vimukta. See Burnouf, Introduction, p. 590. See Childers, s.v. nibbana, p. 270, and Notes on Dhammapada, p. 3; and D'Alwis, Buddhist Nirvana, p. 75.]
+
+p. 26
+
+to anything, rejoice in freedom from attachment, whose appetites have been conquered, and who are full of light, are free (even) in this world.
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 27
+
+ 
+
+CHAPTER VII.
+
+THE VENERABLE (ARHAT).
+
+   90. There is no suffering for him who has finished his journey, and abandoned grief, who has freed himself on all sides, and thrown off all fetters.
+
+   91. They depart with their thoughts well-collected, they are not happy in their abode; like swans who have left their lake, they leave their house and home.
+
+   92. Men who have no riches, who live on recognised food, who have perceived void and unconditioned freedom (Nirvana), their path is difficult to understand, like that of birds in the air.
+
+[91. Satimanto, Sanskrit smrimantah, 'possessed of memory,' but here used in the technical sense of sati, the first of the Bodhyangas. See Burnouf, Introduction, p. 797. Clough translates it by 'intense thought,' and this is the original meaning of smar, even in Sanskrit. See Lectures on the Science of Language, vol, ii. p. 332.
+
+Uyyunganti, which Buddhaghosa explains by 'they exert themselves,' seems to me to signify in this place 'they depart,' i.e. they leave their family, and embrace an ascetic life. See note to . See also Rhys Davids, Mahaparinibbana-sutta, Sacred Books of the East, vol. xi. <page 22>.
+
+92. Sunnato and animitto are adjectives belonging to vimokho, one of the many names of Nirvana, or, according to Childers, s.v. nibbana, p, 270, Arhatship; see Burnouf, Introduction, pp. 442, 462, on sunya. The Sanskrit expression sunyatanimittapranihitam occurs in L'enfant egare, 5 a, l. 4. Nimitta is cause in the most general sense, i.e, what causes existence. The commentator explains it chiefly in a moral sense: Ragadinimittabhavena animittam, tehi ka vimuttan ti animitto vimokho, i.e. owing to the absence of passion and other causes, without causation; because freed from these causes, therefore it is called freedom without causation. See Childers, Pali Dictionary, p. 270, col. 2, line 1.
+
+The simile is intended to compare the ways of those who have obtained spiritual freedom to the flight of birds, it being difficult to understand how the birds move on without putting their feet on anything. This, at least, is the explanation of the commentator; The same metaphor occurs Mahabh. XII, 6763. Childers translates, 'leaving no more trace of existence than a bird in the air.']
+
+p. 28
+
+   93. He whose appetites are stilled, who is not absorbed in enjoyment, who has perceived void and unconditioned freedom (Nirvana), his path is difficult to understand, like that of birds in the air.
+
+   94. The gods even envy him whose senses, like horses well broken in by the driver, have been subdued, who is free from pride, and free from appetites.
+
+   95. Such a one who does his duty is tolerant like the earth, like Indra's bolt; he is like a lake without mud; no new births are in store for him.
+
+   96. His thought is quiet, quiet are his word and deed, when he has obtained freedom by true knowledge, when he has thus become a quiet man.
+
+[95. Without the hints given by the commentator, we should probably take the three similes of this verse in their natural sense, as illustrating the imperturbable state of an Arahanta, or venerable person. The earth is always represented as an emblem of patience; the bolt of Indra, if taken in its technical sense, as the bolt of a gate, might likewise suggest the idea of firmness; while the lake is a constant representative of serenity and purity. The commentator, however, suggests that what is meant is, that the earth, though flowers are cast on it, does not feel pleasure, nor the bolt of Indra displeasure, although less savoury things are thrown upon it; and that in like manner a wise person is indifferent to honour and dishonour.
+
+96. That this very natural threefold division, thought, word, and deed, the trividha-dvara or the three doors of the Buddhists (Hardy, Manual, p. 494), was not peculiar to the Buddhists or unknown to the Brahmans, has been proved against Dr. Weber by Professor Koppen in his 'Religion des Buddha,' I, p. 445. He particularly called attention to Manu XII, 4-8; and he might have added Mahabh. XII, 4059, 6512, 6549, 6554; XIII, 5677, &c. Dr. Weber has himself afterwards brought forward a passage from the Atharva-veda, VI, 96, 3 (yak kakshusha manasa yak ka vaka uparima), which, however, has a different meaning. A better one was quoted by him from the Taitt. Ar. X, 1, 12 (yan me manasa, vaka, karmana va dushkritam kritam). Similar expressions have been shown to exist in the Zend-avesta, and among the Manichaeans (Lassen, Indische Alterthumskunde, III, p. 414; see also Boehtlingk's Dictionary, s.v. kaya, and Childers, s.v. kayo). There was no ground, therefore, for supposing that this formula had found its way into the Christian liturgy from Persia, for, as Professor Cowell remarks (Journal of Philology, vol. vii, p. 215), Greek writers, such as Plato, employ very similar expressions, e.g. Protag. p. 348, 30, {Greek: pros apan ergon kai logon kai dianohma}. In fact, the opposition between words and deeds occurs in almost every writer, from Homer downwards; and the further distinction between thoughts and words is clearly implied even in such expressions as, 'they say in their heart.' That the idea of sin committed by thought was not a new idea, even to the Jews, may be seen from , 'the thought of foolishness is sin.' In the Apastamba-sutras, lately edited by Professor Buhler, we find the expression, atho yatkinka manasa vaka kakshusha va sankalpayan dhyayaty ahabhivipasyati va tathaiva tad bhavatityupadisanti, 'they say that whatever a Brahman intending with his mind, voice, or eye, thinks, says, or looks, that will be.' This is clearly a very different division, and it is the same which is intended in the passage from the Atharva-veda, quoted above. In the mischief done by the eye, we have, perhaps, the first indication of the evil eye. (Mahabh. XII, 3417. See Dhammapada, .)
+
+On the technical meaning of tadi, see Childers, s.v. D'Alwis (p. 78) has evidently received the right interpretation, but has not understood it. Madrisa also is used very much like tadrisa, and from it mariso, a venerable person, in Sanskrit marsha.]
+
+p. 29
+
+   97. The man who is free from credulity, but knows the uncreated, who has cut all ties, removed all temptations, renounced all desires, he is the greatest of men.
+
+p. 30
+
+   98. In a hamlet or in a forest, in the deep water or on the dry land, wherever venerable persons (Arhanta) dwell, that place is delightful.
+
+   99. Forests are delightful; where the world finds no delight, there the passionless will find delight, for they look not for pleasures.
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 31
+
+ 
+
+CHAPTER VIII.
+
+THE THOUSANDS.
+
+   100. Even though a speech be a thousand (of words), but made up of senseless words, one word of sense is better, which if a man hears, he becomes quiet.
+
+   101. Even though a Gatha (poem) be a thousand (of words), but made up of senseless words, one word of a Gatha is better, which if a man hears, he becomes quiet.
+
+   102. Though a man recite a hundred Gathas made up of senseless words, one word of the law is better, which if a man hears, he becomes quiet.
+
+   103. If one man conquer in battle a thousand times thousand men, and if another conquer himself, he is the greatest of conquerors.
+
+   104., 105. One's own self conquered is better than all other people; not even a god, a Gandharva, not Mara with Brahman could change into defeat the
+
+[100. This Sahasravarga, or Chapter of the Thousands, is quoted by that name in the Mahavastu (Minayeff, Melanges Asiatiques, VI, p. 583): Tesham Bhagavan gatilanam Dharmapadeshu sahasravargam bhashati: 'Sahasram api vakanam anarthapadasamhitanam, ekarthavati sreya yam srutva upasamyati. Sahasram api gathanam anarthapadasamhitanam, ekarthavati sreya yam srutva upasamyati.' (MS. R. A. S. Lond.) Here the Pali text seems decidedly more original and perfect.
+
+104. Gitam, according to the commentator, stands for gito (lingavipallaso, i.e. viparyasa); see also Senart in Journal Asiatique, 1880, p. 500.
+
+The Devas (gods), Gandharvas (fairies), and other fanciful beings of the Brahmanic religion, such as the Nagas, Sarpas, Garudas, &c., were allowed to continue in the traditional language of the people who had embraced Buddhism. See the pertinent remarks of Burnouf, Introduction, pp. 134 seq., 184. On Mara, the tempter, see v. 7. Sastram Aiyar, On the Gaina Religion, p. xx, says: 'Moreover as it is declared in the Gaina Vedas that all the gods worshipped by the various Hindu sects, viz. Siva, Brahma, Vishnu, Ganapati, Subramaniyan, and others, were devoted adherents of the above-mentioned Tirthankaras, the Gainas therefore do not consider them as unworthy of their worship; but as they are servants of Arugan, they consider them to be deities of their system, and accordingly perform certain pugas in honour of them, and worship them also.' The case is more doubtful with orthodox Buddhists. 'Orthodox Buddhists,' as Mr. D'Alwis writes (Attanagalu-vansa, p. 55), 'do not consider the worship of the Devas as being sanctioned by him who disclaimed for himself and all the Devas any power over man's soul. Yet the Buddhists are everywhere idol-worshippers. Buddhism, however, acknowledges the existence of some of the Hindu deities, and from the various friendly offices which those Devas are said to have rendered to Gotama, Buddhists evince a respect for their idols.' See also Buddhaghosha's Parables, p. 162.]
+
+p. 32
+
+victory of a man who has vanquished himself, and always lives under restraint.
+
+   106. If a man for a hundred years sacrifice month after month with a thousand, and if he but for one moment pay homage to a man whose soul is grounded (in true knowledge), better is that homage than sacrifice for a hundred years.
+
+   107. If a man for a hundred years worship Agni (fire) in the forest, and if he but for one moment pay homage to a man whose soul is grounded (in true knowledge), better is that homage than sacrifice for a hundred years.
+
+   108. Whatever a man sacrifice in this world as an offering or as an oblation for a whole year in order to gain merit, the whole of it is not worth a quarter (a farthing); reverence shown to the righteous is better.
+
+p. 33
+
+   109. He who always greets and constantly reveres the aged, four things will increase to him, viz. life, beauty, happiness, power.
+
+   110. But he who lives a hundred years, vicious and unrestrained, a life of one day is better if a man is virtuous and reflecting.
+
+   111. And he who lives a hundred years, ignorant and unrestrained, a life of one day is better if a man is wise and reflecting.
+
+   112. And he who lives a hundred years, idle and weak, a life of one day is better if a man has attained firm strength.
+
+   113. And he who lives a hundred years, not seeing beginning and end, a life of one day is better if a man sees beginning and end.
+
+   114. And he who lives a hundred years, not seeing the immortal place, a life of one day is better if a man sees the immortal place.
+
+   115. And he who lives a hundred years, not seeing the highest law, a life of one day is better if a man sees the highest law.
+
+[109. Dr. Fausboll, in a most important note, called attention to the fact that the same verse, with slight variations, occurs in Manu. We there read, II, 121:
+       Abhivadanasilasya nityam vriddhopasevinah,
+       Katvari sampravardhante ayur vidya yaso balam.
+ Here the four things are, life, knowledge, glory, power.
+
+In the Apastamba-sutras, I, 2, 5, 15, the reward promised for the same virtue is svargam ayus ka, 'heaven and long life.' It seems, therefore, as if the original idea of this verse came from the Brahmans, and was afterwards adopted by the Buddhists. How largely it spread is shown by Dr. Fausboll from the Asiatic Researches, XX, p. 259, where the same verse of the Dhammapada is mentioned as being in use among the Buddhists of Siam.
+
+112. On kusito, see note to .]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 34
+
+ 
+
+Chapter IX.
+
+Evil.
+
+   116. If a man would hasten towards the good, he should keep his thought away from evil; if a man does what is good slothfully, his mind delights in evil.
+
+   117. If a man commits a sin, let him not do it again; let him not delight in sin: pain is the outcome of evil.
+
+   118. If a man does what is good, let him do it again; let him delight in it: happiness is the outcome of good.
+
+   119. Even an evil-doer sees happiness as long as his evil deed has not ripened; but when his evil deed has ripened, then does the evil-doer see evil.
+
+   120. Even a good man sees evil days, as long as his good deed has not ripened; but when his good deed has ripened, then does the good man see happy days.
+
+   121. Let no man think lightly of evil, saying in his heart, It will not come nigh unto me. Even by the falling of water-drops a water-pot is filled; the fool becomes full of evil, even if he gather it little by little.
+
+   122. Let no man think lightly of good, saying in his heart, It will not come nigh unto me. Even by the falling of water-drops a water-pot is filled; the wise man becomes full of good, even if he gather it little by little.
+
+   123. Let a man avoid evil deeds, as a merchant, if he has few companions and carries much wealth,
+
+p. 35
+
+avoids a dangerous road; as a man who loves life avoids poison.
+
+   124. He who has no wound on his hand, may touch poison with his hand; poison does not affect one who has no wound; nor is there evil for one who does not commit evil.
+
+   125. If a man offend a harmless, pure, and innocent person, the evil falls back upon that fool, like light dust thrown up against the wind.
+
+   126. Some people are born again; evil-doers go to hell; righteous people go to heaven; those who are free from all worldly desires attain Nirvana.
+
+   127. Not in the sky, not in the midst of the sea, not if we enter into the clefts of the mountains, is there known a spot in the whole world where death could not overcome (the mortal).
+
+   128. Not in the sky, not in the midst of the sea, not if we enter into the clefts of the mountains, is there known a spot in the whole world where death could not overcome (the mortal).
+
+[125. Cf. ; Indische Spruche, 1582; Kathasaritsagara, 49, 222.
+
+126. For a description of hell and its long, yet not endless sufferings, see Buddhaghosha's Parables, p. 132. The pleasures of heaven, too, are frequently described in these Parables and elsewhere. Buddha himself enjoyed these pleasures of heaven, before he was born for the last time. It is probably when good and evil deeds are equally balanced, that men are born again as human beings; this, at least, is the opinion of the Gainas. Cf. Chintamani, ed. H. Bower, Introd. p. xv.
+
+127. Cf. , 'For there is nothing covered that shall not be revealed;' and .]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 36
+
+ 
+
+CHAPTER X.
+
+PUNISHMENT.
+
+   129. All men tremble at punishment, all men fear death; remember that you are like unto them, and do not kill, nor cause slaughter.
+
+   130. All men tremble at punishment, all men love life; remember that thou art like unto them, and do not kill, nor cause slaughter.
+
+   131. He who seeking his own happiness punishes or kills beings who also long for happiness, will not find happiness after death.
+
+[129. One feels tempted, no doubt, to take upama in the sense of 'the nearest (der Nachste), the neighbour,' and to translate, 'having made oneself one's neighbour,' i.e. loving one's neighbour as oneself. But as upamam, with a short a, is the correct accusative of upama, we must translate, 'having made oneself the likeness, the image of others, having placed oneself in the place of others.' This is an expression which occurs frequently in Sanskrit; cf. Hitopadesa I, 11:
+       Prana yathatmano 'bhishta bhutanam api te tatha,
+       Atmaupamyena bhuteshu dayam kurvanti sadhavah.
+ 'As life is dear to oneself, it is dear also to other living beings: by comparing oneself with others, good people bestow pity on all beings.'
+
+See also Hit. I, 12; Ram. V, 23, 5, atmanam upamam kritva sveshu dareshu ramyatam, 'making oneself a likeness, i.e. putting oneself in the position of other people, it is right to love none but one's own wife.' Dr. Fausboll has called attention to similar passages in the Mahabharata, XIII, 5569 seq.
+
+130. Cf. .
+
+131. Dr. Fausboll points out the striking similarity between this verse and two verses occurring in Manu and the Mahabharata:--
+ Manu V, 45:
+       Yo 'himsakani bhutani hinasty atmasukhekkhaya,
+       Sa givams ka mritas kaiva na kvakit sukham edhate.
+ Mahabharata XIII, 5568:
+       Ahimsakani bhutani dandena vinihanti yah,
+       Atmanah sukham ikkhan sa pretya naiva sukhi bhavet.
+ If it were not for ahimsakani, in which Manu and the Mahabharata agree, I should say that the verses in both were Sanskrit modifications of the Pali original. The verse in the Mahabharata presupposes the verse of the Dhammapada.]
+
+p. 37
+
+   132. He who seeking his own happiness does not punish or kill beings who also long for happiness, will find happiness after death.
+
+   133. Do not speak harshly to anybody; those who are spoken to will answer thee in the same way. Angry speech is painful, blows for blows will touch thee.
+
+   134. If, like a shattered metal plate (gong), thou utter not, then thou hast reached Nirvana; contention is not known to thee.
+
+   135. As a cowherd with his staff drives his cows into the stable, so do Age and Death drive the life of men.
+
+   136. A fool does not know when he commits his evil deeds: but the wicked man burns by his own deeds, as if burnt by fire.
+
+   137. He who inflicts pain on innocent and harmless persons, will soon come to one of these ten states:
+
+[133. See Mahabharata XII, 4056.
+
+134. See Childers, s.v. nibbana, p. 270, and s.v. kamso; D'Alwis, Buddhist Nirvana, p. 35.
+
+136. The metaphor of 'burning' for 'suffering' is very common in Buddhist literature. Everything burns, i.e. everything suffers, was one of the first experiences of Buddha himself. See .]
+
+p. 38
+
+   138. He will have cruel suffering, loss, injury of the body, heavy affliction, or loss of mind,
+
+   139. Or a misfortune coming from the king, or a fearful accusation, or loss of relations, or destruction of treasures,
+
+   140. Or lightning-fire will burn his houses; and when his body is destroyed, the fool will go to hell.
+
+   141. Not nakedness, not platted hair, not dirt, not fasting, or lying on the earth, not rubbing with dust,
+
+[138. 'Cruel suffering' is explained by sisaroga, 'headache,' &c. 'Loss' is taken for loss of money. 'Injury of the body' is held to be the cutting off of the arm, and other limbs. 'Heavy afflictions' are, again, various kinds of diseases.
+
+139. Upasarga means 'accident, misfortune.' Dr. Fausboll translates ragato va upassaggam by 'fulgentis (lunae) defectionem;' Dr. Weber by 'Bestrafung vom Konig;' Beal by 'some governmental difficulty.' Abbhakkhanam, Sanskrit abhyakhyanam, is a heavy accusation for high treason, or similar offences. Beal translates, 'some false accusation.' The 'destruction of pleasures or treasures' is explained by gold being changed to coals (see Buddhaghosha's Parables, p. 98; Thiessen, Kisagotami, p. 6), pearls to cotton seed, corn to potsherds, and by men and cattle becoming blind, lame, &c.
+
+141. Cf. Hibbert Lectures, p. 355. Dr. Fausboll has pointed out that the same or avery similar verse occurs in a legend taken from the Divyavadana, and translated by Burnouf (Introduction, p. 313 seq.) Burnouf translates the verse: 'Ce n'est ni la coutume de marcher nu, ni les cheveux nattes, ni l'usage d'argile, ni le choix des diverses especes d'aliments, ni l'habitude de coucher sur la terre nue, ni la poussiere, ni la malproprete, ni l'attention a fuir l'abri d'un toit, qui sont capables de dissiper le trouble dans lequel nous jettent les desirs non-satisfaits; mais qu'un homme, maitre de ses sens, calme, recueilli, chaste, evitant de faire du mal a aucune creature, accomplisse la Loi, et il sera, quoique pare d'ornements, un Brahmane, un Cramana, un Religieux.' See also .
+
+Walking naked and the other things mentioned in our verse are outward signs of a saintly life, and these Buddha rejects because they do not calm the passions. Nakedness he seems to have rejected on other grounds too, if we may judge from the Sumagadha-avadana: 'A number of naked friars were assembled in the house of the daughter of Anatha-pindika. She called ber daughter-in-law, Sumagadha, and said, "Go and see those highly respectable persons." Sumagadha, expecting to see some of the saints, like Sariputra, Maudgalyayana, and others, ran out full of joy. But when she saw these friars with their hair like pigeon wings, covered by nothing but dirt, offensive, and looking like demons, she became sad. "Why are you sad?" said her mother-in-law. Sumagadha replied, "O mother, if these are saints, what must sinners be like?"
+
+Burnouf (Introduction, p. 312) supposed that the Gainas only, and not the Buddhists, allowed nakedness. But the Gainas, too, do not allow it universally. They are divided into two parties, the Svetambaras and Digambaras. The Svetambaras, clad in white, are the followers of Parsvanatha, and wear clothes. The Digambaras, i.e. sky-clad, disrobed, are followers of Mahavira, resident chiefly in Southern India. At present they, too, wear clothing, but not when eating. See Sastram Aiyar, p. xxi.
+
+The gata, or the hair platted and gathered up in a knot, was a sign of a Saiva ascetic. The sitting motionless is one of the postures assumed by ascetics. Clough explains ukkutika as 'the act of sitting on the heels;' Wilson gives for utkatukasana, 'sitting on the hams.' See Fausboll, note on verse 140.]
+
+p. 39
+
+not sitting motionless, can purify a mortal who has not overcome desires.
+
+   142. He who, though dressed in fine apparel, exercises tranquillity, is quiet, subdued, restrained, chaste, and has ceased to find fault with all other beings, he indeed is a Brahmana, an ascetic (sramana), a friar (bhikshu).
+
+   143. Is there in this world any man so restrained by humility that he does not mind reproof, as a well-trained horse the whip?
+
+   144. Like a well-trained horse when touched by
+
+[142. As to dandanidhana, see Mahabh. XII, 6559, and .
+
+143, 144. I am very doubtful as to the real meaning of these verses. If their object is to show how reproof or punishment should be borne, my translation would be right, though alpabodhati in the sense of parvi facere is strange.]
+
+p. 40
+
+the whip, be ye active and lively, and by faith, by virtue, by energy, by meditation, by discernment of the law you will overcome this great pain (of reproof), perfect in knowledge and in behaviour, and never forgetful.
+
+   145. Well-makers lead the water (wherever they like); fletchers bend the arrow; carpenters bend a log of wood; good people fashion themselves.
+
+[145. The same as . According to Fausboll and Subhuti we ought to render the verses by, 'What man is there found on earth so restrained by shame that he never provokes reproof, as a good horse the whip?' See Childers, s.v. appabodhati.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 41
+
+ 
+
+CHAPTER XI.
+
+OLD AGE.
+
+   146. How is there laughter, how is there joy, as this world is always burning? Why do you not seek a light, ye who are surrounded by darkness?
+
+   147. Look at this dressed-up lump, covered with wounds, joined together, sickly, full of many thoughts, which has no strength, no hold!
+
+   148. This body is wasted, full of sickness, and frail; this heap of corruption breaks to pieces, life indeed ends in death.
+
+[148. Dr. Fausboll informs me that Childers proposed the emendation maranantam hi givitam. The following extract from a letter, addressed by Childers to Dr. Fausboll, will be read with interest:--'As regards Dhp. v. 148, I have no doubt whatever. I quite agree with you that the idea (mors est vita ejus) is a profound and noble one, but the question is, Is the idea there? I think not. Maranam tamhi givitam is not Pali, I mean not a Pali construction, and years ago even it grated on my ear as a harsh phrase. The reading of your MSS. of the texts is nothing; your MSS. of Dhammapada are very bad ones, and it is merely the vicious Sinhalese spelling of bad MSS., like kammamtam for kammantam. But the comment sets the question at rest at once, for it explains maranantam by maranapariyosanam, which is exactly the same. I see there is one serious difficulty left, that all your MSS. seem to have tamhi, and not tam hi; but are you sure it is so? There was a Dhammapada in the India Office Library, and I had a great hunt for it a few days ago, but to my deep disappointment it is missing. I do not agree with you that the sentence "All Life is bounded by Death," is trivial: it is a truism, but half the noblest passages in poetry are truisms, and unless I greatly mistake, this very passage will be found in many other literatures.'
+
+Dr. Fausboll adds:--
+
+'I have still the same doubt as before, because of all my MSS. reading maranam tamhi. I do not know the readings of the London MSS. The explanation of the commentary does not settle the question, as it may as well be considered an explanation of my reading as of the reading which Childers proposed.--V. FAUSBOLL.']
+
+p. 42
+
+   149. Those white bones, like gourds thrown away in the autumn, what pleasure is there in looking at them?
+
+   150. After a stronghold has been made of the bones, it is covered with flesh and blood, and there dwell in it old age and death, pride and deceit.
+
+   151. The brilliant chariots of kings are destroyed, the body also approaches destruction, but the virtue of good people never approaches destruction,--thus do the good say to the good.
+
+   152. A man who has learnt little, grows old like an ox; his flesh grows, but his knowledge does not grow.
+
+   153., 154. Looking for the maker of this tabernacle, I shall have to run through a course of many births, so long as I do not find (him); and painful is birth again and again. But now, maker of the tabernacle, thou hast been seen; thou shalt not make up
+
+[149. In the Rudrayanavadana of the Divyavadana this verse appears as,
+       Yanimany apariddhani vikshiptani diso disah,
+       Kapotavarnany asthini tani drishtvaiha ka ratih.
+ See Schiefner, Mel. Asiat. VIII, p. 589; Gataka, vol. i. p. 322.
+
+150. The expression mamsalohitalepanam is curiously like the expression used in Manu VI, 76, mamsasonitalepanam, and in several passages of the Mahabharata, XII, 12462, 12053, as pointed out by Dr. Fausboll.
+
+153, 154. These two verses are famous among Buddhists, for they are the words which the founder of Buddhism is supposed to have uttered at the moment he attained to Buddhahood. (See Spence Hardy, Manual; p. 180.) According to the Lalita-vistara, however, the words uttered on that solemn occasion were those quoted in the note to . In the commentary on the Brahmagala this verse is called the first speech of Buddha, his last speech being the words in the Mabaparinibbana-sutta, 'Life is subject to age; strive in earnest.' The words used in the Mahaparinibbana-sutta, Chap. IV, 2, Katunnam dhammanam ananubodha appativedha evam idam digham addhanam sandhavitam samsaritam maman k' eva tumhakan ka, answer to the anticipation expressed in our verse.
+
+The exact rendering of this verse has been much discussed, chiefly by Mr. D'Alwis in the Attanugaluvansa, p. cxxviii, and again in his Buddhist Nirvana, p. 78; also by Childers, Notes on Dhammapada, p. 4, and in his Dictionary. Gogerly translated: 'Through various transmigrations I must travel, if I do not discover the builder whom I seek.' Spence Hardy: 'Through many different births I have run (to me not having found), seeking the architect of the desire-resembling house.' Fausboll: 'Multiplices generationis revolutiones percurreram, non inveniens, domus (corporis) fabricatorem quaerens.' And again (p. 322): 'Multarum generationum revolutio mihi subeunda esset, nisi invenissem domus fabricatorem.' Childers: 'I have run through the revolution of countless births, seeking the architect of this dwelling and finding him not.' D'Alwis: 'Through transmigrations of numerous births have I run, not discovering, (though) seeking the house-builder.' All depends on how we take sandhavissam, which Fausboll takes as a conditional, Childers, following Trenckner, as an aorist, because the sense imperatively requires an aorist. In either case, the dropping of the augment and the doubling of the s are, however, irregular. Sandhavissam is the regular form of the future, and as such I translate it, qualifying, however, the future, by the participle present anibbisan, i.e. not finding, and taking it in the sense of, if or so long as I do not find the true cause of existence. I had formerly translated anibbisan, as not resting (anirvisan), but the commentator seems to authorise the meaning of not finding (avindanto, alabhanto), and in that case all the material difficulties of the verse seem to me to disappear.
+
+'The maker of the tabernacle' is explained as a poetical expression for the cause of new births, at least according to the views of Buddha's followers, whatever his own views may have been. Buddha had conquered Mara, the representative of worldly temptations, the father of worldly desires, and as desires (tamha) are, by means of upadana and bhava, the cause of gati, or 'birth,' the destruction of desires and the conquest of Mara are nearly the same thing, though expressed differently in the philosophical and legendary language of the Buddhists. Tamha, 'thirst' or 'desire,' is mentioned as serving in the army of Mara. (Lotus, p. 443.)]
+
+p. 43
+
+this tabernacle again. All thy rafters are broken, thy ridge-pole is sundered; the mind, approaching the Eternal (visankhara, nirvana), has attained to the extinction of all desires.
+
+p. 44
+
+   155. Men who have not observed proper discipline, and have not gained treasure in their youth, perish like old herons in a lake without fish.
+
+   156. Men who have not observed proper discipline, and have not gained treasure in their youth, lie, like broken bows, sighing after the past.
+
+[155. On ghayanti, i.e. kshayanti, see Dr. Bollensen's learned remarks, Zeitschrift der Deutschen Morgenl. Gesellschaft, XVIII, 834, and Boehtlingk-Roth, s.v. ksha.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 45
+
+ 
+
+CHAPTER XII.
+
+SELF.
+
+   157. If a man hold himself dear, let him watch himself carefully; during one at least out of the three watches a wise man should be watchful.
+
+   158. Let each man direct himself first to what is proper, then let him teach others; thus a wise man will not suffer.
+
+   159. If a man make himself as he teaches others to be, then, being himself well subdued, he may subdue (others); one's own self is indeed difficult to subdue.
+
+   160. Self is the lord of self, who else could be the lord? With self well subdued, a man finds a lord such as few can find.
+
+   161. The evil done by oneself, self-begotten, self-bred, crushes the foolish, as a diamond breaks a precious stone.
+
+   162. He whose wickedness is very great brings himself down to that state where his enemy wishes him to be, as a creeper does with the tree which it surrounds.
+
+   163. Bad deeds, and deeds hurtful to ourselves, are easy to do; what is beneficial and good, that is very difficult to do.
+
+[157. The three watches of the night are meant for the three stages of life. Cf. , 'And what I say unto you, I say unto all, Watch.'
+
+158. Cf. Gataka, vol. ii. p. 441.
+
+161. The Chinese translation renders vagiram by 'steel drill.']
+
+p. 46
+
+   164. The foolish man who scorns the rule of the venerable (Arahat), of the elect (Ariya), of the virtuous, and follows false doctrine, he bears fruit to his own destruction, like the fruits of the Katthaka reed.
+
+   165. By oneself the evil is done, by oneself one suffers; by oneself evil is left undone, by oneself one is purified. Purity and impurity belong to oneself, no one can purify another.
+
+   166. Let no one forget his own duty for the sake of another's, however great; let a man, after he has discerned his own duty, be always attentive to his duty.
+
+[164. The reed either dies after it has borne fruit, or is cut down for the sake of its fruit.
+
+Ditthi, literally 'view,' is used even by itself like the Greek 'hairesis,' in the sense of heresy (see Burnouf, Lotus, p. 444). In other places a distinction is made between mikkhaditthi (vv. , ) and sammaditthi (). If arahatam ariyanam are used in their technical sense, we should translate 'the reverend Arhats,'--Arhat being the highest degree of the four orders of Ariras, viz. Srotaapanna, Sakadagamin, Anagamin, and Arhat. See note to .
+
+166. Attha, lit. 'object,' must here be taken in a moral sense, as 'duty' rather than as 'advantage.' Childers rendered it by 'spiritual good.' The story which Buddhaghosa tells of the Thera Attadattha gives a clue to the origin of some of his parables, which seem to have been invented to suit the text of the Dhammapada rather than vice versa. A similar case occurs in the commentary to verse 227.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 47
+
+ 
+
+CHAPTER XIII.
+
+THE WORLD.
+
+   167. Do not follow the evil law! Do not live on in thoughtlessness! Do not follow false doctrine! Be not a friend of the world.
+
+   168. Rouse thyself! do not be idle! Follow the law of virtue! The virtuous rests in bliss in this world and in the next.
+
+   169. Follow the law of virtue; do not follow that of sin. The virtuous rests in bliss in this world and in the next.
+
+   170. Look upon the world as a bubble, look upon it as a mirage: the king of death does not see him who thus looks down upon the world.
+
+   171. Come, look at this glittering world, like unto a royal chariot; the foolish are immersed in it, but the wise do not touch it.
+
+   172. He who formerly was reckless and afterwards became sober, brightens up this world, like the moon when freed from clouds.
+
+   173. He whose evil deeds are covered by good deeds, brightens up this world, like the moon when freed from clouds.
+
+   174. This world is dark, few only can see here; a few only go to heaven, like birds escaped from the net.
+
+   175. The swans go on the path of the sun, they go through the ether by means of their miraculous
+
+[168, 169. See Rhys Davids, Buddhism, p. 65.
+
+170. See .
+
+175. Hamsa may be meant for the bird, whether flamingo, or swan, or ibis (see Hardy, Manual, p. 17), but it may also, I believe, be taken in the sense of saint. As to iddhi, 'magical power,' i.e. riddhi, see Burnouf, Lotus, p. 310; Spence Hardy, Manual, pp. 498, 504; Legends, pp. 55, 177; and note to .]
+
+p. 48
+
+power; the wise are led out of this world, when they have conquered Mara and his train.
+
+   176. If a man has transgressed one law, and speaks lies, and scoffs at another world, there is no evil he will not do.
+
+   177. The uncharitable do not go to the world of the gods; fools only do not praise liberality; a wise man rejoices in liberality, and through it becomes blessed in the other world.
+
+   178. Better than sovereignty over the earth, better than going to heaven, better than lordship over all worlds, is the reward of the first step in holiness.
+
+[178. Sotapatti, the technical term for the first step in thr path that leads to Nirvana. There are four such steps, or stages, and on entering each, a man receives a new title:--
+
+(1) The Srotaapanna, lit. he who has got into the stream. A man may have seven more births before he reaches the other shore, i.e. Nirvana.
+
+(2) Sakridagamin, lit. he who comes back once, so called because, after having entered this stage, a man is born only once more among men or gods. Childers shows that this involves really two more births, one in the deva world, the other in the world of men: Burnouf says the same, Introduction, p. 293.
+
+(3) Anagamin, lit. he who does not come back, so called because, after this stage, a man cannot be born again in a lower world; but can only be born into a Brahman world, before he reaches Nirvana.
+
+(4) Arhat, the venerable, the perfect, who has reached the highest stage that can be reached, and from which Nirvana is perceived (sukkhavipassana, Lotus, p. 849). See Hardy, Eastern Monachism, p. 280; Burnouf, Introduction, p. 209; Koppen, p. 398; D'Alwis, Attanugaluvansa, p. cxxiv; Feer, Sutra en 42 articles, p. 6.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 49
+
+ 
+
+CHAPTER XIV.
+
+THE BUDDHA (THE AWAKENED).
+
+   179. He whose conquest is not conquered again, into whose conquest no one in this world enters, by what track can you lead him, the Awakened, the Omniscient, the trackless?
+
+   180. He whom no desire with its snares and poisons can lead astray, by what track can you lead him, the Awakened, the Omniscient, the trackless?
+
+   181. Even the gods envy those who are awakened and not forgetful, who are given to meditation, who are wise, and who delight in the repose of retirement (from the world).
+
+   182. Difficult (to obtain) is the conception of men, difficult is the life of mortals, difficult is the hearing of the True Law, difficult is the birth of the Awakened (the attainment of Buddhahood).
+
+[179, 180. Buddha, the Awakened, is to be taken as an appellative rather than as the proper name of the Buddha (see v. 183). It means, anybody who has arrived at complete knowledge. Anantagokaram I take in the sense of, possessed of unlimited knowledge. Apadam, which Dr. Fausboll takes as an epithet of Buddha and translates by 'non investigabilis,' is translated 'trackless,' in order to show the play on the word pada; see Childers, s.v. The commentator says: 'The man who is possessed of even a single one of such conditions as raga, &c., him ye may lead forward; but the Buddha has not even one condition or basis of renewed existence, and therefore by what track will you lead this unconditioned Buddha?' Cf. Dhp. vv. , ; and Gataka, vol. i. pp. 79, 313.
+
+182. Mr. Beal (Dhammapada, p. 110) states that this verse occurs in the Sutra of the Forty-two Sections.]
+
+p. 50
+
+   183. Not to commit any sin, to do good, and to purify one's mind, that is the teaching of (all) the Awakened.
+
+   184. The Awakened call patience the highest penance, long-suffering the highest Nirvana; for he is not an anchorite (pravragita) who strikes others, he is not an ascetic (sramana) who insults others.
+
+   185. Not to blame, not to strike, to live restrained under the law, to be moderate in eating, to sleep and sit alone, and to dwell on the highest thoughts,--this is the teaching of the Awakened.
+
+[183. This verse is again one of the most solemn verses among the Buddhists. According to Csoma Korosi, it ought to follow the famous Arya stanza, 'Ye dhamma' (Lotus, p. 522), and serve as its complement. But though this may be the case in Tibet, it was not so originally. The same verse (ascribed to Kanakamuni) occurs at the end of the Chinese translation of the Pratimoksha. (Beal, J. R. A. S. XIX, p. 473; Catena, p. 159); in the Tibetan translation of the Gathasangraha, v. 14 (Schiefner, Mel. Asiat. I VIII, pp. 568, 586; and Csoma Korosi, As. Res. XX, p. 79). Burnouf has fully discussed the metre and meaning of our verse on pp. 527, 528 of his 'Lotus.' He prefers sakittaparidamanam, which Csoma translated by 'the mind must be brought under entire subjection' (svakittaparidamanam), and the late Dr. Mill by 'proprii intellectus subjugatio.' But his own MS. of the Mahapadhana-sutta gave likewise sakittapariyodapanam, and this is no doubt the correct reading. (See D'Alwis, Attanugaluvansa, p. cxxix.) We found pariyodappeya in , in the sense of purging oneself from the troubles of thought. From the same verb, (pari) ava + dai, we may derive the name Avadana, a legend, originally a pure and virtuous act, an {Greek: aridteia}, afterwards a sacred story, and possibly a story the hearing of which purifies the mind. See Boehtlingk-Roth, s.v. avadana.
+
+184. Childers, following the commentator, translates, 'Patience, which is long-suffering, is the best devotion, the Buddhas declare that Nirvana is the best (of things).'
+
+185. Cf. Suttanipata, . Patimokkhe, 'under the law,' i.e. according to the law, the law which leads to Moksha, or 'freedom.' Pratimoksha is the title of the oldest collection of the moral laws of the Buddhists (Burnouf, Introduction, p. 300; Bigandet, The Life of Gaudama, p. 439; Rhys Davids, Buddhism, p. 162), and as it was common both to the Southem and the Northem Buddhists, patimokkhe in our passage may possibly be meant, as Professor Weber suggests, as the title of that very collection. The commentator explains it by getthakasila and patimokkhasila. Sayanasam might stand for sayanasanam, see Mahabh. XII, 6684; but in Buddhist literature it is intended for sayanasanam; see also Mahabh. XII, 9978, sayyasane. Fausboll now reads panta instead of patthan.
+
+187. There is a curious similarity between this verse and verse 6503 (9919) of the Santiparva:
+       Yak ka kamasukham loke, yak ka divyam mahat sukham,
+       Trishnakshayasukhasyaite narhatah shodasim kalam.
+ 'And whatever delight of love there is on earth, and whatever is the great delight in heaven, they are not worth the sixteenth part of the pleasure which springs from the destruction of all desires.' The two verses 186, 187 are ascribed to king Mandhatri shortly before his death (Mel. Asiat. VIII, p. 471; see also Gataka, vol. ii. p. 113).]
+
+p. 51
+
+   186. There is no satisfying lusts, even by a shower of gold pieces; he who knows that lusts have a short taste and cause pain, he is wise;
+
+   187. Even in heavenly pleasures he finds no satisfaction, the disciple who is fully awakened delights only in the destruction of all desires.
+
+   188. Men, driven by fear, go to many a refuge, to mountains and forests, to groves and sacred trees.
+
+   189. But that is not a safe refuge, that is not the best refuge; a man is not delivered from all pains after having gone to that refuge.
+
+   190. He who takes refuge with Buddha, the Law,
+
+[188-192. These verses occur in Sanskrit in the Pratiharyasutra, translated by Burnouf, Introduction, pp. 162-189; see p. 186. Burnouf translates rukkhaketyani by 'arbres consacres;' properly, sacred shrines under or near a tree. See also Gataka vol. i. p. 97. 
+
+190. Budda, Dharma, and Sangha are called the Trisarana (cf. Burnouf, Introd. p. 630). The four holy truths are the four statements that there is pain in this world, that the source of pain is desire, that desire can be annihilated, that there is a way (shown by Buddha) by which the annihilation of all desires can be achieved, and freedom be obtained. That way consists of eight parts. (See Burnouf, Introduction, p. 630.) The eightfold way forms the subject of Chapter XVIII. (See also Feer, Journal As. 1870, p. 418, and Chips from a German Workshop, 2nd ed. vol. i. p. 251 seq.)]
+
+p. 52
+
+and the Church; he who, with clear understanding, sees the four holy truths:--
+
+   191. Viz. pain, the origin of pain, the destruction of pain, and the eightfold holy way that leads to the quieting of pain;--
+
+   192. That is the safe refuge, that is the best refuge; having gone to that refuge, a man is delivered from all pain.
+
+   193. A supernatural person (a Buddha) is not easily found, he is not born everywhere. Wherever such a sage is born, that race prospers.
+
+   194. Happy is the arising of the awakened, happy is the teaching of the True Law, happy is peace in the church, happy is the devotion of those who are at peace.
+
+   195., 196. He who pays homage to those who deserve homage, whether the awakened (Buddha) or their disciples, those who have overcome the host (of evils), and crossed the flood of sorrow, he who pays homage to such as have found deliverance and know no fear, his merit can never be measured by anybody.
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 53
+
+ 
+
+CHAPTER XV.
+
+HAPPINESS.
+
+   197. Let us live happily then, not hating those who hate us! among men who hate us let us dwell free from hatred!
+
+   198. Let us live happily then, free from ailments among the ailing! among men who are ailing let us dwell free from ailments!
+
+   199. Let us live happily then, free from greed among the greedy! among men who are greedy let us dwell free from greed!
+
+   200. Let us live happily then, though we call nothing our own! We shall be like the bright gods, feeding on happiness!
+
+   201. Victory breeds hatred, for the conquered is unhappy. He who has given up both victory and defeat, he, the contented, is happy.
+
+[198. The ailment here meant is moral rather than physical. Cf. Mahabh. XII, 9924, samprasanto niramayah; 9925, yo 'sau pranantiko rogas tam trishnam tyagatah sukham.
+
+200. The words placed in the mouth of the king of Videha, while his residence Mithila was in flames, are curiously like our verse; cf. Mahabh. XII, 9917,
+       Susukham vata givami yasya me nasti kinkana,
+       Mithilayam pradiptayam na me dahyati kinkana.
+ 'I live happily, indeed, for I have nothing; while Mithila is in flames, nothing of mine is burning.' Cf. Muir, Religious sentiments, p. 106.
+
+The abhassara, i.e. abhasvara, 'the bright gods,' are frequently mentioned. Cf. Burnouf, Introd. p. 611.
+
+201. This verse is ascribed to Buddha, when he heard of the defeat of Agatasatru by Prasenagit. It exists in the Northern or Sanskrit and in the Southern or Pali texts, i.e. in the Avadana-sataka, in the Samyutta-nikaya. See Feer, Comptes Rendus, 1871, p. 44. and Journal As. 1880, p. 509. In the Avadana-sataka, the Sanskrit version is--
+       Gayo vairam prasavati, duhkham sete paragitah
+       Upasantah sukham sete hitva gayaparagayam.]
+
+p. 54
+
+   202. There is no fire like passion; there is no losing throw like hatred; there is no pain like this body; there is no happiness higher than rest.
+
+   203. Hunger is the worst of diseases, the body the greatest of pains; if one knows this truly, that is Nirvana, the highest happiness.
+
+[202. I take kali in the sense of an unlucky die which makes a player lose his game. A real simile seems wanted here, as in , where, for the same reason, I translate graha by 'shark,' not by 'captivitas,' as Dr. Fausboll proposes. The same scholar translates kali in our verse by 'peccatum.' If there is any objection to translating kali in Pali by 'unlucky die,' I should still prefer to take it in the sense of the age of depravity, or the demon of depravity. To judge from Abhidhanappadipika, 1106, kali was used for paragaya, i.e. loss at game, a losing throw, and occurs in that sense again in . The Chinese translation has, 'there is no distress (poison) worse than hate.' A similar verse occurs Mahabh. Santip. 175, v. 35.
+
+'Body' for khandha is a free translation, but it is difficult to find any other rendering. The Chinese translation also has 'body.' According to the Buddhists each sentient being consists of five khandhas (skandha), or aggregates, the organized body (rupakhandha) with its four internal capacities of sensation (vedana), perception (sangna), conception (samskara), knowledge (vignana). See Burnouf, Introd. pp. 589, 634; Lotus, p. 335.
+
+203. Samskara is the fourth of the five khandhas, but the commentator takes it here, as well as in , for the five khandhas together, in which case we can only translate it by 'body.' See also . Childers proposes 'organic life'. (Notes on Dhammapada, p. 1). There is, however, another samskara, that which follows inimediately upon avidya, 'ignorance,' as the second of the nidanas, or 'causes of existence,' and this too might be called the greatest pain, considering that it is the cause of birth, which is the cause of all pain. Samskara seems sometimes to have a different and less techninal meaning, being used in the sense of conceptions, plans, desires, as, for instance, in , where sankharanam khayam is used much like tamhakhaya. Again, in his comment on verse 75, Buddhaghosa says, upadhiviveko sankharasanganikam vinodeti; and again, upadhiviveko ka nirupadhinam puggalanam visankharagatanam.
+
+For a similar sentiment, see Stanislas Julien, Les Avadanas, vol. i. p. 40, 'Le corps est la plus grande source de souffrance,' &c. I should say that the khandhas in verse 202 and the sankharas in verse 203 are nearly, if not quite, synonymous. I should prefer to read gigakkha-parama as a compound. Gigakkha, or as it is written in one MS., digakkha (Sk. gighatsa), means not only 'hunger,' but 'appetite; desire.']
+
+p. 55
+
+   204. Health is the greatest of gifts, contentedness the best riches; trust is the best of relationships, Nirvana the highest happiness.
+
+   205. He who has tasted the sweetness of solitude and tranquillity, is free from fear and free from sin, while he tastes the sweetness of drinking in the law.
+
+   206. The sight of the elect (Arya) is good, to live with them is always happiness; if a man does not see fools, he will be truly happy.
+
+   207. He who walks in the company of fools suffers a long way; company with fools, as with an enemy, is always painful; company with the wise is pleasure, like meeting with kinsfolk.
+
+   208. Therefore, one ought to follow the wise, the intelligent, the learned, the much enduring, the dutiful, the elect; one ought to follow a good and wise man, as the moon follows the path of the stars.
+
+[204. Childers translates, 'the best kinsman is a man you can trust.'
+
+205. Cf. .
+
+208. I should like to read sukho ka dhirasamvaso.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 56
+
+ 
+
+CHAPTER XVI.
+
+PLEASURE.
+
+   209. He who gives himself to vanity, and does not give himself to meditation, forgetting the real aim (of life) and grasping at pleasure, will in time envy him who has exerted himself in meditation.
+
+   210. Let no man ever look for what is pleasant, or what is unpleasant. Not to see what is pleasant is pain, and it is pain to see what is unpleasant.
+
+   211. Let, therefore, no man love anything; loss of the beloved is evil. Those who love nothing and hate nothing, have no fetters.
+
+   212. From pleasure comes grief, from pleasure comes fear; he who is free from pleasure knows neither grief nor fear.
+
+   213. From affection comes grief, from affection comes fear; he who is free from affection knows neither grief nor fear.
+
+   214. From lust comes grief, from lust comes fear; he who is free from lust knows neither grief nor fear.
+
+   215. From love comes grief, from love comes fear; he who is free from love knows neither grief nor fear.
+
+   216. From greed comes grief, from greed comes fear; he who is free from greed knows neither grief nor fear.
+
+   217. He who possesses virtue and intelligence,
+
+[214. See Beal, Catena, p. 200.]
+
+p. 57
+
+who is just, speaks the truth, and does what is his own business, him the world will hold dear.
+
+   218. He in whom a desire for the Ineffable (Nirvana) has sprung up, who is satisfied in his mind, and whose thoughts are not bewildered by love, he is called urdhvamsrotas (carried upwards by the stream).
+
+   219. Kinsmen, friends, and lovers salute a man who has been long away, and returns safe from afar.
+
+   220. In like manner his good works receive him who has done good, and has gone from this world to the other;--as kinsmen receive a friend on his return.
+
+[218. Urdhvamsrotas or uddhamsoto is the technical name for one who has reached the world of the Avrihas (Aviha), and is proceeding to that of the Akanishthas (Akanittha). This is the last stage before he reaches the formless world, the Arupadhatu. (See Buddhaghosha's Parables, p. 123; Burnouf, Introduction, p. 599.) Originally urdhvamsrotas may have been used in a less technical sense, meaning one who swims against the stream, and is not carried away by the vulgar passions of the world.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 58
+
+ 
+
+CHAPTER XVII.
+
+ANGER.
+
+   221. Let a man leave anger, let him forsake pride, let him overcome all bondage! No sufferings befall the man who is not attached to name and form, and who calls nothing his own.
+
+   222. He who holds back rising anger like a rolling chariot, him I call a real driver; other people are but holding the reins.
+
+   223. Let a man overcome anger by love, let him overcome evil by good; let him overcome the greedy by liberality, the liar by truth!
+
+   224. Speak the truth, do not yield to anger; give, if thou art asked for little; by these three steps thou wilt go near the gods.
+
+   225. The sages who injure nobody, and who always control their body, they will go to the unchangeable place (Nirvana), where, if they have gone, they will suffer no more.
+
+   226. Those who are ever watchful, who study day and night, and who strive after Nirvana, their passions will come to an end.
+
+   227. This is an old saying, O Atula, this is not only of to-day: 'They blame him who sits silent,
+
+[221. 'Name and form' or 'mind and body' is the translation of nama-rupa, the ninth of the Buddhist Nidanas. Cf. Burnouf, Introduction, p. 501; see also Gogerly, Lecture on Buddhism, and Bigandet, The Life of Gaudama, p. 454.
+
+223. Mahabh. XII, 3550, asadhum sadhuna gayet. Cf. Ten Gatakas, ed. Fausboll, p. 5.
+
+227. It appears from the commentary that poranam and aggatanam are neuters, referring to what happened formerly and what happens to-day, and that they are not to be taken as adjectives referring to asinam, &c. The commentator must have read atula instead of atulam, and he explains it as the name of a pupil whom Gautama addressed by that name. This may be so (see note to ); but atula may also be taken in the sense of incomparable (Mahabh. XIII, 1937), and in that case we ought to supply, with Professor Weber, some such word as 'saw' or 'saying.']
+
+p. 59
+
+they blame him who speaks much, they also blame him who says little; there is no one on earth who is not blamed.'
+
+   228. There never was, there never will be, nor is there now, a man who is always blamed, or a man who is always praised.
+
+   229., 230. But he whom those who discriminate praise continually day after day, as without blemish, wise, rich in knowledge and virtue, who would dare to blame him, like a coin made of gold from the Gambu river? Even the gods praise him, he is praised even by Brahman.
+
+   231. Beware of bodily anger, and control thy body! Leave the sins of the body, and with thy body practise virtue!
+
+   232. Beware of the anger of the tongue, and control thy tongue! Leave the sins of the tongue, and practise virtue with thy tongue!
+
+   233. Beware of the anger of the mind, and control thy mind! Leave the sins of the mind, and practise virtue with thy mind!
+
+   234. The wise who control their body, who control their tongue, the wise who control their mind, are indeed well controlled.
+
+[230. The Brahman worlds are higher that the Deva worlds as the Brahman is higher than a Deva; see Hardy, Manual, p. 25; Burnouf, Introduction, pp. 134, 184.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 60
+
+ 
+
+CHAPTER XVIII.
+
+IMPURITY.
+
+   235. Thou art now like a sear leaf, the messengers of death (Yama) have come near to thee; thou standest at the door of thy departure, and thou hast no provision for thy journey.
+
+   236. Make thyself an island, work hard, be wise! When thy impurities are blown away, and thou art free from guilt, thou wilt enter into the heavenly world of the elect (Ariya).
+
+   237. Thy life has come to an end, thou art come near to death (Yama), there is no resting-place for thee on the road, and thou hast no provision for thy journey.
+
+   238. Make thyself an island, work hard, be wise! When thy impurities are blown away, and thou art free from guilt, thou wilt not enter again into birth and decay.
+
+   239. Let a wise man blow off the impurities of his self, as a smith blows off the impurities of silver one by one, little by little, and from time to time.
+
+   240. As the impurity which springs from the iron,
+
+[235. Uyyoga seems to mean departure. See Buddhaghosa's commentary on verse 152, p. 319, l. 1; Fausboll, Five Gatakas, p. 35.
+
+236. 'An island,' for a drowning man to save himself; (see verse 25.) Dipankara is the name of one of the former Buddhas, and it is also used as an appellative of the Buddha, but is always derived from dipo, 'a lamp.'
+
+239. This verse is the foundation of the thirty-fourth section of the Sutra of the forty-two sections; see Beal, Catena, p. 201; .]
+
+p. 61
+
+when it springs from it, destroys it; thus do a transgressor's own works lead him to the evil path.
+
+   241. The taint of prayers is non-repetition; the taint of houses, non- repair; the taint of the body is sloth; the taint of a watchman, thoughtlessness.
+
+   242. Bad conduct is the taint of woman, greediness the taint of a benefactor; tainted are all evil ways in this world and in the next.
+
+   243. But there is a taint worse than all taints,--ignorance is the greatest taint. O mendicants! throw off that taint, and become taintless!
+
+   244. Life is easy to live for a man who is without shame, a crow hero, a mischief-maker, an insulting, bold, and wretched fellow.
+
+   245. But life is hard to live for a modest man, who always looks for what is pure, who is disinterested, quiet, spotless, and intelligent.
+
+   246. He who destroys life, who speaks untruth, who in this world takes what is not given him, who goes to another man's wife;
+
+   247. And the man who gives himself to drinking intoxicating liquors, he, even in this world, digs up his own root.
+
+   248. O man, know this, that the unrestrained are in a bad state; take care that greediness and vice do not bring thee to grief for a long time!
+
+[244. Pakkhandin is identified by Dr. Fausboll with praskandin, one who jumps forward, insults, or, as Buddhaghosa explains it, one who meddles with other people's business, an interloper. At all events, it is a term of reproach, and, as it would seem, of theological reproach.
+
+246. On the five principal commandments which are recapitulated in verses 246 and 247, see Buddhaghosha's Parables, p. 153.
+
+248. Cf. Mahabharata XII, 4055, yesham vrittis ka samyata. See also .]
+
+p. 62
+
+   249. The world gives according to their faith or according to their pleasure: if a man frets about the food and the drink given to others, he will find no rest either by day or by night.
+
+   250. He in whom that feeling is destroyed, and taken out with the very root, finds rest by day and by night.
+
+   251. There is no fire like passion, there is no shark like hatred, there is no snare like folly, there is no torrent like greed.
+
+   252. The fault of others is easily perceived, but that of oneself is difficult to perceive; a man winnows his neighbour's faults like chaff, but his own fault he hides, as a cheat hides the bad die from the gambler.
+
+   253. If a man looks after the faults of others, and is always inclined to be offended, his own passions will grow, and he is far from the destruction of passions.
+
+   254. There is no path through the air, a man is not a Samana by outward acts. The world
+
+[249. This verse has evidently regard to the feelings of the Bhikshus or mendicants who receive either much or little, and who are exhorted not to be envious if others receive more than they themselves. Several of the Parables illustrate this feeling.
+
+251. Dr. Fausboll translates gaho by 'captivitas,' Dr. Weber by 'fetter.' I take it in the same sense as graha in Manu VI, 78; and Buddhaghosa does the same, though he assigns to graha a more general meaning, viz. anything that seizes, whether an evil spirit (yakkha), a serpent (agagara), or a crocodile (kumbhila).
+
+Greed or thirst is represented as a river in Lalita-vistara, ed. Calc. p. 482, trishna-nadi tivega prasoshita me gnanasuryena, 'the wild river of thirst is dried up by the sun of my knowledge.'
+
+252. See Childers, Notes, p. 7; .
+
+253. As to asava, 'appetite, passion,' see note to .
+
+254. I have translated this verse very freely, and not in accordance with Buddhaghosa's commentary. Dr. Fausboll proposed to translate, 'No one who is outside the Buddhist community can walk through the air, but only a Samana;' and the same view is taken by Professor Weber, though he arrives at it by a different construction. Now it is perfectly true that the idea of magical powers (riddhi) which enable saints to walk through the air, &c., occurs in the Dhammapada, see , note. But the Dhammapada may contain earlier and later verses, and in that case our verse might be an early protest on the part of Buddha against the belief in such miraculous powers. We know how Buddha himself protested against his disciples being called upon to perform vulgar miracles. 'I command my disciples not to work miracles,' he said, 'but to hide their good deeds, and to show their sins' (Burnouf, Introd. p. 170). It would be in harmony with this sentiment if we translated our verse as I have done. As to bahira, I should take it in the sense of 'external,' as opposed to adhyatmika, or 'internal;' and the meaning would be, 'a Samana is not a Samana by outward acts, but by his heart.' D'Alwis translates (p. 85): 'There is no footprint in the air; there is not a Samana out of the pale of the Buddhist community.'
+
+Prapanka, which I have here translated by 'vanity,' seems to include the whole host of human weaknesses; cf. , where it is explained by tamhaditthimanapapanka; in our verse by tamhadisu papankesu: cf. Lalita-vistara, p. 564, analayam nishprapankam anutpadam asambhavam (dharmakakram). As to Tathagata, a name of Buddha, cf. Burnouf, Introd. p. 75.]
+
+p. 63
+
+delights in vanity, the Tathagatas (the Buddhas) are free from vanity.
+
+   255. There is no path through the air, a man is not a Samana by outward acts. No creatures are eternal; but the awakened (Buddha) are never shaken.
+
+[255. Sankhara for samskara; cf. note to . Creature does not, as Mr. D'Alwis (p. 69) supposes, involve the Christian conception of creation.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 64
+
+ 
+
+CHAPTER XIX.
+
+THE JUST.
+
+   256., 257. A man is not just if he carries a matter by violence; no, he who distinguishes both right and wrong, who is learned and leads others, not by violence, but by law and equity, and who is guarded by the law and intelligent, he is called just.
+
+   258. A man is not learned because he talks much; he who is patient, free from hatred and fear, he is called learned.
+
+   259. A man is not a supporter of the law because he talks much; even if a man has learnt little, but sees the law bodily, he is a supporter of the law, a man who never neglects the law.
+
+   260. A man is not an elder because his head is grey; his age may be ripe, but he is called 'Old-in-vain.'
+
+   261. He in whom there is truth, virtue, love, restraint, moderation, he who is free from impurity and is wise, he is called an elder.
+
+   262. An envious, greedy, dishonest man does not become respectable by means of much talking only, or by the beauty of his complexion.
+
+   263. He in whom all this is destroyed, and taken out with the very root, he, when freed from hatred and wise, is called respectable.
+
+[259. Buddhaghosa here takes law (dhamma) in the sense of the four great truths, see note to . Could dhammam kayena passati mean, 'he observes the law in his acts?' Hardly, if we compare expressions like dhammam vipassato, .]
+
+p. 65
+
+   264. Not by tonsure does an undisciplined man who speaks falsehood become a Samana; can a man be a Samana who is still held captive by desire and greediness?
+
+   265. He who always quiets the evil, whether small or large, he is called a Samana (a quiet man), because he has quieted all evil.
+
+   266. A man is not a mendicant (Bhikshu) simply because he asks others for alms; he who adopts the whole law is a Bhikshu, not he who only begs.
+
+   267. He who is above good and evil, who is chaste, who with knowledge passes through the world, he indeed is called a Bhikshu.
+
+   268., 269. A man is not a Muni because he observes silence (mona, i.e. mauna), if he is foolish
+
+[265. This is a curious etymology, because it shows that at the time when this verse was written, the original meaning of sramana had been forgotten. Sramana meant originally, in the language br the Brahmans, a man who performed hard penances, from sram, 'to work hard,' &c. When it became the name of the Buddhist ascetics, the language had changed, and sramana was pronounced samana. Now there is another Sanskrit root, sam, 'to quiet,' which in Pali becomes likewise sam, and from this root sam, 'to quiet,' and not from sram, 'to tire,' did the popular etymology of the day and the writer of our verse derive the title of the Buddhist priests. The original form sramana became known to the Greeks as {Greek: Sarmanai}, that of samana as {Greek: Samanaioi}; the former through Megasthenes, the latter through Bardesanes, 80-60 B.C. (See Lassen, Indische Alterthumskunde, II, 700.) The Chinese Shamen and the Tungusian Shamen come from the same source, though the latter has sometimes been doubted. See Schott, Uber die doppelte Bedeutung des Wortes Schamane, in the Philosophical Transactions of the Berlin Academy, 1842, p. 463 seq.
+
+266-270. The etymologies here given of the ordinary titles of the followers of Buddha are entirely fanciful, and are curious only as showing how the people who spoke Pali had lost the etymological consciousness of their language. A Bhikshu is a beggar, i.e. a Buddhist friar who bas left his family and lives entirely on alms. Muni is a sage, hence Sakya-muni, a name of Gautama. Muni comes from man, 'to think,' and from muni comes mauna, 'silence.' Ariya, again, is the general name of those who embrace a religious life. It meant originally 'respectable, noble.' In verse 270 it seems as if the writer wished to guard against deriving ariya from ari, 'enemy.' See note to .]
+
+p. 66
+
+and ignorant; but the wise who, taking the balance, chooses the good and avoids evil, he is a Muni, and is a Muni thereby; he who in this world weighs both sides is called a Muni.
+
+   270. A man is not an elect (Ariya) because he injures living creatures; because he has pity on all living creatures, therefore is a man called Ariya.
+
+   271., 272. Not only by discipline and vows, not only by much learning, not by entering into a trance, not by sleeping alone, do I earn the happiness of release which no worldling can know. Bhikshu, be not confident as long as thou hast not attained the extinction of desires.
+
+[272. See Childers, Notes, p. 7.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 67
+
+ 
+
+CHAPTER XX.
+
+THE WAY.
+
+   273. The best of ways is the eightfold; the best of truths the four words; the best of virtues passionlessness; the best of men he who has eyes to see.
+
+   274. This is the way, there is no other that leads to the purifying of intelligence. Go on this way! Everything else is the deceit of Mara (the tempter).
+
+   275. If you go on this way, you will make an end of pain! The way was preached by me, when I had understood the removal of the thorns (in the flesh).
+
+   276. You yourself must make an effort. The Tathagatas (Buddhas) are only preachers. The thoughtful who enter the way are freed from the bondage of Mara.
+
+   277. 'All created things perish,' he who knows and sees this becomes passive in pain; this is the way to purity.
+
+[273. The eightfold or eight-membered way is the technical term for the way by which Nirvana is attained. (See Burnouf, Lotus, p. 519.) This very way constitutes the fourth of the Four Truths, or the four words of truth, viz. Duhkha, 'pain ;' Samudaya, 'origin;' Nirodha, 'destruction;' Marga, 'road.' (Lotus, p. 517.) See note to . For another explanation of the Marga, or 'way,' see Hardy, Eastern Monachism, p. 280.
+
+274. The last line may mean, 'this way is the confusion of Mara,' i.e. the discomfiture of Mara.
+
+275. The salyas, 'arrows or thorns,' are the sokasalya, 'the arrows of grief.' Buddha himself is called mahasalya-harta, 'the great remover of thorns.' (Lalita-vistara, p. 550; Mahabh. XII, 5616.)
+
+277. See .]
+
+p. 68
+
+   278. 'All created things are grief and pain,' he who knows and sees this becomes passive in pain; this is the way that leads to purity.
+
+   279. 'All forms are unreal,' he who knows and sees this becomes passive in pain; this is the way that leads to purity.
+
+   280. He who does not rouse himself when it is time to rise, who, though young and strong, is full of sloth, whose will and thought are weak, that lazy and idle man will never find the way to knowledge.
+
+   281. Watching his speech, well restrained in mind, let a man never commit any wrong with his body! Let a man but keep these three roads of action clear, and he will achieve the way which is taught by the wise.
+
+   282. Through zeal knowledge is gotten, through lack of zeal knowledge is lost; let a man who knows this double path of gain and loss thus place himself that knowledge may grow.
+
+   283. Cut down the whole forest (of lust), not a tree only! Danger comes out of the forest (of lust). When you have cut down both the forest (of lust) and its undergrowth, then, Bhikshus, you will be rid of the forest and free!
+
+[278. See .
+
+279. Dhamma is here explained, like sankhara, as the five khandha, i.e. as what constitutes a living body.
+
+281. Cf. Beal, Catena, p. 159.
+
+282. Bhuri was rightly translated 'intelligentia' by Dr. Fausboll. Dr. Weber renders it by 'Gedeihen,' but the commentator distinctly explains it as 'vast knowledge,' and in the technical sense the word occurs after vidya and before medha, in the Lalita-vistara, p. 541.
+
+283. A pun, vana meaning both 'lust' and 'forest.' See some mistaken remarks on this verse in D'Alwis, Nirvana, p. 86, and some good remarks in Childers, Notes, p. 7.]
+
+p. 69
+
+   284. So long as the love of man towards women, even the smallest, is not destroyed, so long is his mind in bondage, as the calf that drinks milk is to its mother.
+
+   285. Cut out the love of self, like an autumn lotus, with thy hand! Cherish the road of peace. Nirvana has been shown by Sugata (Buddha).
+
+   286. 'Here I shall dwell in the rain, here in winter and summer,' thus the fool meditates, and does not think of his death.
+
+   287. Death comes and carries off that man, praised for his children and flocks, his mind distracted, as a flood carries off a sleeping village.
+
+   288. Sons are no help, nor a father, nor relations; there is no help from kinsfolk for one whom death has seized.
+
+   289. A wise and good man who knows the meaning of this, should quickly clear the way that leads to Nirvana.
+
+[285. Cf. Gataka, vol. i. p. 183.
+
+286. Antaraya, according to the commentator, givitantaraya, i.e. interitus, death. In Sanskrit, antarita is used in the sense of 'vanished' or 'perished.'
+
+287. See notes to , Thiessen, Kisagotami, p. 11, and Mahabh. XII, 9944, 6540.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 70
+
+ 
+
+CHAPTER XXI.
+
+MISCELLANEOUS.
+
+   290. If by leaving a small pleasure one sees a great pleasure, let a wise man leave the small pleasure, and look to the great.
+
+   291. He who, by causing pain to others, wishes to obtain pleasure for himself, he, entangled in the bonds of hatred, will never be free from hatred.
+
+   292. What ought to be done is neglected, what ought not to be done is done; the desires of unruly, thoughtless people are always increasing.
+
+   293. But they whose whole watchfulness is always directed to their body, who do not follow what ought not to be done, and who steadfastly do what ought to be done, the desires of such watchful and wise people will come to an end.
+
+   294. A true Brahmana goes scatheless, though he have killed father and mother, and two valiant kings, though he has destroyed a kingdom with all its subjects.
+
+   295. A true Brahmana goes scatheless, though he have killed father and mother, and two holy kings, and an eminent man besides.
+
+[292. Cf. Beal, Catena, p. 264.
+
+294, 295. These two verses are either meant to show that a truly holy man who, by accident, commits all these crimes is guiltless, or they refer to some particular event in Buddha's history. The commentator is so startled that he explains them allegorically. Mr. D'Alwis is very indignant that I should have supposed Buddha capable of pardoning patricide. 'Can it be believed,' he writes, 'that a Teacher, who held life, even the life of the minutest insect, nay, even a living tree, in such high estimation as to prevent its wanton destruction, has declared that the murder of a Brahmana, to whom he accorded reverence, along with his own Sangha, was blameless?' D'Alwis, Nirvana, p. 88. Though something might be said in reply, considering the antecedents of king Agatasatru, the patron of Buddha, and stories such as that quoted by the commentator on the Dhammapada (Beal, l.c. p. 150), or in Der Weise und der Thor, p. 306, still these two verses are startling, and I am not aware that Buddha has himself drawn the conclusion, which has been drawn by others, viz. that those who have reached the highest Sambodhi, and are in fact no longer themselves, are outside the domain of good and bad, and beyond the reach of guilt. Verses like  and  admit of a different explanation. Still our verses being miscellaneous extracts, might possibly have been taken from a work in which such an opinion was advanced, and I find that Mr. Childers, no mean admirer of Buddha, was not shocked by my explanation. 'In my judgment,' he says, 'this verse is intended to express in a forcible manner the Buddhist doctrine that the Arhat cannot commit a serious sin.' However, we have met before wilh far-fetched puns in these verses, and it is not impossible that the native commentators were right after all in seeing some puns or riddles in this verse. D'Alwis, following the commentary, explains mother as lust, father as pride, the two valiant klngs as heretical systems, and the realm as sensual pleasure, while veyyaggha is taken by him for a place infested wilh the tigers of obstruction against final beatitude. Some confirmation of this interpretation is supplied by a passage in the third book of the Lankavatara-sutra, as quoted by Mr. Beal in his translation of the Dhammapada, Introduction, p. 5. Here a stanza is quoted as having been recited by Buddha, in explanation of a similar startling utterance which he had made to Mahamati:
+       'Lust, or carnal desire, this is the Mother,
+       Ignorance, this is the Father,
+       The highest point of knowledge, this is Buddha,
+       All the klesas, these are the Rahats,
+       The five skandhas, these are the Priests;
+       To commit the five unpardonable sins
+       Is to destroy these five
+       And yet not suffer the pains of hell.'
+ The Lankavatara-sutra was translated into Chinese by Bodhiruki (508-511); when it was written is doubtful. See also Gataka, vol. ii. p. 263.]
+
+p. 71
+
+   296. The disciples of Gotama (Buddha) are always well awake, and their thoughts day and night are always set on Buddha.
+
+   297. The disciples of Gotama are always well awake, and their thoughts day and night are always set on the law.
+
+   298. The disciples of Gotama are always well awake, and their thoughts day and night are always set on the church.
+
+   299. The disciples of Gotama are always well awake, and their thoughts day and night are always set on their body.
+
+p. 72
+
+   300. The disciples of Gotama are always well awake, and their mind day and night always delights in compassion.
+
+   301. The disciples of Gotama are always well awake, and their mind day and night always delights in meditation.
+
+   302. It is hard to leave the world (to become a friar), it is hard to enjoy the world; hard is the monastery, painful are the houses; painful it is to dwell with equals (to share everything in common), and the itinerant mendicant is beset with pain. Therefore let no man be an itinerant mendicant and he will not be beset with pain.
+
+   303. Whatever place a faithful, virtuous, celebrated, and wealthy man chooses, there he is respected.
+
+   304. Good people shine from afar, like the snowy
+
+[302. This verse is difficult, and I give my translation as tentative only. Childers (Notes, p. 11) does not remove the difficulties, and I have been chiefly guided by the interpretation put on the verse by the Chinese translator; Beal, Dhammapada, p. 137.]
+
+p. 73
+
+mountains; bad people are not seen, like arrows shot by night.
+
+   305. He alone who, without ceasing, practises the duty of sitting alone and sleeping alone, he, subduing himself, will rejoice in the destruction of all desires alone, as if living in a forest.
+
+[305. I have translated this verse so as to bring it into something like harmony with the preceding verses. Vanante, according to a pun pointed out before (), means both 'in the end of a forest,' and 'in the end of desires.']
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 74
+
+ 
+
+CHAPTER XXII.
+
+THE DOWNWARD COURSE.
+
+   306. He who says what is not, goes to hell; he also who, having done a thing, says I have not done it. After death both are equal, they are men with evil deeds in the next world.
+
+   307. Many men whose shoulders are covered with the yellow gown are ill-conditioned and unrestrained; such evil-doers by their evil deeds go to hell.
+
+   308. Better it would be to swallow a heated iron ball, like flaring fire, than that a bad unrestrained fellow should live on the charity of the land.
+
+   309. Four things does a wreckless man gain who covets his neighbour's wife,--a bad reputation, an uncomfortable bed, thirdly, punishment, and lastly, hell.
+
+[306. I translate niraya, 'the exit, the downward course, the evil path,' by 'hell,' because the meaning assigned to that ancient mythological name by Christian writers comes so near to the Buddhist idea of niraya, that it is difficult not to believe in some actual contact between these two streams of thought. See also Mahabh. XII, 7176. Cf. Gataka, vol. ii. p. 416; .
+
+307, 308. These two verses are said to be taken frorn the Vinaya-pitaka I, 4, 1; D'Alwis, Nirvana; p. 29.
+
+308. The charity of the land, i.e. the alms given, from a sense of religious duty, to every mendicant that asks for it.
+
+309, 310. The four things rnentioned in verse 309 seem to be repeated in verse 310. Therefore, apunnalabha, 'bad fame,' is the same in both: gati papika must be niraya; danda must be ninda, and rati thokika explains the anikamaseyyam. Buddhaghosa takes the same view of the meaning of anikamaseyya, i.e. yatha ikkhati evam seyyam alabhitva, anikkhitam parittakam eva kalam seyyam labhati, 'not obtaining the rest as he wishes it, he obtains it, as he does not wish it, for a short time only.']
+
+p. 75
+
+   310. There is bad reputation, and the evil way (to hell), there is the short pleasure of the frightened in the arms of the frightened, and the king imposes heavy punishment; therefore let no man think of his neighbour's wife.
+
+   311. As a grass-blade, if badly grasped, cuts the arm, badly-practised asceticism leads to hell.
+
+   312. An act carelessly performed, a broken vow, and hesitating obedience to discipline, all this brings no great reward.
+
+   313. If anything is to be done, let a man do it, let him attack it vigorously! A careless pilgrim only scatters the dust of his passions more widely.
+
+   314. An evil deed is better left undone, for a man repents of it afterwards; a good deed is better done, for having done it, one does not repent.
+
+   315. Like a well-guarded frontier fort, with defences within and without, so let a man guard himself. Not a moment should escape, for they who allow the right moment to pass, suffer pain when they are in hell.
+
+   316. They who are ashamed of what they ought not to be ashamed of, and are not ashamed of what they ought to be ashamed of, such men, embracing false doctrines enter the evil path.
+
+   317. They who fear when they ought not to fear, and fear not when they ought to fear, such men, embracing false doctrines, enter the evil path.
+
+[313. As to raga meaning 'dust' and 'passion,' see Buddhaghosha's Parables, pp. 65, 66.]
+
+p. 76
+
+   318. They who forbid when there is nothing to be forbidden, and forbid not when there is something to be forbidden, such men, embracing false doctrines, enter the evil path.
+
+   319. They who know what is forbidden as forbidden, and what is not forbidden as not forbidden, such men, embracing the true doctrine, enter the good path.
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 77
+
+ 
+
+CHAPTER XXIII.
+
+THE ELEPHANT.
+
+   320. Silently shall I endure abuse as the elephant in battle endures the arrow sent from the bow: for the world is ill-natured.
+
+   321. They lead a tamed elephant to battle, the king mounts a tamed elephant; the tamed is the best among men, he who silently endures abuse.
+
+   322. Mules are good, if tamed, and noble Sindhu horses, and elephants with large tusks; but he who tames himself is better still.
+
+   323. For with these animals does no man reach the untrodden country (Nirvana), where a tamed man goes on a tamed animal, viz. on his own well-tamed self.
+
+   324. The elephant called Dhanapalaka, his temples running with sap, and difficult to hold, does not eat a morsel when bound; the elephant longs for the elephant grove.
+
+[320. The elephant is with the Buddhists the emblem of endurance and self-restraint. Thus Buddha himseIf is called Naga, 'the Elephant' (Lal. Vist. p. 553), or Mahanaga, 'the great Elephant' (Lal. Vist. p. 553), and in one passage (Lal. Vist. p. 554) the reason of this name is given, by stating that Buddha was sudanta, 'well-tamed,' like an elephant. He descended from heaven in the form of an elephant to be born on earth.
+
+Cf. Manu VI, 47, ativadams titiksheta.
+
+323. I read, as suggested by Dr. Fausboll, yath' attana sudantena danto dantena gakkhati' (cf. ). The India Office MS. reads na hi etehi thanehi gakkheya agatam disam, yath' attanam sudantena danto dantena gakkhati. As to thanehi instead of yanehi, see .]
+
+p. 78
+
+   325. If a man becomes fat and a great eater, if he is sleepy and rolls himself about, that fool, like a hog fed on wash, is born again and again.
+
+   326. This mind of mine went formerly wandering about as it liked, as it listed, as it pleased; but I shall now hold it in thoroughly, as the rider who holds the hook holds in the furious elephant.
+
+   327. Be not thoughtless, watch your thoughts! Draw yourself out of the evil way, like an elephant sunk in mud.
+
+   328. If a man find a prudent companion who walks with him, is wise, and lives soberly, he may walk with him, overcoming all dangers, happy, but considerate.
+
+   329. If a man find no prudent companion who walks with him, is wise, and lives soberly, let him walk alone, like a king who has left his conquered country behind,--like an elephant in the forest.
+
+   330. It is better to live alone, there is no companionship with a fool; let a man walk alone, let him commit no sin, with few wishes, like an elephant in the forest.
+
+[326. Yoniso, i.e. yonisah, is rendered by Dr. Fausboll 'sapientia,' and this is the meaning ascribed to yoni by many Buddhist authorities. But the reference to Hemakandra (ed. Boehtlingk and Rieu, p. 281) shows clearly that it meant 'origin,' or 'cause.' Yoniso occurs frequently as a mere adverb, meaning 'thoroughly, radically' (Dhammapada, p. 359), and yoniso manasikara (Dhammapada, p. 110) means 'taking to heart' or 'minding thoroughly,' or, what is nearly the same, 'wisely.' In the Lalita-vistara, p. 41, the commentator has clearly mistaken yonisah, changing it to ye 'niso, and explaining it by yamnisam, whereas M. Foucaux has rightly translated it by 'depuis l'origine.' Professor Weber suspected in yonisah a double entendre, but even grammar would show that our author is innocent of it. In Lalita-vistara, p. 544, l. 4, ayonisa occurs in the sense of error.
+
+328, 329. Cf. .]
+
+p. 79
+
+   331. If an occasion arises, friends are pleasant; enjoyment is pleasant, whatever be the cause; a good work is pleasant in the hour of death; the giving up of all grief is pleasant.
+
+   332. Pleasant in the world is the state of a mother, pleasant the state of a father, pleasant the state of a Samana, pleasant the state of a Brahmana.
+
+   333. Pleasant is virtue lasting to old age, pleasant is a faith firmly rooted; pleasant is attainment of intelligence, pleasant is avoiding of sins.
+
+[332. The commentator throughout takes these words, like matteyyata, &c., to signify, not the status of a mother, or maternity, but reverence shown to a mother.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 80
+
+ 
+
+CHAPTER XXIV.
+
+THIRST.
+
+   334. The thirst of a thoughtless man grows like a creeper; he runs from life to life, like a monkey seeking fruit in the forest.
+
+   335. Whomsoever this fierce thirst overcomes, full of poison, in this world, his sufferings increase like the abounding Birana grass.
+
+   336. He who overcomes this fierce thirst, difficult to be conquered in this world, sufferings fall off from him, like water-drops from a lotus leaf.
+
+   337. This salutary word I tell you, 'Do ye, as many as are here assembled, dig up the root of thirst, as he who wants the sweet-scented Usira root must dig up the Birana grass, that Mara (the tempter) may not crush you again and again, as the stream crushes the reeds.'
+
+   338. As a tree, even though it has been cut down, is firm so long as its root is safe, and grows again, thus, unless the feeders of thirst are destroyed, the pain (of life) will return again and again.
+
+   339. He whose thirst running towards pleasure is exceeding strong in the thirty-six channels, the
+
+[334. This is explained by a story in the Chinese translation. Beal, Dhammapada, p. 148.
+
+335. Birana grass is the Andropogon muricatum, and the scented root of it is called Usira (cf. verse 337).
+
+338. On Anusaya, i.e. Anusaya (Anlage), see Wassiljew, Der Buddhismus, p. 240 seq.
+
+339. The thirty-six channels, or passions, which are divided by the commentator into eighteen external and eighteen internal, are explained by Burnouf (Lotus, p. 649), from a gloss of the Gina-alankara 'L'indication precise des affections dont un Buddha acte independant, affections qui sont au nombre de dix-huit, nous est fourni par la glose d'un livre appartenant aux Buddhistes de Ceylan,' &c. Subhuti gives the right reading as manapassavana; cf. Childers, Notes, p. 12.
+
+Vaha, which Dr. Fausboll translates by 'equi,' may be vaha, 'undae.' Cf. .]
+
+p. 81
+
+waves will carry away that misguided man, viz. his desires which are set on passion.
+
+   340. The channels run everywhere, the creeper (of passion) stands sprouting; if you see the creeper springing up, cut its root by means of knowledge.
+
+   341. A creature's pleasures are extravagant and luxurious; sunk in lust and looking for pleasure, men undergo (again and again) birth and decay.
+
+   342. Men, driven on by thirst, run about like a snared hare; held in fetters and bonds, they undergo pain for a long time, again and again.
+
+   343. Men, driven on by thirst, run about like a snared hare; let therefore the mendicant drive out thirst, by striving after passionlessness for himself.
+
+   344. He who having got rid of the forest (of lust) (i.e. after having reached Nirvana) gives himself over to forest-life (i.e. to lust), and who, when removed from the forest (i.e. from lust), runs to the forest (i.e. to lust), look at that man! though free, he runs into bondage.
+
+[344. This verse seems again full of puns, all connected with the twofold meaning of vana, 'forest and lust.' By replacing 'forest' by 'lust,' we may translate: 'He who, when free from lust, gives himself up to lust, who, when removed from lust runs into lust, look at that man,' &c. Nibbana, 'though with a short a, may be intended to remind the hearer of Nibbana. The right reading is nibbanatho; see Childers, Notes, p. 8.]
+
+p. 82
+
+   345. Wise people do not call that a strong fetter which is made of iron, wood, or hemp; far stronger is the care for precious stones and rings, for sons and a wife.
+
+   346. That fetter wise people call strong which drags down, yields, but is difficult to undo; after having cut this at last, people leave the world, free from cares, and leaving desires and pleasures behind.
+
+   347. Those who are slaves to passions, run down with the stream (of desires), as a spider runs down the web which he has made himself; when they have cut this, at last, wise people leave the world free from cares, leaving all affection behind.
+
+   348. Give up what is before, give up what is behind, give up what is in the middle, when thou goest to the other shore of existence; if thy mind is altogether free, thou wilt not again enter into birth and decay.
+
+   349. If a man is tossed about by doubts, full of strong passions, and yearning only for what is delightful, his thirst will grow more and more, and he will indeed make his fetters strong.
+
+   350. If a man delights in quieting doubts, and, always reflecting, dwells on what is not delightful
+
+[345. Apekha, apeksha, 'care;' see Manu VI, 41, 49; ; and Gataka, vol. ii. p. 140.
+
+346. Paribbag, i.e. parivrag ; see Manu VI, 41.
+
+347. The commentator explains the simile of the spider as follows: 'As a spider, after having made its thread-web, sits in the middle, and after killing with a violent rush a butterfly or a fly which has fallen in its circle, drinks its juice, returns, and sits again in the same place, in the same manner creatures who are given to passions, depraved by hatred, and maddened by wrath, run along the stream of thirst which they have made themselves, and cannot cross it,' &c.]
+
+p. 83
+
+(the impurity of the body, &c.), he certainly will remove, nay, he will cut the fetter of Mara.
+
+   351. He who has reached the consummation, who does not tremble, who is without thirst and without sin, he has broken all the thorns of life: this will be his last body.
+
+   352. He who is without thirst and without affection, who understands the words and their interpretation, who knows the order of letters (those which are before and which are after), he has received his last body, he is called the great sage, the great man.
+
+   353. 'I have conquered all, I know all, in all conditions of life I am free from taint; I have left all, and through the destruction of thirst I am free; having learnt myself, whom shall I teach?'
+
+   354. The gift of the law exceeds all gifts; the sweetness of the law exceeds all sweetness; the delight in the law exceeds all delights; the extinction of thirst overcomes all pain.
+
+   355. Pleasures destroy the foolish, if they look not for the other shore; the foolish by his thirst for pleasures destroys himself, as if he were his own enemy.
+
+[352. As to nirutti, and its technical meaning among the Buddhists, see Burnouf, Lotus, p. 841. Fausboll translates 'niruttis vocabulorum peritus,' which may be right, if we take nirutti in the sense of the language of the Scriptures. See note to . Could not sannipata mean samhita or sannikarsha? Sannipata occurs in the Sakala-pratisakhya, but with a different meaning.
+
+353. Cf. .
+
+354. The dhammadana, or 'gift of the law,' is the technical term for instruction in the Buddhist religion. See Buddhaghosha's Parables, p. 160, where the story of the Sakkadevaraga is told, and where a free rendering of our verse is given.]
+
+p. 84
+
+   356. The fields are damaged by weeds, mankind is damaged by passion: therefore a gift bestowed on the passionless brings great reward.
+
+   357. The fields are damaged by weeds, mankind is damaged by hatred: therefore a gift bestowed on those who do not hate brings great reward.
+
+   358. The fields are damaged by weeds, mankind is damaged by vanity: therefore a gift bestowed on those who are free from vanity brings great reward.
+
+   359. The fields are damaged by weeds, mankind is damaged by lust: therefore a gift bestowed on those who are free from lust brings great reward.
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 85
+
+ 
+
+CHAPTER XXV.
+
+THE BHIKSHU (MENDICANT).
+
+   360. Restraint in the eye is good, good is restraint in the ear, in the nose restraint is good, good is restraint in the tongue.
+
+   361. In the body restraint is good, good is restraint in speech, in thought restraint is good, good is restraint in all things. A Bhikshu, restrained in all things, is freed from all pain.
+
+   362. He who controls his hand, he who controls his feet, he who controls his speech, he who is well controlled, he who delights inwardly, who is collected, who is solitary and content, him they call Bhikshu.
+
+   363. The Bhikshu who controls his mouth, who speaks wisely and calmly, who teaches the meaning and the law, his word is sweet.
+
+   364. He who dwells in the law, delights in the law, meditates on the law, follows the law, that Bhikshu will never fall away from the true law.
+
+   365. Let him not despise what he has received,
+
+[363. On artha and dharma, see Stanislas Julien, Les Avadanas, I, 217, note; 'Les quatre connaissances sont; 1&deg; la connaissance du sens (artha); 2&deg; la connaissance de la Loi (dharma); 3&deg; la connaissance des explications (niroukti); 4&deg; la connaissance de l'intelligence (pratibhana).'
+
+364. The expression dhammaramo, 'having his garden or delight (Lustgarten) in the law,' is well matched by the Brahmanic expression ekarama, i.e. nirdvandva (Mahabh. XIII, 1930). Cf. ; .]
+
+p. 86
+
+nor ever envy others: a mendicant who envies others does not obtain peace of mind.
+
+   366. A Bhikshu who, though he receives little, does not despise what he has received, even the gods will praise him, if his life is pure, and if he is not slothful.
+
+   367. He who never identifies himself with name and form, and does not grieve over what is no more, he indeed is called a Bhikshu.
+
+   368. The Bhikshu who acts with kindness, who is calm in the doctrine of Buddha, will reach the quiet place (Nirvana), cessation of natural desires, and happiness.
+
+   369. O Bhikshu, empty this boat! if emptied, it will go quickly; having cut off passion and hatred thou wilt go to Nirvana.
+
+   370. Cut off the five (senses), leave the five, rise above the five. A Bhikshu, who has escaped from the five fetters, he is called Oghatinna, 'saved from the flood.'
+
+   371. Meditate, O Bhikshu, and be not heedless! Do not direct thy thought to what gives pleasure that thou mayest not for thy heedlessness have to swallow the iron ball (in hell), and that thou mayest not cry out when burning, 'This is pain.'
+
+[367. Namarupa is here used again in its technical sense of mind and body, neither of which, however, is with the Buddhists atman, or 'self.' Asat, 'what is not,' may therefore mean the same as namarupa, or we may take it in the sense of what is no more, as, for instance, the beauty or youth of the body, the vigour of the mind, &c.
+
+368. See Childers, Notes, p. 11.
+
+371. The swallowing of hot iron balls is considered as a punishment in hell; see . Professor Weber has perceived the right meaning of bhavassu, which can only be bhavayasva, but I doubt whether the rest of his rendering is right, for who would swallow an iron ball by accident?]
+
+p. 87
+
+   372. Without knowledge there is no meditation, without meditation there is no knowledge: he who has knowledge and meditation is near unto Nirvana.
+
+   373. A Bhikshu who has entered his empty house, and whose mind is tranquil, feels a more than human delight when he sees the law clearly.
+
+   374. As soon as he has considered the origin and destruction of the elements (khandha) of the body, he finds happiness and joy which belong to those who know the immortal (Nirvana).
+
+   375. And this is the beginning here for a wise Bhikshu: watchfulness over the senses, contentedness, restraint under the law; keep noble friends whose life is pure, and who are not slothful.
+
+   376. Let him live in charity, let him be perfect in his duties; then in the fulness of delight he will make an end of suffering.
+
+   377. As the Vassika plant sheds its withered flowers, men should shed passion and hatred, O ye Bhikshus!
+
+   378. The Bhikshu whose body and tongue and mind are quieted, who is collected, and has rejected the baits of the world, he is called quiet.
+
+   379. Rouse thyself by thyself, examine thyself by thyself, thus self-protected and attentive wilt thou live happily, O Bhikshu!
+
+   380. For self is the lord of self, self is the refuge of self; therefore curb thyself as the merchant curbs a good horse.
+
+[372. Cf. Beal, Catena, p. 247.
+
+375. Cf. .]
+
+p. 88
+
+   381. The Bhikshu, full of delight, who is calm in the doctrine of Buddha will reach the quiet place (Nirvana), cessation of natural desires, and happiness.
+
+   382. He who, even as a young Bhikshu, applies himself to the doctrine of Buddha, brightens up this world, like the moon when free from clouds.
+
+[381. See . D'Alwis translates, 'dissolution of the sankharas (elements of existence).']
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 89
+
+ 
+
+CHAPTER XXVI.
+
+THE BRAHMANA (ARHAT).
+
+   383. Stop the stream valiantly, drive away the desires, O Brahmana! When you have understood the destruction of all that was made, you will understand that which was not made.
+
+   384. If the Brahmana has reached the other shore in both laws (in restraint and contemplation), all bonds vanish from him who has obtained knowledge.
+
+   385. He for whom there is neither this nor that shore, nor both, him, the fearless and unshackled, I call indeed a Brahmana.
+
+   386. He who is thoughtful, blameless, settled, dutiful, without passions, and who has attained the highest end, him I call indeed a Brahmana.
+
+   387. The sun is bright by day, the moon shines by night, the warrior is bright in his armour, the Brahmana is bright in his meditation; but Buddha, the Awakened, is bright with splendour day and night.
+
+   388. Because a man is rid of evil, therefore he is called Brahmana; because he walks quietly, therefore he is called Samana; because he has sent away his own impurities, therefore he is called Pravragita (Pabbagita, a pilgrim).
+
+[385. The exact meaning of the two shores is not quite clear, and the commentator who takes them in the sense of internal and external organs of sense can hardly be right. See .
+
+388. These would-be etytmologies are again interesting as showing the decline of the etymlological life of the spoken language of India at the time when such etymologies became possible. In order to derive Brahmana from vah, it must have been pronounced bahmano; vah, 'to remove,' occurs frequently in the Buddhistical Sanskrit. Cf. Lal. Vist. p. 551, l. 1; 553, l. 7. See note to .]
+
+p. 90
+
+   389. No one should attack a Brahmana, but no Brahmana (if attacked) should let himself fly at his aggressor! Woe to him who strikes a Brahmana, more woe to him who flies at his aggressor!
+
+   390. It advantages a Brahmana not a little if he holds his mind back from the pleasures of life; when all wish to injure has vanished, pain will cease.
+
+   391. Him I call indeed a Brahmana who does not offend by body, word, or thought, and is controlled on these three points.
+
+   392. After a man has once understood the law as taught by the Well-awakened (Buddha), let him worship it carefully, as the Brahmana worships the sacrificial fire.
+
+   393. A man does not become a Brahmana by his platted hair, by his family, or by birth; in whom there is truth and righteousness, he is blessed, he is a Brahmana.
+
+   394. What is the use of platted hair, O fool! what of the raiment of goat-skins? Within thee there is ravening, but the outside thou makest clean.
+
+   395. The man who wears dirty raiments, who is
+
+[390. I am afraid I have taken too much liberty with this verse. Dr. Fausboll translates, 'Non Brahmanae hoc paulo melius, quando retentio fit mentis a jucundis.'
+
+393. Fausboll proposes to read gakka (gatya). 'Both' in the first edition of my translation was a misprint for 'birth.'
+
+394. I have not copied the language of the Bible more than I was justified in. The words are abbhantaran te gahanam, bahiram parimaggasi, 'interna est abyssus, externum mundas.' Cf. Gataka, vol. i. p. 481.
+
+395. The expression Kisan dhamanisanthatam is the Sanskrit krisam dhamanisantatam, the frequent occurrence of which in the Mahabharata has been pointed out by Boehtlingk, s.v. dhamani. It looks more like a Brahmanic than like a Buddhist phrase.]
+
+p. 91
+
+emaciated and covered with veins, who lives alone in the forest, and meditates, him I call indeed a Brahmana.
+
+   396. I do not call a man a Brahmana because of his origin or of his mother. He is indeed arrogant, and he is wealthy: but the poor, who is free from all attachments, him I call indeed a Brahmana.
+
+   397. Him I call indeed a Brahmana who has cut all fetters, who never trembles, is independent and unshackled.
+
+   398. Him I call indeed a Brahmana who has cut the strap and the thong, the chain with all that pertains to it, who has burst the bar, and is awakened.
+
+   399. Him I call indeed a Brahmana who, though he has committed no offence, endures reproach, bonds, and stripes, who has endurance for his force, and strength for his army.
+
+   400. Him I call indeed a Brahmana who is free from anger, dutiful, virtuous, without appetite, who is subdued, and has received his last body.
+
+[396. From verse 396 to the first half of verse 423, the text of the Dhammapada agrees with the text of the Vasishtha-Bharadvagasutra. These verses are translated by D'Alwis in his Nirvana, pp. 113-118, and again by Fausboll, Suttanipata, .
+
+The text contains puns on kinkana, which means 'wealth,' but also 'attachment;' cf. Childers, s.v.
+
+398. D'Alwis points out a double entendre in these words. Nandhi may be either the strap that goes round a drum, or enmity; varatta may be either a thong or attachment; sandana either chain or scepticism; sabanakkamam either due order or all its concomitants; paligha either bar or ignorance.
+
+399. The exact meaning of balanika is difficult to find. Does it mean, possessed of a strong army, or facing a force, or leading a force?]
+
+p. 92
+
+   401. Him I call indeed a Brahmana who does not cling to pleasures, like water on a lotus leaf, like a mustard seed on the point of a needle.
+
+   402. Him I call indeed a Brahmana who, even here, knows the end of his suffering, has put down his burden, and is unshackled.
+
+   403. Him I call indeed a Brahmana whose knowledge is deep, who possesses wisdom, who knows the right way and the wrong, and has attained the highest end.
+
+   404. Him I call indeed a Brahmana who keeps aloof both from laymen and from mendicants, who frequents no houses, and has but few desires.
+
+   405. Him I call indeed a Brahmana who finds no fault with other beings, whether feeble or strong, and does not kill nor cause slaughter.
+
+   406. Him I call indeed a Brahmana who is tolerant with the intolerant, mild with fault-finders, and free from passion among the passionate.
+
+   407. Him I call indeed a Brahmana from whom anger and hatred, pride and envy have dropt like a mustard seed from the point of a needle.
+
+   408. Him I call indeed a Brahmana who utters true speech, instructive and free from harshness, so that he offend no one.
+
+   409. Him I call indeed a Brahmana who takes nothing in the world that is not given him, be it long or short, small or large, good or bad.
+
+   410. Him I call indeed a Brahmana who fosters no desires for this world or for the next, has no inclinations, and is unshackled.
+
+[405. On tasa and thavara, see Childers, s.v., and D'Alwis, Nirvana, p. 115. On danda, 'the rod,' see Hibbert Lectures, p. 355, note.]
+
+p. 93
+
+   411. Him I call indeed a Brahmana who has no interests, and when he has understood (the truth), does not say How, how? and who has reached the depth of the Immortal.
+
+   412. Him I call indeed a Brahmana who in this world is above good and evil, above the bondage of both, free from grief from sin, and from impurity.
+
+   413. Him I call indeed a Brahmana who is bright like the moon, pure, serene, undisturbed, and in whom all gaiety is extinct.
+
+   414. Him I call indeed a Brahmana who has traversed this miry road; the impassable world and its vanity, who has gone through, and reached the other shore, is thoughtful, guileless, free from doubts, free from attachment, and content.
+
+   415. Him I call indeed a Brahmana who in this world, leaving all desires, travels about without a home, and in whom all concupiscence is extinct.
+
+   416. Him I call indeed a Brahmana who, leaving all longings, travels about without a home, and in whom all covetousness is extinct.
+
+   417. Him I call indeed a Brahmana who, after leaving all bondage to men, has risen above all
+
+[411. Akathankathi is explained by Buddhaghosa as meaning, 'free from doubt or hesitation.' He also uses kathankatha in the sense of 'doubt' (verse 414). ln the Kavyadarsa, III, 17, the commentator explains akatham by katharahitam, nirvivadam, which would mean, 'without a katha, a speech, a story without contradiction, unconditionally.' From our passage, however, it seems as if kathankatha was a noun derived from kathankathayati, 'to say How, how?' so that neither the first nor the second element had anything to do with kath, 'to relate;' and in that case akatham, too, ought to be taken in the sense of 'without a Why.'
+
+412. See . The distinction between good and evil vanishes when a man has retired from the world, and has ceased to act, longing only for deliverance.]
+
+p. 94
+
+bondage to the gods, and is free from all and every bondage.
+
+   418. Him I call indeed a Brahmana who has left what gives pleasure and what gives pain, who is cold, and free from all germs (of renewed life), the hero who has conquered all the worlds.
+
+   419. Him I call indeed a Brahmana who knows the destruction and the return of beings everywhere, who is free from bondage, welfaring (Sugata), and awakened (Buddha).
+
+[418. Upadhi, if not used in a technical sense, is best translated by 'passions or affections.' Technically there are four upadhis or substrata, viz. the kandhas, kama, 'desire,' kilesa, 'sin,' and kamma, 'work.' The Brahmana may be called nirupadhi, as being free from desire, misery, and work and its consequences, but not yet of the kandhas, which end through death only. The commentator explains nirupadhi by nirupakkilesa, 'free from sin.' See Childers, s.v. nibbana, p. 268 a.
+
+419. Sugata is one of those many words in Buddhist literature which it is almost impossible to translate, because they have been taken in so many acceptations by the Buddhists themselves. Sugata etymologically means 'one who has fared well,' sugati means 'happiness and blessedness.' It is wrong to translate it literally by 'welcome,' for that in Sanskrit is svagata; and we cannot accept Dr. Eitel's staternent (Handbook, p. 138) that sugata stands incorrectly for svagata. Sugata is one of the not very numerous technical terms in Buddhism for which hitherto we know of no antecedents in earlier Brahmanism. It may have been used in the sense of 'happy and blessed,' but it never became a title, while in Buddhism it has become, not only a title, but almost a proper name of Buddha. The same applies to tathagata, lit. 'thus come,' but used in Sanskrit very much like tathavidha, in the sense of talis, while in Buddhism it means a Buddha. There are of course many interpretations of the word, and many reasons are given why Buddhas should be called Tathagata (Burnouf, Introduction, p. 75, &c.) Boehtlingk s.v. supposed that, because Buddha had so many predicates, he was, for the sake of brevity, called 'such a one as he really is.' I think we may go a step further. Another word, tadrisa, meaning talis, becomes in Pali, under the form of tadi, a name of Buddha's disciples, and afterwards of Buddha himself. If applied to Buddha's disciples, it may have meant originally 'such as he,' i.e. his fellows; but when applied to Buddha himself, it can only mean 'such a one,' i.e. 'so great a man.' The Sanskrit marsha is probably the Pali mariso, which stands for madiso, Sk. madrisa, 'like me,' used in Pali when a superior addresses others as his equals, and afterwards changed into a mere title of respect.]
+
+p. 95
+
+   420. Him I call indeed a Brahmana whose path the gods do not know, nor spirits (Gandharvas), nor men, whose passions are extinct, and who is an Arhat (venerable).
+
+   421. Him I call indeed a Brahmana who calls nothing his own, whether it be before, behind, or between, who is poor, and free from the love of the world.
+
+   422. Him I call indeed a Brahmana, the manly, the noble, the hero, the great sage, the conqueror, the impassible, the accomplished, the awakened.
+
+   423. Him I call indeed a Brahmana who knows his former abodes, who sees heaven and hell, has reached the end of births, is perfect in knowledge, a sage, and whose perfections are all perfect.
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. v
+
+ 
+
+THE SUTTA-NIPATA
+
+ 
+
+A COLLECTION OF DISCOURSES
+
+ 
+
+BEING ONE OF THE CANONICAL BOOKS OF THE
+ BUDDHISTS
+
+ 
+
+ 
+
+TRANSLATED FROM PALI
+
+ 
+
+BY
+
+ 
+
+V. FAUSBOLL
+
+ 
+
+Oxford, the Clarendon Press
+
+ 
+
+[1881]
+
+ 
+
+{scanned, proofread, and formatted by Christopher M. Weimer, March 2002}
+
+ 
+
+Vol. X Part II of The Sacred Books of the East
+
+ 
+
+translated by various Oriental scholars and edited by F. Max Muller
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+ 
+
+CONTENTS.
+
+ 
+
+  PAGE 
+  INTRODUCTION TO SUTTA-NIPATA  xi 
+     
+  I.   URAGAVAGGA  1 
+     1.  Uragasutta  1 
+     2.  Dhaniyasutta  3 
+     3.  Khaggavisanasutta  6 
+     4.  Kasibharadvagasutta  11 
+     5.   Kundasutta  15 
+     6.  Parabhavasutta  17 
+     7.  Vasalasutta  20 
+     8.  Mettasutta  24 
+     9.  Hemavatasutta  25 
+     10.  Alavakasutta  29 
+     11.  Vigayasutta  32 
+     12.  Munisutta  33 
+     
+  II.   KULAVAGGA  37 
+     1.  Ratanasutta  37 
+     2.  Amagandhasutta  40 
+     3.  Hirisutta  42 
+     4.  Mahamangalasutta  43 
+     5.  Sukilomasutta  45 
+     6.  Dhammakariyasutta or Kapilasutta  46 
+     7.  Brahmanadhammikasutta  47 
+     8.  Navasutta  52 
+     9.  Kimsilasutta  54 
+     10.  Utthanasutta  55 
+     11.  Rahulasutta  55 
+     12.  Vangisasutta  51 
+     13.  Sammaparibbaganiyasutta  60 
+     14.  Dhammikasutta  62 
+     
+  III.   MAHAVAGGA  67 
+     1.  Pabbaggasutta  67 
+     2.  Padhanasutta  69 
+     3.  Subhasitasutta  72 
+     4.  Sundarikabharadvagasutta  74 
+     5.  Maghasutta  80 
+     6.  Sabhiyasutta  85 
+     7.  Selasutta  96 
+     8.  Sallasutta  106 
+     9.  Vasetthasutta  108 
+     10.  Kokaliyasutta  118 
+     11.  Nalakasutta  124 
+     12.  Dvayatanupassanasutta  131 
+     
+  IV.   ATTHAKAVAGGA  146 
+     1.  Kamasutta  146 
+     2.  Guhatthakasutta  147 
+     3.  Dutthatthakasutta  148 
+     4.  Suddhatthakasutta  150 
+     5.  Paramatthakasutta  152 
+     6.   Garasutta  154 
+     7.  Tissametteyyasutta  156 
+     8.  Pasurasutta  157 
+     9.  Magandiyasutta  159 
+     10.  Purabhedasutta  162 
+     11.  Kalahavivadasutta  164 
+     12.   Kulaviyuhasutta  167 
+     13.  Mahaviyuhasutta  171 
+     14.  Tuvatakasutta  174 
+     15.  Attadandasutta  177 
+     16.  Sariputtasutta  180 
+     
+  V.   PARAYANAVAGGA  184 
+     1.  Vatthugatha  184 
+     2.  Agitamanavapukkha  190 
+     3.  Tissametteyyamanavapukkha  191 
+     4.  Punnakamanavapukkha  192 
+     5.  Mettagumanavapukkha  193 
+     6.  Dhotakamanavapukkha  196 
+     7.  Upasivamanavapukkha  197 
+     8.  Nandamanavapukkha  199 
+     9.  Hemakamanavapukkha  201 
+     10.  Todeyyamanavapukkha  202 
+     11.  Kappamanavapukkha  203 
+     12.   Gatukannimanavapukkha  204 
+     13.  Bhadravudhamanavapukkha  205 
+     14.  Udayamanavapukkha  206 
+     15.  Posalamanavapukkha  207 
+     16.  Mogharagamanavapukkha  208 
+     17.  Pingiyamanavapukkha  209 
+     
+  Index        215 
+  
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. x
+
+  EXPLANATION OF WORDS 
+   the meaning of which is not always given in the translation. 
+       
+  Agivika,  one belonging to a sect of naked ascetics. 
+  Arahat,  a holy man, a saint. 
+  Ariya,  noble. 
+  Bhagavat,  worshipful; blessed, a name of a Buddha. 
+  Bhikkhu,  a mendicant. 
+  Brahman,  the supreme god of the Hindus. 
+  Brahmana,  a sage. 
+  Buddha,  enlightened, a name of certain holy men who have freed themselves from existence, particularly of Samana Gotama. 
+  Dhamma,  tenet, doctrine, custom, law, religion, virtue, thing. 
+  Gahattha,  Gihin, a householder. 
+  Gotama,  a name of the last Buddha. 
+   Gatila,  an ascetic wearing clotted hair. 
+   Gina,  a conqueror, a name of a Buddha. 
+  Isi,  a sage. 
+  Khattiya,  a warrior, a prince. 
+   Kandala,  an outcast. 
+  Mara,  a name of the king of death, the devil. 
+  Muni,  a thinker, a sage. 
+  Naga,  an eminent man; sinless? 
+  Namuki  = Mara. 
+  Nibbana,  extinction, the state of bliss of the Buddhist. 
+  Nigantha,  a naked ascetic. 
+  Pabbagga,  leaving the world, embracing ascetic life, taking the robe. 
+  Pabbagita,  an ascetic, having taken the robe. 
+  Paribbaga,  Paribbagaka, a wandering mendicant. 
+  Sakka = Sakya,  belonging to the Sakya tribe. 
+  Sakyamuni,  the Sakya sage, a name of Buddha. 
+  Samana,  an ascetic. 
+  Samkhara,  all compound things, the material world. 
+  Samsara,  revolution, transmigration. 
+  Savaka,  a hearer, a follower, a disciple of Buddha, including both laity and clergy. 
+  Sekha,  a novice, student. 
+  Sudda,  a man of the servile caste. 
+  Sugata,  happy, a name of a Buddha. 
+  Thera,  an elder, a senior priest. 
+  Titthiya,  an ascetic adhering to a certain system of philosophy. 
+  Upadhi,  the elements of the world. 
+  Upasaka,  a follower, a lay devotee. 
+  Upasampada,  priest's orders. 
+  Vessa, Vessika,  a man of the third caste. 
+  Yakkha,  a giant, a malignant spirit. 
+  
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. xi
+
+ 
+
+INTRODUCTION
+
+ 
+
+TO
+
+ 
+
+THE SUTTA-NIPATA.
+
+   THE Collection of Discourses, Sutta-Nipata, which I have here translated[1], is very remarkable, as there can be no doubt that it contains some remnants of Primitive Buddhism. I consider the greater part of the Mahavagga, and nearly the whole of the Atthakavagga as very old. I have arrived at this conclusion from two reasons, first from the language, and secondly from the contents.
+
+   1. We not only find here what we meet with in other Pali poetry, the fuller Vedic forms of nouns and verbs in the plural, as avitatamhase, panditase, dhammase, sitase, upatthitase, pavadiyase, &c., and karamase, asmase, sikkhissamase; the shorter Vedic plurals and the instrumental singular of nouns, as vinikkhaya, lakkhana for vinikkhayani, lakkhanani, manta, parinna, vinaya, labhakamya for mantaya, &c.; Vedic infinitives, as vippahatave, sampayatave, unnametave; contracted (or sometimes old) forms, as santya, gakka, duggakka, sammukka, titthya, thiyo, parihirati for santiya, gatiya, sammutiya, titthiya, itthiyo, parihariyati, by the side of protracted forms, such as atumanam; but also some unusual (sometimes old) forms and words, as apukkhasi, sagghasi[2] = sakkhissasi, sussam = sunissami (Sansk. sroshyami), pava and pava = vadati, pavekkhe = paveseyya, parikissati = parikilissati, vineyya, vikeyya, nikkheyya, pappuyya, = vinayitva, &c., datthu = disva (S. drishtva), atisitva = atikkamitva, anuvikka = anuviditva, paribbasana = vasamana, amhana (S. asmana) = pasanena, vakibhi, katubbhi, rattamahabhi, ise (vocative), suvami = sami, maga = miga,
+
+[1. Sir M. Coomara Swamy's translation of part of the book has been a great help to me. I hope shortly to publish the Pali text.
+
+2. C reads pagghasi.]
+
+p. xii
+
+tumo = so, parovara = paravara, bhunahu = bhutihanaka, upaya, amagandha, dhona, vyappatha, vyappathi, vevikkha, visenibhuta, visenikatva, patiseniyanti. Sometimes we meet also with difficult and irregular constructions, and very condensed expressions. All this proves, I think, that these parts of the book are much older than the Suttas in which the language is not only fluent, but of which some verses are even singularly melodious.
+
+   2. In the contents of the Suttanipata we have, I think, an important contribution to the right understanding of Primitive Buddhism, for we see here a picture not of life in monasteries, but of the life of hermits in its first stage. We have before us not the systematizing of the later Buddhist church, but the first germs of a system, the fundamental ideas of which come out with sufficient clearness. From the Atthakavagga especially it is evident where Buddha takes his stand in opposition to Philosophy (ditthi = darsana).
+
+   Indian society at the time of Buddha had two large and distinguished religious sects, Samanas and Brahmanas. This is apparent from several passages where they are mentioned together; for instance, Vinaya, ed. Oldenberg, II, p. 295; Grimblot, Sept Suttas Palis, p. ix, 8 &c., 118 &c., 158 &c., 306 &c., 309; Dhammapada, p. 392; Suttanipata; vv. 99, 129, 189, 440, 529, 859, 1078; Sabhiyasutta, at the beginning; the Inscriptions of Asoka; Mahabhashya, II, 4, 9 (fol. 398 a); Lalita Vistara, pp. 309, l. 10, 318, l. 18, 320, l. 20; and lastly, Megasthenes (Schwanbeck, p. 45), {Greek: duo genh figodofwn, wn tous men Braxmanas kalei, tous de Sarmanas}.
+
+   Famous teachers arose and gathered around them flocks of disciples. As such are mentioned Purana-Kassapa, Makkhali-Gosala, Agita-Kesakarnbali, Pakudha-Kakkayana, Sangaya-Belatthiputta, and Nigantha-Nataputta[1]; see Suttanipata, p. 86; Mahaparinibbanasutta, ed. Childers, p. 58; Vinaya II, p. 111; Grimblot, Sept Suttas Palis, p. 114, &c.; Milindapanha, ed. Trenckner, p. 4. Besides these there is Bavari (Suttanipata, p. 184), and his disciples Agita, Tissametteyya, Punnaka, Mettagu, Dhotaka, Upasiva, Nanda,
+
+[1. Cf. Indian Antiquary, 1880, p. 158.]
+
+p. xiii
+
+Hemaka, Todeyya, Kappa, Gatukannin, Bhadravudha, Udaya, Posala, Mogharagan (Pingiya, vv. 1006-1008; Sela, p. 98), and, Kankin, Tarukkha, Pokkharasati, Ganussoni, Vasettha, and Bharadvaga, p. 109.
+
+   We learn that there were four kinds of Samanas, viz. Maggaginas, Maggadesakas (or Maggadesins, Maggagghayins), Maggagivins, and Maggadusins, vv. 83-88. Among these Samanas disputes arose, vv. 828, 883-884; a number of philosophical systems were formed, and at the time of Buddha there were as many as sixty-three of them, v. 538. These systems are generally designated by ditthi, vv. 54, 151, 786, 837, 851, &c.; or by ditthigata, vv. 834, 836, 913; or by ditthasuta, v. 778; or by dittha, suta, and muta, vv. 793, 813, 914; or by dittha, suta, silavata[1], and muta, vv. 790, 797-798, 836, 887, 1080. The doctrines themselves are called ditthinivesa, v. 785; or nivesana, vv. 209, 470, 801, 846; or vinikkhaya, vv. 838, 866, 887, 894; and he who entertains any of them, is called nivissavadin, vv. 910, 913.
+
+   What is said of the Samanas seems mostly to hold good about the Brahmanas also. They too are called disputatious, vadasila, v. 381, &c., p. 109; and three kinds of them are mentioned, viz. Titthiyas, Agivikas, and Niganthas, vv. 380, 891-892. ln contradistinction to the Samanas the Brahmanas are designated as Teviggas, vv. 594, 1019; they are Padakas, Veyyakaranas, and perfect in Gappa, Nighandu, Ketubha, Itihasa, &c., v. 595, p. 98. They are called friends of the hymns, v. 139; well versed in the hymns, v. 976; and their principal hymn is Savitti[2], vv. 568, 456. They worship and make offerings to the fire, pp. 74, 20. In Brahmanadhammikasutta the ancient and just Brahmanas are described in opposition to the later
+
+[1. I am not sure whether silavata is to be understood as one notion or two. It is generally written in one word, but at p. 109 Vasettha says, when one is virtuous and endowed with works, he is a Brahmana, yato kho bho silava ka hoti vatasampanno ka ettavata kho brahmano hoti. Silavata, I presume, refers chiefly to the Brahmanas.
+
+2. From v. 456 we see that Buddha has rightly read vareniyam as the metre requires; but I must not omit to mention that the Commentator understands by Savitti the Buddhistic formula: Buddham saranam gakkhami, Dhammam saranam gakkhami, Samgham saranam gakkhami, which, like Savitti, contains twenty-four syllables.]
+
+p. xiv
+
+Brahmanas, who slay innocent cows and have acquired wealth through the favour of the kings. vv. 307, 308, 311, 302[1].
+
+   All these disputants hold fast to their own prejudiced views, v. 910. They say that purity comes from philosophical views, from tradition, and from virtuous works, and in many other ways, v. 1078, and that there is no bliss excepting by following their opinions, vv. 889, 891, 892.
+
+   Buddha himself has, it is true, sprung from the Samanas: he is called Samana Gotama, p. 96; he shines like a sun in the midst of the Samanas, v. 550; and intercourse with Samanas is said to be the highest blessing, v. 265. But Buddha has overcome all their systems, v. 538; there is nothing which has not been seen, heard, or thought by him, and nothing which has not been understood by him, v. 1121. All the disputatious Brahmanas do not overcome him in understanding, v. 380; and he asserts that no one is purified and saved by philosophy or by virtuous works, vv. 1079, 839. Sanctification, in fact, does not come from another, vv. 773, 790, 813; it can be attained only by going into the yoke with Buddha, v. 834; by believing in him and in the Dhamma of the Saints, vv. 183, 185, 370, 1142; on the whole, by being what Buddha is.
+
+   What then is Buddha?
+
+   First he is a Visionary, in the good sense of the word; his knowledge is intuitive. 'Seeing misery,' he says, 'in the philosophical views, without adopting any of them, searching for truth, I saw inward peace,' vv. 837, 207. And again, 'He, a conqueror unconquered, saw the Dhamma visibly, without any traditional instruction,' vv. 934, 1052, 1065. He teaches an instantaneous, an immediate religious life, vv. 567, 1136. He is called kakkhumat, endowed with an eye, clearly-seeing, vv. 160, 405, 540, 562, 596, 956, 992, 1028, 1115, 1127; samantakakkhu, the all-seeing, vv. 1062, 1068; and as such he has become an eye to the world, v. 599. He sees the subtle meaning of things, vv. 376, 175; he is, in one word, Sambuddha, the perfectly-enlightened, vv. 177, 555, 596, 992; and by knowledge he is delivered, vv. 1106,
+
+[1. Besides the religious Brahmanas some secular Brahmanas are mentioned, p. 11.]
+
+p. xv
+
+727, 733. Existence is avigga, ignorance, v. 729; vigga, knowledge, is the extinction of the world, v. 730.
+
+   Secondly, he is an Ascetic, a Muni[1], one that forsakes othe world and wanders from the house to the houseless state, vv. 273, 375, 1003; because from house-life arises defilement, v. 206. An ascetic has no prejudiced ideas, v. 802; he has shaken off every philosophical view, v. 787; he does not enter into disputes, v. 887; he is not pleased nor displeased with anything, v. 813; he is indifferent to learning, v. 911; he does not cling to good and evil, vv. 520, 547, 790; he has cut off all passion and all desire, vv. 2, 795, 1130, 916; he is free from marks, v. 847; and possessionless, akinkana, vv. 175, 454, 490, 620, 1058, 1062, 976, 1069, 1114. He is equable, v. 855; under all circumstances the same, v. 952; still as the deep water, v. 920; calm, vv. 459, 861. He has reached peace, vv. 837, 845, 919; he knows that bliss consists in peace, v. 933; he has gone to immortal peace, the unchangeable state of Nibbana, v. 203. And how is this state brought about? By the destruction of consciousness, vv. 734-735. And how does consciousness cease? By the cessation of sensation, vv. 1109-1110; by being without breathing, vv. 1089-1090[2].
+
+   1. What then is sin according to Buddha?
+
+   Subjectively sin is desire, in all its various forms, vv. 923, 1103; viz. desire tor existence generally, vv. 776, 1059, 1067, and especially for name and form, i.e. individual existence, vv. 354, 1099. As long as man is led by desire he will be whirled about in existence, v. 740; for as long as there is birth, there will be death, v. 742. Existence is called the stream of death, v. 354; the realm of Mara, vv. 164, 1145. Those who continually go to samsara with birth and death, are the ignorant, v. 729.
+
+[1. Buddha is sometimes styled the great Isi, vv. 1060, 1082; sometimes a Muni, vv. 164, 700; sometimes a Brahmana, v. 1064; sometimes a Bhikkhu, vv. 411, 415; and all these appellations are used synonymously, vv. 283, 284, 1064, 1056, 843, 844, 911, 912, 946, 220. Ascetic life is praised throughout the book, especially in the Uraga-, Muni-, Rahula-, Sammaparibbaganiya-, Dhammika-, Nalaka-, Purabheda-, Tuvataka-, Attadanda-, and Sariputta-suttas.
+
+2. This system ends, it will be seen from this, like other ascetic systems, in mysticism.]
+
+p. xvi
+
+   But desire originates in the body, vv. 270, 1099; sin lies objectively in embodiment or matter, and consequently the human body is looked upon as a contemptible thing. See Vigayasutta, p. 32.
+
+   2. And what is bliss?
+
+   Subjectively, it is emancipation from desire by means of the peace that Buddha preaches, vv. 1065-1066, 1069, 1084, 1108, 838-839.
+
+   Objectively, it is emancipation from body and matter. One must destroy the elements of existence, upadhi, vv. 373, 546, 1050, 1056; and leave the body behind, that one may not come to exist again, vv. 1120, 1122, 761. The ignorant only create upadhi, v. 1050, and go again and again to samsara, v. 729. The wise do not enter time, kappa, vv. 521, 535, 860; they look upon the world as void, v. 1118; hold that there is nothing really existing, v. 1069; and those whose minds are disgusted with a future existence, the wise who have destroyed their seeds (of existence), go out like a lamp, vv. 234, 353-354. As a flame, blown about by the violence of the wind, goes out, and cannot be reckoned (as existing), even so a Muni, delivered from name and body, disappears, and cannot be reckoned (as existing), v. 1073. For him who has disappeared, there is no form; that by which they say he is, exists for him no longer, v. 1075.
+
+   'Exert thyself, then, O Dhotaka,'--so said Bhagavat,--'being wise and thoughtful in this world, let one, having listened to my utterance, learn his own extinction,' v. 1061.
+
+     Tena h' atappam karohi,--Dhotaka 'ti Bhagava,--
+      idh' eva nipako sato
+      ito sutvana nigghosam
+      sikkhe nibbanam attano.
+
+   With this short sketch of the contents of the Suttanipata for a guide, I trust it will be easy to understand even the more obscure parts of the book.
+
+V. FAUSBOLL.      
+
+   COPENHAGEN,
+             Sept. 13, 1880.
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 1
+
+ 
+
+I. URAGAVAGGA.
+
+ 
+
+1. URAGASUTTA.
+
+ The Bhikkhu who discards all human passions is compared to a snake that casts his skin.--Text and translation in Fr. Spiegel's Anecdota Palica.   1. He who restrains his anger when it has arisen, as (they) by medicines (restrain) the poison of the snake spreading (in the body), that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (1)
+
+   2. He who has cut off passion entirely, as (they cut off) the lotus-flower growing in a lake, after diving (into the water), that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (2)
+
+   3. He who has cut off desire entirely, the flowing, the quickly running, after drying it up, that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (3)
+
+   4. He who has destroyed arrogance entirely, as the flood (destroys) a very frail bridge of reeds, that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (4)
+
+   5. He who has not found any essence in the existences, like one that looks for flowers on fig-trees, that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (5)
+
+p. 2
+
+   6. He in whose breast there are no feelings of anger, who has thus overcome reiterated existence, that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (6)
+
+   7. He whose doubts are scattered, cut off entirely inwardly, that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (7)
+
+   8. He who did not go too fast forward, nor was left behind, who overcame all this (world of) delusion, that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (8)
+
+   9. He who did not go too fast forward, nor was left behind, having seen that all this in the world is false, that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (9)
+
+   10. He who did not go too fast forward, nor was left behind, being free from covetousness, (seeing) that all this is false, that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (10)
+
+   11. He who did not go too fast forward, nor was left behind, being free from passion, (seeing) that all this is false, that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (11)
+
+   12. He who did not go too fast forward, nor was left behind, being free from hatred, (seeing) that all this is false, that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (12)
+
+   13. He who did not go too fast forward, nor was left behind, being free from folly, (seeing) that all this is false, that Bhikkhu leaves his and the further shore, as a snake (quits its) old worn out skin. (13)
+
+p. 3
+
+   14. He to whom there are no affections whatsoever, whose sins are extirpated from the root, that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (14)
+
+   15. He to whom there are no (sins) whatsoever originating in fear, which are the causes of coming back to this shore, that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (15)
+
+   16. He to whom there are no (sins) whatsoever originating in desire, which are the causes of binding (men) to existence, that Bhikkhu leaves this and the further shore, as a snake (quits its) old worn out skin. (16)
+
+   17. He who, having left the five obstacles, is free from suffering, has overcome doubt, and is without pain, that Bhikkhu leaves this and the further shore. as a snake (quits its) old worn out skin. (17)
+
+Uragasutta is ended.
+
+ 
+
+2. DHANIYASUTTA.
+
+ A dialogue between the rich herdsman Dhaniya and Buddha, the one rejoicing in his worldly security and the other in his religious belief.--This beautiful dialogue calls to mind the parable in the .   1. 'I have boiled (my) rice, I have milked (my cows),'--so said the herdsman Dhaniya,--'I am living together with my fellows near the banks of the Mahi (river), (my) house is covered, the fire is kindled: therefore, if thou like, rain, O sky!' (18)
+
+   2. 'I am free from anger, free from stubbornness,'--so said Bhagavat,--'I am abiding for one night near the banks of the Mahi (river), my house
+
+p. 4
+
+is uncovered, the fire (of passions) is extinguished: therefore, if thou like, rain, O sky!' (19)
+
+   3. 'Gad-flies are not to be found (with me),'--so said the herdsman Dhaniya,--'in meadows abounding with grass the cows are roaming, and they can endure rain when it comes: therefore, if thou like, rain, O sky!' (20)
+
+   4. '(By me) is made a well-constructed raft,'--so said Bhagavat,--'I have passed over (to Nibbana), I have reached the further bank, having overcome the torrent (of passions); there is no (further) use for a raft: therefore, if thou like, rain, O sky!' (21)
+
+   5. 'My wife is obedient, not wanton,'--so said the herdsman Dhaniya,--'for a long time she has been living together (with me), she is winning, and I hear nothing wicked of her: therefore, if thou like, rain, O sky!' (22)
+
+   6. 'My mind is obedient, delivered (from all worldliness),'--so said Bhagavat,--'it has for a long time been highly cultivated and well-subdued, there is no longer anything wicked in me: therefore, if thou like, rain, O sky!' (23)
+
+   7. 'I support myself by my own earnings,'--so said the herdsman Dhaniya,--'and my children are (all) about me, healthy; I hear nothing wicked of them: therefore, if thou like, rain, O sky!' (24)
+
+   8. 'I am no one's servant,'--so said Bhagavat,--'with what I have gained I wander about in all the world, there is no need (for me) to serve: therefore, if thou like, rain, O sky!' (25)
+
+   9. 'I have cows, I have calves,'-- so said the herdsman Dhaniya;--'I have cows in calf and heifers, and I have also a bull as lord over the cows: therefore, if thou like, rain, O sky!' (26)
+
+p. 5
+
+   10. 'I have no cows, I have no calves,'--so said Bhagavat,--'I have no cows in calf and no heifers, and I have no bull as a lord over the cows: therefore, if thou like, rain, O sky! (27)
+
+   11. 'The stakes are driven in, and cannot be shaken,'--so said the herdsman Dhaniya,--'the ropes are made of munga grass, new and well-made, the cows will not be able to break them: therefore, if thou like, rain, O sky!' (28)
+
+   12. 'Having, like a bull, rent the bonds; having, like an elephant, broken through the galukkhi creeper, I shall not again enter into a womb: therefore, if thou like, rain, O sky!' (29)
+
+   Then at once a shower poured down, filling both sea and land. Hearing the sky raining, Dhaniya spoke thus:
+
+   13. 'No small gain indeed (has accrued) to us since we have seen Bhagavat; we take refuge in thee, O (thou who art) endowed with the eye (of wisdom); be thou our master, O great Muni!' (30)
+
+   14. 'Both my wife and myself are obedient; (if) we lead a holy life before Sugata, we shall conquer birth and death, and put an end to pain.' (31)
+
+   15. 'He who has sons has delight in sons,'--so said the wicked Mara,--'he who has cows has delight likewise in cows; for upadhi (substance) is the delight of man, but he who has no upadhi has no delight.' (32)
+
+   16. 'He who has sons has care with (his) sons,'--so said Bhagavat,--'he who has cows has likewise care with (his) cows; for upadhi (is the cause of) people's cares, but he who has no upadhi has no care.' (33)
+
+Dhaniyasutta is ended.
+
+p. 6
+
+ 
+
+3. KHAGGA VISANASUTTA.
+
+ Family life and intercourse with others should be avoided, for society has all vices in its train; therefore one should leave the corrupted state of society and lead a solitary life.   1. Having laid aside the rod against all beings, and not hurting any of them, let no one wish for a son, much less for a companion, let him wander alone like a rhinoceros[1]. (34)
+
+   2. In him who has intercourse (with others) affections arise, (and then) the pain which follows affection; considering the misery that originates in affection let one wander alone like a rhinoceros. (35)
+
+   3. He who has compassion on his friends and confidential (companions) loses (his own) advantage, having a fettered mind; seeing this danger in friendship let one wander alone like a rhinoceros. (36)
+
+   4. Just as a large bamboo tree (with its branches) entangled (in each other, such is) the care one has with children and wife; (but) like the shoot of a bamboo not clinging (to anything) let one wander alone like a rhinoceros[2]. (37)
+
+   5. As a beast unbound in the forest goes feeding at pleasure, so let the wise man, considering (only his) own will, wander alone like a rhinoceros. (38)
+
+   6. There is (a constant) calling in the midst of company, both when sitting, standing, walking, and going away; (but) let one, looking (only) for freedom from desire and for following his own will, wander alone like a rhinoceros. (39)
+
+   7. There is sport and amusement in the midst of
+
+[1. Comp .
+
+2. Comp. .]
+
+p. 7
+
+company, and for children there is great affection; (although) disliking separation from his dear friends, let one wander alone like a rhinoceros. (40)
+
+   8. He who is at home in (all) the four regions and is not hostile (to any one), being content with this or that, overcoming (all) dangers fearlessly, let him wander alone like a rhinoceros. (41)
+
+   9. Discontented are some pabbagitas (ascetics), also some gahatthas (householders) dwelling in houses; let one, caring little about other people's children, wander alone like a rhinoceros. (42)
+
+   10. Removing the marks of a gihin (a householder) like a Kovilara tree whose leaves are fallen, let one, after cutting off heroically the ties of a gihin, wander alone like a rhinoceros. (43)
+
+   11. If one acquires a clever companion, an associate righteous and wise, let him, overcoming all dangers, wander about with him glad and, thoughtful[1]. (44)
+
+   12. If one does not acquire a clever companion, an associate righteous and wise, then as a king abandoning (his) conquered kingdom, let him wander alone like a rhinoceros[2]. (45)
+
+   13. Surely we ought to praise the good luck of having companions, the best (and such as are our) equals ought to be sought for; not having acquired such friends let one, enjoying (only) allowable things, wander alone like a rhinoceros[3]. (46)
+
+   14. Seeing bright golden (bracelets), well-wrought by the goldsmith, striking (against each other when there are) two on one arm, let one wander alone like a rhinoceros. (47)
+
+[1. Comp. .
+
+2. Comp. .
+
+3. Comp. .]
+
+p. 8
+
+   15. Thus (if I join myself) with another I shall swear or scold; considering this danger in future, let one wander alone like a rhinoceros. (48)
+
+   16. The sensual pleasures indeed, which are various, sweet, and charming, under their different shapes agitate the mind; seeing the misery (originating) in sensual pleasures, let one wander alone like a rhinoceros. (49)
+
+   17. These (pleasures are) to me calamities, boils, misfortunes, diseases, sharp pains, and dangers; seeing this danger (originating) in sensual pleasures, let one wander alone like a rhinoceros. (50)
+
+   18. Both cold and heat, hunger and thirst, wind and a burning sun, and gad-flies and snakes--having overcome all these things, let one wander alone like a rhinoceros[1]. (51)
+
+   19. As the elephant, the strong, the spotted, the large, after leaving the herd walks at pleasure in the forest, even so let one wander alone like a rhinoceros. (52)
+
+   20. For him who delights in intercourse (with others, even) that is inconvenient which tends to temporary deliverance; reflecting on the words of (Buddha) the kinsman of the Adikka family, let one wander alone like a rhinoceros. (53)
+
+   21. The harshness of the (philosophical) views I have overcome, I have acquired self-command, I have attained to the way (leading to perfection), I am in possession of knowledge, and not to be led by others; so speaking, let one wander alone like a rhinoceros. (54)
+
+   22. Without covetousness, without deceit, without
+
+[1. Comp. Gataka I p. 93.]
+
+p. 9
+
+craving, without detraction, having got rid of passions and folly, being free from desire in all the world, let one wander alone like a rhinoceros. (55)
+
+   23. Let one avoid a wicked companion who teaches what is useless and has gone into what is wrong, let him not cultivate (the society of) one who is devoted (to and) lost in sensual pleasures, let one wander alone like a rhinoceros. (56)
+
+   24. Let one cultivate (the society of) a friend who is learned and keeps the Dhamma, who is magnanimous and wise; knowing the meaning (of things and) subduing his doubts, let one wander alone like a rhinoceros. (57)
+
+   25. Not adorning himself, not looking out for sport, amusement, and the delight of pleasure in the world, (on the contrary) being loath of a life of dressing, speaking the truth, let one wander alone like a rhinoceros. (58)
+
+   26. Having left son and wife, father and mother, wealth, and corn, and relatives, the different objects of desire, let one wander alone like a rhinoceros. (59)
+
+   27. 'This is a tie, in this there is little happiness, little enjoyment, but more of pain, this is a fish-hook,' so having understood, let a thoughtful man wander alone like a rhinoceros. (60)
+
+   28: Having torn the ties, having broken the net as a fish in the water, being like a fire not returning to the burnt place, let one wander alone like a rhinoceros. (61)
+
+   29. With downcast eyes, and not prying[1], with his senses guarded, with his mind protected free from
+
+[1. Na ka padalolo ti ekassa dutiyo dvinnam tatiyo ti evam ganamaggham pavisitukamataya kanduyamanapado viya abhavanto dighakarika-anavatthakarikavirato va. Commentator.]
+
+p. 10
+
+passion, not burning (with lust), let one wander alone like a rhinoceros. (62)
+
+   30. Removing the characteristics of a gihin (householder), like a Parikhatta tree whose leaves are cut off, clothed in a yellow robe after wandering away (from his house), let one wander alone like a rhinoceros. (63)
+
+   31. Not being greedy of sweet things, not being unsteady, not supporting others, going begging from house to house, having a mind which is not fettered to any household, let one wander alone like a rhinoceros. (64)
+
+   32. Having left the five obstacles of the mind, having dispelled all sin, being independent, having cut off the sin of desire, let one wander alone like a rhinoceros. (65)
+
+   33. Having thrown behind (himself bodily) pleasure and pain, and previously (mental) joy and distress, having acquired equanimity, tranquillity, purity, let one wander alone like a rhinoceros. (66)
+
+   34. Strenuous for obtaining the supreme good (i.e. Nibbana), with a mind free from attachment, not living in idleness, being firm, endowed with bodily and mental strength, let one wander alone like a rhinoceros. (67)
+
+   35. Not abandoning seclusion and meditation, always wandering in (accordance with) the Dhammas[1], seeing misery in the existences, let one wander alone like a rhinoceros[2]. (68)
+
+   36. Wishing for the destruction of desire (i.e. Nibbana), being careful, no fool, learned, strenuous, considerate, restrained, energetic, let one wander alone like a rhinoceros. (69)
+
+[1. Dhammesu nikkam anudhammakari.
+
+2. Comp. .]
+
+p. 11
+
+   37. Like a lion not trembling at noises, like the wind not caught in a net, like a lotus not stained by water, let one wander alone like a rhinoceros. (70)
+
+   38. As a lion strong by his teeth, after overcoming (all animals), wanders victorious as the king of the animals, and haunts distant dwelling-places[1], (even so) let one wander alone like a rhinoceros. (71)
+
+   39. Cultivating in (due) time kindness, equanimity, compassion, deliverance, and rejoicing (with others), unobstructed by the whole world, let one wander alone like a rhinoceros. (72)
+
+   40. Having abandoned both passion and hatred and folly, having rent the ties, not trembling in the loss of life, let one wander alone like a rhinoceros[2]. (73)
+
+   41. They cultivate (the society of others) and serve them for the sake of advantage; friends without a motive are now difficult to get, men know their own profit and are impure; (therefore) let one wander alone like a rhinoceros. (74)
+
+Khaggavisanasutta is ended.
+
+ 
+
+4. KASIBHARADVAGASUTTA.
+
+ The Brahmana Kasibharadvaga reproaches Gotama with idleness, but the latter convinces him that he (Buddha) also works, and so the Brahmana is converted, and finally becomes a saint. Compare Sp. Hardy, A Manual of Buddhism, p. 214; .   So it was heard by me:
+
+   At one time Bhagavat dwelt in Magadha at Dakkhinagiri in the Bramana village Ekanala. And at that time the Bramana Kasibharadvaga's five hundred
+
+[1. Pantaniti durani senasananiti vasatitthanani. Commentator.
+
+2. Comp. .]
+
+p. 12
+
+ploughs were tied (to the yokes) in the sowing season. Then Bhagavat, in the morning, having put on his raiment and taken his bowl and robes, went to the place where the Bramana Kasibharadvaga's work (was going on). At that time the Bramana Kasibharadvaga's distribution of food took place. Then Bhagavat went to the place where the distribution of food took place, and having gone there, he stood apart. The Bramana Kasibharadvaga saw Bhagavat standing there to get alms, and having seen him, he said this to Bhagavat:
+
+   'I, O Samana, both plough and sow, and having ploughed and sown, I eat; thou also, O Samana, shouldst plough and sow, and having ploughed and sown, thou shouldst eat.'
+
+   'I also, O Bramana, both plough and sow, and having ploughed and sown, I eat,' so said Bhagavat.
+
+   'Yet we do not see the yoke, or the plough, or the ploughshare, or the goad, or the oxen of the venerable Gotama.'
+
+   And then the venerable Gotama spoke in this way:
+
+   'I also, O Bramana, both plough and sow, and having ploughed and sown, I eat,' so said Bhagavat.
+
+   Then the Bramana Kasibharadvaga addressed Bhagavat in a stanza:
+
+   1. 'Thou professest to be a ploughman, and yet we do not see thy ploughing; asked about (thy) ploughing, tell us (of it), that we may know thy ploughing.' (75)
+
+   2. Bhagavat answered: 'Faith is the seed, penance the rain, understanding my yoke and plough, modesty the pole of the plough, mind the tie, thoughtfulness my ploughshare and goad. (76)
+
+   3. 'I am guarded in respect of the body, I am
+
+p. 13
+
+guarded in respect of speech, temperate in food; I make truth to cut away (weeds), tenderness is my deliverance. (77)
+
+   4. 'Exertion is my beast of burden; carrying (me) to Nibbana he goes without turning back to the place where having gone one does not grieve. (78)
+
+   5. 'So this ploughing is ploughed, it bears the fruit of immortality; having ploughed this ploughing one is freed from all pain.' (79)
+
+   Then the Bramana Kasibharadvaga, having poured rice-milk into a golden bowl, offered it to Bhagavat, saying, 'Let the venerable Bhagavat eat of the rice-milk; the venerable is a ploughman, for the venerable Gotama ploughs a ploughing that bears the fruit of immortality.'
+
+   6. Bhagavat said: 'What is acquired by reciting stanzas is not to be eaten by me; this is, O Bramana, not the Dhamma of those that see rightly; Buddha rejects what is acquired by reciting stanzas, this is the conduct (of Buddhas) as long as the Dhamma exists. (80)
+
+   7. 'One who is an accomplished great Isi, whose passions are destroyed and whose misbehaviour has ceased, thou shouldst serve with other food and drink, for this is the field for one who looks for good works[1].' (81)
+
+   'To whom then, O Gotama, shall I give this rice-milk?' so said Kasibharadvaga.
+
+   'I do not see, O Bramana, in the world (of men)
+
+[1. Annena ka kevalinam mahesim
+      Khinasavam kukkukkavupasantam
+      Annena panena upatthahassu,
+      Khettam hi tam punnapekhassa hoti.
+ Cf. .]
+
+p. 14
+
+and gods and Maras and Brahmans, amongst beings comprising gods and men, and Samanas and Bramanas, any by whom this rice-milk when eaten can be properly digested with the exception of Tathagata, or a disciple of Tathagata. Therefore, O Bramana, thou shalt throw this rice-milk in (a place where there is) little grass, or cast it into water with no worms: so said Bhagavat.
+
+   Then the Bramana Kasibharadvaga threw the rice-milk into some water with no worms. Then the rice-milk thrown into the water splashed, hissed, smoked in volumes; for as a ploughshare that has got hot during the day when thrown into the water splashes, hisses, and smokes in volumes, even so the rice-milk (when) thrown into the water splashed, hissed, and smoked in volumes.
+
+   Then the Bramana Kasibharadvaga alarmed and terrified went up to Bhagavat, and after having approached and fallen with his head at Bhagavat's feet, he said this to Bhagavat:
+
+   'It is excellent, O venerable Gotama! It is excellent, O venerable Gotama! As one raises what has been overthrown, or reveals what has been hidden, or tells the way to him who has gone astray, or holds out an oil lamp in the dark that those who have eyes may see the objects, even so by the venerable Gotama in manifold ways the Dhamma (has been) illustrated. I take refuge in the venerable Gotama and in the Dhamma and in the Assembly of Bhikkhus; I wish to receive the pabbagga, I wish to receive the upasampada (the robe and the orders) from the venerable Gotama,' so said Kasibharadvaga.
+
+   Then the Bramana Kasibharadvaga received the
+
+p. 15
+
+pabbagga from Bhagavat, and he received also the upasampada; and the venerable Bharadvaaga having lately received the upasampada, leading a solitary, retired, strenuous, ardent, energetic life, lived after having in a short time in this existence by his own understanding ascertained and possessed himself of that highest perfection of a religious life for the sake of which men of good family rightly wander, away from their houses to houseless state. 'Birth had been destroyed, a religious life had been led, what was to be done had been done, there was nothing else (to be done) for this existence,' so he perceived, and the venerable Bharadvaaga became one of the arahats (saints).
+
+Kasibharadvagasutta is ended.
+
+ 
+
+5. KUNDASUTTA.
+
+ Buddha describes the four different kinds of Samanas to Kunda, the smith.   1. 'I ask the Muni of great understanding,'--so said Kunda, the smith,--'Buddha, the lord of the Dhamma, who is free from desire, the best of bipeds, the most excellent of charioteers, how many (kinds of) Samanas are there in the world; pray tell me that?' (82)
+
+   2. 'There are four (kinds of) Samanas, (there is) not a fifth, O Kunda,'--so said Bhagavat,--'these I will reveal to thee, being asked in person; (they are) Maggaginas and Maggadesakas, Maggagivins and Maggadusins.' (83)
+
+   3. 'Whom do the Buddhas call a Maggagina?'--so said Kunda, the smith,--'How is a Maggagghayin
+
+p. 16
+
+unequalled? Being asked, describe to me a Maggagivin, and reveal to me a Maggadusin.' (84)
+
+   4. Bhagavat said: 'He who has overcome doubt, is without pain, delights in Nibbana, is free from greed, a leader of the world of men and gods, such a one the Buddhas call a maggagina (that is, victorious by the way). (85)
+
+   5. 'He who in this world having known the best (i.e. Nibbana) as the best, expounds and explains here the Dhamma, him, the doubt-cutting Muni, without desire, the second of the Bhikkhus they call a maggadesin (that is, teaching the way). (86)
+
+   6. 'He who lives in the way that has so well been taught in the Dhammapada, and is restrained, attentive, cultivating blameless words, him the third of the Bhikshus they call a maggagivin (that is, living in the way[1]). (87)
+
+   7. 'He who although counterfeiting the virtuous is forward, disgraces families, is impudent, deceitful, unrestrained, a babbler, walking in disguise, such a one is a maggadusin (that is, defiling the way)[2]. (88)
+
+   8. 'He who has penetrated these (four Samanas), who is a householder, possessed of knowledge, a pupil of the venerable ones, wise, having known that they all are such,--having seen so, his faith is not lost; for how could he make the undepraved equal to the depraved and the pure equal to the impure?' (89)
+
+ Kundasutta is ended.
+
+[1. Yo Dhammapade sudesite
+      Magge givati sannato satima
+      Anavaggapadani sevamano
+      Tatiyam bhikkhunam ahu maggagivim.
+
+2. Comp. Gataka II, p. 281.]
+
+p. 17
+
+ 
+
+6. PARABHAVASUTTA.
+
+ A dialogue between a deity and Buddha on the things by which a man loses and those by which he gains in this world.--Text by Grimblot, in Journal Asiatique, t. xviii (1871), p. 237; translation by L. Feer, in Journal Asiatique, t. xviii (1871), p. 309, and by Gogerly, reprinted in Journal Asiatique, t. xx (1872), p. 226.   So it was heard by me:
+
+   At one time Bhagavat dwelt at Savatthi, in Getavana, in the park of Anathapindika. Then when the night had gone, a certain deity of a beautiful appearance, having illuminated the whole Getavana, went up to Bhagavat, and having approached and saluted him, he stood apart, and standing apart that deity addressed Bhagavat in stanzas:
+
+   1. 'We ask (thee), Gotama, about a man that suffers loss; having come to ask, Bhagavat, (tell us) what is the cause (of loss) to the losing (man).' (90)
+
+   2. Bhagavat: 'The winner is easily known, easily known (is also) the loser: he who loves Dhamma is the winner, he who hates Dhamma is the loser.' (91)
+
+   3. Deity: 'We know this to be so, this is the first loser; tell (us) the second, O Bhagavat, what is the cause (of loss) to the losing (man).' (92)
+
+   4. Bhagavat: 'Wicked men are dear to him, he does not do anything that is dear to the good, he approves of the Dhamma of the wicked,--that is the cause (of loss) to the losing (man).' (93)
+
+   5. Deity: 'We know this to be so, this is the second loser; tell us the third, O Bhagavat, what is the cause (of loss) to the losing (man).' (94)
+
+   6. Bhagavat: 'The man who is drowsy, fond of society and without energy, lazy, given to anger,--that is the cause (of loss) to the losing (man).' (95)
+
+p. 18
+
+   7. Deity: 'We know this to be so, this is the third loser; tell us the fourth, O Bhagavat, what is the cause (of loss) to the losing (man).' (96)
+
+   8. Bhagavat: 'He who being rich does not support mother or father who are old or past their youth,--that is the cause (of loss) to the losing (man).' (97)
+
+   9. Deity: 'We know this to be so, this is the fourth loser; tell us the fifth, O Bhagavat, what is the cause (of loss) to the losing (man).' (98)
+
+   10. Bhagavat: 'He who by falsehood deceives either a Bramana or a Samana or any other mendicant,--that is the cause (of loss) to the losing (man).' (99)
+
+   11. Deity: 'We know this to be so, this is the fifth loser; tell us the sixth, O Bhagavat, what is the cause (of loss) to the losing (man).' (100)
+
+   12. Bhagavat: 'The man who is possessed of much property, who has gold and food, (and still) enjoys alone his sweet things,--that is the cause (of loss) to the losing (man).' (101)
+
+   13. Deity: 'We know this to be so, this is the sixth loser; tell us the seventh, O Bhagavat, what is the cause (of loss) to the losing (man).' (102)
+
+   14. Bhagavat: 'The man who proud of his birth, of his wealth, and of his family, despises his relatives,--that is the cause (of loss) to the losing (man).' (103)
+
+   15. Deity: 'We know this to be so, this is the seventh loser; tell us the eighth, O Bhagavat, what is the cause (of loss) to the losing (man).' (104)
+
+   16. Bhagavat: 'The man who given to women, to strong drink, and to dice, wastes whatever he has gained,--that is the cause (of loss) to the losing (man).' (105)
+
+p. 19
+
+   17. Deity: 'We know this to be so, this is the eighth loser; tell us the ninth, O Bhagavat, what is the cause (of loss) to the losing (man).' (106)
+
+   18. Bhagavat: 'He who, not satisfied with his own wife, is seen with harlots and the wives of others,--that is the cause (of loss) to the losing (man).' (107)
+
+   19. Deity: 'We know this to be so, this is the ninth loser; tell us the tenth, O Bhagavat, what (is) the cause (of loss) to the losing (man).' (108)
+
+   20. Bhagavat: 'The man who, past his youth, brings home a woman with breasts like the timbaru fruit, and for jealousy of her cannot sleep,--that is the cause (of loss) to the losing (man).' (109)
+
+   21. Deity: 'We know this to be so, this is the tenth loser; tell us the eleventh, O Bhagavat, what is the cause (of loss) to the losing (man).' (110)
+
+   22. Bhagavat: 'He who places in supremacy a woman given to drink and squandering, or a man of the same kind,--that is the cause (of loss) to the losing (man).' (111)
+
+   23. Deity: 'We know this to be so, this is the eleventh loser; tell us the twelfth, O Bhagavat, what is the cause (of loss) to the losing (man).' (112)
+
+   24. Bhagavat: 'He who has little property, (but) great desire, is born in a Khattiya family and wishes for the kingdom in this world,--that is the cause (of loss) to the losing (man).' (113)
+
+   25. Having taken into consideration these losses in the world, the wise, venerable man, who is endowed with insight, cultivates the happy world (of the gods).' (114)
+
+Parabhavasutta is ended.
+
+p. 20
+
+ 
+
+7. VASALASUTTA.
+
+ The Bramana Aggikabharadvaga is converted by Buddha, after hearing his definition of an outcast, illustrated by the story of Matanga, told in the Matangagataka. Comp. Sp. Hardy, The Legends and Theories of the Buddhists, p. 49.--Text and translation in Alwis's Buddhist Nirvana, p. 119.   So it was heard by me: At one time Bhagavat dwelt at Savatthi, in Getavana, in the park of Anathapindika. Then Bhagavat having put on his raiment in the morning, and having taken his bowl and his robes, entered Savatthi for alms. Now at that time in the house of the Bramana Aggikabharadvaga the fire was blazing, the offering brought forth. Then Bhagavat going for alms from house to house in Savatthi went to the house of the Bramana Aggikabharadvaga. The Bramana Aggikabharadvaga saw Bhagavat coming at a distance, and seeing him he said this: 'Stay there, O Shaveling; (stay) there, O Samanaka (i.e. wretched Samana); (stay) there, O Vasalaka (i.e. outcast)!'
+
+   This having been said, Bhagavat replied to the Bramana Aggikabharadvaga: 'Dost thou know, O Bramana, an outcast, or the things that make an outcast?'
+
+   'No, O venerable Gotama, I do not know an outcast, or the things that make an outcast; let the venerable Gotama teach me this so well that I may know an outcast, or the things that make an outcast."
+
+   'Listen then, O Bramana, attend carefully, I will tell (thee).'
+
+   'Even so, O venerable one,' so the Bramana Aggikabharadvaga replied to Bhagavat.
+
+p. 21
+
+   Then Bhagavat said this:
+
+   1. 'The man who is angry and bears hatred, who is wicked and hypocritical, who has embraced wrong views, who is deceitful, let one know him as an outcast. (115)
+
+   2. 'Whosoever in this world harms living beings, whether once or twice born, and in whom there is no compassion for living beings, let one know him as an outcast. (116)
+
+   3. 'Whosoever destroys or lays siege to villages and towns, and is known as an enemy, let one know him as an outcast. (117)
+
+   4. 'Be it in the village or in the wood, whosoever appropriates by theft what is the property of others and what has not been given, let one know him as an outcast. (118)
+
+   5. 'Whosoever, having really contracted a debt, runs away when called upon (to pay), saying, "There is no debt (that I owe) thee," let one know him as an outcast. (119)
+
+   6. 'Whosoever for love of a trifle having killed a man going along the road, takes the trifle, let one know him as an outcast. (120)
+
+   7. 'The man who for his own sake or for that of others or for the sake of wealth speaks falsely when asked as a witness, let one know him as an outcast. (121)
+
+   8. 'Whosoever is seen with the wives of relatives or of friends either by force or with their consent, let one know him as an outcast. (122)
+
+   9. 'Whosoever being rich does not support mother or father when old and past their youth, let one know him as an outcast. (123)
+
+   10. 'Whosoever strikes or by words annoys mother
+
+p. 22
+
+or father, brother, sister, or mother-in-law, let one know him as an outcast. (124)
+
+   11. 'Whosoever, being asked about what is good, teaches what is bad and advises (another, while) concealing (something from him), let one know him as an outcast. (125)
+
+   12. 'Whosoever, having committed a bad deed, hopes (saying), "Let no one know me" (as having done it, who is) a dissembler, let one know him as an outcast. (126)
+
+   13. 'Whosoever, having gone to another's house and partaken of his good food, does not in return honour him when he comes, let one know him as an outcast. (127)
+
+   14. 'Whosoever by falsehood deceives either a Brahmana or a Samana or any other mendicant, let one know him as an outcast. (128)
+
+   15. 'Whosoever by words annoys either a Brahmana or a Samana when meal-time has come and does not give (him anything), let one know him as an outcast. (129)
+
+   16. 'Whosoever enveloped in ignorance in this world predicts what is not (to take place), coveting a trifle, let one know him as an outcast. (130)
+
+   17. 'Whosoever exalts himself and despises others, being mean by his pride, let one know him as an outcast. (131)
+
+   18. 'Whosoever is a provoker and is avaricious, has sinful desires, is envious, wicked, shameless, and fearless of sinning, let one know him as an outcast. (132)
+
+   19. 'Whosoever reviles Buddha or his disciple, be he a wandering mendicant (paribbaga) or a householder (gahattha), let one know him as an outcast. (133)
+
+p. 23
+
+   20. 'Whosoever without being a saint (arahat) pretends to be a saint, (and is) a thief in all the worlds including that of Brahman, he is indeed the lowest outcast; (all) these who have been described by me to you are indeed called outcasts. (134)
+
+   21. 'Not by birth does one become an outcast, not by birth does one become a Bramana; by deeds one becomes an outcast, by deeds one becomes a Bramana. (135)
+
+   22. 'Know ye this in the way that this example of mine (shows): There was a Kandala of the Sopaka caste, well known as Matanga. (136)
+
+   23. 'This Matanga reached the highest fame, such as was very difficult to obtain, and many Khattiyas and Bramanas went to serve him. (137)
+
+   24. 'He having mounted the vehicle of the gods, (and entered) the high road (that is) free from dust, having abandoned sensual desires, went to the Brahma world. (138)
+
+   25. 'His birth did not prevent him from being re-born in the Brahma world; (on the other hand) there are Bramanas, born in the family of preceptors, friends of the hymns (of the Vedas), (139)
+
+   26. 'But they are continually caught in sinful deeds, and are to be blamed in this world, while in the coming (world) hell (awaits them); birth does not save them from hell nor from blame. (140)
+
+   27. '(Therefore) not by birth does one become an outcast, not by birth does one become a Bramana, by deeds one becomes an outcast, by deeds one becomes a Bramana.' (141)
+
+   This having been said, the Bramana Aggikabharadvaga answered Bhagavat as follows:
+
+   'Excellent, O venerable Gotama! Excellent, O
+
+p. 24
+
+venerable Gotama! As one, O venerable Gotama, raises what has been overthrown, or reveals what has been hidden, or tells the way to him who has gone astray, or holds out an oil lamp in the dark that those who have eyes may see the objects, even so by the venerable Gotama in manifold ways the Dhamma has been illustrated; I take refuge in the venerable Gotama and in the Dhamma and in the Assembly of Bhikkhus. Let the venerable Gotama accept me as an upasaka (a follower, me) who henceforth for all my life have taken refuge (in him).'
+
+Vasalasutta is ended.
+
+ 
+
+8. METTASUTTA.
+
+ A peaceful mind and goodwill towards all beings are praised.--Text by Grimblot in Journal Asiatique, t. xviii (1871), p. 250, and by Childers in Khuddaka Patha, p. 15; translation (?) by Gogerly in the Ceylon Friend, 1839, p. 211, by Childers in Kh. Patha and by L. Feer in Journal Asiatique, t. xviii (1871), p. 328.   1. Whatever is to be done by one who is skilful in seeking (what is) good, having attained that tranquil state (of Nibbana):--Let him be able and upright and conscientious and of soft speech, gentle, not proud, (142)
+
+   2. And contented and easily supported and having few cares, unburdened and with his senses calmed and wise, not arrogant, without (showing) greediness (when going his round) in families. (143)
+
+   3. And let him not do anything mean for which others who are wise might reprove (him); may all beings be happy and secure, may they be happy-minded. (144)
+
+p. 25
+
+   4. Whatever living beings there are, either feeble or strong, all either long or great, middle-sized, short, small or large, (145)
+
+   5. Either seen or which are not seen, and which live far (or) near, either born or seeking birth, may all creatures be happy-minded. (146)
+
+   6. Let no one deceive another, let him not despise (another) in any place, let him not out of anger or resentment wish harm to another. (147)
+
+   7. As a mother at the risk of her life watches over her own child, her only child, so also let every one cultivate a boundless (friendly) mind towards all beings. (148)
+
+   8. And let him cultivate goodwill towards all the world, a boundless (friendly) mind, above and below and across, unobstructed, without hatred, without enmity. (149)
+
+   9. Standing, walking or sitting or lying, as long as he be awake, let him devote himself to this mind; this (way of) living they say is the best in this world. (150)
+
+   10. He who, not having embraced (philosophical) views, is virtuous, endowed with (perfect) vision, after subduing greediness for sensual pleasures, will never again go to a mother's womb. (151)
+
+Mettasutta is ended.
+
+ 
+
+9. HEMAVATASUTTA.
+
+ A dialogue between two Yakkhas on the qualities of Buddha. They go to Buddha, and after having their questions answered they, together with ten hundred Yakkhas, become the followers of Buddha.   1. 'To-day is the fifteenth, a fast day; a lovely
+
+p. 26
+
+night has come,'--so said the Yakkha Satagira,--'let us (go and) see the renowned Master Gotama.' (152)
+
+   2. 'Is the mind of such a one well disposed towards all beings?'--so said the Yakkha Hemavata,--'are his thoughts restrained as to things wished for or not wished for?' (153)
+
+   3. 'His mind is well disposed towards all beings, (the mind) of such a one,'--so said the Yakkha Satagira,--'and his thoughts are restrained as to things wished for or not wished for.' (154)
+
+   4. 'Does he not take what has not been given (to him)?'--so said the Yakkha Hemavata,--'is he self-controlled (in his behaviour) to living beings? is he far from (a state of) carelessness? does he not abandon meditation?' (155)
+
+   5. 'He does not take what has not been given (to him),'--so said the Yakkha Satagira,--'and he is self-controlled (in his behaviour) to living beings, and he is far from (a state of) carelessness; Buddha does not abandon meditation.' (156)
+
+   6. 'Does he not speak falsely?'--so said the Yakkha Hemavata,--'is he not harsh-spoken? does he not utter slander? does he not talk nonsense?' (157)
+
+   7. 'He does not speak falsely,'--so said the Yakkha Satagira,--'he is not harsh-spoken, he does not utter slander, with judgment he utters what is good sense.' (158)
+
+   8. 'Is he not given to sensual pleasures?'--so said the Yakkha Hemavata,--'is his mind undisturbed? has he overcome folly? does he see clearly in (all) things (dhammas)?' (159)
+
+   9. 'He is not given to sensual pleasures,'--so said the Yakkha Satagira,--'and his mind is undisturbed;
+
+p. 27
+
+he has overcome all folly; Buddha sees clearly in (all) things.' (160)
+
+   10. 'Is he endowed with knowledge?'--so said the Yakkha Hemavata,--'is his conduct pure? have his passions been destroyed? is there no new birth (for him)?' (161)
+
+   11. 'He is endowed with knowledge,'--so said the Yakkha Satagira,--'and his conduct is pure; all his passions have been destroyed; there is no new birth for him. (162)
+
+   12. 'The mind of the Muni is accomplished in deed and word; Gotama, who is accomplished by his knowledge and conduct, let us (go and) see. (163)
+
+   13. 'Come, let us (go and) see Gotama, who has legs like an antelope, who is thin, who is wise, living on little food, not covetous, the Muni who is meditating in the forest. (164)
+
+   14. 'Having gone to him who is a lion amongst those that wander alone and does not look for sensual pleasures, let us ask about the (means of) deliverance from the snares of death. (165)
+
+   15. 'Let us ask Gotama, the preacher, the expounder, who has penetrated all things, Buddha who has overcome hatred and fear.' (166)
+
+   16. 'In what has the world originated?'--so said the Yakkha Hemavata,--'with what is the world intimate? by what is the world afflicted, after having grasped at what?' (167)
+
+   17. 'In six the world has originated, O Hemavata,'--so said Bhagavat,--'with six it is intimate, by six the world is afflicted, after having grasped at six.' (168)
+
+   18. Hemavata said: 'What is the grasping by
+
+p. 28
+
+which the world is afflicted? Asked about salvation, tell (me) how one is released from pain?' (169)
+
+   19. Bhagavat said: 'Five pleasures of sense are said to be in the world, with (the pleasure of) the mind as the sixth; having divested oneself of desire for these, one is thus released from pain. (170)
+
+   20. 'This salvation of the world has been told to you truly, this I tell you: thus one is released from pain.' (171)
+
+   21. Hemavata said: 'Who in this world crosses the stream (of existence)? who in this world crosses the sea? who does not sink into the deep, where there is no footing and no support?' (172)
+
+   22. Bhagavat said: 'He who is always endowed with virtue, possessed of understanding, well composed, reflecting within himself, and thoughtful, crosses the stream that is difficult to cross. (173)
+
+   23. 'He who is disgusted with sensual pleasures, who has overcome all bonds and destroyed joy, such a one does not sink into the deep.' (174)
+
+   24. Hemavata said: 'He who is endowed with a profound understanding, seeing what is subtile, possessing nothing, not clinging to sensual pleasures, behold him who is in every respect liberated, the great Isi, walking in the divine path. (175)
+
+   25. 'He who has got a great name, sees what is subtile, imparts understanding; and does not cling to the abode of sensual pleasures, behold him, the all-knowing, the wise, the great Isi, walking in the noble path. (176)
+
+   26. 'A good sight indeed (has met) us to-day, a good daybreak, a beautiful rising, (for) we have seen the perfectly enlightened (sambuddham), who has crossed the stream, and is free from passion. (177)
+
+p. 29
+
+   27. 'These ten hundred Yakkhas, possessed of supernatural power and of fame, they all take refuge in thee, thou art our incomparable Master. (178)
+
+   28. 'We will wander about from village to village, from mountain to mountain, worshipping the perfectly enlightened and the perfection of the Dhamma[1].' (179)
+
+Hemavatasutta is ended.
+
+ 
+
+10. ALAVAKASUTTA.
+
+ The Yakkha Alavaka first threatens Buddha, then puts some questions to him which Buddha answers, whereupon Alavaka is converted.   So it was heard by me:
+
+   At one time Bhagavat dwelt at Alavi, in the realm of the Yakkha Alavaka. Then the Yakkha Alavaka went to the place where Bhagavat dwelt, and having gone there he said this to Bhagavat:
+
+   'Come out, O Samana!'
+
+   'Yes, O friend!' so saying Bhagavat came out.
+
+   'Enter, O Samana!'
+
+   'Yes, O friend!' so saying Bhagavat entered.
+
+   A second time the Yakkha Alavaka said this to Bhagavat: 'Come out, O Samana!'
+
+   'Yes, O friend!' so saying Bhagavat came out.
+
+   'Enter, O Samana!'
+
+   'Yes, O friend!' so saying Bhagavat entered.
+
+   A third time the Yakkha Alavaka said this Bhagavat: 'Come out, O Samana!'
+
+   ' Yes, O friend!' so saying Bhagavat came out.
+
+   'Enter, O Samana!'
+
+[1. Dhammassa ka sudhammatam.]
+
+p. 30
+
+   'Yes, O friend!' so saying Bhagavat entered.
+
+   A fourth time the Yakkha Alavaka said this to Bhagavat: 'Come out, O Samana!'
+
+   'I shall not come out to thee, O friend, do what thou pleasest.'
+
+   'I shall ask thee a question, O Samana, if thou canst not answer it, I will either scatter thy thoughts or cleave thy heart, or take thee by thy feet and throw thee over to the other shore of the Ganga.'
+
+   'I do not see, O friend, any one in this world nor in the world of gods, Maras, Brahmans, amongst the beings comprising gods, men, Samanas, and Brahmanas, who can either scatter my thoughts or cleave my heart, or take me by the feet and throw me over to the other shore of the Ganga; however, O friend, ask what thou pleasest.'
+
+   Then the Yakkha Alavaka addressed Bhagavat in stanzas:
+
+   1. 'What in this world is the best property for a man? what, being well done, conveys happiness? what is indeed the sweetest of sweet things? how lived do they call life the best?' (180)
+
+   2. Bhagavat said: 'Faith is in this world the best property for a man; Dhamma, well observed, conveys happiness; truth indeed is the sweetest of things; and that life they call the best which is lived with understanding.' (181)
+
+   3. Alavaka said: 'How does one cross the stream (of existence)? how does one cross the sea? how does one conquer pain? how is one purified?' (182)
+
+   4. Bhagavat said: 'By faith one crosses the stream, by zeal the sea, by exertion one conquers pain, by understanding one is purified.' (183)
+
+p. 31
+
+   5. Alavaka said: 'How does one obtain understanding? how does one acquire wealth? how does one obtain fame? how does one bind friends (to himself)? how does one not grieve passing away from this world to the other?' (184)
+
+   6. Bhagavat said: 'He who believes in the Dhamma of the venerable ones as to the acquisition of Nibbana, will obtain understanding from his desire to hear, being zealous and discerning. (185)
+
+   7. 'He who does what is proper, who takes the yoke (upon him and) exerts himself, will acquire wealth, by truth he will obtain fame, and being charitable he will bind friends (to himself). (186)
+
+   8. 'He who is faithful and leads the life of a householder, and possesses the following four Dhammas (virtues), truth, justice (dhamma), firmness, and liberality,--such a one indeed does not grieve when passing away. (187)
+
+   9. 'Pray, ask also other Samanas and Brahmanas far and wide, whether there is found in this world anything greater than truth, self-restraint, liberality, and forbearance.' (188)
+
+   10. Alavaka said: 'Why should I now ask Samanas and Brahmanas far and wide? I now know what is my future good. (189)
+
+   11. 'For my good Buddha came to live at Alavi; now I know where (i.e. on whom bestowed) a gift will bear great fruit. (190)
+
+   12. 'I will wander about from village to village, from town to town, worshipping the perfectly enlightened (sambuddha) and the perfection of the Dhamma.' (191)
+
+Alavakasutta is ended.
+
+p. 32
+
+ 
+
+11. VIGAYASUTTA.
+
+ A reflection on the worthlessness of the human body; a follower of Buddha only sees the body as it really is, and consequently goes to Nibbana.--Comp. Gataka I, p. 146.   1. If either walking or standing, sitting or lying, any one contracts (or) stretches (his body, then) this is the motion of the body. (192)
+
+   2. The body which is put together with bones and sinews, plastered with membrane and flesh, and covered with skin, is not seen as it really is. (193)
+
+   3. It is filled with the intestines, the stomach, the lump of the liver, the abdomen, the heart, the lungs, the kidneys, the spleen. (194)
+
+   4. With mucus, saliva, perspiration, lymph, blood, the fluid that lubricates the joints, bile, and fat. (195)
+
+   5. Then in nine streams impurity flows always from it; from the eye the eye-excrement, from the ear the ear-excrement, (196)
+
+   6. Mucus from the nose, through the mouth it ejects at one time bile and (at other times) it ejects phlegm, and from (all) the body come sweat and dirt. (197)
+
+   7. Then its hollow head is filled with the brain. A fool led by ignorance thinks it a fine thing. (198)
+
+   8. And when it lies dead, swollen and livid, discarded in the cemetery, relatives do not care (for it). (199)
+
+   9. Dogs eat it and jackals, wolves and worms; crows and vultures eat it, and what other living creatures there are. (200)
+
+   10. The Bhikkhu possessed of understanding in this world, having listened to Buddha's words, he
+
+p. 33
+
+certainly knows it (i.e. the body) thoroughly, for he sees it as it really is. (201)
+
+   11. "As this (living body is) so is that (dead one), as this is so that (will be[1]); let one put away desire for the body, both as to its interior and as to its exterior." (202)
+
+   12. Such a Bhikkhu who has turned away from desire and attachment, and is possessed of understanding in this world, has (already) gone to the immortal peace, the unchangeable state of Nibbana. (203)
+
+   13. This (body) with two feet is cherished (although) impure, ill-smelling, filled with various kinds of stench, and trickling here and there. (204)
+
+   14. He who with such a body thinks to exalt himself or despises others--what else (is this) but blindness? (205)
+
+Vigayasutta is ended.
+
+ 
+
+12. MUNISUTTA.
+
+ Definition of a Muni.   1. From acquaintanceship arises fear, from house-life arises defilement; the houseless state, freedom from acquaintanceship--this is indeed the view of a Muni. (206)
+
+   2. Whosoever, after cutting down the (sin that has) arisen, does not let (it again) take root and does not give way to it while springing up towards him, him
+
+[1. Yatha idam tatha etam
+      Yatha etam tatha idam.]
+
+p. 34
+
+the solitarily wandering they call a Muni; such a great Isi has seen the state of peace[1]. (207)
+
+   3. Having considered the causes (of sin, and) killed the seed, let him not give way to desire for it; such a Muni who sees the end of birth and destruction (i.e. Nibbana), after leaving reasoning behind, does not enter the number (of living beings)[2]. (208)
+
+   4. He who has penetrated all the resting-places[3] (of the mind, and) does not wish for any of them,--such a Muni indeed, free from covetousness and free from greediness, does not gather up (resting-places), for he has reached the other shore. (209)
+
+   5. The man who has overcome everything, who knows everything, who is possessed of a good understanding, undefiled in all things (dhamma), abandoning everything, liberated in the destruction of desire (i.e. Nibbana), him the wise style a Muni[4]. (210)
+
+   6. The man who has the strength of understanding, is endowed with virtue and (holy) works, is composed, delights in meditation, is thoughtful, free from ties, free from harshness (akhila), and free from passion, him the wise style a Muni. (211)
+
+   7. The Muni that wanders solitarily, the zealous,
+
+[1. Yo gatam ukkhigga na ropayeyya
+      Gayantam assa nanuppavekkhe
+      Tam ahu ekam muninam karantam,
+      Addakkhi so santipadam mahesi.
+
+2. Samkhaya vatthuni pamaya bigam
+      Sineham assa nanuppavekkhe,
+      Sa ve muni gatikhayantadassi
+      Takkam pahaya na upeti samkham.
+
+3. Nivesanani. Comp. Dutthaka, v. 6.
+
+4. Comp. .]
+
+p. 35
+
+that is not shaken by blame and praise, like a lion not trembling at noises, like the wind not caught in a net, like a lotus not soiled by water, leading others, not led by others, him the wise style a Muni. (212)
+
+   8. Whosoever becomes firm as the post in a bathing-place, in whom others acknowledge propriety of speech, who is free from passion, and (endowed) with well-composed senses, such a one the wise style a Muni. (213)
+
+   9. Whosoever is firm, like a straight shuttle, and is disgusted with evil actions, reflecting on what is just and unjust, him the wise style a Muni. (214)
+
+   10. Whosoever is self-restrained and does not do evil, is a young or middle-aged Muni, self-subdued, one that should not be provoked (as) he does not provoke any, him the wise style a Muni. (215)
+
+   11. Whosoever, living upon what is given by others, receives a lump of rice from the top, from the middle or from the rest (of the vessel, and) does not praise (the giver) nor speak harsh words, him the wise style a Muni. (216)
+
+   12. The Muni that wanders about abstaining from sexual intercourse, who in his youth is not fettered in any case, is abstaining from the insanity of pride, liberated, him the wise style a Muni. (217)
+
+   13. The man who, having penetrated the world, sees the highest truth, such a one, after crossing the stream and sea (of existence), who has cut off all ties, is independent, free from passion, him indeed the wise style a Muni. (218)
+
+   14. Two whose mode of life and occupation are quite different, are not equal: a householder maintaining a wife, and an unselfish virtuous man. A householder (is intent) upon the destruction of
+
+p. 36
+
+other living creatures, being unrestrained; but a Muni always protects living creatures, being restrained. (219)
+
+   15. As the crested bird with the blue neck (the peacock) never attains the swiftness of the swan, even so a householder does not equal a Bhikkhu, a secluded Muni meditating in the wood. (220)
+
+Munisutta is ended.
+
+Uragavagga is ended.
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 37
+
+ 
+
+II. KULAVAGGA.
+
+ 
+
+1. RATANASUTTA.
+
+ For all beings salvation is only to be found in Buddha, Dhamma, and Sangha.--Text and translation in Childers' Khuddaka Patha, p. 6.   1. Whatever spirits have come together here, either belonging to the earth or living in the air, let all spirits be happy, and then listen attentively to what is said. (221)
+
+   2. Therefore, O spirits, do ye all pay attention, show kindness to the human race who both day and night bring their offerings; therefore protect them strenuously. (222)
+
+   3. Whatever wealth there be here or in the other world, or whatever excellent jewel in the heavens, it is certainly not equal to Tathagata. This excellent jewel (is found) in Buddha, by this truth may there be salvation. (223)
+
+   4. The destruction (of passion), the freedom from passion, the excellent immortality which Sakyamuni attained (being) composed,--there is nothing equal to that Dhamma. This excellent jewel (is found) in the Dhamma, by this truth may there be salvation. (224)
+
+   5. The purity which the best of Buddhas praised, the meditation which they call uninterrupted, there is no meditation like this. This excellent jewel (is
+
+p. 38
+
+found) in the Dhamma, by this truth may there be salvation. (225)
+
+   6. The eight persons that are praised by the righteous[1], and make these four pairs, they are worthy of offerings, (being) Sugata's disciples; what is given to these will bear great fruit. This excellent jewel (is found) in the Assembly (sangha), by this truth may there be salvation. (226)
+
+   7. Those who have applied themselves studiously with a firm mind and free from desire to the commandments of Gotama, have obtained the highest gain, having merged into immortality, and enjoying happiness after getting it for nothing. This excellent jewel (is found) in the Assembly, by this truth may there be salvation. (227)
+
+   8. As a post in the front of a city gate is firm in the earth and cannot be shaken by the four winds, like that I declare the righteous man to be who, having penetrated the noble truths, sees (them clearly). This excellent jewel (is found) in the Assembly, by this truth may there be salvation. (228)
+
+   9. Those who understand the noble truths well taught by the profoundly wise (i.e. Buddha), though they be greatly distracted, will not (have to) take the eighth birth. This excellent jewel (is found) in the Assembly, by this truth may there be salvation. (229)
+
+   10. On his (attaining the) bliss of (the right) view three things (dhammas) are left behind (by him): conceit and doubt and whatever he has got of virtue and (holy) works. He is released also from the four hells, and he is incapable of committing the six
+
+[1. The Commentator: satam pasattha ti sappurisehi buddhapakkekabuddhasavakehi annehi ka devamanusehi pasattha.]
+
+p. 39
+
+deadly sins. This excellent jewel (is found) in the Assembly, by this truth may there be salvation. (230)
+
+   11. Even if he commit a sinful deed by his body, or in word or in thought, he is incapable of concealing it, (for) to conceal is said to be impossible for one that has seen the state (of Nibbana). This excellent jewel (is found) in the Assembly, by this truth may there be salvation. (231)
+
+   12. As in a clump of trees with their tops in bloom in the first heat of the hot month, so (Buddha) taught the excellent Dhamma leading to Nibbana to the greatest benefit (for all). This excellent jewel (is found) in Buddha, by this truth may there be salvation. (232)
+
+   13. The excellent one who knows what is excellent, who gives what is excellent, and who brings what is excellent, the incomparable one taught the excellent Dhamma. This excellent jewel (is found) in Buddha, by this truth may there be salvation. (233)
+
+   14. The old is destroyed, the new has not arisen, those whose minds are disgusted with a future existence, the wise who have destroyed their seeds (of existence, and) whose desires do not increase, go out like this lamp. This excellent jewel (is found) in the Assembly, by this truth may there be salvation. (234)
+
+   15. Whatever spirits have come together here, either belonging to the earth or living in the air, let us worship the perfect (tathagata) Buddha, revered by gods and men; may there be salvation. (235)
+
+   16. Whatever spirits have come together here, either belonging to the earth or living in the air, let us worship the perfect (tathagata) Dhamma, revered by gods and men; may there be salvatlon. (236)
+
+   17. Whatever spirits have come together here,
+
+p. 40
+
+either belonging to the earth or living in the air, let us worship the perfect (tathagata) Sangha, revered by gods and men; may there be salvation. (237)
+
+Ratanasutta is ended.
+
+ 
+
+2. AMAGANDHASUTTA.
+
+ A bad mind and wicked deeds are what defiles a man; no outward observances can purify him. Comp. .   1. Amagandhabrahmana: 'Those who eat samaka, kingulaka, and kinaka, pattaphala, mulaphala, and gaviphala (different sorts of grass, leaves, roots, &c.), justly obtained of the just, do not speak falsehood, (nor are they) desirous of sensual pleasures. (238)
+
+   2. 'He who eats what has been well prepared, well dressed, what is pure and excellent, given by others, he who enjoys food made of rice, eats, O Kassapa, Amagandha (what defiles one). (239)
+
+   3. '(The charge of) Amagandha does not apply to me,' so thou sayest, 'O Brahman (brahmabandhu, although) enjoying food (made) of rice together with the well-prepared flesh of birds. I ask thee, O Kassapa, the meaning of this, of what description (is then) thy Amagandha?' (240)
+
+   4. Kassapabuddha: 'Destroying living beings, killing, cutting, binding, stealing, speaking falsehood, fraud and deception, worthless reading[1], intercourse with another's wife;--this is Amagandha, but not the eating of flesh. (241)
+
+[1. Agghenakuggan ti niratthakanatthaganakaganthapariyapunanam. Commentator.]
+
+p. 41
+
+   5. 'Those persons who in this world are unrestrained in (enjoying) sensual pleasures, greedy of sweet things, associated with what is impure, sceptics (natthikaditthi), unjust, difficult to follow;--this is Amagandha, but not the eating of flesh. (242)
+
+   6. 'Those who are rough, harsh, backbiting, treacherous, merciless, arrogant, and (who being) illiberal do not give anything to any one;--this is Amagandha, but not the eating of flesh. (243)
+
+   7. 'Anger, intoxication, obstinacy, bigotry, deceit, envy, grandiloquence, pride and conceit, intimacy with the unjust;--this is Amagandha, but not the eating of flesh. (244)
+
+   8. 'Those who in this world are wicked, and such as do not pay their debts, are slanderers, false in their dealings, counterfeiters, those who in this world being the lowest of men commit sin;--this is Amagandha, but not the eating of flesh. (245)
+
+   9. 'Those persons who in this world are unrestrained (in their behaviour) towards living creatures, who are bent upon injuring after taking others' (goods), wicked, cruel, harsh, disrespectful;--this is Amagandha, but not the eating of flesh. (246)
+
+   10. 'Those creatures who are greedy of these (living beings, who are) hostile, offending; always bent upon (evil) and therefore, when dead, go to darkness and fall with their heads downwards into hell;--this is Amagandha, but not the eating of flesh. (247)
+
+   11. 'Neither the flesh of fish, nor fasting, nor nakedness, nor tonsure, nor matted hair, nor dirt, nor rough skins, nor the worshipping of the fire, nor the many immortal penances in the world, nor hymns, nor oblations, nor sacrifice, nor observance of the
+
+p. 42
+
+seasons, purify a mortal who has not conquered his doubt[1]. (248)
+
+   12. 'The wise man wanders about with his organs of sense guarded, and his senses conquered, standing firm in the Dhamma, delighting in what is right and mild; having overcome all ties and left behind all pain, he does not cling to what is seen and heard.' (249)
+
+   13. Thus Bhagavat preached this subject again and again, (and the Brahmana) who was accomplished in the hymns (of the Vedas) understood it; the Muni who is free from defilement, independent, and difficult to follow, made it clear in various stanzas. (250)
+
+   14. Having heard Buddha's well-spoken words, which are free from defilement and send away all pain, he worshipped Tathagata's (feet) in humility, and took orders at once. (251)
+
+Amagandhasutta is ended.
+
+ 
+
+3. HIRISUTTA.
+
+ On true frendship.   1. He who transgresses and despises modesty, who says, 'I am a friend,' but does not undertake any work that can be done, know (about) him: 'he is not my (friend).' (252)
+
+   2. Whosoever uses pleasing words to friends without effect[2], him the wise know as one that (only) talks, but does not do anything. (253)
+
+   3. He is not a friend who always eagerly suspects a breach and looks out for faults; but he with whom he dwells as a son at the breast (of his mother),
+
+[1. Comp. .
+
+2. Ananvayan ti yam attham dassami karissamiti bhasati tena ananugatam. Commentator.]
+
+p. 43
+
+he is indeed a friend that cannot be severed (from him) by others. (254)
+
+   4. He who hopes for fruit, cultivates the energy that produces joy and the pleasure that brings praise, (while) carrying the human yoke[1]. (255)
+
+   5. Having tasted the sweetness of seclusion and tranquillity one becomes free from fear and free from sin, drinking in the sweetness of the Dhamma[2]. (256)
+
+Hirisutta is ended.
+
+ 
+
+4. MAHAMANGALASUTTA.
+
+ Buddha defines the highest blessing to a deity.--Text by Grimblot in Journal Asiatique, t. xviii (1871), p. 229, and by Childers in Kh. Patha, p. 4; translation by Gogerly in the Ceylon Friend, 1839, p. 208; by Childers in Kh. Patha, p. 4; and by L. Feer in Journal Asiatique, t. xviii (1871), p. 296.   So it was heard by me:
+
+   At one time Bhagavat dwelt at Savatthi, in Getavana, in the park of Anathapindika. Then, when the night had gone, a deity of beautiful appearance, having illuminated the whole Getavana, approached Bhagavat, and having approached and saluted him, he stood apart, and standing apart that deity addressed Bhagavat in a stanza:
+
+   1. 'Many gods and men have devised blessings, longing for happiness, tell thou (me) the highest blessing.' (257)
+
+   2. Buddha said: 'Not cultivating (the society of)
+
+[1. Pamuggakaranam thanam
+      Pasamsavahanam sukham
+      Phalanisamso[*] bhaveti
+      Vahanto porisam dhuram.
+
+2. Comp. .
+
+*. Phalam patikankhamano phalanisamso. Commentator.]
+
+p. 44
+
+fools, but cultivating (the society of) wise men, worshipping those that are to be worshipped, this is the highest blessing. (258)
+
+   3. 'To live in a suitable country, to have done good deeds in a former (existence), and a thorough study of one's self, this is the highest blessing. (259)
+
+   4. 'Great learning and skill, well-learnt discipline, and well-spoken words, this is the highest blessing. (260)
+
+   5. 'Waiting on mother and father, protecting child and wife, and a quiet calling, this is the highest blessing. (261)
+
+   6. 'Giving alms, living religiously, protecting relatives, blameless deeds, this is the highest blessing. (262)
+
+   7. 'Ceasing and abstaining from sin, refraining from intoxicating drink, perseverance in the Dhammas, this is the highest blessing. (263)
+
+   8. 'Reverence and humility, contentment and gratitude, the hearing of the Dhamma at due seasons, this is the highest blessing. (264)
+
+   9. 'Patience and pleasant speech, intercourse with Samanas, religious conversation at due seasons, this is the highest blessing. (265)
+
+   10. 'Penance and chastity, discernment of the noble truths, and the realisation of Nibbana, this is the highest blessing. (266)
+
+   11. 'He whose mind is not shaken (when he is) touched by the things of the world (lokadhamma), (but remains) free from sorrow, free from defilement, and secure, this is the highest blessing. (267)
+
+   12. 'Those who, having done such (things), are undefeated in every respect, walk in safety everywhere, theirs is the highest blessing.' (268)
+
+Mahamangala is ended.
+
+p. 45
+
+ 
+
+5. SUKILOMASUTTA.
+
+ The Yakkha Sukiloma threatens to harm Buddha, if he cannot answer his questions. Buddha answers that all passions proceed from the body.   So it was heard by me:
+
+   At one time Bhagavat dwelt at Gaya (seated) on a stone seat in the realm of the Yakkha Sukiloma. And at that time the Yakkha Khara and the Yakkha Sukiloma passed by, not far from Bhagavat. And then the Yakkha Khara said this to the Yakkha Sukiloma: 'Is this man a Samana?'
+
+   Sukiloma answered: 'He is no Samana, he is a Samanaka (a wretched Samana); however I will ascertain whether he is a Samana or a Samanaka.'
+
+   Then the Yakkha Sukiloma went up to Bhagavat, and having gone up to him, he brushed against Bhagavat's body. Then Bhagavat took away his body. Then the Yakkha Sukiloma said this to Bhagavat: 'O Samana, art thou afraid of me?'
+
+   Bhagavat answered: 'No, friend, I am not afraid of thee, but thy touching me is sinful.'
+
+   Sukiloma said: 'I will ask thee a question, O Samana; if thou canst not answer it I will either scatter thy thoughts or cleave thy heart, or take thee by the feet and throw thee over to the other shore of the Ganga.'
+
+   Bhagavat answered: 'I do not see, O friend, neither in this world together with the world of the Devas, Maras, Brahmans, nor amongst the generation of Samana and Brahmanas, gods and men, the one who can either scatter my thoughts or cleave my heart, or take me by the feet and throw me over
+
+p. 46
+
+to the other shore of the Ganga. However ask, O friend, what thou pleasest.' Then the Yakkha Sukiloma addressed Bhagavat in a stanza:
+
+   1. ' What origin have passion and hatred, disgust, delight, and horror? wherefrom do they arise? whence arising do doubts vex the mind, as boys vex a crow?' (269)
+
+   2. Buddha said: 'Passion and hatred have their origin from this (body), disgust, delight, and horror arise from this body; arising from this (body) doubts vex the mind, as boys vex a crow. (270)
+
+   3. 'They originate in desire, they arise in self, like the shoots of the banyan tree; far and wide they are connected, with sensual pleasures, like the maluva creeper spread in the wood. (271)
+
+   4. 'Those who know whence it (sin) arises, drive it away. Listen, O Yakkha! They cross over this stream that is difficult to cross, and has not been crossed before, with a view to not being born again.' (272)
+
+Sukilomasutta is ended.
+
+ 
+
+6. DHAMMAKARIYASUTTA OR KAPILASUTTA.
+
+ The Bhikkhus are admonished to rid themselves of sinful persons and advised to lead a pure life.   1. A just life, a religious life, this they call the best gem, if any one has gone forth from house-life to a houseless life. (273)
+
+   2. But if he be harsh-spoken, and like a beast delighting in injuring (others), then the life of such a one is very wicked, and he increases his own pollution. (274)
+
+p. 47
+
+   3. A Bhikkhu who delights in quarrelling and is shrouded in folly, does not understand the Dhamma that is preached and taught by Buddha. (275)
+
+   4. Injuring his own cultivated mind, and led by ignorance, he does not understand that sin is the way leading to hell. (276)
+
+   5. Having gone to calamity, from womb to womb, from darkness to darkness, such a Bhikkhu verily, after passing away, goes to pain. (277)
+
+   6. As when there is a pit of excrement (that has become) full during a number of years,--he who should be such a one full of sin is difficult to purify. (278)
+
+   7. Whom you know to be such a one, O Bhikkhus, (a man) dependent on a house, having sinful desires, sinful thoughts, and being with sinful deeds and objects, (279)
+
+   8. Him do avoid, being all in concord; blow him away as sweepings, put him away as rubbish. (280)
+
+   9. Then remove as chaff those that are no Samanas, (but only) think themselves, blowing away those that have sinful desires and those with sinful deeds and objects. (281)
+
+   10. Be pure and live together with the pure, being thoughtful; then agreeing (and) wise you will put an end to pain. (282)
+
+Dhammakariyasutta is ended.
+
+ 
+
+7. BRAHMANADMAMMIKASUTTA.
+
+ Wealthy Brahmanas come to Buddha, asking about the customs of the ancient Brahmanas. Buddha describes their mode of life and the change wrought in them by seeing the king's riches, and furthermore, how they induced the king to commit the sin ofp. 48
+
+ having living creatures slain at sacrifices. On hearing Buddha's enlightened discourse the wealthy Brahmanas are converted. Compare Sp. Hardy's Legends, p. 46.   So it was heard by me:
+
+   At one time Bhagavat dwelt at Savatthi, in Getavana, in the park of Anathapindika. Then many wealthy Brahmanas of Kosala, decrepit, elderly, old, advanced in age, or arrived at extreme old age, went to Bhagavat, and having gone to him they talked pleasantly with him, and after having had some pleasant and remarkable talk with him, they sat down apart. Sitting down apart these wealthy Brahmanas said this to Bhagavat: 'O venerable Gotama, are the Brahmanas now-a-days seen (engaged) in the Brahmanical customs (dhamma) of the ancient Brahmanas?'
+
+   Bhagavat answered: 'The Brahmanas now-a-days, O Brahmanas, are not seen (engaged) in the Brahmanical customs of the ancient Brahmanas.'
+
+   The Brahmanas said: 'Let the venerable Gotama tell us the Brahmanical customs of the ancient Brahmanas, if it is not inconvenient to the venerable Gotama.'
+
+   Bhagavat answered: 'Then listen, O Brahmanas, pay great attention, I will speak.'
+
+   'Yes,' so saying the wealthy Brahmanas listened to Bhagavat. Bhagavat said this:
+
+   1. The old sages (isayo) were self-restrained, penitent; having abandoned the objects of the five senses, they studied their own welfare. (283)
+
+   2. There were no cattle for the Brahmanas, nor gold, nor corn, (but) the riches and corn of meditation were for them, and theey kept watch over the best treasure. (284)
+
+p. 49
+
+   3. What was prepared for them and placed as food at the door, they thought was to be given to those that seek for what has been prepared by faith. (285)
+
+   4. With garments variously coloured, with beds and abodes, prosperous people from the provinces and the whole country worshipped those Brahmanas. (286)
+
+   5. Inviolable were the Brahmanas, invincible, protected by the Dhamma, no one opposed them (while standing) at the doors of the houses anywhere. (287)
+
+   6. For forty-eight years they practised juvenile chastity, the Brahmanas formerly went in search of science and exemplary conduct. (288)
+
+   7. The Brahmanas did not marry (a woman belonging to) another (caste), nor did they buy a wife; they chose living together in mutual love after having come together. (289)
+
+   8. Excepting from the time about the cessation of the menstruation else the Brahmanas did not indulge in sexual intercourse[1]. (290)
+
+   9. They praised chastity and virtue, rectitude, mildness, penance, tenderness, compassion, and patience. (291)
+
+   10. He who was the best of them, a strong Brahmana, did not (even) in sleep indulge in sexual intercourse. (292)
+
+   11. Imitating his practices some wise men in this world praised chastity and patience. (293)
+
+   12. Having asked for rice, beds, garments, butter. and oil, and gathered them justly, they made sacrifices
+
+[1. Annatra tamha samaya
+      Utuveramanim pati
+      Antara methunam dhammam
+      Nasu gakkhanti brahmana.]
+
+p. 50
+
+out of them, and when the sacrifice came on, they did not kill cows. (294)
+
+   13. Like unto a mother, a father, a brother, and other relatives the cows are our best friends, in which medicines are produced. (295)
+
+   14. They give food, and they give strength, they likewise give (a good) complexion and happiness; knowing the real state of this, they did not kill cows. (296)
+
+   15. They were graceful, large, handsome, renowned, Brahmanas by nature, zealous for their several works; as long as they lived in the world, this race prospered. (297)
+
+   16. But there was a change in them: after gradually seeing the king's prosperity and adorned women, (298)
+
+   17. Well-made chariots drawn by noble horses, carpets in variegated colours, palaces and houses, divided into compartments and measured out, (299)
+
+   18. The great human wealth, attended with a number of cows, and combined with a flock of beautiful women, the Brahmanas became covetous. (300)
+
+   19. They then, in this matter, having composed hymns, went to Okkaka, and said: 'Thou hast much wealth and corn, sacrifice thy great property, sacrifice thy great wealth.' (301)
+
+   20. And then the king, the lord of chariots, instructed by the Brahmanas, brought about assamedha, purisamedha, sammapasa, and vakapeyya without any hinderance, and having offered these sacrifices he gave the Brahmanas wealth: (302)
+
+   21. Cows, beds, garments, and adorned women, and well-made chariots, drawn by noble horses, carpets in variegated colours, (303)
+
+p. 51
+
+   22. Beautiful palaces, well divided into compartments; and having filled these with different (sorts of) corn, he gave this wealth to the Brahmanas. (304)
+
+   23. And they having thus received wealth wished for a store, and the desire of those who had given way to (their) wishes increased still more; they then, in this matter, having composed hymns, went again to Okkaka, and said: (305)
+
+   24. 'As water, earth, gold, wealth, and corn, even so are there cows for men, for this is a requisite for living beings; sacrifice thy great property, sacrifice thy wealth.' (306)
+
+   25. And then the king, the lord of chariots, instructed by the Brahmanas, caused many hundred thousand cows to be slain in offerings. (307)
+
+   26. The cows, that are like goats, do not hurt any one with their feet or with either of their horns, they are tender, and yield vessels (of milk),--seizing them by the horns the king caused them to be slain with a weapon. (308)
+
+   27. Then the gods, the forefathers, Inda, the Asuras, and the Rakkhasas cried out: 'This is injustice,' because of the weapon falling on the cows. (309)
+
+   28. There were formerly three diseases: desire, hunger, and decay, but from the slaying of cattle there came ninety-eight. (310)
+
+   29. This injustice of (using) violence that has come down (to us), was old; innocent (cows) are slain, the sacrificing (priests) have fallen off from the Dhamma. (311)
+
+   30. So this old and mean Dhamma is blamed by the wise; where people see such a one, they blame the sacrificing priest. (312)
+
+p. 52
+
+   31. So Dhamma being lost, the Suddas and the Vessikas disagreed, the Khattiyas disagreed in manifold ways, the wife despised her husband. (313)
+
+   32. The Khattiyas and the Brahmanas and those others who had been protected by their castes, after doing away with their disputes on descent, fell into the power of sensual pleasures. (314)
+
+   This having been said, those wealthy Brahmanas said to Bhagavat as follows:
+
+   'It is excellent, O venerable Gotama! It is excellent, O venerable Gotama! As one raises what has been overthrown, or reveals what has been hidden, or tells the way to him who has gone astray, or holds out an oil lamp in the dark that those who have eyes may see the objects, even so by the venerable Gotama in manifold ways the Dhamma has been illustrated; we take refuge in the venerable Gotama, in the Dhamma, and in the Assembly of Bhikkhus; may the venerable Gotama receive us as followers (upasaka), who from this day for life have taken refuge (in him).'
+
+Brahmanadhammikasutta is ended.
+
+ 
+
+8. NAVASUTTA.
+
+ On choosing a good and learned teacher.   1. A man should worship him from whom he learns the Dhamma, as the gods (worship) Inda; the learned man being worshipped and pleased with him, makes the (highest) Dhamma manifest. (315)
+
+   2. Having heard and considered that (Dhamma), the wise man practising the Dhamma that is in
+
+p. 53
+
+accordance with the (highest) Dhamma, becomes learned, expert, and skilful, strenuously associating with such a (learned teacher). (316)
+
+   3. He who serves a low (teacher), a fool who has not understood the meaning, and who is envious, goes to death, not having overcome doubt, and not having understood the Dhamma. (317)
+
+   4. As a man, after descending into a river, a turgid water with a rapid current, is borne along following the current,--how will he be able to put others across? (318)
+
+   5. Even so how will a man, not having understood the Dhamma, and not attending to the explanation of the learned and not knowing it himself, not having overcome doubt, be able to make others understand it? (319)
+
+   6. As one, having gone on board a strong ship, provided with oars and rudder, carries across in it many others, knowing the way to do it, and being expert and thoughtful, (320)
+
+   7. So also he who is accomplished, of a cultivated mind, learned, intrepid, makes others endowed with attention and assiduity understand it, knowing (it himself). (321)
+
+   8. Therefore indeed one should cultivate (the society of) a good man, who is intelligent and learned; he who leads a regular life, having understood what is good and penetrated the Dhamma, will obtain happiness. (322)
+
+Navasutta is ended.
+
+p. 54
+
+ 
+
+9. KIMSILASUTTA.
+
+ How to obtain the highest good.   1. By what virtue, by what conduct, and performing what works, will a man be perfectly established (in the commandments) and obtain the highest good? (323)
+
+   2. Let him honour old people, not be envious, let him know the (right) time for seeing his teachers, let him know the (right) moment for listening to their religious discourses, let him assiduously hearken to their well-spoken (words). (324)
+
+   3. Let him in due time go to the presence of his teachers, let him be humble after casting away obstinacy, let him remember and practise what is good, the Dhamma, self-restraint, and chastity. (325)
+
+   4. Let his pleasure be the Dhamma, let him delight in the Dhamma, let him stand fast in the Dhamma, let him know how to enquire into the Dhamma, let him not raise any dispute that pollutes the Dhamma, and let him spend his time in (speaking) well-spoken truths[1]. (326)
+
+   5. Having abandoned ridiculous talk, lamentation, corruption, deceit, hypocrisy, greediness and haughtiness, clamour and harshness, depravity and foolishness, let him live free from infatuation, with a steady mind. (327)
+
+   6. The words, the essence of which is understood, are well spoken, and what is heard, if understood, contains the essence of meditation; but the understanding and learning of the man who is hasty and careless, does not increase. (328)
+
+[1. Comp. .]
+
+p. 55
+
+   7. Those who delight in the Dhamma, proclaimed by the venerable ones, are unsurpassed in speech, mind and work, they are established in peace, tenderness and meditation, and have gone to the essence of learning and understanding. (329)
+
+Kimsilasutta is ended.
+
+ 
+
+10. UTTHANASUTTA.
+
+ Advice not to be lukewarm and slothful.   1. Rise, sit up, what is the use of your sleeping; to those who are sick, pierced by the arrow (of pain), and suffering, what sleep is there? (330)
+
+   2. Rise, sit up, learn steadfastly for the sake of peace, let not the king of death, knowing you to be indolent (pamatta), befool you and lead you into his power. (331)
+
+   3. Conquer this desire which gods and men stand wishing for and are dependent upon, let not the (right) moment pass by you; for those who have let the (right) moment pass, will grieve when they have been consigned to hell. (332)
+
+   4. Indolence (pamada) is defilement, continued indolence is defilement; by earnestness (appamada) and knowledge let one pull out his arrow. (333)
+
+Utthanasutta is ended.
+
+ 
+
+11. RAHULASUTTA.
+
+ Buddha recommends the life of a recluse to Rahula, and admonishes him to turn his mind away from the world and to be moderate.   1. Bhagavat said: 'Dost thou not despise the wise man, from living with him constantly? Is he
+
+p. 56
+
+who holds up a torch to mankind honoured by thee?' (334)
+
+   2. Rahula: 'I do not despise the wise man, from living with him constantly; he who holds up a torch to mankind is always honoured by me.' (335)
+
+Vatthugatha.
+
+   3. Bhagavat: 'Having abandoned the objects of the five senses, the beautiful, the charming, and gone out from thy house with faith, do thou put an end to pain. (336)
+
+   4. 'Cultivate (the society of) virtuous friends and a distant dwelling-place, secluded and quiet; be moderate in food[1]. (337)
+
+   5. 'Robes, alms (in bowl), requisites (for the sick), a dwelling-place,--do not thirst after these (things), that thou mayest not go back to the world again. (338)
+
+   6. 'Be subdued according to the precepts, and as to the five senses, be attentive as regards thy body, and be full of disgust (with the world). (339)
+
+   7. 'Avoid signs, what is pleasant and is accompanied with passion, turn thy mind undisturbed and well composed to what is not pleasant. (340)
+
+   8. 'Cherish what is signless, leave the inclinations for pride; then by destroying pride thou shalt wander calm.' (341)
+
+   So Bhagavat repeatedly admomshed the venerable Rahula with these stanzas.
+
+Rahulasutta is ended.
+
+[1. Mitte bhagassu kalyane
+      Pantan ka sayanasanam
+      Vivittam appanigghosam,
+      Mattannu hohi bhogane.
+ Comp. Dhp.  and .]
+
+p. 57
+
+ 
+
+12. VANGISASUTTA.
+
+ Vangisa desires to know the fate of Nigrodhakappa, whether he has been completely extinguished, or whether he is still with some elements of existence left behind. He is answered by Buddha.   So it was heard by me:
+
+   At one time Bhagavat dwelt at Alavi, in the temple of Aggalava. At that time the teacher of the venerable Vangisa, the Thera, by name Nigrodhakappa, had attained bliss not long before (akiraparinibbuta). Then this reflection occurred to the venerable Vangisa, while retired and meditating:
+
+   Whether my teacher be blessed (parinibbuta) or whether he be not blessed. Then the venerable Vangisa, at the evening time, coming forth from his retirement went to Bhagavat, and having gone to him he sat down apart after saluting him, and sitting down apart the venerable Vangisa said this to Bhagavat:
+
+   'Lord, while retired and meditating, this reflection occurred to me here: Whether my teacher be blessed or whether he be not blessed.'
+
+   Then the venerable Vangisa, rising from his seat, throwing his robe over one shoulder and bending his joined hands towards Bhagavat, addressed him in stanzas:
+
+   1. 'We ask the Master of excellent understanding: he who in this world had cut off doubt, died at Aggalava, a Bhikkhu, well known, famous, and of a calm mind. (342)
+
+   2. 'The name "Nigrodhakappa" was given to that Brahmana by thee, O Bhagavat; he wandered
+
+p. 58
+
+about worshipping thee, having liberation in view, strong, and seeing Nibbana. (343)
+
+   3. 'O Sakka, thou all-seeing, we all wish to learn (something about) this disciple; our ears are ready to hear, thou art our Master, thou art incomparable. (344)
+
+   4. 'Cut off our doubt, tell me of him, inform us of the blessed, O thou of great understanding; speak in the midst of us, O thou all-seeing, as the thousand-eyed Sakka (speaks in the midst) of the gods. (345)
+
+   5. 'Whatever ties there are in this world (constituting) the way to folly, combined with ignorance, forming the seat of doubt, they do not exist before Tathagata, for he is the best eye of men. (346)
+
+   6. 'If a man does not for ever dispel the sin as the wind (dispels) a mass of clouds, all the world will be enveloped in darkness, not even illustrious men will shine. (347)
+
+   7. 'Wise men are light-bringers, therefore, O wise man, I consider thee as such a one; we have come to him who beholds meditation, reveal Kappa to us in the assembly. (348)
+
+   8. 'Uplift quickly, O thou beautiful one, thy beautiful voice, like the swans drawing up (their necks) sing softly with a rich and well-modulated voice; we will all listen to thee attentively. (349)
+
+   9. 'Having earnestly called upon him who has completely left birth and death behind and shaken off (sin), I will make him proclaim the Dhamma, for ordinary people cannot do what they want, but the Tathagatas act with a purpose[1]. (350)
+
+[1. Pahinagatimaranam asesam
+      Niggayha dhonam vadessami dhammam,
+      Na kamakaro hi puthuggananam
+      Samkheyyakaro ka tathagatanam.]
+
+p. 59
+
+   10. 'This full explanation by thee, the perfectly wise, is accepted, this last clasping of the hands is well bent, O thou of high wisdom, knowing (Kappa's transmigration), do not delude us[1]. (351)
+
+   11. ' Having perfectly[2] comprehended the Dhamma of the venerable ones, do not delude (us), O thou of unsurpassed strength, knowing (everything); as one in the hot season pained by the heat (longs for) water, so I long for thy words; send a shower of learning. (352)
+
+   12. 'The rich religious life which Kappayana led, has not that been in vain (to him), has he been (completely) extinguished; or is he still with some elements of existence (left behind)? How he was liberated, that we want to hear.' (353)
+
+   13. Bhagavat: 'He cut off the desire for name and form in this world,'--so said Bhagavat,--'Kanha's (i.e. Mara's) stream, adhered to for a long time, he crossed completely birth and death,' so said Bhagavat, the best of the five (Brahmanas, pankavaggiya). (354)
+
+   14. Vangisa: 'Having heard thy word, O thou the best of the Isis, I am pleased; not in vain have I asked, the Brahmana did not deceive me. (355)
+
+   15. 'As he talked so he acted, he was a (true) disciple of Buddha, he cut asunder the outspread strong net of deceitful death. (356)
+
+   16. 'Kappiya (Kappayana) saw, O Bhagavat, the beginning
+
+[1. Sampannaveyyakaranam tava-y-idam
+      Samuggupannassa samuggahitam,
+      Ayam angali pakkhimo suppanamito,
+      Ma mohayi ganam anomapanna.
+
+2. Parovaran ti lokuttaralokiyavasena sundarasundaram dure santikam va. Commentator.]
+
+p. 60
+
+of attachment, Kappayana verily crossed the realm of death, which is very difficult to cross.' (357)
+
+Vangisasutta is ended.
+
+ 
+
+13. SAMMAPARIBBAGANIYASUTTA.
+
+ The right path for a Bhikkhu.   1. 'We will ask the Muni of great understanding, who has crossed, gone to the other shore, is blessed (parinibbuta), and of a firm mind: How does a Bhikkhu wander rightly in the world, after having gone out from his house and driven away desire?' (358)
+
+   2. 'He whose (ideas of) omens, meteors, dreams and signs are destroyed,'--so said Bhagavat,--'such a Bhikkhu who has abandoned the sinful omens, wanders rightly in the world. (359)
+
+   3. 'Let the Bhikkhu subdue his passion for human and divine pleasures, then after conquering existence and understanding the Dhamma, such a one will wander rightly in the world. (360)
+
+   4. 'Let the Bhikkhu, after casting behind him slander and anger, abandon avarice and be free from compliance and opposition, then such a one will wander rightly in the world. (361)
+
+   5. 'He who having left behind both what is agreeable and what is disagreeable, not seizing upon anything, is independent in every respect and liberated from bonds, such a one will wander rightly in the world. (362)
+
+   6. 'He does not see any essence in the Upadhis, having subdued his wish and passion for attachments,
+
+p. 61
+
+he is independent and not to be led by others, such a one will wander rightly in the world[1]. (363)
+
+   7. 'He who is not opposed (to any one) in word, thought or deed, who, after having understood the Dhamma perfectly, longs for the state of Nibbana, such a one will wander rightly in the world. (364)
+
+   8. 'He who thinking "he salutes me" is not elated, the Bhikkhu who, although abused, does not reflect (upon it, and) having received food from others does not get intoxicated (with pride), such a one will wander rightly in the world. (365)
+
+   9. 'The Bhikkhu who, after leaving behind covetousness and existence, is disgusted with cutting and binding (others), he who has overcome doubt, and is without pain, such a one will wander rightly in the world. (366)
+
+   10. 'And knowing what becomes him, the Bhikkhu will not harm any one in the world, understanding the Dhamma thoroughly, such a one will wander rightly in the world. (367)
+
+   11. 'He to whom there are no affections whatsoever, whose sins are extirpated from the root, he free from desire and not longing (for anything), such a one will wander rightly in the world. (368)
+
+   12. 'He whose passions have been destroyed, who is free from pride, who has overcome all the path of passion, is subdued, perfectly happy (parinibbuta), and of a firm mind, such a one will wander rightly in the world. (369)
+
+   13. 'The believer, possessed of knowledge, seeing
+
+[1. Na so upadhisu saram eti
+      Adanesu vineyya khandaragam
+      So anissito anannaneyyo
+      Samma so.]
+
+p. 62
+
+the way (leading to Nibbana), who is no partisan amongst the partisans (of the sixty-two philosophical views), wise after subduing covetousness, anger, such a one will wander rightly in the world. (370)
+
+   14. 'He who is pure and victorious, who has removed the veil (of the world), who is subdued in the Dhammas, has gone to the other shore, is without desire, and skilled in the knowledge of the cessation of the Samkharas, such a one will wander rightly in the world. (371)
+
+   15. 'He who has overcome time (kappatita) in the past and in the future, is of an exceedingly pure understanding, liberated from all the dwelling-places (of the mind), such a one will wander rightly in the world. (372)
+
+   16. 'Knowing the step (of the four truths), understanding the Dhamma, seeing clearly the abandonment of the passions, destroying all the elements of existence (upadhi), such a one will wander rightly in the world.' (373)
+
+   17. 'Certainly, O Bhagavat, it is so: whichever Bhikkhu lives in this way, subdued and having overcome all bonds, such a one will wander rightly in the world.' (374)
+
+Sammaparibbaganiyasutta is ended.
+
+ 
+
+14. DHAMMIKASUTTA.
+
+ Buddha shows Dhammika what the life of a Bhikkhu and what the life of a householder ought to be.   So it was heard by me:
+
+   At one time Bhagavat dwelt at Savatthi, in Getavana, in the park of Anathapindika. Then the follower (upasaka) Dhammika, together with five
+
+p. 63
+
+hundred followers, went to Bhagavat, and having gone to Bhagavat and saluted him, he sat down apart; sitting down apart the follower Dhammika addressed Bhagavat in stanzas:
+
+   1. 'I ask thee, O Gotama of great understanding, How is a Savaka (disciple) to act to be a good one? is it the one who goes from his house to the wilderness, or the followers with a house? (375)
+
+   2. 'For thou knowest the doings of this world and that of the gods, and the final end; there is nobody like thee seeing the subtle meaning (of things); they call thee the excellent Buddha. (376)
+
+   3. 'Knowing all knowledge thou hast revealed the Dhamma, having compassion on creatures; thou hast removed the veil (of the world), thou art all-seeing, thou shinest spotless in all the world. (377)
+
+   4. 'The king of elephants, Eravana by name, hearing that thou wert Gina (the Conqueror), came to thy presence, and having conversed with thee he went away delighted, after listening (to thee, and saying), "Very good!" (378)
+
+   5. 'Also king Vessavana Kuvera came to ask thee about the Dhamma; him, too, thou, O wise man, answeredst when asked, and he also after listening was delighted. (379)
+
+   6. 'All these disputatious Titthiyas and Agivikas and Niganthas do not any of them overcome thee in understanding, as a man standing (does not overcome) the one that is walking quickly. (380)
+
+   7. 'All these disputatious Brahmanas, and there are even some old Brahmanas, all are bound by thy opinion, and others also that are considered disputants. (381)
+
+   8. 'This subtle and pleasant Dhamma that has
+
+p. 64
+
+been well proclaimed by thee, O Bhagavat, and which we all long to hear, do thou, O thou best of Buddhas, speak to us when asked. (382)
+
+   9. 'Let all these Bhikkhus and also Upasakas that have sat down to listen, hear the Dhamma learnt (anubuddha) by the stainless (Buddha), as the gods (hear) the well-spoken (words) of Vasava.' (383)
+
+   10. Bhagavat: 'Listen to me, O Bhikkhus, I will teach you the Dhamma that destroys sin, do ye keep it, all of you; let him who looks for what is salutary, the thoughtful, cultivate the mode of life suitable for Pabbagitas. (384)
+
+   11. 'Let not the Bhikkhu walk about at a wrong time, let him go to the village for alms at the right time; for ties ensnare the one that goes at a wrong time, therefore Buddhas do not go at a wrong time. (385)
+
+   12. 'Form, sound, taste, smell, and touch which intoxicate creatures, having subdued the desire for (all) these things (dhammas), let him in due time go in for his breakfast. (386)
+
+   13. 'And let the Bhikkhu, after having obtained his food at the right time and returned, sit down alone and privately; reflecting within himself let him not turn his mind to outward things, (but be) self-collected. (387)
+
+   14. 'If he speak with a Savaka or with anybody else, or with a Bhikkhu, let him talk about the excellent Dhamma, (but let him) not (utter) slander, nor blaming words against others. (388)
+
+   15. 'For some utter language contradicting others[1]; those narrow-minded ones we do not praise. Ties
+
+[1. Vadam hi eke patiseniyanti = virugghanti yugghitukama hutva senaya patimukham gakkhanta viya honti. Commentator.]
+
+p. 65
+
+from here and there ensnare them, and they send their mind far away in that (dispute). (389)
+
+   16. 'Let a Savaka of him with the excellent understanding (Buddha), after hearing the Dhamma taught by Sugata, discriminately seek for food, a monastery, a bed and a chair, and water for taking away the dirt of his clothes. (390)
+
+   17. 'But without clinging to these things, to food, to bed and chair, to water for taking away the dirt of his clothes, let a Bhikkhu be like a waterdrop on a lotus. (391)
+
+   18. 'A householder's work I will also tell you, how a Savaka is to act to be a good one; for that complete Bhikkhu-dhamma cannot be carried out by one who is taken up by (worldly) occupations. (392)
+
+   19. 'Let him not kill, nor cause to be killed any living being, nor let him approve of others killing, after having refrained from hurting all creatures, both those that are strong and those that tremble in the world. (393)
+
+   20. 'Then let the Savaka abstain from (taking) anything in any place that has not been given (to him), knowing (it to belong to another), let him not cause any one to take, nor approve of those that take, let him avoid all (sort of) theft. (394)
+
+   21. ' Let the wise man avoid an unchaste life as a burning heap of coals; not being able to live a life of chastity, let him not transgress with another man's wife. (395)
+
+   22. 'Let no one speak falsely to another in the hall of justice or in the hall of the assembly, let him not cause (any one) to speak (falsely), nor approve of those that speak (falsely), let him avoid all (sort of) untruth. (396)
+
+p. 66
+
+   23. 'Let the householder who approves of this Dhamma, not give himself to intoxicating drinks; let him not cause others to drink, nor approve of those that drink, knowing it to end in madness. (397)
+
+   24. 'For through intoxication the stupid commit sins and make other people intoxicated; let him avoid this seat of sin, this madness, this folly, delightful to the stupid. (398)
+
+   25. 'Let him not kill any living being, let him not take what has not been given (to him), let him not speak falsely, and let him not drink intoxicating drinks, let him refrain from unchaste sexual intercourse, and let him not at night eat untimely food. (399)
+
+   26. 'Let him not wear wreaths nor use perfumes, let him lie on a couch spread on the earth:--this they call the eightfold abstinence (uposatha), proclaimed by Buddha, who has overcome pain. (400)
+
+   27. 'Then having with a believing mind kept abstinence (uposatha) on the fourteenth, fifteenth, and the eighth days of the half-month, and (having kept) the complete Patiharakapakkha[1] consisting of eight parts, (401)
+
+   28. 'And then in the morning, after having kept abstinence, let a wise man with a believing mind, gladdening the assembly of Bhikkhus with food and drink, make distributions according to his ability. (402)
+
+   29. 'Let him dutifully maintain his parents, and practise an honourable trade; the householder who observes this strenuously goes to the gods by name, Sayampabhas.' (403)
+
+Dhammikasutta is ended.
+
+ Kulavagga is ended.
+
+[1. Compare T. W. Rhys Davids, Buddhism, p. 141.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 67
+
+ 
+
+III. MAHAVAGGA.
+
+ 
+
+1. PABBAGGASUTTA.
+
+ King Bimbisara feeling interested in Buddha tries to tempt him with wealth, but is mildly rebuked by Buddha.   1. I will praise an ascetic life such as the clearly-seeing (Buddha) led, such as he thinking (over it) approved of as an ascetic life. (404)
+
+   2. ' This house-life is pain, the seat of impurity,' and 'an ascetic life is an open-air life,' so considering he embraced an ascetic life. (405)
+
+   3. Leading an ascetic life, he avoided with his body sinful deeds, and having (also) abandoned sin in words, he cleansed his life. (406)
+
+   4. Buddha went to Ragagaha, he entered the Giribbaga in Magadha for alms with a profusion of excellent signs. (407)
+
+   5. Bimbisara standing in his palace saw him, and seeing him endowed with these signs, he spoke these words: (408)
+
+   6. 'Attend ye to this man, he is handsome, great, clean, he is both endowed with good conduct, and he does not look before him further than a yuga (the distance of a plough). (409)
+
+   7. 'With downcast eyes, thoughtful, this one is not like those of low caste; let the king's messengers run off, (and ask): "Where is the Bhikkhu going?"' (410)
+
+   8. The king's messengers followed after (him, and
+
+p. 68
+
+said): 'Where is the Bhikkhu going, where will he reside? (411)
+
+   9. 'Going begging from house to house, watching the door (of the senses), well restrained, he quickly filled his bowl, conscious, thoughtful. (412)
+
+   10. 'Wandering about in search of alms, having gone out of town, the Muni repaired to (the mountain) Pandava; it must be there he lives.' (413)
+
+   11. Seeing that he had entered his dwelling, the messengers then sat down, and one messenger having returned announced it to the king. (414)
+
+   12. 'This Bhikkhu, O great king, is sitting on the east side of Pandava, like a tiger, like a bull, like a lion in a mountain cave.' (415)
+
+   13. Having heard the messenger's words, the Khattiya in a fine chariot hastening went out to the Pandava mountain. (416)
+
+   14. Having gone as far as the ground was practicable for a chariot, the Khattiya, after alighting from the chariot, and approaching on foot, having come up (to him), seated himself. (417)
+
+   15. Having sat down the king then exchanged the usual ceremonious greetings with him, and after the complimentary talk he spoke these words: (418)
+
+   16. 'Thou art both young and delicate, a lad in his first youth, possessed of a fine complexion, like a high-born Khattiya. (419)
+
+   17. 'I will ornament the army-house, and at the head of the assembly of chiefs (naga) give (thee) wealth; enjoy it and tell me thy birth, when asked.' (420)
+
+   18. Buddha: 'Just beside Himavanta, O king, there lives a people endowed with the power of wealth, the inhabitants of Kosala. (421)
+
+p. 69
+
+   19. 'They are Adikkas by family, Sakiyas by birth; from that family I have wandered out, not longing for sensual pleasures. (422)
+
+   20. 'Seeing misery in sensual pleasures, and considering the forsaking of the world as happiness, I will go and exert myself; in this my mind delights.' (423)
+
+Pabbaggasutta is ended.
+
+ 
+
+2. PADHANASUTTA.
+
+ Mara tries to tempt Buddha, but disappointed is obliged to withdraw. Comp. .   1. To me, whose mind was intent upon exertion near the river Nerangara, having exerted myself, and given myself to meditation for the sake of acquiring Nibbana (yogakkhema), (424)
+
+   2. Came Namuki speaking words full of compassion: 'Thou art lean, ill-favoured, death is in thy neighbourhood. (425)
+
+   3. 'A thousandth part of thee (is the property) of death, (only) one part (belongs to) life; living life, O thou venerable one, is better; living thou wilt be able to do good works[1]. (426)
+
+   4. 'When thou livest a religious life, and feedest the sacrificial fire, manifold good works are woven to thee; what dost thou want with exertion? (427)
+
+   5. 'Difficult is the way of exertion, difficult to pass, difficult to enter upon;' saying these verses Mara stood near Buddha. (428)
+
+[1. Sahassabhago maranassa,
+      Ekamso tava givitam,
+      Givam bho givitam seyyo,
+      Givam punnani kahasi.]
+
+p. 70
+
+   6. To Mara thus speaking Bhagavat said this: 'O thou friend of the indolent, thou wicked one, for what purpose hast thou come here? (429)
+
+   7. 'Even the least good work is of no use to me; and what good works are required, Mara ought to tell. (430)
+
+   8. 'I have faith and power, and understanding is found in me; while thus exerting myself, why do you ask me to live[1]? (431)
+
+   9. 'This (burning) wind will dry up even the currents of the rivers; should it not by degrees dry up my blood, while I am exerting myself? (432)
+
+   10. 'While the blood is drying up, the bile and the phlegm are dried up; while the flesh is wasting away, the mind gets more tranquil, and my attention, understanding, and meditation get more steadfast[2]. (433)
+
+   11. 'While I am living thus, after having felt the extreme sensations, my mind does not look for sensual pleasures; behold a being's purity. (434)
+
+   12. 'Lust thy first army is called, discontent thy second, thy third is called hunger and thirst, thy fourth desire. (435)
+
+   13. 'Thy fifth is called sloth and drowsiness, thy sixth cowardice, thy seventh doubt, thy eighth hypocrisy and stupor, (436)
+
+   14. 'Gain, fame, honour, and what celebrity has
+
+[1. Evam mam pahitattam pi
+      Kim givam anupukkhasi.
+
+2. Lohite sussamanamhi
+      Pittam semhan ka sussati,
+      Mamsesu khiyamanesu
+      Bhiyyo kittam pasidati
+      Bhiyyo sati ka panna ka
+      Samadhi mama titthati.]
+
+p. 71
+
+been falsely obtained; and he who exalts himself and despises others[1]. (437)
+
+   15. 'This, O Namuki, is thine, the black one's, fighting army; none but a hero conquers it, and after conquering it obtains joy. (438)
+
+   16. 'Woe upon life in this world! death in battle is better for me than that I should live defeated. (439)
+
+   17. 'Plunged into this world some Samanas and Bramanas are not seen, and they do not know the way in which the virtuous walk. (440)
+
+   18. 'Seeing on all sides an army arrayed, and Mara on his elephant, I am going out to do battle, that he may not drive me away from my place. (441)
+
+   19. 'This army of thine, which the world of men and gods cannot conquer, I will crush with understanding as (one crushes) an unbaked earthen pot with a stone[2]. (442)
+
+   20. 'Having made my thought subject to me and my attention firm, I shall wander about from kingdom to kingdom, training disciples extensively. (443)
+
+   21. 'They (will be) zealous and energetic, executing my orders, (the orders) of one free from lust, and they will go (to the place) where, having gone, they will not mourn.' (444)
+
+   22. Mara: 'For seven years I followed Bhagavat step by step; I found no fault in the perfectly enlightened, thoughtful (Buddha). (445)
+
+[1. Yo k' attanam samukkamse
+      Pare ka avaganati.
+
+2. Yam te tam na-ppasahati
+      Senam loko sadevako
+      Tam te pannaya gakkhami[*]
+      Amam pattam va amhana.
+
+*. Instead of gakkhami I read bhangami. Ba has vekkhapi, Bi vegghami.]
+
+p. 72
+
+   23. 'The crow hovered round the rock that looked like (a lump of) fat: "Do we here find something soft, is it something sweet?" (446)
+
+   24. 'Having obtained nothing sweet there, the crow went away from that spot. Thus like the crow approaching the rock, being disgusted, we shall go away from Gotama[1].' (447)
+
+   25. While overcome with sorrow the string of his lute slipped down; then that evil-minded Yakkha disappeared there. (448)
+
+Padhanasutta is ended.
+
+ 
+
+3. SUBHASITASUTTA.
+
+ On well-spoken language.   So it was heard by me:
+
+   At one time Bhagavat dwelt at Savatthi in Getavana. Bhagavat said this: 'O Bhikkhus, the speech that is provided with four requisites is well-spoken, not ill-spoken, both faultless and blameless to the wise.'
+
+   'Which four?'
+
+   'O Bhikkhus, the Bhikkhu speaks well-spoken (language), not ill-spoken; he speaks what is right (dhamma), not what is unrighteous (adhamma); he speaks what is pleasing, not what is unpleasing; he speaks what is true, not what is false. O Bhikkhus, the speech that is provided with these four requisites, is well-spoken, not ill-spoken, both faultless
+
+[1. Kako va selam asagga[*].
+      Nibbiggapema Gotamam[+].
+
+*. Cb Ck avagga, Ba assagga, Bi assagga.
+
++. Instead of Gotamam I read Gotama.]
+
+p. 73
+
+and blameless to the wise.' This said Bhagavat. When Sugata had said this, then the Master spoke the following:
+
+   1. 'Well-spoken language the just call the principal (thing); let one speak what is right (dhamma), not what is unrighteous (adhamma), that is the second; let one speak what is pleasing, not what is unpleasing, that is the third; let one speak what is true, not what is false, that is the fourth.' (449)
+
+   Then the venerable Vangisa, rising from his seat, throwing his robe over one shoulder and bending his joined hands towards Bhagavat, said this: 'It occurs to me, O Sugata!'
+
+   'Let it occur to thee, O Vangisa!' said Bhagavat.
+
+   Then the venerable Vangisa, standing before Bhagavat, praised him with appropriate stanzas:
+
+   2. 'Let one say such words by which he does not pain himself, nor hurt others; such words are truly well-spoken. (450)
+
+   3. 'Let one speak pleasing words which are received joyfully (by all), and which (saying) he, without committing sins, speaks what is pleasing to others. (451)
+
+   4. 'Truth verily is immortal speech, this is a true saying; in what is true, in what is good, and in what is right, the just stand firm, so they say. (452)
+
+   5. 'The words which Buddha speaks, which are sure to bring about extinction and put an end to pain, such (words) are truly the best.' (453)
+
+Subhasitasutta is ended.
+
+p. 74
+
+ 
+
+4. SUNDARIKABHARADVAGASUTTA.
+
+ Buddha shows to Sundarikabharadvaga on whom to bestow oblations, and the Bramana is finally converted.   So it was heard by me:
+
+   At one time Bhagavat dwelt in Kosala on the bank of the river Sundarika. And during that time the Bramana Sundarikabharadvaga made offerings to the fire and worshipped the fire. Then the Bramana Sundarikabharadvaga, having made offerings to the fire and worshipped the fire, and having risen from his seat, looked about him on all sides towards the four quarters of the globe, saying: 'Who is to enjoy the rest of this oblation?' The Bramana Sundarikabharadvaga saw Bhagavat sitting not far off at the root of a tree, wrapped up head and body; and seeing him he, after taking the rest of the oblation with his left hand and the waterpot with his right hand, went up to Bhagavat. Then Bhagavat, on hearing the footsteps of Sundarikabharadvaga, the Bramana, uncovered his head. Then the Brahmana Sundarikabharadvaga thought: 'This man is shaved, this man is a shaveling,' and he wished to return again from there. Then this came to the mind of Sundarikabharadvaga, the Bramana: 'Some Bramanas also here are shaved, I think I shall go up and ask him about his descent.' Then the Brahmana Sundarikabharadvaga went up to Bhagavat, and having gone up he said this: 'Of what family art thou?'
+
+   Then Bhagavat answered Sundarikabharadvaga, the Bramana, in stanzas:
+
+   1. 'No Bramana am I, nor a king's son, nor any
+
+p. 75
+
+Vessa; having thoroughly observed the class of common people, I wander about the world reflectingly, possessing nothing. (454)
+
+   2. 'Dressed in a sanghati[1] and houseless I wander about, with my hair cut off, calm, not intermixing with people in this world. Thou askest me an unseasonable question about (my) family, O Brahmana!' (455)
+
+   3. Sundarikabharadvaga: 'Sir, Bramanas together with Bramanas ask truly, Art thou a Brahmana?'
+
+   Bhagavat: 'If thou sayest, I am a Bramana, and callest me no Bramana, then I ask thee about the Savitti that consists of three padas and twenty-four syllables[2].' (456)
+
+   4. Sundarikabharadvaga: 'For what (reason) did the Isis, men, Khattiyas, Bramanas make offerings to the gods abundantly in this world?'
+
+   Bhagavat: 'He who, perfect and accomplished at the time of offering, obtains the ear of one or the other (god), he will succeed, so I say.' (457)
+
+   5. 'Surely his offering will bear fruit,'--so said the Bramana,--'because we saw such an accomplished man; for by not seeing such as you, somebody else will enjoy the oblation.' (458)
+
+   6. Bhagavat: 'Therefore, O Bramana, as you have come here to ask for something, ask; perhaps thou mightest here find one that is calm, without anger, free from pain, free from desire, one with a good understanding.' (459)
+
+[1. See Rhys Davids, Buddhism, p. 166.
+
+2. Tam Savittim pukkhami
+      Tipadam katuvisatakkharam.
+            (Rig-veda III, 62, 10.)]
+
+p. 76
+
+   7. Sundarikabharadvaga: 'I delight in offering, O Gotama, I desire to make an offering, but I do not understand it; do thou instruct me, tell me in what case the offering succeeds.' (460)
+
+   8. Bhagavat: 'Therefore, O Bramana, lend me thy ear, I will teach thee the Dhamma. (461)
+
+   9. 'Do not ask about descent, but ask about conduct; from wood, it is true, fire is born; (likewise) a firm Muni, although belonging to a low family, may become noble, when restrained (from sinning) by humility. (462)
+
+   10. 'He who is subdued by truth, endowed with temperance, accomplished, leading a religious life, on such a one in due time people should bestow oblations; let the Bramana who has good works in view, offer. (463)
+
+   11. 'Those who, after leaving sensual pleasures, wander about houseless, well restrained, being like a straight shuttle, on such in due time people should bestow oblations; let the Bramana who has good works in view, offer. (464)
+
+   12. 'Those whose passions are gone, whose senses are well composed, who are liberated like the moon out of the grasp of Rahu, on such in due time people should bestow oblations; let the Bramana who has good works in view, offer. (465)
+
+   13. 'Those who wander about in the world without clinging (to anything), always thoughtful, having left selfishness, on such in due time people should bestow oblations; let the Bramana who has good works in view, offer. (466)
+
+   14. 'He who, after leaving sensual pleasures, wanders about victorious, he who knows the end of birth and death, who is perfectly happy (parinibbuta),
+
+p. 77
+
+calm like a deep water, Tathagata deserves the oblation. (467)
+
+   15. 'Just with the just and far from the unjust[1], Tathagata is possessed of infinite understanding; undefiled both in this world and in the other, Tathagata deserves the oblation. (468)
+
+   16. 'He in whom there lives no deceit, no arrogance, he who is free from cupidity, free from selfishness, free from desire, who has banished anger, who is calm, the Bramana who has removed the taint of grief, Tathagata deserves the oblation. (469)
+
+   17. 'He who has banished (every) resting-place of the mind, he for whom there is no grasping, he who covets nothing either in this world or in the other, Tathagata deserves the oblation[2]. (470)
+
+   18. 'He who is composed, who has crossed over the stream (of existence) and knows the Dhamma by (taking) the highest view (of it), he whose passions are destroyed, who is wearing the last body, Tathagata deserves the oblation. (471)
+
+   19. 'He whose passion for existence and whose harsh talk are destroyed, are perished, (and therefore) exist not, he the accomplished and in every respect liberated Tathagata deserves the oblation. (472)
+
+   20. 'He who has shaken off all ties, for whom there are no ties, who amongst arrogant beings is free from arrogance, having penetrated pain together with its domain and subject, Tathagata deserves the oblation. (473)
+
+   21. 'He who, without giving himself up to desire, sees seclusion (i.e. Nibbana), who has overcome the view that is to be taught by others, to whom there
+
+[1. Samo samehi visamehi dure.
+
+2. Comp. .]
+
+p. 78
+
+are no objects of sense whatever, Tathagata deserves the oblation[1]. (474)
+
+   22. 'He to whom all Dhammas of every description, after he has penetrated them, are destroyed, are perished, (and therefore) exist not, he who is calm, liberated in the destruction of attachment (i.e. Nibbana), Tathagata deserves the oblation. (475)
+
+   23. 'He who sees the destruction of bond and birth, who has totally evaded the path of passion, (who is) pure, faultless, spotless, undepraved, Tathagata deserves the oblation. (476)
+
+   24. 'He who does not measure himself by himself, who is composed, upright, firm, without desire, free from harshness (akhila), free from doubt, Tathagata deserves the oblation. (477)
+
+   25. 'He to whom there is no cause of folly, who has a supernatural insight in all Dhammas, who wears the last body, and who has acquired perfect enlightenment, the highest, the blessed, (for him) thus a Yakkha's purification (takes place)[2].' (478)
+
+   26. Sundarikabharadvaga: 'May my offering be a true offering, because I met with such a one out of the accomplished; Brahman is my witness, may Bhagavat accept me, may Bhagavat enjoy my oblation.' (479)
+
+   27. Bhagavat: 'What is obtained by stanzas is not to be enjoyed by me, this is not the custom of the clearly-seeing, O Bramana; Buddhas reject what is obtained by stanzas. While the Dhamma
+
+[1. Asam anissaya vivekadassi
+      Paravediyam[*] ditthim upativatto
+      Arammana yassa na santi keki, &c.
+
+2. Comp. .
+
+*. Paravediyan ti parehi napetabbam. Commentator.]
+
+p. 79
+
+exists, O Bramana, this is the practice (of the Buddhas). (480)
+
+   28. 'With other food and drink must thou serve one that is perfect, a great Isi, whose passions are destroyed, and whose misbehaviour has ceased, for this is a field for one who looks for good works[1].' (481)
+
+   29. Sundarikabharadvaga: 'Good, O Bhagavat, then I should like to know, who will enjoy a gift from one like me, and whom I shall seek at the time of sacrifice (as one worthy of offerings) after having accepted thy doctrine.' (482)
+
+   30. Bhagavat: 'Whosoever has no quarrels, whose mind is untroubled, and who has freed himself from lusts, whose sloth is driven away, (483)
+
+   31. 'Whosoever conquers his sins, knows birth and death, the Muni who is endowed with wisdom[2], such a one who has resorted to offering, (484)
+
+   32. 'Him you should worship and honour with food and drink; so the gifts will prosper.' (485)
+
+   33. Sundarikabharadvaga: 'Thou Buddha deservest the oblation, (thou art) the best field for good works, the object of offering to all the world; what is given to thee will bear great fruit.' (486)
+
+   Then the Bramana Sundarikabharadvaga said this to Bhagavat: 'It is excellent, O venerable Gotama! It is excellent, O venerable Gotama! As one raises what has been overthrown, or reveals what has been hidden, or tells the way to him who has gone astray, or holds out an oil lamp in the dark that those who have eyes may see the objects, even so by the venerable Gotama in manifold ways the Dhamma has been illustrated; I take refuge in
+
+[1. Comp. .
+
+2. Moneyyasampannam = pannasampannam. Commentator.]
+
+p. 80
+
+the venerable Gotama, in the Dhamma, and in the Assembly of Bhikkhus; I wish to receive the robe and the orders from the venerable Gotama.'
+
+   The Bramana Sundarikabharadvaga received the pabbagga from Bhagavat, and he received also the upasampada; and the venerable Bharadvaga, having lately received the upasampada, leading a solitary, retired, strenuous, ardent, energetic life, lived after having in a short time in this existence by his own understanding ascertained and possessed himself of that highest perfection of a religious life for the sake of which men of good family rightly wander away from their houses to a houseless state. 'Birth had been destroyed, a religious life had been led, what was to be done had been done, there was nothing else (to be done) for this existence,' so he perceived, and the venerable Bharadvaga became one of the arahats.
+
+Sundarikabharadvagasutta is ended.
+
+ 
+
+5. MAGHASUTTA.
+
+ Buddha on being asked tells Magha of those worthy of offerings and the blessing of offering.   So it was heard by me:
+
+   At one time Bhagavat dwelt at Ragagaha, in the mountain (called) the Vulture's Peak (Gigghakuta).
+
+   Then the young man Magha went to Bhagavat, and having gone to him he talked pleasantly with him, and after having had some pleasant, remarkable conversation with him he sat down apart; sitting down apart the young man Magha spoke this to Bhagavat:
+
+p. 81
+
+   'O venerable Gotama, I am a liberal giver, bountiful, suitable to beg of; justly I seek for riches, and having sought for riches justly, I give out of the justly obtained and justly acquired riches to one, to two, to three, to four, to five, to six, to seven, to eight, to nine, to ten, to twenty, to thirty, to forty, to fifty, to a hundred, I give still more. (I should like to know), O venerable Gotama, whether I, while so giving, so offering, produce much good.'
+
+   'Certainly, O young man, dost thou in so offering produce much good; he, O young man, who is a liberal giver, bountiful, suitable to beg of, and who justly seeks for riches, and having sought for riches justly, gives out of his justly obtained and justly acquired riches to one, to two, to three, to four, to five, to six, to seven, to eight, to nine, to ten, to twenty, to thirty, to forty, to fifty, to a hundred, and gives still more, produces much good.'
+
+   Then the young man Magha addressed Bhagavat in stanzas:
+
+   1. 'I ask the venerable Gotama, the bountiful,'--so said the young man Magha,--'wearing the yellow robe, wandering about houseless:' 'He who is a householder, suitable to beg of, a donor, who, desirous of good, offers having what is good in view, and giving to others in this world food and drink,--where (i.e. on whom bestowed) will the oblation of such an offerer prosper?' (487)
+
+   2. 'He who is a householder, suitable to beg of, a donor, O Magha,'--so said Bhagavat,--'who, desirous of good, offers having what is good in view, and giving to others in this world food and drink, such a one will prosper with those worthy of offerings.' (488)
+
+p. 82
+
+   3. 'He who is a householder, suitable to beg of, a donor,'--so said the young man,--'who, desirous of good, offers having what is good in view, and giving to others in this world food and drink,--tell me (I being such a one), O Bhagavat, of those worthy of offerings.' (489)
+
+   4. Bhagavat: 'Those indeed who wander about in the world without clinging to anything and without possessing anything, perfect, self-restrained, on such in due time people should bestow oblations; let the Brahmana who has good (works) in view, offer. (490)
+
+   5. 'Those who have cut through all bonds and fetters, who are subdued, liberated, free from pain, and free from desire, on such in due time people should bestow oblations; let the Bramana who has good (works) in view, offer. (491)
+
+   6. 'Those who are released from all bonds, who are subdued, liberated, free from pain, and free from desire on such in due time people should bestow oblations; let the Bramana who has good (works) in view, offer. (492)
+
+   7. 'Those who, having forsaken both passion and hatred and folly, have destroyed their desires and lead a religious life, on such in due time people should bestow oblations; let the Brahmana who has good (works) in view, offer[1]. (493)
+
+   8. 'Those in whom there lives no deceit, no arrogance, who are free from cupidity, free from selfishness, free from desire, on such in due time people should bestew oblations; let the Bramana who has good (works) in view, offer. (494)
+
+   9. 'Those indeed who without being lost in desire,
+
+[1. Comp. .]
+
+p. 83
+
+after crossing the stream (of existence), wander about free from selfishness, on such in due time people should bestow oblations; let the Bramana who has good (works) in view, offer. (495)
+
+   10. 'Those in whom there is no desire for anything in the world, nor for existence after existence here or in the other world, on such in due time people should bestow oblations; let the Bramana who has good (works) in view, offer. (496)
+
+   11. 'Those who, after leaving sensual pleasures, wander about houseless, well restrained, being like a straight shuttle, on such in due time people should bestow oblations; let the Bramana who has good (works) in view, offer. (497)
+
+   12. 'Those whose passions are gone, whose senses are well composed, who are liberated like the moon out of the grasp of Rahu, on such in due time people should bestow oblations; let the Brahmana who has good (works) in view, offer. (498)
+
+   13. 'Those who are calm, whose passions are gone, who are without anger, and for whom there is no transmigration after having left here, on such in due time people should bestow oblations; let the Brahmana who has good (works) in view, offer. (499)
+
+   14. 'Those who, after leaving birth and death altogether, have conquered all doubt, on such in due time people should bestow oblations; let the Bramana who has good (works) in view, offer. (500)
+
+   15. 'Those who wander about in the world with themselves for a light, not possessed of anything, in every respect liberated, on such in due time people should bestow oblations; let the Bramana who has good (works) in view, offer. (501)
+
+   16. 'Those who in this world rightly understand
+
+p. 84
+
+this: "This is the last (birth), there is no re-birth," on such in due time people should bestow oblations; let the Bramana who has good (works) in view, offer. (502)
+
+   17. 'He who is accomplished, and delights in meditation, thoughtful, possessed of thorough enlightenment, a refuge for many, on such a one in due time people should bestow oblations; let the Brahmana who has good (works) in view, offer.' (503)
+
+   18. 'Certainly my question was not in vain, Bhagavat has told me of those worthy of offerings; for thou truly knowest this in this world, as surely to thee this Dhamma is known. (504)
+
+   19. 'He who is a householder, suitable to beg of, a donor,'--so said the young man Magha,--'who, desirous of good, offers having what is good in view, and giving to others in this world food and drink,--tell me (I being such a one), O Bhagavat, of the blessing of offering.' (505)
+
+   20. 'Offer, O Magha,'--so said Bhagavat,--'and while offering make calm thy mind in all things; the object of the one that offers is the oblation, standing fast in this he leaves hatred behind. (506)
+
+   21. 'Such a one whose passion is gone will repress hatred, cultivating an unbounded friendly mind; continually strenuous night and day he will spread infinite goodness through all regions.' (507)
+
+   22. Magha: 'Who prospers? who is liberated and who is bound? In which way can one by himself go to Brahmaloka? Tell this to me who does not know, O Muni, when asked. Bhagavat is indeed my witness that Brahman is seen by me to-day, for thou art to us equal to Brahman, this is the truth; how can one attain Brahmaloka, O thou glorious one?' (508)
+
+p. 85
+
+   23. 'He who offers the threefold blessing of oblation, O Magha,'--so said Bhagavat,--'such a one will prosper with those worthy of offerings; so, having offered properly, he who is suitable to beg of attains Brahmaloka, so I say.' (509)
+
+   This having been said, Magha the young man spoke as follows to Bhagavat: 'Excellent, O venerable Gotama! Excellent, O venerable Gotama! As one raises what has been overthrown, or reveals what has been hidden, or tells the way to him who has gone astray, or holds out an oil lamp in the dark that those who have eyes may see the objects, even so by the venerable Gotama in manifold ways the Dhamma has been illustrated; I take refuge in the venerable Gotama and in the Dhamma and in the Assembly of Bhikkhus. Let the venerable Gotama accept me as an upasaka (a follower, me), who henceforth for all my life have taken refuge (in him).'
+
+Maghasutta is ended.
+
+ 
+
+6. SABHIYASUTTA.
+
+ Sabhiya, the Paribbagaka, goes to the six famous teachers of his time to have his questions answered, but not having his doubts solved, he repairs to Gotama and asks him how one is to behave to become a Bramana, a Samana, a Nahataka, a Khettagina, a Kusala, a Pandita, a Muni, a Vedagu, an Anuvidita, a Dhira, an Aganiya, a Sottiya, an Ariya, a Karanavat, a Paribbagaka. Bhagavat answers his questions, and Sabhiya finally receives the robe and the orders from Buddha.   So it was heard by me:
+
+   At one time Bhagavat dwelt at Ragagaha, in Veluvana, in Kalandakanivapa. And at that time questions were recited to Sabhiya, the Paribbagaka
+
+p. 86
+
+(wandering mendicant), by an old benevolent deity: 'He who, O Sabhiya, be it a Samana or a Bramana, explains these questions to thee when asked, near him thou shouldst live a religious life.'
+
+   Then Sabhiya, the Paribbagaka, having learnt the questions from that deity, went to whatever Samanas and Bramanas there were that had an assembly (of Bhikkhus), a crowd (of followers), and were well-known teachers, famous leaders, considered excellent by the multitude, as Purana-Kassapa, Makkhali-Gosala, Agita-Kesakambali, Pakudha-Kakkayana, Sangaya-Belatthiputta, and Nigantha-Nataputta. Those he went to, and after going to them, he asked the questions. They, being asked the questions by Sabhiya, the Paribbagaka, did not succeed (in answering them), and not succeeding, they showed wrath and hatred and discontent, and they also in return put questions to Sabhiya, the Paribbagaka.
+
+   Then this came to the mind of Sabhiya, the Paribbagaka: 'Whatever Samanas and Bramanas there are that have an assembly (of Bhikkhus), a crowd (of followers), and are well-known teachers, famous leaders, considered excellent by the multitude, as Purana-Kassapa, Makkhali-Gosala, Agita-Kesakambali, Pakudha-Kakkayana, Sangaya-Belatthiputta, and Nigantha-Nataputta, they, being asked questions by me, did not succeed (in answering them), and not succeeding they showed wrath and hatred and discontent, and they also in return put questions to me in this matter; surely I think I shall go back to what I have left, and enjoy sensual pleasures.
+
+   Then this came to the mind of Sabhiya, the Paribbagaka: 'This Samana Gotama has both an
+
+p. 87
+
+assembly (of Bhikkhus) and a crowd (of followers), and is a well-known teacher, a famous leader, considered excellent by the multitude, surely I think I shall go to Samana Gotama and ask these questions.' Then this came to the mind of Sabhiya, the Paribbagaka: 'Whatever Samanas and Brahmanas there are that are decayed, old, aged, advanced in years, having reached old age, experienced elders, long ordained, having assemblies (of Bhikkhus), crowds (of followers), being teachers well-known, famous leaders, considered excellent by the multitude, as Purana-Kassapa, Makkhali-Gosala, Agita-Kesakambali, Pakudha-Kakkayana, Sangaya-Belatthiputta, and Nigantha-Nataputta, they, being asked questions by me, did not succeed (in answering them), and not succeeding they showed wrath and hatred and discontent, and they also in return put questions to me in this matter; (I should like to know) whether Samana Gotama being asked these questions will be able to explain them to me, for Samana Gotama is both young by birth and new in ascetic life.'
+
+   Then this came to the mind of Sabhiya, the Paribbagaka: 'Samana Gotama is not to be slighted because he is young; even if the Samana is young, yet he is mighty and powerful; surely I think I shall go to Samana Gotama and ask these questions.' Then Sabhiya, the Paribbagaka, went on a journey to Ragagaha, and wandering on his journey in regular order he came to Ragagaha, Veluvana, Kalandakanivapa, to Bhagavat, and having come to Bhagavat he talked pleasantly with him, and after having had some pleasant and remarkable conversation with him he sat down apart; sitting down apart
+
+p. 88
+
+Sabhiya, the Paribbagaka, spoke to Bhagavat in stanzas:
+
+   1. 'Anxious and doubtful I have come,'--so said Sabhiya,--'longing to ask questions. Do thou put an end to these (doubts when) asked these questions by me, in regular order, and rightly explain them to me.' (510)
+
+   2. 'Thou hast come from afar, O Sabhiya,'--so said Bhagavat,--'longing to ask questions; I shall put an end to those (doubts when) asked those questions by thee, in regular order, and rightly I shall explain them to thee. (511)
+
+   3. 'Ask me, O Sabhiya, a question; whatsoever thou wishest in thy mind that question I (will explain, and) put an end to (thy doubt).' (512)
+
+   Then this came to the mind of Sabhiya, the Paribbagaka: 'It is marvellous, it is wonderful indeed, the reception which I did not get from other Samanas and Brahmanas has been given me by Gotama,' so saying he glad, rejoicing, delighted, and highly elated asked Bhagavat a question:
+
+   4. 'What should a man (necessarily) have obtained that people may call him a Bhikkhu?'--so said Sabhiya,--'how may they call him compassionate, and how subdued? how can he be called enlightened (buddha)? Asked (about this) do thou, Bhagavat, explain it to me.' (513)
+
+   5. 'He who by the path he has himself made, O Sabhiya,'--so said Bhagavat,--'has attained to perfect happiness, who has conquered doubt, who lives after having left behind both gain and goods, who has destroyed re-birth, he is a Bhikkhu. (514)
+
+   6. 'Always resigned and attentive, he will not hurt any one in all the world, the Samana who has
+
+p. 89
+
+crossed the stream (of existence, and is) untroubled; for whom there are no desires (ussada), he is compassionate. (515)
+
+   7. 'He whose senses are trained internally and externally in all the world, he who after penetrating this and the other world longs for death, being trained, he is subdued. (516)
+
+   8. 'Whosoever, after having considered all times (kappa), the revolution (samsara), both the vanishing and re-appearance (of beings), is free from defilement, free from sin, is pure, and has obtained destruction of birth, him they call enlightened (buddha).' (517)
+
+   Then Sabhiya, the Paribbagaka, having approved of and rejoiced at the words of Bhagavat, glad, rejoicing, delighted, highly elated, asked Bhagavat another question:
+
+   9. 'What should a man (necessarily) have obtained that people may call him a Bramana?'--so said Sabhiya,--'and how (may they call him) a Samana? and how a Nahataka? how can he be called a Naga? Asked (about this) do thou Bhagavat explain it to me.' (518)
+
+   10. 'He who, after removing all sins, O Sabhiya,'--so said Bhagavat,--'is immaculate, well composed, firm-minded, perfect after crossing the Samsara, such an independent one is called a Bramana. (519)
+
+   11. 'He who is calm, having left behind good and evil, free from defilement, having understood this and the other world, and conquered birth and death, such a one is called a Samana by being so[1].' (520)
+
+   12. 'Whosoever, after having washed away all sins internally and externally in all the world, does
+
+[1. Samano tadi pavukkate tathatta.]
+
+p. 90
+
+not enter time (kappa) amongst gods and men who are subject to time, him they call a Nahataka (cleansed)[1]. (521)
+
+   13. 'He who does not commit any crime in the world, who, after abandoning all bonds and fetters, clings to nothing, being liberated, such a one is called a Naga (sinless) by being so[2].' (522)
+
+   Then Sabhiya, the Paribbagaka, having approved of and rejoiced at the words of Bhagavat, glad, rejoicing, delighted, highly elated, further asked Bhagavat a question:
+
+   14. 'Whom do the Buddhas call a Khettagina?'--so said Sabhiya,--'how (can they call any one) a Kusala? and how a Pandita? how can he be called a Muni? Asked (about this) do thou Bhagavat explain it to me.' (523)
+
+   15. 'He who, after examining all regions, O Sabhiya,'--so said Bhagavat,--'the divine and the human, and Brahman's region, is delivered from the radical bond of all regions, such a one is called a Khettagina (he who has conquered the regions) by being so. (524)
+
+   16. 'He who, after examining all treasures, the divine and the human, and Brahman's treasure, is delivered from the radical bond of all treasures, such a one is called a Kusala (happy) by being so. (525)
+
+   17. 'He who, after examining both kinds of senses, internally and externally, is endowed with a
+
+[1. Devamanussesu kappiyesu
+      Kappan n' eti tam ahu nahatako.
+
+2. Agum na karoti kinki loke
+      Sabbasamyoge visagga bandhanani
+      Sabbattha na saggati vimutto
+      Nago tadi pavukkate tathatta.
+ But compare , , &c.]
+
+p. 91
+
+clear understanding and has conquered evil and good (kanhasukka), such a one is called a Pandita (wise) by being so. (526)
+
+   18. 'He who, having understood the Dhamma of the just and the unjust, internally and externally, in all the world, is to be worshipped by gods and men, he, after breaking through the net of ties, is called a Muni (sage).' (527)
+
+   Then Sabhiya, the Paribbagaka, having approved of and rejoiced at the words of Bhagavat, glad, rejoicing, delighted, highly elated, further asked Bhagavat a question:
+
+   19. 'What should one (necessarily) have obtained that people may call him Vedagu?'--so said Sabhiya,--'and how (may they call him) Anuvidita? and how Viriyavat? How does one become Aganiya? Asked (about this) do thou, O Bhagavat, explain it to me.' (528)
+
+   20. 'He who, having conquered all sensations, O Sabhiya,'--so said Bhagavat,--'which are (known) to Samanas and to Bramanas, is free from passion for all sensations, he is Vedagu (having passed sensation) after conquering all sensation. (529)
+
+   21. 'He who, having seen the delusion of name and form[1], internally and externally, the root of sickness, and is delivered from the radical bond of all sickness, such a one is called Anuvidita (well-informed) by being so. (530)
+
+   22. 'He who is disgusted in this world with all sins, is strong after conquering the pain of hell, is strong and powerful, such a one is called Dhira ( = viriyavat, firm) by being so. (531)
+
+[1. Anuvikka papankanamarupam.]
+
+p. 92
+
+   23. 'He whose bonds are cut off internally and externally, the root of ties[1], who is delivered from the radical bond of all ties, such a one is called Aganiya (high-bred) by being so.' (532)
+
+   Then Sabhiya, the Paribbagaka, having approved of and rejoiced at the words of Bhagavat, glad, rejoicing, delighted, highly elated, further asked Bhagavat a question:
+
+   24. 'What should a man (necessarily) have obtained that people may call him a Sottiya?'--so said Sabhiya,--'how (may they call him) an Ariya? and how a Karanavat? how may he become a Paribbagaka? Asked (about this) do thou, O Bhagavat, explain it to me.' (533)
+
+   25. 'Whosoever, after having heard and understood every Dhamma in the world, O Sabhiya,'--so said Bhagavat,--'whatsoever is wrong and whatsoever is blameless, is victorious, free from doubt, liberated, free from pain in every respect, him they call a Sottiya (learned in the revelation). (534)
+
+   26. 'Whosoever, after having cut off passions and desires, is wise and does not (again) enter the womb, having driven away the threefold sign, the mud (of lust), and who does not (again) enter time (kappa), him they call an Ariya (noble). (535)
+
+   27. 'He who in this world, after having attained the (highest) gain in the Karanas, is skilful, has always understood the Dhamma, clings to nothing, is liberated, and for whom there are no passions, he is a Karanavat (endowed with the obsrvances). (536)
+
+   28. 'Whosoever abstains from the action that has a painful result, above and below and across and in
+
+[1. Yass' assu lutani bandhanani
+      Agghattam bahiddha ka sangamulam.]
+
+p. 93
+
+the middle, who wanders with understanding, who has put an end to deceit, arrogance, cupidity and anger, name and form, him they call a Paribbagaka (a wandering mendicant) who has attained the (highest) gain.' (537)
+
+   Then Sabhiya, the Paribbagaka, having approved of and rejoiced at the words of Bhagavat, glad, rejoicing, delighted, highly elated, having risen from his seat, and having put his upper robe upon one shoulder, bending his joined hands towards Bhagavat, praised Bhagavat face to face in appropriate stanzas:
+
+   29. 'Having conquered the three and sixty (philosophical) views referring to the disputations of the Samanas, thou hast crossed over the darkness of the stream[1]. (?) (538)
+
+   30. 'Thou hast passed to the end of and beyond pain, thou art a saint, perfectly enlightened, I consider thee one that has destroyed his passions, thou art glorious, thoughtful, of great understanding, O thou who puts an end to pain, thou hast carried me across. (539)
+
+   31. 'Because thou sawest my longing, and carriedst me across my doubt, adoration be to thee, O Muni, who hast attained the (highest) gain in the ways of wisdom; O thou who art a true kinsman of the Adikkas, thou art compassionate. (540)
+
+   32. 'The doubt I had before thou hast cleared away for me, O thou clearly-seeing; surely thou art a Muni, perfectly enlightened, there is no obstacle for thee. (541)
+
+[1. Yani ka tini yani ka satthi
+      Samanappavadasitani bhuripanna
+      Sannakkhara sannanissitani (?)
+      Osaranani vineyya oghatam' aga.]
+
+p. 94
+
+   33. 'And all thy troubles are scattered and cut off, thou art calm, subdued, firm, truthful. (542)
+
+   34. 'All gods and both Narada and Pabbata rejoice at thee, the chief of the sinless (naganaga), the great hero, when thou art speaking. (543)
+
+   35. 'Adoration be to thee, O noble man, adoration be to thee, O thou best of men; in the world of men and gods there is no man equal to thee. (544)
+
+   36. 'Thou art Buddha, thou art the Master, thou art the Muni that conquers Mara; after having cut off desire thou hast crossed over and hast carried across this generation. (545)
+
+   37. 'The elements of existence (upadhi) are overcome by thee, the passions are destroyed by thee, thou art a lion, free from desire, thou hast left behind fear and terror. (546)
+
+   38. 'As a beautiful lotus does not adhere to the water, so thou dost not cling to good and evil, to either; stretch forth thy feet, O hero, Sabbiya worships the Master's (feet).' (547)
+
+   Then Sabhiya, the Paribbagaka, stooping with his head to Bhagavat's feet, said this to Bhagavat:
+
+   'It is excellent, O venerable! It is excellent, O venerable! As one raises what has been overthrown, or reveals what has been hidden, or tells the way to him who has gone astray, or holds out an oil lamp in the dark that those who have eyes may see the objects, even so by the venerable Gotama in manifold ways the Dhamma has been illustrated; I take refuge in the venerable Gotama, in the Dhamma, and in the Assembly of Bhikkhus; I wish to receive the robe and the orders from the venerable Bhagavat.'
+
+   'He who, O Sabhiya, formerly belonging
+
+p. 95
+
+another creed (annatitthiyapubba), wishes to be adopted into this religion (dhammavinaya), and wishes to receive the robe and the orders, he serves for four months; after the lapse of four months Bhikkhus who have appeased their thoughts will give him the robe and the orders to become a Bhikkhu, (for) I also in this matter acknowledge difference of persons.'
+
+   'If, O venerable, those that formerly belonged to another creed and wish to be adopted into this religion and to receive the robe and the orders, serve for four months, and after the lapse of four months Bhikkhus who have appeased their thoughts give them the robe and the orders that they may become Bhikkhus, I will (also) serve for four months, and after the lapse of four months Bhikkhus who have appeased their thoughts shall give (me) the robe and the orders that I may become a Bhikkhu.'
+
+   Sabhiya, the Paribbagaka, received the robe and the orders from Bhagavat, and the venerable Sabhiya, having lately received the upasampada, leading a solitary, retired, strenuous, ardent, energetic life, lived after having in a short time in this existence by his own understanding ascertained and possessed himself of that highest perfection of a religious life for the sake of which men of good family rightly wander away from their houses to a houseless state. 'Birth had been destroyed, a religious life had been led, what was to be done had been done, there was nothing else (to be done) for this existence,' so he perceived, and the venerable Sabhiya became one of the saints.
+
+Sabhiyasutta is ended.
+
+p. 96
+
+ 
+
+7. SELASUTTA.
+
+ Keniya, the Gatila, invites Buddha with his assembly to take his meals with him on the morrow. Sela, the Bramana, arrived at that place with his three hundred young men; seeing the preparations he asks what is going on, and is answered that Buddha is expected the next day. On hearing the word 'Buddha,' Sela asks where Buddha lives, goes to him, converses with him, and is converted; so are his followers.   So it was heard by me:
+
+   At one time Bhagavat wandering about in Anguttarapa, with a large assembly of Bhikkhus, with 1250 Bhikkhus, went to Apana, a town in Anguttarapa.
+
+   And Keniya, the ascetic, with matted hair (gatila) heard the following: 'The Samana, the venerable Gotama, the Sakya son, gone out from the family of the Sakyas, wandering about in Anguttarapa with a large assembly of Bhikkhus, with 1250 Bhikkhus, has reached Apana, and the following good praising words met the venerable Gotama: "And so he is Bhagavat, the venerable, the perfectly enlightened, endowed with science and works (viggakarana), the happy, knowing the world, the incomparable, the charioteer of men that are to be subdued, the master, the enlightened of gods and men, the glorious; he teaches this world and the world of gods, of Maras, of Brahmans, and beings comprising Samanas and Bramanas, gods and men, having himself known and seen them face to face; he teaches the Dhamma (which is) good in the beginning, in the middle, and in the end, is full of meaning and rich in words, quite complete; he teaches a religious life, and good is the sight of such saints."'
+
+   Then Keniya, the Gatila, went (to the place) where
+
+p. 97
+
+Bhagavat was, and having gone there he talked pleasantly with him, and after having had some pleasant and remarkable conversation (with him) he sat down apart; and while Keniya, the Gatila, was sitting down apart, Bhagavat, by religious talk, taught, advised, roused, and delighted him. Then Keniya, the Gatila, having been taught, advised, roused, and delighted by Bhagavat through religious talk, said this to Bhagavat:
+
+   'Let the venerable Gotama accept my food tomorrow, together with the assembly of Bhikkhus.'
+
+   This having been said, Bhagavat answered Keniya, the Gatila: 'Large, O Keniya, is the assembly of Bhikkhus, one thousand two hundred and fifty Bhikkhus, and thou art intimate with the Bramanas.'
+
+   A second time Keniya, the Gatila, said this to Bhagavat: 'Although, O venerable Gotama, the assembly of Bhikkhus is large, one thousand two hundred and fifty Bhikkhus, and I am intimate with the Bramanas, let the venerable Gotama accept my food to-morrow, together with the assembly of Bhikkhus.'
+
+   A second time Bhagavat said this to Keniya, the Gatila: 'Large, O Keniya, is the assembly of Bhikkhus, one thousand two hundred and fifty Bhikkhus, and thou art intimate with the Bramanas.'
+
+   A third time Keniya, the Gatila, said this to Bhagavat: 'Although, O venerable Gotama, the assembly of Bhikkhus is large, one thousand two hundred and fifty Bhikkhus, and I am intimate with the Brahmanas, yet let the venerable Gotama accept my food to-morrow, together with the assembly of Bhikkhus.' Bhagavat assented by being silent.
+
+p. 98
+
+   Then Keniya, the Gatila, having learnt the assent of Bhagavat, after rising from his seat went to his hermitage, and having gone there he addressed his friends and servants, his relatives and kinsmen (as follows): 'Let my venerable friends and servants, relatives and kinsmen hear me;--the Samana Gotama has been invited by me to (take his) food (with me) to-morrow, together with the assembly of Bhikkhus; wherefore you must render me bodily service.'
+
+   'Surely, O venerable one,' so saying the friends and servants, relatives and kinsmen of Keniya, the Gatila, complying with his request, some of them dug fireplaces, some chopped firewood, some washed the vessels, some placed waterpots, some prepared seats. Keniya, the Gatila, on the other hand, himself provided a circular pavilion.
+
+   At that time the Bramana Sela lived at Apana, perfect in the three Vedas, vocabulary, Ketubha, etymology, Itihasa as the fifth (Veda), versed in metre, a grammarian, one not deficient in popular controversy and the signs of a great man, he taught three hundred young men the hymns[1]. At that time Keniya, the Gatila, was intimate with the Brahmana Sela. Then the Bramana Sela surrounded by three hundred young men, walking on foot, arrived at the place where the hermitage of Keniya, the Gatila, was. And the Bramana Sela saw the Gatilas in Keniya's hermitage, some of them digging fireplaces, some chopping firewood, some washing the vessels, some placing waterpots, some
+
+[1. Tena kho pana samayena. Selo brahmano Apane pativasati tinnam vedanam paragu sanighanduketubhanam sakkharappabhedanam itihasapankamanam padako veyyakarano lokayatamahapurisalakkhanesu anavayo tini manavakasatani mante vaketi.]
+
+p. 99
+
+preparing seats, and Keniya, the Gatila, on the other hand, himself providing a circular pavilion; seeing Keniya, the Gatila, he said this: 'Is the venerable Keniya to celebrate the marriage of a son or the marriage of a daughter, or is there a great sacrifice at hand, or has Bimbisara, the king of Magadha, who has a large body of troops, been invited for to-morrow, together with his army?'
+
+   'I am not to celebrate the marriage of a son or the marriage of a daughter, nor has Bimbisara, the king of Magadha, who has a large body of troops, been invited for to-morrow, together with his army, yet a great sacrifice of mine is at hand. The Samana Gotama, the Sakya son, gone out from the Sakya family, wandering about in Anguttarapa with a large assembly of Bhikkhus, one thousand two hundred and fifty Bhikkhus, has reached Apana, and the following good praising words met the venerable Gotama: "And so he is Bhagavat, the venerable, the perfectly enlightened, endowed with science and works (viggakarana), the happy, knowing the world, the incomparable, the charioteer of men that are to be subdued, the master, the enlightened of gods and men, the glorious, he has been invited by me for to-morrow, together with the assembly of Bhikkhus."'
+
+   'Didst thou say that he is a Buddha, O venerable Keniya?'
+
+   'Yes, I say, O venerable Sela, that he is a Buddha.'
+
+   'Didst thou say that he is a Buddha, O venerable Keniya? ,
+
+   'Yes, I say, O venerable Sela, that he is a Buddha.'
+
+   Then this occurred to the Brahmana Sela: 'This sound "Buddha" is (indeed) rare, but in our hymns
+
+p. 100
+
+are to be found the thirty-two signs of a great man, and for a great man endowed with these there are two conditions, and no more: if he lives in a house he is a king, a universal (king), a just religious king, a lord of the four-cornered (earth), a conqueror, one who has obtained the security of his people (and) is possessed of the seven gems. These are his seven gems, namely, the wheel gem, the elephant gem, the horse gem, the pearl gem, the woman gem, the householder gem, and the chief gem as the seventh. He has more than a thousand sons, heroes, possessing great bodily strength and crushing foreign armies; he having conquered this ocean-girt earth without a rod and without a weapon, but by justice, lives (in a house). But if, on the other hand, he goes out from (his) house to the houseless state, he becomes a saint, a perfectly enlightened, one who has removed the veil in the world. And where, O venerable Keniya, dwells now that venerable Gotama, the saint and the perfectly enlightened?'
+
+   This having been said, Keniya, the Gatila, stretching out his right arm, spoke as follows to the Bramana Sela: 'There, where yon blue forest line is, O venerable Sela.'
+
+   Then the Bramana Sela together with (his) three hundred young men went to the place where Bhagavat was. Then the Bramana Sela addressed those young men: 'Come ye, venerable ones, with but little noise, walking step by step, for Bhagavats are difficult of access, walking alone like lions, and when I speak to the venerable Samana Gotama, do ye not utter interrupting words, but wait ye venerable ones, for the end of my speech.'
+
+   Then the Bramana Sela went to the place where
+
+p. 101
+
+Bhagavat was, and having gone there he talked pleasantly with Bhagavat, and after having had some pleasant and remarkable conversation with him he sat down apart, and while sitting down apart Sela, the Brahmana, looked for the thirty-two signs of a great man on the body of Bhagavat. And the Bramana Sela saw the thirty-two signs of a great man on the body of Bhagavat with the exception of two; in respect to two of the signs of a great man he had doubts, he hesitated, he was not satisfied, he was not assured as to the member being enclosed in a membrane and as to his having a large tongue.
+
+   Then this occurred to Bhagavat: 'This Bramana Sela sees in me the thirty-two signs of a great man with the exception of two, in respect to two of the signs of a great man he has doubts, he hesitates, he is not satisfied, he is not assured as to the member being enclosed in a membrane, and as to my having a large tongue.' Then Bhagavat created such a miraculous creature that the Bramana Sela might see Bhagavat's member enclosed in a membrane. Then Bhagavat having put out his tongue touched and stroked both his ears, touched and stroked both nostrils, and the whole circumference of his forehead he covered with his tongue.
+
+   Then this occurred to the Brahmana Sela: 'The Samana Gotama is endowed with the thirty-two signs of a great man, with them all, not with (only) some of them, and yet I do not know whether he is a Buddha or not; I have heard old and aged Brahmanas, teachers and their previous teachers, say that those who are saints and perfectly enlightened manifest themselves when their praise is uttered. I think I shall praise the Samana Gotama face to
+
+p. 102
+
+face in suitable stanzas.' Then the Bramana Sela praised Bhagavat face to face in suitable stanzas:
+
+   1. 'Thou hast a perfect body, thou art resplendent, well-born, of beautiful aspect, thou hast a golden colour, O Bhagavat, thou hast very white teeth, thou art strong. (548)
+
+   2. 'All the signs that are for a well-born man, they are on thy body, the signs of a great man. (549)
+
+   3. 'Thou hast a bright eye, a handsome countenance, thou art great, straight, majestic, thou shinest like a sun in the midst of the assembly of the Samanas. (550)
+
+   4. 'Thou art a Bhikkhu of a lovely appearance, thou hast a skin like gold; what is the use of being a Samana to thee who art possessed of the highest beauty? (551)
+
+   5. 'Thou deservest to be a king, a king of universal kings, a ruler of the four-cornered (earth), a conqueror, a lord of the jambu grove (i.e. India). (552)
+
+   6. 'Khattiyas and wealthy kings are devoted to thee; rule, O Gotama, as a king of kings, a leader of men.' (553)
+
+   7. 'I am a king, O Sela,'--so said Bhagavat,--'an incomparable, religious king (dhammaragan), with justice (dhammena) I turn the wheel, a wheel that is irresistible[1].' (554)
+
+   8. 'Thou acknowledgest thyself (to be) perfectly enlightened (sambuddha),'--so said Sela, the Brahmana,--'an incomparable, religious king; "with justice I turn the wheel," so thou sayest, O Gotama. (555)
+
+[1. Compare Gospel of .]
+
+p. 103
+
+   9. 'Who is thy general, (who is thy) disciple, (who is) the successor of the master, who is to turn after thee the wheel of religion turned (by thee)? ' (556)
+
+   10. 'The wheel turned by me, O Sela,'--so said Bhagavat,--'the incomparable wheel of religion, Sariputta is to turn after (me), he taking after Tathagata. (557)
+
+   11. 'What is to be known is known (by me), what is to be cultivated is cultivated (by me), what is to be left is left by me, therefore I am a Buddha, O Bramana. (558)
+
+   12. 'Subdue thy doubt about me, have faith (in me), O Bramana, difficult (to obtain) is the sight of Buddhas repeatedly. (559)
+
+   13. 'Of those whose manifestation is difficult for you (to obtain) in the world repeatedly, I am, O Bramana, a perfectly enlightened, an incomparable physician, (560)
+
+   14. 'Most eminent, matchless, a crusher of Mara's army; having subjected all enemies I rejoice secure on every side.' (561)
+
+   15. Sela: 'O venerable ones, pay attention to this: as the clearly-seeing (Buddha) says, (so it is): he is a physician, a great hero, and roars like a lion in the forest. (562)
+
+   16. 'Who, having seen him, the most eminent, the matchless, the crusher of Mara's army, is not appeased, even if he be, of black origin (kanhabhigatika). (563)
+
+   17. 'He who likes me, let him follow after (me), he who does not like me, let him go away; I shall at once take the orders in the presence of him of excellent understanding (i.e. Buddha).' (564)
+
+p. 104
+
+   18. The followers of Sela: 'If this doctrine of the perfectly enlightened pleases thee, we also shall take the orders in the presence of him of excellent understanding.' (565)
+
+   19. These three hundred Bramanas asked with clasped hands (to be admitted into the order): 'We want to cultivate a religious life, O Bhagavat, in thy presence.' (566)
+
+   20. 'A religious life is well taught (by me), O Sela,'--so said Bhagavat,--'an instantaneous, an immediate (life), in which it is not in vain to become an ascetic to one who learns in earnest[1].' (567)
+
+   Then the Bramana Sela together with his assembly took the robe and the orders in the presence of Bhagavat.
+
+   Then Keniya, the Gatila, by the expiration of that night, having provided in his hermitage nice hard food and soft food, let Bhagavat know the time (of the meal): 'It is time, O venerable Gotama, the meal is prepared.' Then Bhagavat in the morning, having put on his raiment and taken his bowl and robes, went to the Gatila Keniya's hermitage, and having gone there he sat down on the prepared seat, together with the assembly of Bhikkhus. Then Keniya, the Gatila, satisfied and served with his own hands the assembly of Bhikkhus, with Buddha at their head, with nice hard food and soft food. Then Keniya, the Gatila, having gone up to Bhagavat who had finished eating and had taken his hand out of the bowl, took a low seat and sat down apart, and
+
+[1. Svakkhatam brahmakariyam
+      Sanditthikam akalikam
+      Yattha amogha pabbagga
+      Appamattassa sikkhato.]
+
+p. 105
+
+while Keniya, the Gatila, was sitting down apart, Bhagavat delighted him with these stanzas:
+
+   21. 'The principal thing in sacrifice is the sacred fire, the principal thing amongst the hymns is the Savitti[1], the king is the principal amongst men, and the sea the principal amongst waters (nadinam[2]). (568)
+
+   22. 'Amongst the stars the moon is the principal thing, the sun is the principal thing amongst the burning[3] (objects), amongst those that wish for good works and make offerings the assembly (samgha) indeed is the principal.' (569)
+
+   Then Bhagavat, having delighted Keniya, the Gatila, with these stanzas, rose from (his) seat and went away.
+
+   Then the venerable Sela together with his assembly leading a solitary, retired, strenuous, ardent, energetic life, lived after having in a short time in this existence by his own understanding ascertained and possessed himself of that highest perfection of a religious life for the sake of which men of good family rightly wander away from their houses to a houseless state; 'birth (had been) destroyed, a religious life (had been) led, what was to be done (had been) done, there was nothing else (to be done) for this existence,' so he perceived, and the venerable Sela together with his assembly became one of the saints.
+
+   Then the venerable Sela together with his assembly went to Bhagavat, and having gone (to him) he put his upper robe on one shoulder, and bending his joined hands towards Bhagavat he addressed him in stanzas:
+
+[1. Savitti khandaso mukham.
+
+2. Comp. .
+
+3. Adikko tapatam mukham.]
+
+p. 106
+
+   23. 'Because we took refuge in thee on the eighth day previous to this, O thou clearly-seeing, in seven nights, O Bhagavat, we have been trained in thy doctrine. (570)
+
+   24. 'Thou art Buddha, thou art the Master, thou art the Muni that conquered Mara, thou hast, after cutting off the affections, crossed over (the stream of existence) and taken over these beings. (571)
+
+   25. 'The elements of existence (upadhi) have been overcome by thee, the passions have been destroyed by thee, thou art a lion not seizing on anything, thou hast left behind fear and danger. (572)
+
+   26. 'These three hundred Bhikkhus stand here with clasped hands; stretch out thy feet, O hero, let the Nagas worship the Master's feet.' (573)
+
+Selasutta is ended.
+
+ 
+
+8. SALLASUTTA.
+
+ Life is short, all mortals are subject to death, but knowing the terms of the world the wise do not grieve, and those who have left sorrow will be blessed.--Text in the Dasaratha-Gataka, p. 34.   1. Without a cause and unknown is the life of mortals in this world, troubled and brief, and combined with pain. (574)
+
+   2. For there is not any means by which those that have been born can avoid dying; after reaching old age there is death, of such a nature are living beings. (575)
+
+   3. As ripe fruits are early in danger of falling, so mortals when born are always in danger of death. (576)
+
+   4. As all earthen vessels made by the potter end in being broken, so is the life of mortals. (577)
+
+p. 107
+
+   5. Both young and grown-up men, both those who are fools and those who are wise men, all fall into the power of death, all are subject to death. (578)
+
+   6. Of those who, overcome by death, go to the other world, a father does not save his son, nor relatives their relations. (579)
+
+   7. Mark! while relatives are looking on and lamenting greatly, one by one of the mortals is carried off, like an ox that is going to be killed. (580)
+
+   8. So the world is afflicted with death and decay, therefore the wise do not grieve, knowing the terms of the world. (581)
+
+   9. For him, whose way thou dost not know, either when he is coming or when he is going, not seeing both ends, thou grievest in vain. (582)
+
+   10. If he who grieves gains anything, (although he is only) a fool hurting himself, let the wise man do the same. (583)
+
+   11. Not from weeping nor from grieving will any one obtain peace of mind; (on the contrary), the greater his pain will be, and his body will suffer. (584)
+
+   12. He will be lean and pale, hurting himself by himself, (and yet) the dead are not saved, lamentation (therefore) is of no avail. (585)
+
+   13. He who does not leave grief behind, goes (only) deeper into pain; bewailing the dead he falls into the power of grief. (586)
+
+   14. Look at others passing away, men that go (to what they deserve) according to their deeds, beings trembling already here, after falling into the power of death. (587)
+
+   15. In whatever manner people think (it will come to pass), different from that it becomes, so great is
+
+p. 108
+
+the disappointment[1] (in this world); see, (such are) the terms of the world. (588)
+
+   16. Even if a man lives a hundred years or even more, he is at last separated from the company of his relatives, and leaves life in this world. (589)
+
+   17. Therefore let one, hearing (the words of) the saint, subdue his lamentation; seeing the one that has passed away and is dead, (let him say): 'He will not be found by me (any more).' (590)
+
+   18. As a house on fire is extinguished by water, so also the wise, sensible, learned, clever man rapidly drives away sorrow that has arisen, as the wind a tuft of cotton. (591)
+
+   19. He who seeks his own happiness should draw out his arrow (which is) his lamentation, and complaint, and grief. (592)
+
+   20. He who has drawn out the arrow and is not dependent (on anything) will obtain peace of mind; he who has overcome all sorrow will become free from sorrow, and blessed (nibbuta). (593)
+
+Sallasutta is ended.
+
+ 
+
+9. VASETTHASUTTA.
+
+ A dispute arose between two young men, Bharadvaga and Vasettha, the former contending man to be a Bramana by birth, the latter by deeds. They agreed to go and ask Samana Gotama, and he answered that man is a Bramana by his work only. The two young men are converted.--Text (from Magghimanikaya) and translation in Alwis's Buddhist Nirvana, p. 103.   So it was heard by me:
+
+   At one time Bhagavat dwelt at Ikkhanamkala, in the Ikkhanamkala forest. At that time many distinguished,
+
+[1. Etadiso vinabhavo.]
+
+p. 109
+
+wealthy Bramanas lived at Ikkhanamkala, as the Bramana Kamkin, the Bramana Tarukkha, the Bramana Pokkharasati, the Brahmana Ganussoni, the Bramana Todeyya, and other distinguished, wealthy Bramanas.
+
+   Then this dialogue arose between the young men Vasettha and Bharadvaga while walking about:
+
+   'How does one become a Bramana?'
+
+   The young man Bharadvaga said: 'When one is noble by birth on both sides, on the mother's and on the father's side, of pure conception up to the seventh generation of ancestors, not discarded and not reproached in point of birth, in this way one is a Bramana.'
+
+   The young man Vasettha said: 'When one is virtuous and endowed with (holy) works, in this way he is a Bramana.'
+
+   Neither could the young man Bharadvaga convince the young man Vasettha, nor could the young man Vasettha convince the young man Bharadvaga. Then the young man Vasettha addressed the young man Bharadvaga: 'O Bharadvaga, this Samana Gotama, the Sakya son, gone out from the Sakya family, dwells at Ikkhanamkala, in the forest of Ikkhanamkala, and the following good praising words met the venerable Gotama: "And so he is Bhagavat, the venerable, the enlightened, the glorious, let us go, O venerable Bharadvaga, let us go (to the place) where the Samana Gotama is, and having gone there let us ask the Samana Gotama about this matter, and as the Samana Gotama replies so will we understand it."'
+
+   'Very well, O venerable one;' so the young man Bharadvaga answered the young man Vasettha.
+
+p. 110
+
+   Then the young men Vasettha and Bharadvaga went (to the place) where Bhagavat was, and having gone, they talked pleasantly with Bhagavat, and after having had some pleasant and remarkable conversation (with him) they sat down apart. Sitting down apart the young man Vasettha addressed Bhagavat in stanzas:
+
+   1. 'We are accepted and acknowledged masters of the three Vedas[1], I am (a pupil) of Pokkharasati, and this young man is (the pupil) of Tarukkha. (594)
+
+   2. 'We are accomplished in all the knowledge propounded by those who are acquainted with the three Vedas, we are padakas (versed in the metre), veyyakaranas (grammarians?), and equal to our teachers in recitation (gappa)[2]. (595)
+
+   3. 'We have a controversy regarding (the distinctions of) birth, O Gotama! Bharadvaga says, one is a Bramana by birth, and I say, by deeds; know this, O thou clearly-seeing! (596)
+
+   4. 'We are both unable to convince each other, (therefore) we have come to ask thee (who art) celebrated as perfectly enlightened. (597)
+
+   5. 'As people adoring the full moon worship (her) with uplifted clasped hands, so (they worship) Gotama in the world. (598)
+
+   6. 'We ask Gotama who has come as an eye to the world: Is a man a Brahmana by birth, or is he so
+
+[1. Anunnatapatinnata
+      Tevigga mayam asm' ubho.
+
+2. Tevigganam[*] yad akkhatam
+      Tatra kevalino 'smase,
+      Padak' asma veyyakarana,
+      Gappe[+] akariyasadisa.
+
+*. Tevigganam = tivedanam. Commentator; but compare .
+
++. Gappe = vede. Commentator.]
+
+p. 111
+
+by deeds? Tell us who do not know, that we may know a Bramana.' (599)
+
+   7. 'I will explain to you, O Vasettha,'--so said Bhagavat,--'in due order the exact distinction of living beings according to species, for their species are manifold. (600)
+
+   8. 'Know ye the grass and the trees, although they do not exhibit (it), the marks that constitute species are for them, and (their) species are manifold. (601)
+
+   9. 'Then (know ye) the worms, and the moths, and the different sorts of ants, the marks that constitute species are for them, and (their) species are manifold. (602)
+
+   10. 'Know ye also the four-footed (animals), small and great, the marks that constitute species are for them, and (their) species are manifold. (603)
+
+   11. 'Know ye also the serpents, the long-backed snakes, the marks that constitute species are for them, and (their) species are manifold. (604)
+
+   12. 'Then know ye also the fish which range in the water, the marks that constitute species are for them, and (their) species are manifold. (605)
+
+   13. 'Then know ye also the birds that are borne along on wings and move through the air, the marks that constitute species are for them, and (their) species are manifold. (606)
+
+   14. 'As in these species the marks that constitute species are abundant, so in men the marks that constitute species are not abundant. (607)
+
+   15. 'Not as regards their hair, head, ears, eyes, mouth, nose, lips, or brows, (608)
+
+   16. 'Nor as regards their neck, shoulders, belly, back, hip, breast, female organ, sexual intercourse, (609)
+
+p. 112
+
+   17. 'Nor as regards their hands, feet, palms, nails, calves, thighs, colour, or voice are there marks that constitute species as in other species. (610)
+
+   18. 'Difference there is in beings endowed with bodies, but amongst men this is not the case, the difference amongst men is nominal (only)[1]. (611)
+
+   19. 'For whoever amongst men lives by cowkeeping,--know this, O Vasettha,--he is a husbandman, not a Bramana.' (612)
+
+   20. 'And whoever amongst men lives by different mechanical arts,--know this, O Vasettha,--he is an artisan, not a Bramana. (613)
+
+   21. 'And whoever amongst men lives by trade,--know this, O Vasettha,--he is a merchant, not a Bramana. (614)
+
+   22. And whoever amongst men lives by serving others,--know this, O Vasettha,--he is a servant, not a Brahmana. (615)
+
+   23. 'And whoever amongst men lives by theft,--know this, O Vasettha,--he is a thief, not a Brahmana. (616)
+
+   24. 'And whoever amongst men lives by archery,--know this, O Vasettha,--he is a soldier, not a Bramana. (617)
+
+   25. 'And whoever amongst men lives by performing household ceremonials,--know this, O Vasettha,--he is a sacrificer, not a Bramana. (618)
+
+   26. 'And whoever amongst men possesses villages and countries,--know this, O Vasettha,--he is a king, not a Bramana. (619)
+
+[1. Pakkattam sasariresu,
+      Manussesv-etam na viggati,
+      Vokaran ka manussesu
+      Samannaya pavukkati.]
+
+p. 113
+
+   27. 'And I do not call one a Bramana on account of his birth or of his origin from (a particular) mother; he may be called bhovadi, and he may be wealthy, (but) the one who is possessed of nothing and seizes upon nothing, him I call a Brahmana[1]. (620)
+
+   28. 'Whosoever, after cutting all bonds, does not tremble, has shaken off (all) ties and is liberated, him I call a Bramana. (621)
+
+   29. 'The man who, after cutting the strap (i.e. enmity), the thong (i.e. attachment), and the rope (i.e. scepticism) with all that pertains to it, has destroyed (all) obstacles (i.e. ignorance), the enlightened (buddha), him I call a Bramana. (622)
+
+   30. 'Whosoever, being innocent, endures reproach, blows, and bonds, the man who is strong in (his) endurance and has for his army this strength, him I call a Bramana. (623)
+
+   31. 'The man who is free from anger, endowed with (holy) works, virtuous, without desire, subdued, and wearing the last body, him I call a Brahmana. (624)
+
+   32. 'The man who, like water on a lotus leaf, or a mustard seed on the point of a needle, does not cling to sensual pleasures, him I call a Brahmana. (625)
+
+   33. 'The man who knows in this world the destruction of his pain, who has laid aside (his) burden, and is liberated, him I call a Bramana. (626)
+
+   34. 'The man who has a profound understanding, who is wise, who knows the true way and the wrong way, who has attained the highest good, him I call a Bramana. (627)
+
+[1. Comp. , &c.]
+
+p. 114
+
+   35. 'The man who does not mix with householders nor with the houseless, who wanders about without a house, and who has few wants, him I call a Brahmana. (628)
+
+   36. 'Whosoever, after refraining from hurting (living) creatures, (both) those that tremble and those that are strong, does not kill or cause to be killed, him I call a Bramana. (629)
+
+   37. 'The man who is not hostile amongst the hostile, who is peaceful amongst the violent, not seizing (upon anything) amongst those that seize (upon everything), him I call a Bramana. (630)
+
+   38. 'The man whose passion and hatred, arrogance and hypocrisy have dropt like a mustard seed from the point of a needle, him I call a Bramana. (631)
+
+   39. 'The man that utters true speech, instructive and free from harshness, by which he does not offend any one, him I call a Bramana. (632)
+
+   40. 'Whosoever in the world does not take what has not been given (to him), be it long or short, small or large, good or bad, him I call a Brahmana. (633)
+
+   41. 'The man who has no desire for this world or the next, who is desireless and liberated, him I call a Bramana. (634)
+
+   42. 'The man who has no desire, who knowingly is free from doubt; and has attained the depth of immortality, him I call a Bramana. (635)
+
+   43. 'Whosoever in this world has overcome good and evil, both ties, who is free from grief and defilement, and is pure, him I call a Bramana. (636)
+
+   44. 'The man that is stainless like the moon, pure, serene, and undisturbed, who has destroyed joy, him I call a Bramana. (637)
+
+p. 115
+
+   45. 'Whosoever has passed over this quagmire difficult to pass, (who has passed over) revolution (samsara) and folly, who has crossed over, who has reached the other shore, who is meditative, free from desire and doubt, calm without seizing (upon anything), him I call a Bramana. (638)
+
+   46. 'Whosoever in this world, after abandoning sensual pleasures, wanders about houseless, and has destroyed the existence of sensual pleasures (kamabhava), him I call a Bramana. (639)
+
+   47. 'Whosoever in this world, after abandoning desire, wanders about houseless, and has destroyed the existence of desire (tanhabhava), him I call a Bramana. (640)
+
+   48. 'Whosoever, after leaving human attachment (yoga), has overcome divine attachment, and is liberated from all attachment, him I call a Brahmana. (641)
+
+   49. 'The man that, after leaving pleasure and disgust, is calm and free from the elements of existence (nirupadhi), who is a hero, and has conquered all the world, him I call a Bramana. (642)
+
+   50. 'Whosoever knows wholly the vanishing and reappearance of beings, does not cling to (anything); is happy (sugata), and enlightened, him I call a Bramana. (643)
+
+   51. 'The man whose way neither gods nor Gandhabbas nbr men know, and whose passions are destroyed, who is a saint, him I call a Bramana. (644)
+
+   52. 'The man for whom there is nothing, neither before nor after nor in the middle, who possesses nothing, and does not seize (upon anything), him I call a Bramana. (645)
+
+   53. 'The (man that is undaunted like a) bull, who
+
+p. 116
+
+is eminent, a hero, a great sage (mahesi), victorious, free from desire, purified, enlightened, him I call a Bramana. (646)
+
+   54. 'The man who knows his former dwellings, who sees both heaven and hell, and has reached the destruction of births, him I call a Bramana. (647)
+
+   55. 'For what has been designated as "name" and "family" in the world is only a term, what has been designated here and there is understood by common consent[1]. (648)
+
+   56. 'Adhered to for a long time are the views of the ignorant, the ignorant tell us, one is a Bramana by birth. (649)
+
+   57. 'Not by birth is one a Bramana, nor is one by birth no Bramana; by work (kammana) one is a Bramana, by work one is no Bramana. (650)
+
+   58. 'By work one is a husbandman, by work one is an artisan, by work one is a merchant, by work one is a servant. (651)
+
+   59. 'By work one is a thief, by work one is a soldier, by work one is a sacrificer, by work one is a king. (652)
+
+   60. 'So the wise, who see the cause of things and understand the result of work, know this work as it really is[2]. (653)
+
+   61. 'By work the world exists, by work mankind
+
+[1. Samanna h' esa lokasmim
+      Namagottam pakappitam,
+      Sammukka samudagatam
+      Tattha tattha pakappitam.
+
+2. Evam etam yathabhutam
+      Kammam passanti pandita
+      Patikkasamuppadadasa
+      Kammavipakakovida.]
+
+p. 117
+
+exists, beings are bound by work as the linch-pin of the rolling cart (keeps the wheel on)[1]. (654)
+
+   62. 'By penance, by a religious life, by self-restraint, and by temperance, by this one is a Bramana, such a one (they call) the best Bramana. (655)
+
+   63. 'He who is endowed with the threefold knowledge[2], is calm, and has destroyed regeneration,--know this, O Vasettha,--he is to the wise Brahman and Sakka.' (656)
+
+   This having been said, the young men Vasettha and Bharadvaga spoke to Bhagavat as follows:
+
+   'It is excellent, O venerable Gotama! It is excellent, O venerable Gotama! As one raises what has been overthrown, or reveals what has been hidden, or tells the way to him who has gone astray, or holds out an oil lamp in the dark that those who have eyes may see the objects, even so by the venerable Gotama in manifold ways the Dhamma has been illustrated; we take refuge in the venerable Gotama, in the Dhamma, and in the Assembly of Bhikkhus; may the venerable Gotama receive us as followers (upasaka), who from this day for life have taken refuge (in him).'
+
+Vasetthasutta is ended.
+
+[1. Kammana vattati loko,
+      Kammana vattati paga,
+      Kammanibandhana satta
+      Rathasaniva yayato.
+
+2. Tihi viggahi sampanno.]
+
+p. 118
+
+ 
+
+10. KOKALIYASUTTA.
+
+ Kokaliya abuses Sariputta and Moggallana to Buddha; therefore as soon as he has left Buddha, he is struck with boils, dies and goes to the Paduma hell, whereupon Buddha describes to the Bhikkhus the punishment of backbiters in hell.   So it was heard by me:
+
+   At one time Bhagavat dwelt at Savatthi, in Getavana, in the park of Anathapindika. Then the Bhikkhu Kokaliya approached Bhagavat, and after having approached and saluted Bhagavat he sat down apart; sitting down apart the Bhikkhu Kokaliya said this to Bhagavat: "O thou venerable one, Sariputta and Moggallana have evil desires, they have fallen into the power of evil desires.'
+
+   When this had been said, Bhagavat spoke to the Bhikkhu Kokaliya as follows: '(Do) not (say) so, Kokaliya; (do) not (say) so, Kokaliya; appease, O Kokaliya, (thy) mind in regard to Sariputta and Moggallana: Sariputta and Moggallana are amiable[1].'
+
+   A second time the Bhikkhu Kokaliya said this to Bhagavat: 'Although thou, O venerable Bhagavat, (appearest) to me (to be) faithful and trustworthy, yet Sariputta and Moggallana have evil desires, they have fallen into the power of evil desires.'
+
+   A second time Bhagavat said this to the Bhikkhu Kokaliya: '(Do) not (say) so, Kokaliya; (do) not (say) so, Kokaliya; appease, O Kokaliya, (thy) mind in regard to Sariputta and Moggallana: Sariputta and Moggallana are amiable.'
+
+   A third time the Bhikkhu Kokaliya said this to Bhagavat: 'Although thou, O venerable Bhagavat, (appearest) to me (to be) faithful and trustworthy,
+
+[1. Pesala ti piyasila. Commentator.]
+
+p. 119
+
+yet Sariputta and Moggallana have evil desires, Sariputta and Moggallana have fallen into the power of evil desires.'
+
+   A third time Bhagavat said this to the Bhikkhu Kokaliya: '(Do) not (say) so, Kokaliya; (do) not (say) so, Kokaliya; appease, O Kokaliya, (thy) mind in regard to Sariputta and Moggallana: Sariputta and Moggallana are amiable.'
+
+   Then the Bhikkhu Kokaliya, after having risen from his seat and saluted Bhagavat and walked round him towards the right, went away; and when he had been gone a short time, all his body was struck with boils as large as mustard seeds; after being only as large as mustard seeds, they became as large as kidney beans; after being only as large as kidney beans, they became as large as chick peas; after being only as large as chick peas, they became as large as a Kolatthi egg (?); after being only as large as a Kolatthi egg, they became as large as the jujube fruit; after being only as large as the jujube fruit, they became as large as the fruit of the emblic myrobalan; after being only as large as the fruit of the emblic myrobalan, they became as large as the unripe beluva fruit; after being only as large as the unripe beluva fruit, they became as large as a billi fruit (?); after being as large as a billi fruit, they broke, and matter and blood flowed out. Then the Bhikkhu Kokaliya died of that disease, and when he had died the Bhikkhu Kokaliya went to the Paduma hell, having shown a hostile mind against Sariputta and Moggallana. Then when the night had passed Brahman Sahampati of a beautiful appearance, having lit up all Getavana, approached Bhagavat, and having approached and saluted Bhagavat,
+
+p. 120
+
+he stood apart, and standing apart Brahman Sahampati said this to Bhagavat: 'O thou venerable one, Kokaliya, the Bhikkhu, is dead and after death, O thou venerable one, the Bhikkhu Kokaliya is gone to the Paduma hell, having shown a hostile mind against Sariputta and Moggallana.'
+
+   This said Brahman Sahampati, and after saying this and saluting Bhagavat, and walking round him towards the right, he disappeared there.
+
+   Then Bhagavat, after the expiration of that night, addressed the Bhikkhus thus: 'Last night, O Bhikkhus, when the night had (nearly) passed, Brahman Sahampati of a beautiful appearance, having lit up all Getavana, approached Bhagavat, and having approached and saluted Bhagavat, he stood apart, and standing apart Brahman Sahampati said this to Bhagavat: "O thou venerable one, Kokaliya, the Bhikkhu, is dead; and after death, O thou venerable one, the Bhikkhu Kokaliya is gone to the Paduma hell, having shown a hostile mind against Sariputta and Moggallana." This said Brahman Sahampati, O Bhikkhus, and having said this and saluted me, and walked round me towards the right, he disappeared there.'
+
+   When this had been said, a Bhikkhu asked Bhagavat: 'How long is the rate of life, O venerable one, in the Paduma hell?'
+
+   'Long, O Bhikkhu, is the rate of life in the Paduma hell, it is not easy to calculate either (by saying) so many years or so many hundreds of years or so many thousands of years or so many hundred thousands of years.'
+
+   'But it is possible, I suppose, to make a comparison, O thou venerable one?'
+
+p. 121
+
+   'It is possible, O Bhikkhu;' so saying, Bhagavat spoke (as follows): 'Even as, O Bhikkhu, (if there were) a Kosala load of sesamum seed containing twenty kharis, and a man after the lapse of every hundred years were to take from it one sesamum seed at a time, then that Kosala load of sesamum seed, containing twenty kharis, would, O Bhikkhu, sooner by this means dwindle away and be used up than one Abbuda hell; and even as are twenty Abbuda hells, O Bhikkhu, so is one Nirabbuda hell; and even as are twenty Nirabbuda hells, O Bhikkhu, so is one Ababa hell; and even as are twenty Ababa hells, O Bhikkhu, so is one Ahaha hell; and even as are twenty Ahaha hells, O Bhikkhu, so is one Atata hell; and even as are twenty Atata hells, O Bhikkhu, so is one Kumuda hell; and even as are twenty Kumuda hells, O Bhikkhu, so is one Sogandhika hell; and even as are twenty Sogandhika hells, O Bhikkhu, so is one Uppalaka hell; and even as are twenty Uppalaka hells, O Bhikkhu, so is one Pundarika hell; and even as are twenty Pundarika hells, O Bhikkhu, so is one Paduma hell; and to the Paduma hell, O Bhikkhu, the Bhikkhu Kokaliya is gone, having shown a hostile mind against Sariputta and Moggallana.' This said Bhagavat, and having said this Sugata, the Master, furthermore spoke as follows:
+
+   1. 'To (every) man that is born, an axe is born in his mouth, by which the fool cuts himself, when speaking bad language. (657)
+
+   2. 'He who praises him who is to be blamed or blames him who as to be praised, gathers up sin in his mouth, and through that (sin) he will not find any joy. (658)
+
+p. 122
+
+   3. 'Trifling is the sin that (consists in) losing riches by dice; this is a greater sin that corrupts the mind against Sugatas. (659)
+
+   4. 'Out of the one hundred thousand Nirabbudas (he goes) to thirty-six, and to five Abbudas; because he blames an Ariya he goes to hell, having employed his speech and mind badly. (660)
+
+   5. 'He who speaks falsely goes to hell, or he who having done something says, "I have not done it;" both these after death become equal, in another world (they are both) men guilty of a mean deed[1]. (661)
+
+   6. 'He who offends an offenceless man, a pure man, free from sin, such a fool the evil (deed) reverts against, like fine dust thrown against the wind[2]. (662)
+
+   7. 'He who is given to the quality of covetousness, such a one censures others in his speech, (being himself) unbelieving, stingy, wanting in affability, niggardly, given to backbiting. (663)
+
+   8. 'O thou foul-mouthed, false, ignoble, blasting, wicked, evil-doing, low, sinful, base-born man, do not be garrulous in this world, (else) thou wilt be an inhabitant of hell[3]. (664)
+
+   9. 'Thou spreadest pollution to the misfortune (of others), thou revilest the just, committing sin (yourself), and having done many evil deeds thou wilt go to the pool (of hell) for a long time. (665)
+
+[1. Comp. .
+
+2. Comp. .
+
+3. Mukhadugga vibhuta-m-anariya
+      Bhunahu[*] papaka dukkatakari
+      Purisanta kali avagata
+      Ma bahubhani dha nerayiko si.
+
+*. Bhunahu bhutihanaka vuddhinasaka. Commentator.]
+
+p. 123
+
+   110. 'For one's deeds are not lost, they will surely come (back to you), (their) master will meet with them, the fool who commits sin will feel the pain in himself in the other world[1]. (666)
+
+   11. 'To the place where one is struck with iron rods, to the iron stake with sharp edges he goes; then there is (for him) food as appropriate, resembling a red-hot ball of iron. (667)
+
+   12. 'For those who have anything to say (there) do not say fine things, they do not approach (with pleasing faces); they do not find refuge (from their sufferings), they lie on spread embers, they enter a blazing pyre. (668)
+
+   13. 'Covering (them) with a net they kill (them) there with iron hammers; they go to dense darkness[2], for that is spread out like the body of the earth. (669)
+
+   14. 'Then (they enter) an iron pot, they enter a blazing pyre, for they are boiled in those (iron pots) for a long time, jumping up and down in the pyre. (670)
+
+   15. 'Then he who commits sin is surely boiled in a mixture of matter and blood; whatever quarter he inhabits, he becomes rotten there from coming in contact (with matter and blood). (671)
+
+   16. 'He who commits sin will surely be boiled in the water, the dwelling-place of worms; there it is not (possible) to get to the shore, for the jars (are) exactly alike[3]. (?) (672)
+
+[1. Comp. .
+
+2. Andham va Timisam ayanti.
+
+3. Pulavavasathe salilasmim
+      Tattha kim pakkati kibbisakari,
+      Gantum na hi tiram p' atthi
+      Sabbasama hi samantakapalla.]
+
+p. 124
+
+   17. 'Again they enter the sharp Asipattavana with mangled limbs; having seized the tongue with a hook, the different watchmen (of hell) kill (them). (673)
+
+   18. 'Then they enter Vetarani, that is difficult to cross and has got streams of razors with sharp edges; there the fools fall in, the evil-doers after having done evil. (674)
+
+   19. 'There black, mottled flocks of ravens eat them who are weeping, and dogs, jackals, great vultures, falcons, crows tear (them). (675)
+
+   20. 'Miserable indeed is the life here (in hell) which the man sees that commits sin. Therefore should a man in this world for the rest of his life be strenuous, and not indolent. (676)
+
+   21. 'Those loads of sesamum seed which are carried in Paduma hell have been counted by the wise, they are (several) nahutas and five kotis, and twelve hundred kotis besides[1]. (677)
+
+   22. 'As long as hells are called painful in this world, so long people will have to live there for a long time; therefore amongst those who have pure, amiable, and good qualities one should always guard speech and mind.' (678)
+
+Kokaliyasutta is ended.
+
+ 
+
+11. NALAKASUTTA.
+
+ The Isi Asita, also called Kanhasiri, on seeing the gods rejoicing, asks the cause of it, and having heard that Buddha has been born, he descends from Tusita heaven. When the Sakyas showed the child to him, he received it joyfully and prophesied [1. Nahutani hi kotiyo panka bhavanti
+      Dvadasa kotisatani pun' anna.]p. 125
+
+ about it. Buddha explains to Nalaka, the sister's son of Asita, the highest state of wisdom.--Compare Lalita-vistara, Adhyaya VII; Asita and Buddha, or the Indian Simeon, by J. Muir, in the Indian Antiquary, Sept. 1878.Vatthugatha.
+
+   1. The Isi Asita saw in (their) resting-places during the day the joyful, delighted flocks of the Tidasa gods, and the gods in bright clothes, always highly praising Inda, after taking their clothes and waving them. (679)
+
+   2. Seeing the gods with pleased minds, delighted, and showing his respect, he said this on that occasion: 'Why is the assembly of the gods so exceedingly pleased, why do they take their clothes and wave them? (680)
+
+   3. 'When there was an encounter with the Asuras, a victory for the gods, and the Asuras were defeated, then there was not such a rejoicing. What wonderful (thing) have the gods seen that they are so delighted? (681)
+
+   4. 'They shout and sing and make music, they throw (about their) arms and dance; I ask you, the inhabitants of the tops of (mount) Meru, remove my doubt quickly, O venerable ones!' (682)
+
+   5. 'The Bodhisatta, the excellent pearl, the incomparable, is born for the good and for a blessing in the world of men, in the town of the Sakyas, in the country of Lumbini. Therefore we are glad and exceedingly pleased. (683)
+
+   6. 'He, the most excellent of all beings, the preeminent man, the bull of men, the most excellent of all creatures will turn the wheel (of the Dhamma) in the forest called after the Isis, (he who is) like the roaring lion, the strong lord of beasts.' (684)
+
+p. 126
+
+   7. Having heard that noise he descended from (the heaven of) Tusita. Then he went to Suddhodana's palace, and having sat down there he said this to the Sakyas: 'Where is the prince? I wish to see (him).' (685)
+
+   8. Then the Sakyas showed to (the Isi), called Asita, the child, the prince who was like shining gold, manufactured by a very skilful (smith) in the mouth of a forge, and beaming in glory and having a beautiful appearance. (686)
+
+   9. Seeing the prince shining like fire, bright like the bull of stars wandering in the sky, like the burning sun in autumn, free from clouds, he joyfully obtained great delight. (687)
+
+   10. The gods held in the sky a parasol with a thousand circles and numerous branches, yaks' tails with golden sticks were fanned, but those who held the yaks' tails and the parasol were not seen. (688)
+
+   11. The Isi with the matted hair, by name Kanhasiri, on seeing the yellow blankets (shining) like a golden coin, and the white parasol held over his head, received him delighted and happy. (689)
+
+   12. And having received the bull of the Sakyas, he who was wishing to receive him and knew the signs and the hymns, with pleased thoughts raised his voice, saying: 'Without superior is this, the most excellent of men.' (690)
+
+   13. Then remembering his own migration he was displeased and shed tears; seeing this the Sakyas asked the weeping Isi, whether there would be any obstacle in the prince's path. (691)
+
+   14. Seeing the Sakyas displeased the Isi said: 'I do not remember anything (that will be) unlucky for the prince, there will be no obstacles at
+
+p. 127
+
+all for him, for this is no inferior (person). Be without anxiety. (692)
+
+   15. ' This prince will reach the summit of perfect enlightenment, he will turn the wheel of the Dhamma, he who sees what is exceedingly pure (i.e. Nibbana), this (prince) feels for the welfare of the multitude, and his religion[1] will be widely spread. (693)
+
+   16. 'My life here will shortly be at an end, in the middle (of his life) there will be death for me; I shall not hear the Dhamma of the incomparable one; therefore I am afflicted, unfortunate, and suffering.' (694)
+
+   17. Having afforded the Sakyas great joy he went out from the interior of the town to lead a religious life; but taking pity on his sister's son, he induced him to embrace the Dhamma of the incomparable one. (695)
+
+   18. 'When thou hearest from others the sound "Buddha," (or) "he who has acquired perfect enlightenment walks the way of the Dhamma," then going there and enquiring about the particulars, lead a religious life with that Bhagavat.' (696)
+
+   19. Instructed by him, the friendly-minded, by one who saw in the future what is exceedingly pure (i.e. Nibbana), he, Nalaka, with a heap of gathered-up good works, and with guarded senses dwelt (with him), looking forward to Gina (i.e. Buddha). (697)
+
+   20. Hearing the noise, while the excellent Gina turned the wheel (of the Dhamma), and going and seeing the bull of the Isis, he, after being converted,
+
+[1. Brahmakariyam = sasanam. Commentator.]
+
+p. 128
+
+asked the eminent Muni about the best wisdom, when the time of Asita's order had come. (698)
+
+The Vatthugathas are ended.
+
+   21. 'These words of Asita are acknowledged true (by me), therefore we ask thee, O Gotama, who art perfect in all things (dhamma). (699)
+
+   22. 'O Muni, to me who am houseless, and who wish to embrace a Bhikkhu's life, explain when asked the highest state, the state of wisdom (moneyya).' (700)
+
+   23. 'I will declare to thee the state of wisdom,'--so said Bhagavat,--'difficult to carry out, and difficult to obtain; come, I will explain it to thee, stand fast, be firm. (701)
+
+   24. 'Let a man cultivate equanimity: which is (both) reviled and praised in the village, let him take care not to corrupt his mind, let him live calm, and without pride. (702)
+
+   25. 'Various (objects) disappear, like a flame of fire in the wood[1]; women tempt the Muni, let them not tempt him. (703)
+
+   26. 'Let him be disgusted with sexual intercourse, having left behind sensual pleasures of all kinds, being inoffensive and dispassionate towards living creatures, towards anything that is feeble or strong. (704)
+
+   27. 'As I am so are these, as these are so am I, identifying himself with others, let him not kill nor cause (any one) to kill[2]. (705)
+
+[1. Ukkavaka nikkharanti
+      Daye aggisikhupama.
+
+2. Yatha aham tatha ete
+      Yatha ete tatha aham
+      Attanam upamam katva
+      Na haneyya na ghataye.
+         Comp. .]
+
+p. 129
+
+   28. 'Having abdoned desire and covetousness let him act as one that sees clearly where a common man sticks, let him cross over this hell. (706)
+
+   29. 'Let him be with an empty stomach, taking little food, let him have few wants and not be covetous; not being consumed by desire he will without desire be happy. (707)
+
+   30. 'Let the Muni, after going about for alms, repair to the outskirts of the wood, let him go and sit down near the root of a tree. (708)
+
+   31. 'Applying himself to meditation, and being wise, let him find his pleasure in the outskirts of the wood, let him meditate at the root of a tree enjoying himself. (709)
+
+   32. 'Then when night is passing away let him repair to the outskirts of the village, let him not delight in being invited nor in what is brought away from the village. (710)
+
+   33. 'Let not the Muni, after going to the village, walk about to the houses in haste; cutting off (all) talk while seeking food, let him not utter any coherent speech[1]. (711)
+
+   34. '"What I have obtained that is good," "I did not get (anything that is) good," so thinking in both cases he returns to the tree unchanged[2]. (712)
+
+   35. "Wandering about with his alms-bowl in his
+
+[1. Na vakam payutam bhane.
+
+2. Alattham yad idam sadhu
+      Nalattham kusalam iti,
+      Ubhayen' eva so tadi[*]
+      Rukkham va upanivattati.
+
+*. Tadi = nibbikaro. Commentator.]
+
+p. 130
+
+hand, considered dumb without being dumb, let him not blush at a little gift, let him not despise the giver. (713)
+
+   36. 'Various are the practices illustrated by the Samana, they do not go twice to the other shore, this (is) not once thought[1]. (?) (714)
+
+   37. 'For whom there is no desire, for the Bhikkhu who has cut off the stream (of existence) and abandoned all kinds of work, there is no pain. (715)
+
+   38. 'I will declare to thee the state of wisdom,'--so said Bhagavat,--'let one be like the edge of a razor, having struck his palate with his tongue, let him be restrained in (regard to his) stomach. (716)
+
+   39. 'Let his mind be free from attachment, let him not think much[2] (about worldly affairs), let him be without defilement, independent, and devoted to a religious life. (717)
+
+   40. 'For the sake of a solitary life and for the sake of the service that is to be carried out by Samanas, let him learn, solitariness is called wisdom[3]; alone indeed he will find pleasure. (718)
+
+   41. 'Then he will shine through the ten regions, having heard the voice of the wise, of the meditating, of those that have abandoned sensual pleasures, let my adherent then still more devote himself to modesty and belief. (719)
+
+   42. 'Understand this from the waters in chasms
+
+[1. Ukkavaka hi patipada
+      Samanena pakasita,
+      Na param digunam yanti,
+      Na idam ekagunam mutam.
+
+2. Na kapi bahu kintaye.
+
+3. Ekattam monam akkhatam.]
+
+p. 131
+
+and cracks: noisy go the small waters, silent goes the vast ocean[1]. (720)
+
+   43. 'What is deficient that makes a noise, what is full that is calm; the fool is like a half-(filled) water-pot, the wise is like a full pool. (721)
+
+   44. 'When the Samana speaks much that is possessed of good sense, he teaches the Dhamma while knowing it, while knowing it he speaks much[2]. (722)
+
+   45. 'But he who while knowing it is self-restrained, and while knowing it does not speak much, such a Muni deserves wisdom (mona), such a Muni has attained to wisdom (mona)[3].' (723)
+
+Nalakasutta is ended.
+
+ 
+
+12. DVAYATANUPASSANASUTTA.
+
+ All pain in the world arises from upadhi, avigga, samkhara vinnana, phassa, vedana, tanha, upadana, arambha, ahara, ingita, nissaya, rupa, mosadhamma, sukha.   So it was heard by me:
+
+   At one time Bhagavat dwelt at Savatthi in Pubbarama, Migaramatar's mansion. At that time Bhagavat on the Uposatha day[4], on the fifteenth,
+
+[1. Tan nadihi viganatha
+      Sobbhesu padaresu ka:
+      Sananta yanti kussobbha
+      Tunhi yati mahodadhi.
+
+2. Yam samano bahu bhasati
+      Upetam atthasamhitam
+      Ganam so dhammam deseti
+      Ganam so bahu bhasati.
+
+3. Yo ka ganam samyatatto
+      Ganam na bahu bhasati
+      Sa muni monam arahati
+      Sa muni monam agghaga.
+
+4. See Rhys Davids, Buddhism, p. 140.]
+
+p. 132
+
+it being full moon, in the evening was sitting in the open air, surrounded by the assembly of Bhikkhus. Then Bhagavat surveying the silent assembly of Bhikkhus addressed them (as follows):
+
+   'Whichever Dhammas there are, O Bhikkhus, good, noble, liberating, leading to perfect enlightenment,--what is the use to you of listening to these good, noble, liberating Dhammas, leading to perfect enlightenment? If, O Bhikkhus, there should be people that ask so, they shall be answered thus: "Yes, for the right understanding of the two Dhammas." "Which two do you mean?" "(I mean), this is pain, this is the origin of pain," this is one consideration, "this is the destruction of pain, this is the way leading to the destruction of pain," this is the second consideration; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly[1], is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state of an Anagamin (one that does not return).' This said Bhagavat, (and) when Sugata had said this, the Master further spoke:
+
+   1. 'Those who do not understand pain and the origin of pain, and where pain wholly and totally is stopped, and do not know the way that leads to the cessation of pain, (724)
+
+   2. 'They, deprived of the emancipation of thought
+
+[1. . . . ka upanisa savanaya,'ti iti ke bhikknave pukkhitaro assu te evam assu vakaniya: yavad eva dvayatanam dhammanam yathabhutam nanaya 'ti, kinka dvayatam vadetha? 'idam dukkham, ayam dukkhasamudayo' ti ayam ekanupassana, 'ayam dukkhanirodho, ayam dukkhanirodhagamini patipada' ti ayam dutiyanupassana; evam sammadvayatanupassino . . .]
+
+p. 133
+
+and the emancipation of knowledge, are unable to put an end (to samsara), they will verily continue to undergo birth and decay. (725)
+
+   3. 'And those who understand pain and the origin of pain, and where pain wholly and totally is stopped, and who know the way that leads to the cessation of pain, (726)
+
+   4. 'They, endowed with the emancipation of thought and the emancipation of knowledge, are able to put an end (to samsara), they will not undergo birth and decay. (727)
+
+   '"Should there be a perfect consideration of the Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "Whatever pain arises is all in consequence of the upadhis (elements of existence)," this is one consideration, "but from the complete destruction of the upadhis, through absence of passion, there is no origin of pain," this is the second consideration; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state of an Anagamin (one that does not return).' This said Bhagavat, (and) when Sugata had said this, the Master further spoke:
+
+   5. 'Whatever pains there are in the world, of many kinds, they arise having their cause in the upadhis; he who being ignorant creates upadhi, that fool again undergoes pain; therefore being wise do not create upadhi, considering what is the birth and origin of pain. (728)
+
+   '"Should there be a perfect consideration of the
+
+p. 134
+
+Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "Whatever pain arises is all in consequence of avigga (ignorance)," this is one consideration, "but from the complete destruction of avigga, through absence of passion, there is no origin of pain," this is the second consideration; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state of an Anagamin (one that does not return).' This said Bhagavat, (and) when Sugata had said this, the Master further spoke:
+
+   6. 'Those who again and again go to samsara with birth and death, to existence in this way or in that way,--that is the state of avigga. (729)
+
+   7. 'For this avigga is the great folly by which this (existence) has been traversed long, but those beings who resort to knowledge do not go to rebirth. (730)
+
+   '"Should there be a perfect consideration of the Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "Whatever pain arises is all in consequence of the samkharas (matter)," this is one consideration, "but from the complete destruction of the samkharas, through absence of passion, there is no origin of pain," this is the second consideration; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state
+
+p. 135
+
+of an Anagamin (one that does not return).' This said Bhagavat; (and) when Sugata had said this, the Master further spoke:
+
+   8. 'Whatever pain arises is all in consequence of the samkharas, by the destruction of the samkharas there will be no origin of pain. (731)
+
+   9. 'Looking upon this pain that springs from the samkharas as misery, from the cessation of all the samkharas, and from the destruction of consciousness will arise the destruction of pain, having understood this exactly, (732)
+
+   10. 'The wise who have true views and are accomplished, having understood (all things) completely, and having conquered all association with Mara, do not go to re-birth. (733)
+
+   '"Should there be a perfect consideration of the Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "Whatever pain arises is all in consequence of vinnana (consciousness)," this is one consideration, "but from the complete destruction of vinnanana, through absence of passion, there is no origin of pain," this is the second consideration; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state of an Anagamin (one that does not return).' This said Bhagavat, (and) when Sugata had said this, the Master further spoke:
+
+   11. 'Whatever pain arises is all in consequence of vinnana, by the destruction of vinnana there is no origin of pain. (734)
+
+p. 136
+
+   12. 'Looking upon this pain that springs from vinnana as misery, from the cessation of vinnana a Bhikkhu free from desire (will be) perfectly happy (parinibbuta). (735)
+
+   '"Should there be a perfect consideration of the Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "Whatever pain arises is all in consequence of phassa (touch)," this is one consideration, "but from the complete destruction of phassa, through absence of passion, there is no origin of pain," this is the second consideration; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state of an Anagamin (one that does not return).' This said Bhagavat, (and) when Sugata had said this, the Master further spoke:
+
+   13. 'For those who are ruined by phassa, who follow the stream of existence, who have entered a bad way, the destruction of bonds is far off. (736)
+
+   14. 'But those who, having fully understood phassa, knowingly have taken delight in cessation, they verily from the comprehension of phassa, and being free from desire, are perfectly happy. (737)
+
+   '"Should there be a perfect consideration of the Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "Whatever pain arises is all in consequence of the vedanas (sensations)," this is one consideration, "but from the complete destruction of the vedanas, through absence of passion, there
+
+p. 137
+
+no origin of pain," this is the second consideration; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state of an Anagamin (one that does not return).' This said Bhagavat, (and) when Sugata had said this, the Master further spoke:
+
+   15. 'Pleasure or pain, together with want of pleasure and want of pain, whatever is perceived internally and externally, (738)
+
+   16. 'Looking upon this as pain, having touched what is perishable and fragile, seeing the decay (of everything), the Bhikkhu is disgusted, having from the perishing of the vedanas become free from desire, and perfectly happy. (739)
+
+   '"Should there be a perfect consideration of the Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "Whatever pain arises is all in consequence of tanha (desire)," this is one consideration, "but from the complete destruction of tanha, through absence of passion, there is no origin of pain," this is the second consideration; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state of an Anagamin (one that does not return).' This said Bhagavat, (and) when Sugata had said this, the Master further spoke:
+
+   17. 'A man accompanied by tanha, for a long time transmigrating into existence in this way or
+
+p. 138
+
+that way, does not overcome transmigration (samsara). (740)
+
+   18. 'Looking upon this as misery, this origin of the pain of tanha, let the Bhikkhu free from tanha, not seizing (upon anything), thoughtful, wander about. (741)
+
+   '"Should there be a perfect consideration of the Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "Whatever pain arises is all in consequence of the upadanas (the seizures)," this is one consideration, "but from the complete destruction of the upadanas, through absence of passion, there is no origin of pain," this is the second consideration; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state of an Anagamin (one that does not return).' This said Bhagavat, (and) when Sugata had said this, the Master further spoke:
+
+   19. 'The existence is in consequence of the upadanas; he who has come into existence goes to pain, he who has been born is to die, this is the origin of pain. (742)
+
+   20. 'Therefore from the destruction of the upadanas the wise with perfect knowledge, having seen (what causes) the destruction of birth, do not go to re-birth. (743)
+
+   '"Should there be a perfect consideration of the Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "Whatever pain arises is all in
+
+p. 139
+
+consequence of the arambhas (exertions)," this is one consideration, "but from the complete destruction of the arambhas, through absence of passion, there is no origin of pain," this is the second consideration; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state of an Anagamin (one that does not return).' This said Bhagavat, (and) when Sugata had said this, the Master further spoke:
+
+   21. 'Whatever pain arises is all in consequence of the arambhas, by the destruction of the arambhas there is no origin of pain. (744)
+
+   22, 23. 'Looking upon this pain that springs from the arambhas as misery, having abandoned all the arambhas, birth and transmigration have been crossed over by the Bhikkhu who is liberated in non-exertion, who has cut off the desire for existence, and whose mind is calm; there is for him no re-birth. (745, 746)
+
+   '"Should there be a perfect consideration of the Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "Whatever pain arises is all in consequence of the aharas (food?)," this is one consideration, "but from the complete destruction of the aharas, through absence of passion, there is no origin of pain," this is the second consideration; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still
+
+p. 140
+
+remain, the state of an Anagamin (one that does not return).' This said Bhagavat, (and) when Sugata had said this, the Master further spoke:
+
+   24. 'Whatever pain arises is all in consequence of the aharas, by the destruction of the aharas there is no origin of pain. (747)
+
+   25. 'Looking upon this pain that springs from the aharas as misery, having seen the result of all aharas, not resorting to all aharas, (748)
+
+   26. 'Having seen that health is from the destruction of desire, he that serves discriminatingly and stands fast in the Dhamma cannot be reckoned as existing, being accomplished[1]. (749)
+
+   '"Should there be a perfect consideration of the Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "Whatever pain arises is all in consequence of the ingitas (commotions)," this is one consideration, "but from the complete destruction of the ingitas, through absence of passion, there is no origin of pain," this is the second consideration; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state of an Anagamin (one that does not return).' This said Bhagavat, (and) when Sugata had said this, the Master further spoke:
+
+   27. 'Whatever pain arises is all in consequence of the ingitas, by the destruction of the ingitas there is no origin of pain. (750)
+
+   28. 'Looking upon this pain that springs from
+
+[1. Samkham nopeti vedagu.]
+
+p. 141
+
+the ingitas as misery, and therefore having abandoned the ingitas and having stopped the samkharas; let the Bhikkhu free from desire and not seizing (upon anything), thoughtful, wander about. (751)
+
+   '"Should there be a perfect consideration of the Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "For the nissita (dependent) there is vacillation," this is one consideration, "the independent (man) does not vacillate," this is the second consideration; thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state of an Anagamin (one that does not return).' This said Bhagavat, (and) when Sugata had said this, the Master further spoke:
+
+   29. 'The independent (man) does not vacillate, and the dependent (man) seizing upon existence in one way or in another, does not overcome samsara. (752).
+
+   30. 'Looking upon this as misery (and seeing) great danger in things you depend upon, let a Bhikkhu wander about independent, not seizing (upon anything), thoughtful. (753)
+
+   '"Should there be a perfect consideration of the Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "The formless (beings), O Bhikkhus, are calmer than the rupas (for ruppa, i.e. form-possessing)," this is one consideration, "cessation is calmer than the formless," this is another consideration, "thus, O Bhikkhus, by the Bhikkhu that considers
+
+p. 142
+
+the Dyad duly, that is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state of an Anagamin (one that does not return).' This said Bhagavat, (and) when Sugata had said this, the Master further spoke:
+
+   31. 'Those beings who are possessed of form, and those who dwell in the formless (world), not knowing cessation, have to go to re-birth. (754)
+
+   32. 'But those who, having fully comprehended the forms, stand fast in the formless (worlds), those who are liberated in the cessation, such beings leave death behind. (755)
+
+   '"Should there be a perfect consideration of the Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "What has been considered true by the world of men, together with the gods, Mara, Brahman, and amongst the Samanas, Bramanas, gods, and men, that has by the noble through their perfect knowledge been well seen to be really false," this is one consideration; "what, O Bhikkhus, has been considered false by the world of men, together with the gods, Mara, Brahman, and amongst the Samanas, Bramanas, gods, and men, that has by the noble through their perfect knowledge been well seen to be really true," this is another consideration. Thus, O Bhikkhus, by the Bhikkhu that considers the Dyad duly, that is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state of an Anagamin (one that does not return).' This said Bhagavat,
+
+p. 143
+
+(and) when Sugata had said this, the Master further spoke:
+
+   33. 'Seeing the real in the unreal, the world of men and gods dwelling in name and form[1], he thinks: "This is true." (756)
+
+   34. 'Whichever way they think (it), it becomes otherwise, for it is false to him, and what is false is perishable[2]. (?) (757)
+
+   35. 'What is not false, the Nibbana, that the noble conceive as true, they verily from the comprehension of truth are free from desire (and) perfectly happy[3]. (758)
+
+   '"Should there be a perfect consideration of the Dyad in another way," if, O Bhikkhus, there are people that ask so, they shall be told, there is, and how there is: "What, O Bhikkhus, has been considered pleasure by the world of men, gods, Mara, Brahman, and amongst the Samanas, Bramanas, gods, and men, that has by the noble by (their) perfect knowledge been well seen to be really pain," this is one consideration; "what, O Bhikkhus, has been considered pain by the world of men, gods, Mara, Brahman, and amongst the Samanas, Brahmanas, gods, and men, that has by the noble by their perfect knowledge been well seen to be really pleasure," this is the second consideration. Thus, O
+
+[1. Namarupasmim, 'individuality.'
+
+2. Yena yena hi mannanti
+      Tato tam hoti annatha,
+      Tam hi tassa musa hoti,
+      Mosadhammam hi ittaram.
+
+3. Amosadhammam nibbanam
+      Tad ariya sakkato vidu,
+      Te ye sakkabhisamaya
+      Nikkhata parinibbuta.]
+
+p. 144
+
+Bhikkhus, by the Bhikkhu who considers the Dyad duly, who is strenuous, ardent, resolute, of two fruits one fruit is to be expected: in this world perfect knowledge, or, if any of the (five) attributes still remain, the state of an Anagamin (one who does not return).' This said Bhagavat, (and) when Sugata had said so, the Master further spoke:
+
+   36. 'Form, sound, taste, smell, and touch are all wished for, pleasing and charming (things) as long as they last, so it is said. (759)
+
+   37. 'By you, by the world of men and gods these (things) are deemed a pleasure, but when they cease it is deemed pain by them. (760)
+
+   38. 'By the noble the cessation of the existing body is regarded as pleasure; this is the opposite of (what) the wise in all the world (hold)[1]. (761)
+
+   39. 'What fools say is pleasure that the noble say is pain, what fools say is pain that the noble know as pleasure:--see here is a thing difficult to understand, here the ignorant are confounded. (762)
+
+   40. 'For those that are enveloped there is gloom, for those that do not see there is darkness, and for the good it is manifest, for those that see there is light; (even being) near, those that are ignorant of the way and the Dhamma, do not discern (anything)[2]. (763)
+
+[1. Sukhan ti dittham ariyehi
+      Sakkayass' uparodhanam,
+      Pakkanikam idam hoti
+      Sabbalokena passatam.
+
+2. Nivutanam tamo hoti
+      Andhakaro apassatam,
+      Satan ka vivatam hoti
+      Aloko passatam iva,
+      Santike na vigananti
+      Magadhammass' akovida.]
+
+p. 145
+
+   41. 'By those that are overcome by the passions of existence, by those that follow the stream of existence, by those that have entered the realm of Mara, this Dhamma is not perfectly understood. (764)
+
+   42. 'Who except the noble deserve the well-understood state (of Nibbana)? Having perfectly conceived this state, those free from passion are completely extinguished[1].' (765)
+
+   This spoke Bhagavat. Glad those Bhikkhus rejoiced at the words of Bhagavat. While this explanation was being given, the minds of sixty Bhikkhus, not seizing (upon anything), were liberated.
+
+Dvayatanupassanasutta is ended.
+
+Mahavagga, the third.
+
+[1. Ko nu annatra-m-ariyehi
+      Padam sambuddham arahati
+      Yam padam samma-d-annaya
+      Parinibbanti anasava.]
+
+     
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 146
+
+ 
+
+IV. ATTHAKAVAGGA.
+
+ 
+
+1. KAMASUTTA.
+
+ Sensual pleasures are to be avoided.   1. If he who desires sensual pleasures is successful, he certainly becomes glad-minded, having obtained what a mortal wishes for. (766)
+
+   2. But if those sensual pleasures fail the person who desires and wishes (for them), he will suffer, pierced by the arrow (of pain). (767)
+
+   3. He who avoids sensual pleasures as (he would avoid treading upon) the head of a snake with his foot, such a one, being thoughtful (sato), will conquer this desire. (768)
+
+   4. He who covets extensively (such) pleasures (as these), fields, goods, or gold, cows and horses, servants, women, relations, (769)
+
+   5. Sins will overpower him, dangers will crush him, and pain will follow him as water (pours into) a broken ship. (770)
+
+   6. Therefore let one always be thoughtful, and avoid pleasures; having abandoned them, let him cross the stream, after baling out the ship, and go to the other shore. (771)
+
+Kamasutta is ended.
+
+p. 147
+
+ 
+
+2. GUHATTHAKASUTTA.
+
+ Let no one cling to existence and sensual pleasures.   1. A man that lives adhering to the cave (i.e. the body), who is covered with much (sin), and sunk into delusion, such a one is far from seclusion, for the sensual pleasures in the world are not easy to abandon. (772)
+
+   2. Those whose wishes are their motives, those who are linked to the pleasures of the world, they are difficult to liberate, for they cannot be liberated by others, looking for what is after or what is before, coveting these and former sensual pleasures. (773)
+
+   3. Those who are greedy of, given to, and infatuated by sensual pleasures, those who are niggardly, they, having entered upon what is wicked, wail when they are subjected to pain, saying: 'What will become of us, when we die away from here?' (774)
+
+   4. Therefore let a man here[1] learn, whatever he knows as wicked in the world, let him not for the sake of that (?) practise (what is) wicked[2]; for short is this life, say the wise. (775)
+
+   5. I see in the world this trembling race given to desire for existences; they are wretched men who lament in the mouth of death, not being free from the desire for reiterated existences. (776)
+
+   6. Look upon those men trembling in selfishness, like fish in a stream nearly dried up, with little water; seeing this, let one wander about unselfish, without forming any attachment to existences. (777)
+
+[1. Idheva = imasmim yeva sasane. Commentator.
+
+2. Na tassa hetu visamam kareyya.]
+
+p. 148
+
+   7. Having subdued his wish for both ends[1], having fully understood touch without being greedy, not doing what he has himself blamed, the wise (man) does not cling to what is seen and heard[2]. (778)
+
+   8. Having understood name[3], let the Muni cross over the stream, not defiled by any grasping; having pulled out the arrow (of passion), wandering about strenuous, he does not wish for this world or the other. (779)
+
+Guhatthakasutta is ended.
+
+ 
+
+3. DUTTHATTHAKASUTTA.
+
+ The Muni undergoes no censure, for he has shaken off all systems of philosophy, and is therefore independent.   1. Verily, some wicked-minded people censure, and also just-minded people censure, but the Muni does not undergo the censure that has arisen; therefore there is not a discontented (khila) Muni anywhere. (780)
+
+   2. How can he who is led by his wishes and possessed by his inclinations overcome his own (false) view? Doing his own doings let him talk according to his understanding[4]. (781)
+
+   3. The person who, without being asked, praises
+
+[1. Comp. .
+
+2. Ubhosu antesu vineyya khandam
+      Phassam parinnaya ananugiddho
+      Yad atta garahi tad akubbamano
+       Na lippati ditthasutesu dhiro.
+
+3. Sannam = namarupam. Commentator.
+
+4. Sakam hi ditthim katham akkayeyya
+      Khandanunito rukiya nivittho,
+      Sayam samattani pakubbamano
+      Yatha hi ganeyya tatha vadeyya.]
+
+p. 149
+
+his own virtue and (holy) works to others, him the good call ignoble, one who praises himself[1]. (782)
+
+   4. But the Bhikkhu who is calm and of a happy mind, thus not praising himself for his virtues, him the good call noble, one for whom there are no desires anywhere in the world[2]. (783)
+
+   5. He whose Dhammas are (arbitrarily) formed and fabricated, placed in front, and confused, because he sees in himself a good result, is therefore given to (the view which is called) kuppa-patikka-santi[3]. (?) (784)
+
+   6. For the dogmas of philosophy are not easy to overcome, amongst the Dhammas (now this and now that) is adopted after consideration; therefore a man rejects and adopts (now this and now that) Dhamma amongst the dogmas[4]. (785)
+
+   7. For him who has shaken off (sin) there is nowhere in the world any prejudiced view of the different existences; he who has shaken off (sin), after leaving deceit and arrogance behind, which (way) should he go, he (is) independent[6]. (786)
+
+[1. Yo atumanam sayam eva pava = yo evam attanam sayam eva vadati. Commentator.
+
+2. Yass' ussada n' atthi kuhinki loke.
+
+3. Pakappita samkhata yassa dhamma
+      Purakkhata santi avivadata
+      Yad attani passati anisamsam
+      Tam nissito kuppapatikkasantim.
+
+4. Ditthinivesa na hi svativatta,
+      Dhammesu nikkheyya samuggahitam,
+      Tasma naro tesu nivesanesu
+      Nirassati adiyati-kka dhammam.
+ Comp. .
+
+5. Dhonassa hi n' atthi kuhinki loke
+      Pakappita ditthi bhavabhavesu,
+      Mayan ka manan ka pahaya dhono
+      Sa kena gakkheyya, anupayo so.]
+
+p. 150
+
+   8. But he who is dependent undergoes censure amongst the Dhammas; with what (name) and how should one name him who is independent? For by him there is nothing grasped or rejected, he has in this world shaken off every (philosophical) view[1]. (787)
+
+Dutthatthakasutta is ended.
+
+ 
+
+4. SUDDHATTHAKASUTTA.
+
+ No one is purified by philosophy, those devoted to philosophy run from one teacher to another, but the wise are not led by passion, and do not embrace anything in the world as the highest.   1. I see a pure, most excellent, sound man, by his views a man's purification takes place, holding this opinion, and having seen this view to be the highest he goes back to knowledge, thinking to see what is pure[2]. (788)
+
+   2. If a man's purification takes place by (his philosophical) views, or he by knowledge leaves pain behind, then he is purified by another (way than the ariyamagga, i.e. the noble way), together with his upadhis, on account of his views he tells him to say so[3]. (789)
+
+[1. Upayo[*] hi dhammesu upeti vadam
+      Anupayam kena katham vadeyya
+      Attam nirattam na hi tassa atthi
+      Adhosi so ditthim idh' eva sabbam.
+
+2. Passami suddham paramam arogam,
+      Ditthena samsuddhi narassa hoti,
+      Et' abhiganam paraman ti natva.
+      Suddhanupassiti pakketi nanam.
+
+3. Ditthihi nam pava tatha vadanam.
+ Comp. ; .
+
+*. Upayo ti tanhaditthinissito. Commentator.]
+
+p. 151
+
+   3. But the Brahmana who does not cling to what has been seen, or heard, to virtue and (holy) works, or to what has been thought, to what is good and to what is evil, and who leaves behind what has been grasped, without doing anything in this world, he does not acknowledge that purification cornes from another[1]. (790)
+
+   4. Having left (their) former (teacher) they go to another, following their desires they do not break asunder their ties; they grasp, they let go like a monkey letting go the branch (just) after having caught (hold of it). (791)
+
+   5. Having himself undertaken some (holy) works he goes to various (things) led by his senses, but a man of great understanding, a wise man who by his wisdom has understood the Dhamma, does not go to various (occupations). (792)
+
+   6. He being secluded amongst all the Dhammas, whatever has been seen, heard, or thought--how should any one in this world be able to alter him, the seeing one, who wanders openly[2]? (793)
+
+   7. They do not form (any view), they do not prefer (anything), they do not say, 'I am infinitely pure;' having cut the tied knot of attachment, they do not long for (anything) anywhere in the world. (794)
+
+[1.Na brahmano annato suddhim aha
+      Ditthe sute silavate mute va
+      punne ka pape ka anupalitto
+      Attangaho na idha pakubbamano.
+
+2. Sa sabbadhammesu visenibhuto[*]
+      Yam kinki dittham va sutam mutam va
+      Tam eva dassim vivatam karantam
+      Ken' idha lokasmim vikappayeyya?
+
+*. Marasenam vinasetva thitabhavena visenibhuto. Commentator.]
+
+p. 152
+
+   8. He is a Brahmana that has conquered (sin)[1]; by him there is nothing embraced after knowing and seeing it; he is not affected by any kind of passion; there is nothing grasped by him as the highest in this world. (795)
+
+Suddhatthakasutta is ended.
+
+ 
+
+5. PARAMATTHAKASUTTA.
+
+ One should not give oneself to philosophical disputations; a Brahmana who does not adopt any system of philosophy, is unchangeable, has reached Nibbana.   1. What one person, abiding by the (philosophical) views, saying, 'This is the most excellent,' considers the highest in the world, everything different from that he says is wretched, therefore he has not overcome dispute[2]. (796)
+
+   2. Because he sees in himself a good result, with regard to what has been seen (or) heard, virtue and (holy) works, or what has been thought, therefore, having embraced that, he looks upon everything else as bad[3]. (797)
+
+   3. The expert call just that a tie dependent
+
+[1. Katunnam kilesasimanam atitatta
+      Simatigo bahitapapatta ka brahmano.
+
+2. Paraman ti ditthisu paribbasano
+      Yad uttarim kurute gantu loke
+      Hina ti anne tato sabbam aha,
+      Tasma vivadani avitivatto.
+ Properly, 'others (are) wretched.'
+
+3. Yad attani passati anisamsam
+      Ditthe sute silavate mute va
+      Tad eva so tattha samuggahaya
+      Nihinato passati sabbam annam.]
+
+p. 153
+
+upon which one looks upon anything else as bad. Therefore let a Bhikkhu not depend upon what is seen, heard, or thought, or upon virtue and (holy) works[1]. (798)
+
+   4. Let him not form any (philosophical) view in this world, either by knowledge or by virtue and (holy) works, let him not represent himself equal (to others), nor think himself either low or distinguished. (799)
+
+   5. Having left what has been grasped, not seizing upon anything he does not depend even on knowledge. He does not associate with those that are taken up by different things, he does not return to any (philosophical) view[2]. (800)
+
+   6. For whom there is here no desire for both ends, for reiterated existence either here or in another world, for him there are no resting-places (of the mind) embraced after investigation amongst the doctrines (dhammesu)[3]. (801)
+
+   7. ln him there is not the least prejudiced idea with regard to what has been seen, heard, or thought; how could any one in this world alter such a Brahmana who does not adopt any view? (802)
+
+[1. Tam vapi gantham kusala vadanti
+      Yam nissito passati hinam annam,
+      Tasma hi dittham va sutam mutam va
+      Silabbatam bhikkhu na nissayeyya.
+
+2. Attam pahaya anupadiyano
+      Nane pi so nissayam no karoti,
+      Sa ve viyattesu na vaggasari,
+      Ditthim pi so na pakketi kinki.
+
+3. Yass' ubhayante panidhidha n' atthi
+      Bhavabhavaya idha va huram va
+      Nivesana tassa na santi keki
+      Dhammesu nikkheyya samuggahita.]
+
+p. 154
+
+   8. They do not form (any view), they do not prefer (anything), the Dhammas are not chosen by them, a Brahmana is not dependent upon virtue and (holy) works; having gone to the other shore, such a one does not return. (803)
+
+Paramatthakasutta is ended.
+
+ 
+
+6. GARASUTTA.
+
+ From selfishness come grief and avarice; The Bhikkhu who has turned away frorn the world and wanders about houseless, is independent, and does not wish for purification through another.   1. Short indeed is this life, within a hundred years one dies, and if any one lives longer, then he dies of old age. (804)
+
+   2. People grieve from selfishness, perpetual cares kill them, this (world) is full of disappointment; seeing this, let one not live in a house. (805)
+
+   3. That even of which a man thinks 'this is mine' is left behind by death: knowing this, let not the wise (man) turn himself to worldliness (while being my) follower[1]. (806)
+
+   4. As a man awakened does not see what he has met with in his sleep, so also he does not see the beloved person that has passed away and is dead. (807)
+
+   5. Both seen and heard are the persons whose particular name is mentioned, but only the name
+
+[1. Maranena pi tam pahiyati
+      Yam puriso mama-y-idan ti mannati,
+      Evam pi viditva pandito
+      Na pamattaya nametha mamako.]
+
+p. 155
+
+remains undecayed of the person that has passed away[1]. (808)
+
+   6. The greedy in their selfishness do not leave sorrow, lamentation, and avarice; therefore the Munis leaving greediness wandered about seeing security (i.e. Nibbana). (809)
+
+   7. For a Bhikkhu, who wanders about unattached and cultivates the mind of a recluse, they say it is proper that he does not show himself (again) in existence[2]. (810)
+
+   8. Under all circumstances the independent Muni does not please nor displease (any one); sorrow and avarice do not stick to him (as little) as water to a leaf. (811)
+
+   9. As a drop of water does not stick to a lotus, as water does not stick to a lotus, so a Muni does not cling to anything, namely, to what is seen or heard or thought[3]. (812)
+
+   10. He who has shaken off (sin) does not therefore think (much of anything) because it has been seen or heard or thought; he does not wish for
+
+[1. Ditthapi sutapi te gana
+      Yesam namam idam pavukkati
+      Namam evavasissati
+      Akkheyyam petassa gantuno.
+
+2. Patilinakarassa bhikkhuno
+      Bhagamanassa vittamanasam[*]
+      Samaggiyam ahu tassa tam
+      Yo attanam bhavane na dassaye.
+
+3. Udabindu yathapi pokkhare
+      Padume vari yatha na lippati
+      Evam muni nopalippati
+      Yad idam dittthasutam mutesu va.
+
+*. Bi has vivitta-.]
+
+p. 156
+
+purification through another, for he is not pleased nor displeased (with anything)[1]. (813)
+
+ Garasutta is ended.
+
+ 
+
+7. TISSAMETTEYYASUTTA.
+
+ Sexual intercourse should be avoided.   1. 'Tell me, O venerable one,'--so said the venerable Tissa Metteyya,--'the defeat of him who is given to sexual intercourse; hearing thy precepts we will learn in seclusion.' (814)
+
+   2. 'The precepts of him who is given to sexual intercourse, O Metteyya,'--so said Bhagavat,--'are lost, and he employs himself wrongly, this is what is ignoble in him. (815)
+
+   3. 'He who, having formerly wandered alone, gives himself up to sexual intercourse, him they call in the world a low, common fellow, like a rolling chariot. (816)
+
+   4. 'What honour and renown he had before, that is lost for him; having seen this let him learn to give up sexual intercourse. (817)
+
+   5. 'He who overcome by his thoughts meditates like a miser, such a one, having heard the (blaming) voice of others, becomes discontented. (818)
+
+   6. 'Then he makes weapons (i.e. commits evil
+
+[1. Dhono na hi tena mannati
+      Yad idam ditthasutam mutesu va,
+      Nannena visuddhim ikkhati,
+      Na hi so raggati no viraggati.
+ Comp. .]
+
+p. 157
+
+deeds) urged by the doctrines of others, he is very greedy, and sinks into falsehood[1]. (819)
+
+   7. 'Designated "wise" he has entered upon a solitary life, then having given himself up to sexual intercourse, he (being) a fool suffers pain. (820)
+
+   8. 'Looking upon this as misery let the Muni from first to last in the world firmly keep to his solitary life, let him not give himself up to sexual intercourse. (821)
+
+   9. 'Let him learn seclusion, this is the highest for noble men, but let him not therefore think himself the best, although he is verily near Nibbana. (822)
+
+   10. 'The Muni who wanders void (of desire), not coveting sensual pleasures, and who has crossed the stream, him the creatures that are tied in sensual pleasures envy.' (823)
+
+Tissametteyyasutta is ended.
+
+ 
+
+8. PASURASUTTA.
+
+ Disputants brand each other as fools, they wish for praise, but being repulsed they become discontented; one is not purified by dispute, but by keeping to Buddha, who has shaken off all sin.   1. Here they maintain 'purity,' in other doctrines (dhamma) they do not allow purity; what they have devoted themselves to, that they call good, and they enter extensively upon the single truths[2]. (824)
+
+[1. Atha satthani kurute
+      Paravadehi kodito,
+      Esa khv-assa mahagedho,
+      Mosavaggam pagahati.
+
+2. Idh' eya suddhim iti vadiyanti
+      Nannesu dhammesu visuddhim ahu
+      Yam nissita tattha subham vadana
+      Pakkekasakkesu puthu nivittha.]
+
+p. 158
+
+   2. Those wishing for dispute, having plunged into the assembly, brand each other as fools mutually, they go to others and pick a quarrel, wishing for praise and calling themselves (the only) expert. (825)
+
+   3. Engaged in dispute in the middle of the assembly, wishing for praise he lays about on all sides; but when his dispute has been repulsed he becomes discontented, at the blame he gets angry he who sought for the faults (of others). (826)
+
+   4. Because those who have tested his questions say that his dispute is lost and repulsed, he laments and grieves having lost his disputes; 'he has conquered me,' so saying he wails. (827)
+
+   5. These disputes have arisen amongst the Samanas, in these (disputes) there is (dealt) blow (and) stroke; having seen this, let him leave off disputing, for there is no other advantage in trying to get praise. (828)
+
+   6. Or he is praised there, having cleared up the dispute in the middle of the assembly; therefore he will laugh and be elated, having won that case as he had a mind to. (829)
+
+   7. That which is his exaltation will also be the field of his defeat, still he talks proudly and arrogantly; seeing this, let no one dispute, for the expert do not say that purification (takes place) by that[1]. (830)
+
+   8. As a hero nourished by kingly food goes about roaring, wishing for an adversary--where he (i.e. the philosopher, Ditthigatika) is, go thou there, O
+
+[1. Yi unnati sassa vighatabumi,
+      Manatimanam vadate pan' eso,
+      Etam pi disva na vivadayetha
+      Na hi tena suddhim kusala vadanti.
+ Comp. .]
+
+p. 159
+
+hero; formerly there was nothing like this to fight against[1]. (831)
+
+   9. Those who, having embraced a (certain philosophical) view, dispute and maintain 'this only (is) true,' to them say thou when a dispute has arisen, 'Here is no opponent[2] for thee.' (832)
+
+   10. Those who wander about after having secluded themselves, without opposing view to view--what (opposition) wilt thou meet with amongst those, O Pasura, by whom nothing in this world is grasped as the best? (833)
+
+   11. Then thou wentest to reflection thinking in thy mind over the (different philosophical) views; thou hast gone into the yoke with him who has shaken off (al1 sin), but thou wilt not be able to proceed together (with him)[3]. (834)
+
+Pasurasutta is ended.
+
+ 
+
+9. MAGANDIYASUTTA.
+
+ A dialogue between Magandiya and Buddha. The former offers Buddha his daughter for a wife, but Buddha refuses her. Magandiya says that purity cornes from philosophy, Buddha from 'inward peace.' The Muni is a confessor of peace, he does not dispute, he is free from marks.   1. Buddha: 'Even seeing Tanha, Arati, and Raga (the daughters of Mara), there was not the least wish
+
+[1. Suro yatha ragakhadaya puttho
+      Abhigaggam eti patisuram ikkham--
+      Yen' eva so tena palehi sura,
+      Pubbe va n' atthi yad idam yudhaya.
+
+2. Patisenikatta ti patilomakarako. Commentator.
+
+3. Atha tvam pavitakkam agama
+      Manasa ditthigatani kintayanto,
+      Dhonena yugam samagama,
+      Na hi tvam pagghasi sampayatave.]
+
+p. 160
+
+(in me) for sexual intercourse. What is this (thy daughter's body but a thing) full of water and excrement? I do not even want to touch it with my foot.' (835)
+
+   2. Magandiya: 'If thou dost not want such a pearl, a woman desired by many kings, what view, virtue, and (holy) works, (mode of) life, re-birth dost thou profess?' (836)
+
+   3. '"This I say," so (I do now declare), after investigation there is nothing amongst the doctrines which such a one (as I would) embrace, O Magandiya,'-- so said Bhagavat,--'and seeing (misery) in the (philosophical) views, without adopting (any of them), searching (for truth) I saw "inward peace[1]."' (837)
+
+   4. 'All the (philosophical) resolutions[2] that have been formed,'--so said Magandiya,--'those indeed thou explainest without adopting (any of them); the notion "inward peace" which (thou mentionest), how is this explained by the wise?' (838)
+
+   5. 'Not by (any philosophical) opinion, not by tradition, not by knowledge, O Magandiya,'--so said Bhagavat,--'not by virtue and (holy) works can any one say that purity exists; nor by absence of (philosophical) opinion, by absence of tradition, by absence of knowledge, by absence of virtue and (holy) works either; having abandoned these without adopting (anything else), let him, calm and independent, not desire existence[3]. (839)
+
+[1. Idam vadamiti na tassa hoti--Magandiya ti Bhagava--
+      Dhammesu nikkheyya samuggahitam
+      Passan ka ditthisu anuggahaya
+      Agghattasantim pakinam adassam.
+
+2. Vinikkhaya, placita?
+
+3. Na ditthiya na sutiya na nanena--Magandiya ti Bhagava--
+      Silabbatenapi na suddhim aha
+      Aditthiya assutiya anana
+      Asilata abbata no pi tena,
+      Ete ka nissagga anuggahaya
+      Santo anissaya bhavam na gappe.]
+
+p. 161
+
+   6. 'If one cannot say by (any philosophical) opinion, or by tradition, or by knowledge,'--so said Magandiya,--'or by virtue and (holy) works that purity exists, nor by absence of (philosophical) opinion, by absence of tradition, by absence of knowledge, by absence of virtue and (holy) works, then I consider the doctrine foolish, for by (philosophical) opinions some return to purity.' (840)
+
+   7. 'And asking on account of (thy philosophical) opinion, O Magandiya,'--so said Bhagavat,--'thou hast gone to infatuation in what thou hast embraced, and of this (inward peace) thou hast not the least idea, therefore thou holdest it foolish[1]. (841)
+
+   8. 'He who thinks himself equal (to others), or distinguished, or low, he for that very reason disputes; but he who is unmoved under those three conditions, for him (the notions) "equal" and "distinguished" do not exist. (842)
+
+   9. 'The Brahmana for whom (the notions) "equal" and "unequal" do not exist, would he say, "This is true?" Or with whom should he dispute, saying, "This is false?" With whom should he enter into dispute[2]? (843)
+
+   10. 'Having left his house, wandering about
+
+[1. Ditthin ka nissaya anupukkhamano
+      Samuggahitesu pamoham aga
+      Ito ka naddakkhi anum pi sannam
+      Tasma tuvam momuhato dahasi.
+
+2. Sakkan ti so brahmano kim vadeyya
+      Musa ti va so vivadetha kena
+      Yasmim samam visaman kapi n' atthi
+      Sa kena vadam patisamyugeyya.]
+
+p. 162
+
+houseless, not making acquaintances in the village, free from lust, not desiring (any future existence), let the Muni not get into quarrelsome talk with people. (844)
+
+   11. 'Let not an eminent man (naga) dispute after having embraced those (views) separated from which he (formerly) wandered in the world; as the thorny lotus elambuga is undefiled by water and mud, so the Muni, the confessor of peace, free from greed, does not cling to sensual pleasures and the world. (845)
+
+   12. 'An accomplished man does not by (a philosophical) view, or by thinking become arrogant, for he is not of that sort; not by (holy) works, nor by tradition is he to be led, he is not led into any of the resting-places (of the mind). (846)
+
+   13. 'For him who is free from marks there are no ties, to him who is delivered by understanding there are no follies; (but those) who grasped after marks and (philosophical) views, they wander about in the world annoying (people)[1].' (847)
+
+Magandiyasutta is ended.
+
+ 
+
+10. PURABHEDASUTTA.
+
+ Definition of a calm Muni.   1. 'With what view and with what virtue is one called calm, tell me that, O Gotama, (when) asked about the best man?' (848)
+
+   2. 'He whose desire is departed before the dissolution (of his body),'--so said Bhagavat,--'who
+
+[1. Sannavirattassa na santi gantha,
+      Pannavimuttassa na santi moha,
+      Sannan ka ditthin ka ye aggahesum
+      Te ghattayanta vikaranti loke.]
+
+p. 163
+
+does not depend upon beginning and end, nor reckons upon the middle, by him there is nothing preferred[1]. (849)
+
+   3. 'He who is free from anger, free from trembling, free from boasting, free from misbehaviour, he who speaks wisely, he who is not elated, he is indeed a Muni who has restrained his speech. (850)
+
+   4. 'Without desire for the future he does not grieve for the past, he sees seclusion in the phassas (touch), and he is not led by (any philosophical) views. (851)
+
+   5. 'He is unattached, not deceitful, not covetous, not envious, not impudent, not contemptuous, and not given to slander. (852)
+
+   6. 'Without desire for pleasant things and not given to conceit, and being gentle, intelligent, not credulous, he is not displeased (with anything). (853)
+
+   7. 'Not from love of gain does he learn, and he does not get angry on account of loss, and untroubled by desire he has no greed for sweet things[2]. (854)
+
+   8. 'Equable (upekhaka), always thoughtful, he does not think himself equal (to others)[3] in the world, nor distinguished, nor low: for him there are no desires (ussada). (855)
+
+[1. Vitatanho pura bheda
+      Pubbam antam anissito
+      Vemagghe n' upasamkheyyo
+      Tassa n' atthi purekkhatam.
+
+2. Rasesu nanugigghati
+
+3. Na loke mannate samam
+      Na visesi na nikeyyo.
+ Compare ; .]
+
+p. 164
+
+   9. 'The man for whom there is nothing upon which he depends, who is independent, having understood the Dhamma, for whom there is no desire for coming into existence or leaving existence, (856)
+
+   10. 'Him I call calm, not looking for sensual pleasures; for him there are no ties, he has overcome desire. (857)
+
+   11. 'For him there are no sons, cattle, fields, wealth, nothing grasped or rejected is to be found in him, (858)
+
+   12. 'That fault of which common people and Samanas and Brahmanas say that he is possessed, is not possessed by him, therefore he is not moved by their talk. (859)
+
+   13. 'Free from covetousness, without avarice, the Muni does not reckon himself amongst the distinguished, nor amongst the plain, nor amongst the low, he does not enter time, being delivered from time[1]. (860)
+
+   14. 'He for whom there is nothing in the world (which he may call) his own, who does not grieve over what is no more, and does not walk amongst the Dhammas (after his wish), he is called calm[2].' (861)
+
+Purabhedasutta is ended.
+
+ 
+
+11. KALAHAVIVADASUTTA.
+
+ The origin of contentions, disputes, &c. &c.   1. 'Whence (do spring up) contentions and disputes, lamentation and sorrow together with envy;
+
+[1. Vitagedho amakkhari
+      Na ussesu vadate muni
+      Na samesu na omesu,
+      Kappam n' eti akappiyo.
+
+2. Comp. infra, , and .]
+
+p. 165
+
+and arrogance and conceit together with slander, whence do these spring up? pray, tell me this.' (862)
+
+   2. 'From dear (objects) spring up contentions and disputes, lamentation and sorrow together with envy; arrogance and conceit together with slander; contentions and disputes are joined with envy, and there is slander in the disputes arisen.' (863)
+
+   3. 'The dear (objects) in the world whence do they originate, and (whence) the covetousness that prevails in the world, and desire and fulfilment whence do they originate, which are (of consequence) for the future state of a man[1]?' (864)
+
+   4. 'From wish[2] originate the dear (objects) in the world, and the covetousness that prevails in the world, and desire and fulfilment originate from it, which are (of consequence) for the future state of a man.' (865)
+
+   5. 'From what has wish in the world its origin, and resolutions[3] whence do they spring, anger and falsehood and doubt, and the Dhammas which are made known by the Samana (Gotama)?' (866)
+
+   6. 'What they call pleasure and displeasure in the world, by that wish springs up; having seen decay and origin in (all) bodies[4], a person forms (his) resolutions in the world. (867)
+
+   7. 'Anger and falsehood and doubt, these Dhammas are a couple[5]; let the doubtful learn in the way of knowledge, knowingly the Dhammas have been proclaimed by the Samana.' (868)
+
+   8. 'Pleasure and displeasure, whence have they
+
+[1. Ye samparayaya narassa honti.
+
+2. Khanda.
+
+3. Vinikkhaya.
+
+4. Rupesu disva vibhavam bhavan ka.
+
+5. Te pi kodhadayo dhamma satasatadvaye sante eva pahonti uppagganti. Commentator.]
+
+p. 166
+
+their origin, for want of what do these not arise? This notion which (thou mentionest), viz. "decay and origin," tell me from what does this arise.' (869)
+
+   9. 'Pleasure and displeasure have their origin from phassa (touch), when there is no touch they do not arise. This notion which (thou mentionest), viz. "decay and origin," this I tell thee has its origin from this.' (870)
+
+   10. 'From what has phassa its origin in the world and from what does grasping spring up? For want of what is there no egotism, by the cessation of what do the touches not touch? ' (871)
+
+   11. 'On account of name and form the touches (exist), grasping has its origin in wish; by the cessation of wishes there is no egotism, by the cessation of form the touches do not touch.' (872)
+
+   12. 'How is one to be constituted that (his) form may cease to exist, and how do joy and pain cease to exist? Tell me this, how it ceases, that we should like to know, such was my mind[1]?' (873)
+
+   13. 'Let one not be with a natural consciousness, nor with a mad consciousness, nor without consciousness, nor with (his) consciousness gone; for him who is thus constituted form ceases to exist, for what is called delusion has its origin in consciousness[2].' (?) (874)
+
+   14. 'What we have asked thee thou hast explained
+
+[1. Katham sametassa vibhoti rupam,
+      Sukham dukham vapi katham vibhoti,
+      Etam me pabruhi, yatha vibhoti
+      Tam ganiyama, iti me mano ahu.
+
+2. Na sannasanni na visannasanni
+      No pi asanni na vibhutasanni
+      Evam sametassa vibhoti rupam
+      Sannanidana hi papankasamkha.]
+
+p. 167
+
+unto us; we will ask thee another question, answer us that: Do not some (who are considered) wise in this world tell us that the principal (thing) is the purification of the yakkha, or do they say something different from this[1]?' (875)
+
+   15. 'Thus some (who are considered) wise in this world say that the principal (thing) is the purification of the yakkha; but some of them say samaya (annihilation), the expert say (that the highest purity lies) in anupadisesa (none of the five attributes remaining)[2]. (876)
+
+   16. 'And having known these to be dependent, the investigating Muni, having known the things we depend upon, and after knowing them being liberated, does not enter into dispute, the wise (man) does not go to reiterated existence[3].' (877)
+
+Kalahavivadasutta is ended.
+
+ 
+
+12. KULAVIYUHASUTTA.
+
+ A description of disputing philosophers. The different schools of philosophy contradict each other, they proclaim different truths, but the truth is only one. As long as the disputations are going on, so long will there be strife in the world.   1. Abiding by their own views, some (people), having got into contest, assert themselves to be
+
+[1. Comp. .
+
+2. Ettavat' aggam pi vadanti h' eke
+      Yakkhassa suddhim idha panditase,
+      Tesam pun' eke samayam[*] vadanti
+      Anupadisese kusala vadana.
+
+3. Ete ka natva upanissita ti
+      Natva muni nissaye so vimamsi
+      Natva vimutto na vivadam eti
+      Bhavabhavaya na sameti dhiro.
+
+*. Ukkhedam. Commentator.]
+
+p. 168
+
+the (only) expert (saying), '(He) who understands this, he knows the Dhamma; he who reviles this, he is not perfect[1].' (878)
+
+   2. So having got into contest they dispute: 'The opponent (is) a fool, an ignorant (person),' so they say. Which one of these, pray, is the true doctrine (vada)? for all these assert themselves (to be the only) expert. (879)
+
+   3. He who does not acknowledge an opponent's doctrine (dhamma), he is a fool, a beast, one of poor understanding, all are fools with a very poor understanding; all these abide by their (own) views. (880)
+
+   4. They are surely purified by their own view, they are of a pure understanding, expert, thoughtful, amongst them there is no one of poor understanding, their view is quite perfect! (881)
+
+   5. I do not say, 'This is the reality,' which fools say mutually to each other; they made their own views the truth, therefore they hold others to be fools. (882)
+
+   6. What some say is the truth, the reality, that others say is void, false, so having disagreed they dispute. Why do not the Samanas say one (and the same thing)? (883)
+
+   7. For the truth is one, there is not a second, about which one intelligent man might dispute with another intelligent man; (but) they themselves praise different truths, therefore the Samanas do not say one and the same thing)[2]. (884)
+
+[1. Sakam sakam ditthi paribbasana
+      Viggayha nana kusala vadanti
+      Yo evam ganati sa vedi dhammam
+      Idam patikkosam akevali so.
+
+2. Ekam hi sakkam na dutiyam atthi
+      Yasmim pagano vivade paganam,
+      Nana te sakkani sayam thunanti,
+      Tasma na ekam samana vadanti.]
+
+p. 169
+
+   8. Why do the disputants that assert themselves (to be the only) expert, proclaim different truths? Have many different truths been heard of, or do they (only) follow (their own) reasoning? (885)
+
+   9. There are not many different truths in the world, no eternal ones except consciousness; but having reasoned on the (philosophical) views they proclaim a double Dhamma, truth and falsehood[1]. (886)
+
+   10. In regard to what has been seen, or heard, virtue and (holy) works, or what has been thought, and on account of these (views) looking (upon others) with contempt, standing in (their) resolutions joyful, they say that the opponent is a fool and an ignorant person[2] (?) (887)
+
+   11. Because he holds another (to be) a fool, therefore he calls himself expert, in his own opinion he is one that tells what is propitious, others he blames, so he said[3]. (?) (888)
+
+   12. He is full of his overbearing (philosophical) view, mad with pride, thinking himself perfect, he is in his own opinion anointed with the spirit (of genius), for his (philosopbical) view is quite complete. (889)
+
+[1. Na h' eva sakkani bahuni nana
+      Annatra sannaya nikkani loke,
+      Takkan ka ditthisu pakappayitva
+      Sakkam musa ti dvayadhammam ahu.
+
+2. Ditthe sute silavate mute va
+      Ete ka nissaya vimanadassi
+      Vinikkhaye thatva pahassamana
+      Balo paro akusalo ti kahu.
+
+3. Yen' eva balo ti param dahati
+      Tenatumanam kusalo ti kaha,
+      Sayam attana sa kusala vadano
+      Annam vimaneti, tath' eva pava.]
+
+p. 170
+
+   13. If he according to another's report is low, then (he says) the other is also of a low understanding, and if he himself is accomplished and wise, there is not any fool amongst the Samanas[1]. (890)
+
+   14. 'Those who preach a doctrine (dhamma) different from this, fall short of purity and are imperfect,' so the Titthiyas say repeatedly, for they are inflamed by passion for their own (philosophical) views. (891)
+
+   15. Here they maintain purity, in other doctrines (dhamma) they do not allow purity; so the Titthiyas, entering extensively (upon details), say that in their own way there is something firm. (892)
+
+   16. And saying that there is something firm in his own way he holds his opponent to be a fool; thus he himself brings on strife, calling his opponent a fool and impure (asuddhadhamma). (893)
+
+   17. Standing in (his) resolution, having himself measured (teachers, &c.), he still more enters into dispute in the world; but having left all resolutions nobody will excite strife in the world[2]. (894)
+
+ Kulaviyuhasutta is ended.
+
+[1. Parassa ke hi vakasa nihino
+      Tumo[*] saha hoti nihinapanno,
+      Atha ke sayam vedagu hoti dhiro
+      Na koki balo samanesu atthi.
+
+2. Vinikkhaye thatva sayam pamaya
+      Uddham so lokasmim vivadam eti,
+      Hitvana sabbani vinikkhayani
+      Na medhakam kurute gantu loke.
+
+*. So pi ten' eva. Commentator. Ved. tva (?).]
+
+p. 171
+
+ 
+
+13. MAHAVIYUHASUTTA.
+
+ Philosophers cannot lead to purity, they only praise themselves and stigmatise others. But a Brahmana has overcome all dispute, he is indifferent to learning, he is appeased.   1. Those who abiding in the (philosophical) views dispute, saying, 'This is the truth,' they all incur blame, and they also obtain praise in this matter. (895)
+
+   2. This is little, not enough to (bring about) tranquillity, I say there are two fruits of dispute; having seen this let no one dispute, understanding Khema (i.e. Nibbana) to be the place where there is no dispute. (896)
+
+   3. The opinions that have arisen amongst people, all these the wise man does not embrace; he is independent. Should he who is not pleased with what has been seen and heard resort to dependency[1]? (?) (897)
+
+   4. Those who consider virtue the highest of all, say that purity is associated with restraint; having taken upon themselves a (holy) work they serve. Let us learn in this (view), then, his (the Master's) purity; wishing for existence they assert themselves to be the only expert[2]. (898)
+
+   5. If he falls off from virtue and (holy) works, he trembles, having missed (his) work; he laments, he
+
+[1. Ya kak' ima sammutiyo puthugga
+      Sabba va eta na upeti vidva,
+      Anupayo so, upayam kim eyya
+      Ditthe sute khantim[*] akubbamano?
+
+2. Siluttama sannamenahu suddhim,
+      Vatam samadaya upatthitase,
+      Idh' eva sikkhema ath' assa suddhim,
+      Bhavupanita kusala vadana.
+
+*. So all the MSS.]
+
+p. 172
+
+prays for purity in this world, as one who has lost his caravan or wandered away from his house. (899)
+
+   6. Having left virtue and (holy) works altogether, and both wrong and blameless work, not praying for purity or impurity, he wanders abstaining (from both purity and impurity), without having embraced peace. (900)
+
+   7. By means of penance, or anything disliked, or what has been seen, or heard, or thought, going upwards they wail for what is pure, without being free from desire for reiterated existence. (901)
+
+   8. For him who wishes (for something there always are) desires[1], and trembling in (the midst of his) plans; he for whom there is no death and no re-birth, how can he tremble or desire anything? (902)
+
+   9. What some call the highest Dhamma, that others again call wretched; which one of these, pray, is the true doctrine (vada)? for all these assert themselves (to be the only) expert. (903)
+
+   10. Their own Dhamma they say is perfect, another's Dhamma again they say is wretched; so having disagreed they dispute, they each say their own opinions (are) the truth. (904)
+
+   11. If one (becomes) low by another's censure, then there will be no one distinguished amongst the Dhammas; for they all say another's Dhamma (is) low, in their own they say there is something firm[2]. (905)
+
+[1. Gappitani.
+
+2. Parassa ke vamhayitena hino
+      Na koki dhammesu visesi assa,
+      Puthu hi annassa vadanti dhammam
+      Nihinato samhi dalham vadana.]
+
+p. 173
+
+   12. The worshipping of their own Dhamma is as great as their praise of their own ways; all schools would be in the same case, for their purity is individual[1]. (906)
+
+   13. There is nothing about a Brahmana dependent upon others, nothing amongst the Dhammas which he would embrace after investigation; therefore he has overcome the disputes, for he does not regard any other Dhamma as the best. (907)
+
+   14. 'I understand, I see likewise this,' so saying, some by (their philosophical) views return to purity. If he saw purity, what then (has been effected) by another's view? Having conquered they say that purity exists by another[2]. (?) (908)
+
+   15. A seeing man will see name and form, and having seen he will understand those (things); let him at pleasure see much or little, for the expert do not say that purity exists by that. (909)
+
+   16. A dogmatist is no leader to purity, being guided by prejudiced views, saying that good consists in what he is given to, and saying that purity is there, he saw the thing so[3]. (910)
+
+   17. A Brahmana does not enter time, (or) the
+
+[1. Sadhammapuga ka pana tath' eva
+      Yatha pasamsanti sakayanani,
+      Sabbe pavada tath' iva bhaveyyum
+      Suddhi hi nesam pakkattam eva.
+
+2. Ganami passami tath' eva etam
+      ditthiya eke pakkenti suddhim
+      Addakkhi ke kim hi tumassa tena
+      Atisitva annena vadanti suddhim.
+
+3. Nivissavadi na hi suddhinayo
+      Pakappita ditthi purekkharano
+      Yam nissito tattha subham vadano
+      Suddhim vado tattha, tath' addasa so.]
+
+p. 174
+
+number (of living beings), (he is) no follower of (philosophical) views, nor a friend of knowledge; and having penetrated the opinions that have arisen amongst people, he is indifferent to learning, while others acquire it. (911)
+
+   18. The Muni, having done away with ties here in the world, is no partisan in the disputes that have arisen; appeased amongst the unappeased he is indifferent, not embracing learning, while others acquire it. (912)
+
+   19. Having abandoned his former passions, not contracting new ones, not wandering according to his wishes, being no dogmatist, he is delivered from the (philosophical) views, being wise, and he does not cling to the world, neither does he blame himself. (913)
+
+   20. Being secluded amongst all the doctrines (dhamma), whatever has been seen, heard, or thought, he is a Muni who has laid down his burden and is liberated, not belonging to time (na kappiyo), not dead, not wishing for anything. So said Bhagavat. (914)
+
+Mahaviyuhasutta is ended.
+
+ 
+
+14. TUVATAKASUTTA.
+
+ How a Bhikkhu attains bliss, what his duties are, and what he is to avoid.   1. 'I ask thee, who art a kinsman of the Adikkas and a great Isi, about seclusion (viveka) and the state of peace. How is a Bhikkhu, after having seen it, extinguished, not grasping at anything in the world?' (915)
+
+p. 175
+
+   2. 'Let him completely cut off the root of what is called papanka[1] (delusion), thinking "I am wisdom;"'--so said Bhagavat,--'all the desires that arise inwardly, let him learn to subdue them, always being thoughtful. (916)
+
+   3. 'Let him learn every Dhamma inwardly or outwardly; let him not therefore be proud, for that is not called bliss by the good. (917)
+
+   4. 'Let him not therefore think himself better (than others or) low or equal (to others); questioned by different people, let him not adorn himself[2]. (918)
+
+   5. 'Let the Bhikkhu be appeased inwardly, let him not seek peace from any other (quarter); for him who is inwardly appeased there is nothing grasped or rejected. (919)
+
+   6. 'As in the middle (i.e. depth) of the sea no wave is born, (but as it) remains still[3], so let the Bhikkhu be still[3], without desire, let him not desire anything whatever.' (920)
+
+   7. He with open eyes expounded clearly the Dhamma that removes (all) dangers; tell (now) the religious practices; the precepts or contemplation[4]. (921)
+
+   8. Bhagavat: 'Let him not be greedy with his eyes, let him keep his ears from the talk of the town, let him not be greedy after sweet things, and let him not desire anything in the world. (922)
+
+   9. 'When he is touched by the touch (of illness),
+
+[1. Aviggadayo kilesa. Commentator.
+
+2. Natumanam vikappayan titthe.
+
+3. Thito.
+
+4. Akittayi vivatakakkhu sakkhi
+      Dhammam parissayavinayam,
+      Patipadam vadehi, bhaddan te,
+      Patimokkham athavapi samadhim.]
+
+p. 176
+
+let the Bhikkhu not lament, and let him not wish for existence anywhere, and let him not tremble at dangers. (923)
+
+   10. 'Having obtained boiled rice and drink, solid food and clothes, let him not store up (these things), and let him not be anxious, if he does not get them. (924)
+
+   11. 'Let him be meditative, not prying, let him abstain from misbehaviour[1], let him not be indolent, let the Bhikkhu live in his quiet dwelling. (925)
+
+   12. 'Let him not sleep too much, let him apply himself ardently to watching, let him abandon sloth, deceit, laughter, sport, sexual intercourse, and adornment. (926)
+
+   13. 'Let him not apply himself to practising (the hymns of) the Athabbana(-veda), to (the interpretation of) sleep and signs, nor to astrology; let not (my) follower (mamaka) devote himself to (interpreting) the cry of birds, to causing impregnation, nor to (the art of) medicine. (927)
+
+   14. 'Let the Bhikkhu not tremble at blame, nor puff himself up when praised; let him drive off covetousness together with avarice, anger, and slander. (928)
+
+   15. 'Let the Bhikkhu not be engaged in purchase and sale, let him not blame others in anything, let him not scold in the village, let him not from love of gain speak to people. (929)
+
+   16. 'Let not the Bhikkhu be a boaster, and let him not speak coherent[2] language; let him not learn pride, let him not speak quarrelsome language. (930)
+
+[1. Virame kukkukkam.
+
+2. Payuta; comp. .]
+
+p. 177
+
+   17. 'Let him not be led into falsehood, let him not consciously do wicked things; and with respect to livelihood, understanding, virtue, and (holy) works let him not despise others. (931)
+
+   18. 'Having heard much talk from much-talking Samanas let him not irritated answer them with harsh language; for the good do not thwart[1] others. (932)
+
+   19. 'Having understood this Dhamma, let the investigating and always thoughtful Bhikkhu learn; having conceived bliss to consist in peace, let him not be indolent in Gotama's commandments. (933)
+
+   20. 'For he a conqueror unconquered saw the Dhamma visibly, without any traditional instruction[2]; therefore let him learn, heedful in his, Bhagavat's, commandments, and always worshipping.' (934)
+
+Tuvatakasutta is ended.
+
+ 
+
+15. ATTADANDASUTTA.
+
+ Description of an accomplished Muni.   1. From him who has seized a stick fear arises. Look at people killing (each other); I will tell of grief as it is known to me. (935)
+
+   2. Seeing people struggling like fish in (a pond with) little water, seeing them obstructed by each other, a fear came over me. (936)
+
+   3. The world is completely unsubstantial, all quarters are shaken; wishing for a house for myself I did not see (one) uninhabited. (937)
+
+   4. But having seen (all beings) in the end obstructed, discontent arose in me; then I saw in
+
+[1. Patisenikaronti.
+
+2. Sakkhi dhammam anitiham adassi.]
+
+p. 178
+
+this world an arrow, difficult to see, stuck in the heart. (938)
+
+   5. He who has been pierced by this arrow runs through all quarters; but having drawn out that arrow, he will not run, he will sit down (quietly). (939)
+
+   6. There (many) studies are gone through; what is tied in the world let him not apply himself to (untie) it; having wholly transfixed desire, let him learn his own extinction (nibbana). (940)
+
+   7. Let the Muni be truthful, without arrogance, undeceitful, free from slander, not angry, let him overcome avarice. (941)
+
+   8. Let the man who has turned his mind to Nibbana conquer sleepiness, drowsiness, and sloth; let him not live together with indolence, let him not indulge in conceit. (942)
+
+   9. Let him not be led into falsehood, let him not turn his affection to form; let him penetrate arrogance, let him wander abstaining from violence. (943)
+
+   10. Let him not delight in what is old, let him not bear with what is new, let him not grieve for what is lost, let him not give himself up to desire[1]. (944)
+
+   11. (This desire) I call greed, the great stream, I call (it) precipitation, craving, a trouble, a bog of lust difficult to cross[2]. (945)
+
+   12. The Muni who without deviating from truth
+
+[1. Akasam na sito siya ti tanham nissito na bhaveyya. Commentator.
+
+2. Gedham brumi mahogho ti
+      Agavam brumi gappanam
+      Arammanam pakappanam
+      Kamapamko durakkayo.]
+
+p. 179
+
+stands fast on the firm ground (of Nibbana, being) a Brahmana, he, having forsaken everything, is indeed called calm. (946)
+
+   13. He indeed is wise, he is accomplished, having understood the Dhamma independent (of everything); wandering rightly in the world he does not envy any one here. (947)
+
+   14. Whosoever has here overcome lust, a tie difficult to do away with in the world, he does not grieve, he does not covet[1], having cut off the stream, and being without bonds. (948)
+
+   15. What is before (thee), lay that aside; let there be nothing behind thee; if thou wilt not grasp after what is in the middle, thou wilt wander calm[2]. (949)
+
+   16. The man who has no desire at all for name and form (individuality) and who does not grieve over what is no more, he indeed does not decay in the world[3]. (950)
+
+   17. He who does not think, 'this is mine' and 'for others there is also something,' he, not having egotism, does not grieve at having nothing[4]. (951)
+
+   18. Not being harsh, not greedy, being without desire, and being the same under all circumstances (samo[5]),--that I call a good result, when asked about an undaunted man. (952)
+
+   19. For him who is free from desire, for the
+
+[1. Naggheti = nabhigghati (read nabhigghayati). Commentator.
+
+2. Comp. infra, , and Dhammapada, p. 308.
+
+3. Comp. infra, .
+
+4. Yassa n'atthi 'idam me' ti
+      'Paresam vapi kinkanam'
+      Mamattam so asamvindam
+      'N' atthi me' ti na sokati.
+
+5. = upekhako. Commentator.]
+
+p. 180
+
+discerning (man) there is no Samkhara; abstaining from every sort of effort he sees happiness everywhere[1]. (953)
+
+   20. The Muni does not reckon himself amongst the plain, nor amongst the low, nor amongst the distinguished; being calm and free from avarice, he does not grasp after nor reject anything[2]. (954)
+
+Attadandasutta is ended.
+
+ 
+
+16. SARIPUTTASUTTA.
+
+ On Sariputta asking what a Bhikkhu is to devote himself to, Buddha shows what life he is to lead.   1. 'Neither has before been seen by me,'--so said the venerable Sariputta,--'nor has any one heard of such a beautifully-speaking master, a teacher arrived from the Tusita heaven. (955)
+
+   2. 'As he, the clearly-seeing, appears to the world of men and gods, after having dispelled all darkness, so he wanders alone in the midst (of people). (956)
+
+   3. 'To this Buddha, who is independent, unchanged, a guileless teacher, who has arrived (in the world), I have come supplicatingly with a question[3] from many who are bound in this world. (957)
+
+   4. 'To a Bhikkhu who is loath (of the world) and affects an isolated seat, the root of a tree or a cemetery, or (who lives) in the caves of the mountains, (958)
+
+[1. Anegassa viganato
+      N' atthi kaki nisamkhiti,
+      Virato so viyarambha
+      Khemam passati sabbadhi.
+
+2. Comp. supra, Purabhedasutta, vv. 15, 20 {sic., vv. , }.
+
+3. Atthi panhena agamim = atthiko panhena agato 'mhiti atthikanam va panhena atthi agamanan ka ti. Commentator.]
+
+p. 181
+
+   5. 'How many dangers (are there not) in these various dwelling-places at which the Bhikkhu does not tremble in his quiet dwelling! (959)
+
+   6. 'How many dangers (are there not) in the world for him who goes to the immortal region[1], (dangers) which the Bhikkhu overcomes in his distant dwelling! (960)
+
+   7. 'Which are his words, which are his objects in this world, which are the virtue and (holy) works of the energetic Bhikkhu? (961)
+
+   8. 'What study having devoted himself to, intent on one object[2], wise and thoughtful, can he blow off his own filth as the smith (blows off) that of the silver[3]?' (962)
+
+   9. 'What is pleasant for him who is disgusted (with birth, &c.), O Sariputta,'--so said Bhagavat,--'if he cultivates a lonely dwelling-place, and loves perfect enlightenment in accordance with the Dhamma, that I will tell thee as I understand it. (963)
+
+   10. 'Let not the wise and thoughtful Bhikkhu wandering on the borders[4] be afraid of the five dangers: gad-flies and (all other) flies[5], snakes, contact with (evil) men[6], and quadrupeds. (964)
+
+   11. 'Let him not be afraid of adversaries[7], even having seen many dangers from them; further he
+
+[1. Gakkhato amatam disam.
+
+2. Ekodi = ekaggakitto. Commentator.
+
+3. Comp. .
+
+4. Pariyantakari.
+
+5. Damsadhipatanan ti pingalamakkhikanan ka sesamakkhikanan ka, sesamakkhika hi tato adhipatitva khadanti, tasma adhipata ti vukkanti. Commentator.
+
+6. Manussaphassanan ti koradiphassanam. Commentator.
+
+7. Paradhammikanam.]
+
+p. 182
+
+will overcome other dangers while seeking what is good. (965)
+
+   12. 'Touched by sickness and hunger let him endure cold and excessive heat, let him, touched by them in many ways, and being houseless, make strong exertions. (966)
+
+   13. 'Let him not commit theft, let him not speak falsely, let him touch friendly what is feeble or strong, what he acknowledges to be the agitation of the mind, let him drive that off as a partisan of Kanha (i.e. Mara). (967)
+
+   14. 'Let him not fall into the power of anger and arrogance; having dug up the root of these, let him live, and let him overcome both what is pleasant and what is unpleasant. (968)
+
+   15. 'Guided by wisdom, taking delight in what is good, let him scatter those dangers, let him overcome discontent in his distant dwelling, let him overcome the four causes of lamentation. (969)
+
+   16. 'What shall I eat, or where shall I eat?--he lay indeed uncomfortably (last night)--where shall I lie this night? let the Sekha who wanders about houseless subdue these lamentable doubts. (970)
+
+   17. 'Having had in (due) time both food and clothes, let him know moderation in this world for the sake of happiness; guarded in these (things) and wandering restrained in the village let him, even (if he be) irritated, not speak harsh words. (971)
+
+   18. 'Let him be with down-cast eyes, and not prying, devoted to meditation, very watchful; having acquired equanimity let him with a composed mind cut off the seat of doubt, and misbehaviour. (972)
+
+   19. 'Urged on by words (of his teachers) let him be thoughtful and rejoice (at this urging), let
+
+p. 183
+
+him break stubbornness in his fellow-students, let him utter propitious words and not unseasonable, let him not think detractingly of others. (973)
+
+   20. 'And then the five impurities in the world, the subjection of which he must learn thoughtfully,--let him overcome passion for form, sound and taste, smell and touch. (974)
+
+   21. 'Let the Bhikkhu subdue his wish for these Dhammas and be thoughtful, and with his mind well liberated, then in time he will, reflecting upon Dhamma, and having become intent upon one object, destroy darkness.' So said Bhagavat. (975)
+
+Sariputtasutta is ended.
+
+Atthakavagga, the fourth.
+
+    
+Sacred Books of the East, Vol. 10: The Dhammapada and Sutta Nipata, by Max Muller and Max Fausboll, [1881], at sacred-texts.com
+
+p. 184
+
+ 
+
+V. PARAYANAVAGGA.
+
+ 
+
+1. VATTHUGATHA.
+
+ To the Brahmana Bavari, living on the banks of the Godhavari, in Assaka's territory, comes another Brahmana and asks for five hundred pieces of money, but not getting them he curses Bavari, saying, 'May thy head on the seventh day hence cleave into seven.' A deity comforts Bavari by referring him to Buddha. Then Bavari sends his sixteen disciples to Buddha, and each of thern asks Buddha a question.   1. From the beautiful city of the Kosalas (Savatthi) a Brahmana, well versed in the hymns, went to the South (Dakkhinapatha) wishing for nothingness[1]. (976)
+
+   2. In Assaka's territory, in the neighbourhood of Alaka, he dwelt on the banks of the Godhavari, (living) on gleanings and fruit. (977)
+
+   3. And close by the bank there was a large village, with the income of which he prepared a great sacrifice. (978)
+
+   4. Having offered the great sacrifice, he again entered the hermitage. Upon his re-entering, another Brahmana arrived, (979)
+
+   5. With swollen feet[2], trembling, covered with mud, with dust on his head. And he going up
+
+[1. Akinkanna.
+
+2. Ugghattapado ti maggakkamanena ghattapadatalo panhikaya va panhikam gopphakena va gopphakam gannukena gannukam agantvapi ghattapado. Commentator.]
+
+p. 185
+
+   to him (i.e. the first Brahmana) demanded five hundred (pieces of money). (980)
+
+   6. Bavari, seeing him, bade him be seated, asked him whether he was happy and well, and spoke as follows: (981)
+
+   7. 'What gifts I had are all given away by me; pardon me, O Brahmana, I have no five hundred.' (982)
+
+   8. 'If thou wilt not give to me who asks, may thy head on the seventh clay cleave into seven.' (983)
+
+   9. So after the usual ceremonies this impostor made known his fearful (curse). On hearing these his words Bavari became sorrowful. (984)
+
+   10. He wasted away taking no food, transfixed by the arrow of grief, but yet his mind delighted in meditation. (985)
+
+   11. Seeing Bavari struck with horror and sorrowful, the benevolent deity (of that place) approached him and said as follows: (986)
+
+   12. 'He does not know (anything about) the head; he is a hypocrite coveting riches; knowledge of the head and head-splitting is not found in him[1].' (987)
+
+   13. 'If the venerable (deity) knows it, then tell me, when asked, all about the head and head-splitting; let us hear thy words.' (988)
+
+   14. 'I do not know this; knowledge of it is not found in me; as to the head and head-splitting, this is to be seen by Buddhas (only).' (989)
+
+   15. 'Who then, say, in the circumference of the
+
+[1. Na so muddham paganati,
+      Kuhako so dhanatthiko,
+      Muddhani muddhapate ka
+      Nanam tassa na viggati.]
+
+p. 186
+
+earth knows the head and head-splitting, tell me that, O deity?' (990)
+
+   16. 'Formerly went out from Kapilavatthu a ruler of the world, an offspring of the Okkaka king, the Sakya son, the light-giving; (991)
+
+   17. 'He is, O Brahmana, the perfectly Enlightened (Sambuddha); perfect in all things, he has attained the power of all knowledge, sees clearly in everything; he has arrived at the destruction of all things, and is liberated in the destruction of the upadhis[1]. (992)
+
+   18. 'He is Buddha, he is Bhagavat in the world, he, the clearly-seeing, teaches the Dhamma; go thou to him and ask, he will explain it to thee.' (993)
+
+   19. Having heard the word 'Sambuddha,' Bavari rejoiced, his grief became little, and he was filled with great delight. (994)
+
+   20. Bavari glad, rejoicing, and eager asked the deity: 'In what village or in what town or in what province dwells the chief of the world, that going there we may adore the perfectly Enlightened, the first of men?' (995)
+
+   21. 'In Savatthi, the town of the Kosalas, dwells Gina (the Victorious), of great understanding and excellent wide knowledge, he the Sakya son, unyoked, free from passion, skilled in head-splitting, the bull of men.' (996)
+
+   22. Then (Bavari) addressed his disciples, Brahmanas, perfect in the hymns: 'Come, youths, I will tell (you something), listen to my words: (997)
+
+   23. 'He whose appearance in the world is difficult to be met with often, he is at the present time[2]
+
+ [1. Sabbadhammakkhayam patto (i.e. nibbana)
+      Vimutto upadhisamkhaye.2. Sv-agga.]
+
+p. 187
+
+   born in the world and widely renowned as Sambuddha (the perfectly Enlightened); go quickly to Savatthi and behold the best of men.' (998)
+
+   24. 'How then can we know, on seeing him, that he is Buddha, O Brahmana? Tell us who do not know him, by what may we recognise him? (999)
+
+   25. 'For in the hymns are to be found the marks of a great man, and thirty-two are disclosed altogether, one by one.' (1000)
+
+   26. 'For him on whose limbs these marks of a great man are to be found, there are two ways left, a third does not exist. (1001)
+
+   27. 'If he abides in a dwelling, he will subdue this earth without rod (or) sword, he will rule with justice. (1002)
+
+   28. 'And if he departs from his dwelling for the wilderness, he becomes the saint, incomparable Sambuddha, who has removed the veil (from the world)[1]. (1003)
+
+   29. 'Ask in your mind about my birth and family, my marks, hymns, and my other disciples, the head and head-splitting. (1004)
+
+   30. 'If he is Buddha, the clear-sighted, then he will answer by word of mouth the questions you have asked in your mind.' (1005)
+
+   31, 32, 33. Having heard Bavari's words his disciples, sixteen Brahmanas, Agita, Tissametteyya, Punnaka, further Mettagu, Dhotaka and Upasiva, and Nanda, further Hemaka, the two Todeyya and Kappa, and the wise Gatukanni, Bhadravudha and Udaya, and also the Brahmana Posala, and the wise Mogharagan, and the great Isi Pingiya, (1006-1008)
+
+34. All of them, having each their host (of pupils),
+
+[1. Comp. Lalita-vistara (ed. Calc.), pp. 116, 118.]
+
+p. 188
+
+and being themselves widely renowned throughout the world, thinkers delighting in meditation, wise, scented with the perfume of former (good deeds)[1], (1009)
+
+   35. Having saluted Bavari and gone round him towards the right, all with matted hair and bearing hides, departed with their faces turned to the north. (1010)
+
+   36. To Patitthana of Alaka first, then to Mahissati, and also to Uggeni, Gonaddha, Vedisa, Vanasavhaya, (1011)
+
+   37. And also to Kosambi, Saketa, and Savatthi, the most excellent of cities, to Setavya, Kapilavatthu, and the city of Kusinara, (1012)
+
+   38. And to Pava, the city of wealth, to Vesali, the city of Magadha, to Pasanaka Ketiya (the Rock Temple), the lovely, the charming. (1013)
+
+   39. As he who is athirst (longs for) the cold water, as the merchant (longs for) gain, as he who is plagued by heat (longs for) shade, so in haste they ascended the mountain. (1014)
+
+   40. And Bhagavat at that time attended by the assembly of the Bhikkhus taught the Dhamma to the Bhikkhus, and roared like a lion in the forest. (1015)
+
+   41. Agita beheld Sambuddha as the shining (sun) without (burning) rays, as the moon on the fifteenth, having reached her plenitude. (1016)
+
+   42. Then observing his limbs and all the marks in their fulness, standing apart, rejoiced, he asked the questions of his mind:-- (1017)
+
+   43. 'Tell me about (my master's) birth, tell me about his family together with the marks, tell me about his perfection in the hymns, how many (hymns) does the Brahmana recite?' (1018)
+
+[1. Pubbavasanavasita.]
+
+p. 189
+
+   44. Bhagavat said: 'One hundred and twenty years (is his) age, and by family he is a Bavari; three are his marks on the limbs, and in the three Vedas he is perfect. (1019)
+
+   45. 'In the marks and in the Itihasa together with Nighandu and Ketubha--he recites five hundred--and in his own Dhamma he has reached perfection.' (1020)
+
+   46. Agita thought: 'Explain fully the marks of Bavari, O thou best of men, who cuts off desire; let there be no doubt left for us.' (1021)
+
+   47. Bhagavat said: 'He covers his face with his tongue, he has a circle of hair between the eye-brows, (his) privy member (is) hidden in a sheath, know this, O young man[1].' (1022)
+
+   48. Not hearing him ask anything, but hearing the questions answered, the multitude reflected overjoyed and with joined hands:-- (1023)
+
+   49. 'Who, be he a god, or Brahman, or Inda, the husband of Suga, asked in his mind those questions, and to whom did that (speech) reply?' (1024)
+
+   50. Agita said: 'The head and head-splitting Bavari asked about; explain that, O Bhagavat, remove our doubt, O Isi.' (1025)
+
+   51. Bhagavat said: 'Ignorance is the head, know this; knowledge cleaves the head, together with belief, thoughtfulness, meditation, determination, and strength.' (1026)
+
+   52. Then with great joy having composed himself the young man put his hide on one shoulder,
+
+[1. Mukham givhaya khadeti,
+      Unn' assa bhamukantare,
+      Kosohitam vatthaguyham,
+      Evam ganahi manava.]
+
+p. 190
+
+fell at (Bhagavat's) feet (and saluted him) with his head, (saying): (1027)
+
+   53. 'Bavari, the Brahmana, together with his disciples, O thou venerable man, delighted and glad, does homage to thy feet, O thou clearly-seeing.' (1028)
+
+   54. Bhagavat said: 'Let Bavari, the Brahmana, be glad together with his disciples! Be thou also glad, live long, O young man! (1029)
+
+   55. 'For Bavari and for thee, for all there are all (kinds of) doubt; having got an opportunity, ask ye whatever you wish.' (1030)
+
+   56. After getting permission from Sambuddha, Agita sitting there with folded hands asked Tathagata the first question. (1031)
+
+The Vatthugathas are ended.
+
+ 
+
+2. AGITAMANAVAPUKKHA.
+
+   1. 'By what is the world shrouded,'--so said the venerable Agita,--'by what does it not shine? What callest thou its pollution, what is its great danger?' (1032)
+
+   2. 'With ignorance is the world shrouded, O Agita,'--so said Bhagavat,--'by reason of avarice it does not shine; desire I call its pollution, pain is its great danger.' (1033)
+
+   3. 'The streams of desire flow in every direction,'--so said the venerable Agita;--'what dams the streams, say what restrains the streams, by what may the streams be shut off[1]?' (1034)
+
+[1. Comp. .]
+
+p. 191
+
+   4. 'Whatever streams there are in the world, O Agita,'--so said Bhagavat,--'thoughtfulness is their dam, thoughtfulness I call the restraint of the streams, by understanding they are shut off.' (1035)
+
+   5. 'Both understanding and thoughtfulness,'--so said the venerable Agita,--'and name and shape[1], O venerable man,--asked about this by me, declare by what is this stopped? ' (1036)
+
+   6. Buddha: 'This question which thou hast asked, O Agita, that I will explain to thee; (I will explain to thee) by what name and shape[2] are totally stopped; by the cessation of consciousness this is stopped here.' (1037)
+
+   7. Agita: 'Those who have examined (all) Dhammas (i.e. the saints), and those who are disciples, (and those who are) common men here,--when thou art asked about their mode of life, declare it unto me, thou who art wise, O venerable man.' (1038)
+
+   8. Buddha: 'Let the Bhikkhu not crave for sensual pleasures, let him be calm in mind, let him wander about skilful in all Dhammas, and thoughtful.' (1039)
+
+Agitamanavapukkha is ended.
+
+ 
+
+3. TISSAMETTEYYAMANAVAPUKKHA.
+
+   1. 'Who is contented in the world,'--so said the venerable Tissametteyya,--'who is without commotions? Who after knowing both ends does not stick in the middle, as far as his understanding is
+
+[1. Namarupan ka.
+
+2. Naman ka rupan ka.]
+
+p. 192
+
+concerned? Whom dost thou call a great man? Who has overcome desire in this world?' (1040)
+
+   2. 'The Bhikkhu who abstains from sensual pleasures, O Metteyya,'--so said Bhagavat,--'who is free from desire, always thoughtful, happy by reflection, he is without commotions, he after knowing both ends does not stick in the middle, as far as his understanding is concerned; him I call a great man; he has overcame desire in this world.' (1041)
+
+Tissametteyyamanavapukkha is ended.
+
+ 
+
+4. PUNNAKAMANAVAPUKKHA.
+
+   1. 'To him who is without desire, who has seen the root (of sin),'--so said the venerable Punnaka,--'I have come supplicatingly with a question: on account of what did the Isis and men, Khattiyas and Brahmanas, offer sacrifices to the gods abundantly in this world? (about this) I ask thee, O Bhagavat, tell me this.' (1042)
+
+   2. 'All these Isis and men, Khattiyas and Brahmanas, O Punnaka,'--so said Bhagavat,--'who offered sacrifices to the gods abundantly in this world, offered sacrifices, O Punnaka, after reaching old age, wishing for their present condition.' (1043)
+
+   3. 'All these Isis and men, Khattiyas and Brahmanas,'--so said the venerable Punnaka,--'who offered sacrifices to the gods abundantly in this world, did they, O Bhagavat, indefatigable in the way of offering, cross over both birth and old age, O venerable man? I ask thee, O Bhagavat, tell me this.' (1044)
+
+p. 193
+
+   4. 'They wished for, praised, desired, abandoned (sensual pleasures), O Punnaka,'--so said Bhagavat,--'they desired sensual pleasures on account of what they reached by them; they, devoted to offering, dyed with the passions of existence, did not cross over birth and old age, so I say.' (1045)
+
+   5. 'If they, devoted to offering,'--so said the venerable Punnaka,--'did not by offering cross over birth and old age, O venerable man, who then in the world of gods and men crossed over birth and old age, O venerable man, I ask thee, O Bhagavat, tell me this?' (1046)
+
+   6. 'Having considered everything[1] in the world, O Punnaka,'--so said Bhagavat,--'he who is not defeated anywhere in the world, who is calm without the smoke of passions, free from woe, free from desire, he crossed over birth and old age, so I say.' (1041)
+
+Punnakamanavapukkha is ended.
+
+ 
+
+5. METTAGUMANAVAPUKKHA.
+
+   1. 'I ask thee, O Bhagavat, tell me this,'--so said the venerable Mettagu,--'I consider thee accomplished and of a cultivated mind, why are these (creatures), whatsoever they are of many kinds in the world, always subject to pain? (1048)
+
+   2. 'Thou mayest well ask me concerning the origin of pain, O Mettagu,'--so said Bhagavat,--
+
+[1. Parovaraniti parani ka orani ka parattabhavasakattabhavadini parani ka orani ka ti vuttam hoti. Commentator.]
+
+p. 194
+
+'I will explain that to thee in the way I myself know it: originating in the upadhis pains arise, whatsoever they are, of many kinds in the world. (1049)
+
+   3. 'He who being ignorant creates upadhi, that fool again undergoes pain; therefore let not the wise man create upadhi, considering (that this is) the birth and origin of pain.' (1050)
+
+   4. Mettagu: 'What we have asked thee thou hast explained to us; another (question) I ask thee, answer that, pray: How do the wise cross the stream, birth and old age, and sorrow and lamentation? Explain that thoroughly to me, O Muni, for this thing (dhamma) is well known to thee.' (1051)
+
+   5. 'I will explain the Dhamma to thee, O Mettagu,'--so said Bhagavat,--'if a man in the visible world, without any traditional instruction, has understood it, and wanders about thoughtful, he may overcome desire in the world.' (1052)
+
+   6. Mettagu: 'And I take a delight in that, in the most excellent Dhamma, O great Isi, which if a man has understood, and he wanders about thoughtful, he may overcome desire in the world.' (1053)
+
+   7. 'Whatsoever thou knowest, O Mettagu,'--so said Bhagavat,--'(of what is) above, below, across, and in the middle, taking no delight and no rest in these things, let thy mind not dwell on existence. (1054)
+
+   8. 'Living so, thoughtful, strenuous, let the Bhikkhu wandering about, after abandoning selfishness, birth,
+
+[1. Kittayissami te dhammam--Mettagu ti Bhagava--
+      Ditthe dhamme anitiham
+      Yam viditva sato karam
+      Tare loke visattikam.]
+
+p. 195
+
+and old age, and sorrow, and lamentation, being a wise man, leave pain in this world.' (1055)
+
+   9. Mettagu: 'I delight in these words of the great Isi; well expounded, O Gotama, is (by thee) freedom from upadhi (i.e. Nibbana). Bhagavat in truth has left pain, for this Dhamma is well known to thee[1]. (1056)
+
+   10. 'And those also will certainly leave pain whom thou, O Muni, constantly mayest admonish; therefore I bow down to thee, having come hither, O chief (naga), may Bhagavat also admonish me constantly.' (1057)
+
+   11. Buddha: 'The Brahmana whom I may acknowledge as accomplished, possessing nothing, not cleaving to the world of lust, he surely has crossed this stream, and he has crossed over to the other shore, free from harshness (akhila), (and) free from doubt. (1058)
+
+   12. 'And he is a wise and accomplished man in this world; having abandoned this cleaving to reiterated existence he is without desire, free from woe, free from longing, he has crossed over birth and old age, so I say.' (1059)
+
+Mettagumanavapukkha is ended.
+
+[1. Et' abhinandami vako mahesino
+      Sukittitam Gotama nupadhikam,
+      Addha hi Bhagava pahasi dukkham,
+      Tatha hi te vidito esa dhammo.
+
+Sukittitam Gotama nupadhikan ti ettha anupadhikan ti nibbanam, tam sandhaya va Bhagavantam alapanto aha sukittitam, &c. Commentator.]
+
+p. 196
+
+ 
+
+6. DHOTAKAMANAVAPUKKHA.
+
+   1. 'I ask thee, O Bhagavat, tell me this,'--so said the venerable Dhotaka,--'I long for thy word, O great Isi; let one, having listened to thy utterance, learn his own extinction.' (1060)
+
+   2. 'Exert thyself then, O Dhotaka,'--so said Bhagavat,--'being wise and thoughtful in this world, let one, having listened to my utterance, learn his own extinction.' (1061)
+
+   3. Dhotaka: 'I see in the world of gods and men a Brahmana wandering about, possessing nothing; therefore I bow down to thee, O thou all-seeing one, free me, O Sakka, from doubts.' (1062)
+
+   4. Buddha: 'I shall not go to free any one in the world who is doubtful, O Dhotaka; when thou hast learned the best Dhamma, then thou shalt cross this stream[1].' (1063)
+
+   5. Dhotaka: 'Teach (me), O Brahmana, having compassion (on me), the Dhamma of seclusion (i.e. Nibbana), that I may understand (it and) that I, without falling into many shapes like the air, may wander calm and independent in this world[2].' (?) (1064)
+
+[1. Naham gamissami pamokanaya
+      Kathamkathim Dhotaka kanki loke,
+      Dhamman ka settham aganamano
+      Evam tuvam ogham imam taresi.
+
+2. Anusasa brahme karunayamano
+      Vivekadhammam yam aham vigannam
+      Yathaham akaso va avyapaggamano[*]
+      Idh' eva santo asito kareyyam.
+
+*. Nanappakaratam anapaggamano. Commentator.]
+
+p. 197
+
+   6. 'I will explain to thee peace[1], O Dhotaka,'--so said Bhagavat;--'if a man in the visible world, without any traditional instruction, has understood it, and wanders about thoughtful, he may overcome desire in the world.' (1065)
+
+   7. Dhotaka: 'And I take delight in that, the highest peace[2], O great Isi, which if a man has understood, and he wanders about thoughtful, he may overcome desire in the world.' (1066)
+
+   8. 'Whatsoever thou knowest, O Dhotaka,'--so said Bhagavat,--'(of what is) above, below, across, and in the middle, knowing this to be a tie in the world, thou must not thirst for reiterated existence.' (1067)
+
+Dhotakamanavapukkha is ended.
+
+ 
+
+7. UPASIVAMANAVAPUKKHA.
+
+   1. 'Alone, O Sakka; and without assistance I shall not be able to cross the great stream,'--so said the venerable Upasiva;--'tell me an object, O thou all-seeing one, by means of which one may cross this stream.' (1068)
+
+   2. 'Having in view nothingness, being thoughtful, O Upasiva,'--so said Bhagavat,--'by the reflection of nothing existing shalt thou cross the stream; having abandoned sensual pleasures, being loath of doubts, thou shalt regard the extinction of desire (i.e. Nibbana), both day and night[3].' (1069)
+
+[1. Santim.
+
+2. Santim uttamam.
+
+3. Akinkannam pekkhamano satima--Upasiva ti Bhagava--
+      N' atthiti nissaya tarassu ogham,
+      Kame pahaya. virato kathahi
+      Tanhakkhayam rattamahabhi passa.]
+
+p. 198
+
+   3. Upasiva: 'He whose passion for all sensual pleasures has departed, having resorted to nothingness, after leaving everything else, and being delivered in the highest deliverance by knowledge, will he remain there without proceeding further[1]?' (1070)
+
+   4. 'He whose passion for all sensual pleasures has departed, O Upasiva,'--so said Bhagavat,--'having resorted to nothingness after leaving everything else, and being delivered in the highest deliverance by knowledge, he will remain there without proceeding further.' (1071)
+
+   5. Upasiva: 'If he remains there without proceeding further for a multitude of years, O thou all-seeing one, (and if) he becomes there tranquil and delivered, will there be consciousness for such a one[2]?' (1072)
+
+   6. 'As a flame blown about by the violence of the wind, O Upasiva,'--so said Bhagavat,--'goes out, cannot be reckoned (as existing), even so a Muni, delivered from name and body, disappears, and cannot be reckoned (as existing)[3].' (1073)
+
+   7. Upasiva: 'Has he (only) disappeared, or does he not exist (any longer), or is he for ever free
+
+[1. Sabbesu kamesu yo vitarago
+      Akinkannam nissito hitva-m-annam
+      Sannavimokhe parame vimutto
+      Titthe nu so tattha ananuyayi.
+
+2. Titthe ke so tattha ananuyayi
+      Pugam pi vassanam samantakakkhu
+      Tatth' eva so siti siya vimutto
+      Bhavetha vinnanam tathavidhassa?
+
+3. Akki yatha vatavegena khitto
+      Attham paleti na upeti samkham
+      Evam muni namakaya vimutto
+      Attham paleti na upeti samkham.]
+
+p. 199
+
+from sickness? Explain that thoroughly to me, O Muni, for this Dhamma is well known to thee[1].' (1074)
+
+   8. 'For him who has disappeared there is no form, O Upasiva,'--so said Bhagavat,--'that by which they say he is, exists for him no longer, when all things (dhamma) have been cut off, all (kinds of) dispute are also cut off[2].' (1075)
+
+Upasivamanavapukkha is ended.
+
+ 
+
+8. NANDAMANAVAPUKKHA.
+
+   1. 'There are Munis in the world,'--so said the venerable Nanda,--'so people say. How is this (understood) by thee? Do they call him a Muni who is possessed of knowledge or him who is possessed of life[3]?' (1076)
+
+   2. Buddha: 'Not because of (any philosophical) view, nor of tradition, nor of knowledge, O Nanda, do the expert call (any one) a Muni; (but) such as wander free from woe, free from desire, after having secluded themselves, those I call Munis[4].' (1077)
+
+[1. Atthangato so uda va so n' atthi
+      Udahu ve sassatiya arogo,
+      Tam me muni sadhu viyakarohi,
+      Tatha hi te vidito esa dhammo.
+
+2. Atthangatassa na pamanam atthi,
+      Yena nam vaggu tam tassa n' atthi,
+      Sabbesu dhammesu samuhatesu
+      Samuhata vadapathapi sabbe.
+
+3. Nanupapannam no munim vadanti
+      Udahu ve giviten' upapannam?
+
+4. Na ditthiya na sutiya na nanena
+      Munin ka Nanda kusala vadanti,
+      Visenikatva anigha nirasa
+      Karanti ye te munayo ti brumi.]
+
+p. 200
+
+   3. 'All these Samanas and Brahmanas,'--so said the venerable Nanda,--'say that purity comes from (philosophical) views, and from tradition, and from virtue and (holy) works, and in many (other) ways. Did they, in the way in which they lived in the world, cross over birth and old age, O venerable man? I ask thee, O Bhagavat, tell me this.' (1078)
+
+   4. 'All these Samanas and Brahmanas, O Nanda,'--so said Bhagavat,--'say that purity comes from (philosophical) views, and from tradition, and from virtue and (holy) works, and in many (other) ways; still they did not, in the way in which they lived in the world, cross over birth and old age, so I say.' (1079)
+
+   5. 'All these Samanas and Brahmanas,'--so said the venerable Nanda,--'say that purity comes from (philosophical) views, and from tradition, and from virtue and (holy) works, and in many (other) ways; if thou, O Muni, sayest that such have not crossed the stream, who then in the world of gods and men crossed over birth and old age, O venerable man? I ask thee, O Bhagavat, tell me this.' (1080)
+
+   6. 'I do not say that all Samanas and Brahmanas, O Nanda,'--so said Bhagavat,--'are shrouded by birth and old age; those who, after leaving in this world what has been seen or heard or thought, and all virtue and (holy) works, after leaving everything of various kinds, after penetrating desire, are free from passion, such indeed I call men that have crossed the stream[1].' (1081)
+
+[1. Naham 'sabbe samanabrahmanase
+      Gatigaraya nivuta' ti brumi,
+      Ye s' idha dittham va sutam mutam va
+      Silabbatam vapi pahaya sabbam
+      Anekarupam pi pahaya sabbam
+      Tanham parinnaya anasavase
+      Te ve nara oghatinna ti brumi.]
+
+p. 201
+
+   7. Nanda: 'I delight in these words of the great Isi; well expounded (by thee), O Gotama, is freedom from upadhi (i.e. Nibbana); those who, after leaving in this world what has been seen or heard or thought, and all virtue and (holy) works, after leaving everything of various kinds, after penetrating desire, are free from passion, such I call men that have crossed the stream.' (1082)
+
+Nandamanavapukkha is ended.
+
+ 
+
+9. HEMAKAMANAVAPUKKHA.
+
+   1. 'Those who before in another world,'--so said the venerable Hemaka,--'explained to me the doctrine of Gotama, saying, "So it was, so it will be," all that (was only) oral tradition, all that (was only) something that increased (my) doubts[1]. (1083)
+
+   2. 'I took no pleasure in that, but tell thou me the Dhamma that destroys desire, O Muni, which if a man has understood, and he wanders about thoughtful, he may cross desire in the world.' (1084)
+
+   3. Buddha: 'In this world (much) has been seen,
+
+[1. Ye me pubbe viyakamsu
+      Huram Gotamasasanam
+      Ikk-asi iti bhavissati
+      Sabban tam itihitiham
+      Sabban tam takkavaddhanam.]
+
+p. 202
+
+heard, and thought; the destruction of passion and of wish for the dear objects that have been perceived, O Hemaka, is the imperishable state of Nibbana. (1085)
+
+   4. 'Those who, having understood this, are thoughtful, calm, because they have seen the Dhamma, tranquil and divine, such have crossed desire in this world[1].' (1086)
+
+Hemakamanavapukkha is ended.
+
+ 
+
+10. TODEYYAMANAVAPUKKHA.
+
+   1. 'He in whom there live no lusts,'--so said the venerable Todeyya,--'to whom there is no desire, and who has overcome doubt, what sort of deliverance is there for him?' (1087)
+
+   2. 'He in whom there live no lusts, O Todeyya,'--so said Bhagavat,--'to whom there is no desire, and who has overcome doubt, for him there is no other deliverance.' (1088)
+
+   3. Todeyya: 'Is he without breathing or is he breathing, is he possessed of understanding or is he forming himself an understanding[2]? Explain this to me, O thou all-seeing one, that I may know a Muni, O Sakka.' (1089)
+
+[1. Etad annaya ye sata
+      Ditthadhammabhinibhuta
+      Upasanta ka tedasa (?)[*]
+      Tinna loke visattikam.
+
+2. Nirasaso so uda asasano
+      Pannanava so uda pannakappi.
+
+*. B reads ye sata instead of tedasa.]
+
+p. 203
+
+   4. Buddha: 'He is without breathing, he is not breathing, he is possessed of understanding, and he is not forming himself an understanding; know, O Todeyya, that such is the Muni, not possessing anything, not cleaving to lust and existence.' (1090)
+
+Todeyyamanavapukkha is ended.
+
+ 
+
+11. KAPPAMANAVAPUKKHA.
+
+   1. 'For those who stand in the middle of the water,'--so said the venerable Kappa,--'in the formidable stream that has set in, for those who are overcome by decay and death, tell me of an island, O venerable man, and tell thou me of an island that this (pain) may not again come on[1].' (1091)
+
+   2. 'For those who stand in the middle of the water, O Kappa,'--so said Bhagavat,--'in the formidable stream that has set in, for those overcome by decay and death, I will tell thee of an island, O Kappa.' (1092)
+
+   3. 'This matchless island, possessing nothing (and) grasping after nothing, I call Nibbana, the destruction of decay and death[2]. (1093)
+
+[1. Tvan ka me dipam[*] akkhab
+      Yatha yidam naparam siya.
+
+2. Akinkanam anadanam
+      Etam dipam anaparam
+      Nibbanam iti nam brumi
+      Garamakkuparikkhayam.
+
+Akinkanan ti kinkanapatipakkham, anadanan ti adanapatipakkham, kinkanadanavupasaman ti vuttam hoti. Commentator.
+
+*. B reads disam.]
+
+p. 204
+
+   4. 'Those who, having understood this, are thoughtful (and) calm, because they have seen the Dhamma, do not fall into the power of Mara, and are not the companions of Mara.' (1094)
+
+Kappamanavapukkha is ended.
+
+ 
+
+12. GATUKANNIMANAVAPUKKHA.
+
+   1. 'Having heard of a hero free from lust,'--so said the venerable Gatukannin,--'who has crossed the stream, I have come to ask him who is free from lust; tell me the seat of peace, O thou with the born eye (of wisdom), tell me this truly, O Bhagavat. (1095)
+
+   2. 'For Bhagavat wanders about after having conquered lust as the hot sun (conquers) the earth by its heat; tell the Dhamma to me who has (only) little understanding, O thou of great understanding, that I may ascertain how to leave in this world birth and decay.' (1096)
+
+   3. 'Subdue thy greediness for sensual pleasures, O Gatukannin,'--so said Bhagavat,--'having considered the forsaking of the world as happiness, let there not be anything either grasped after or rejected by thee[1]. (1097)
+
+   4. 'What is before thee, lay that aside; let there be nothing behind thee; if thou wilt not grasp after what is in the middle, thou wilt wander calm[2]. (1098)
+
+[1. Kamesu vinaya gedham,
+      Nekkhammam datthu khemato
+      Uggahitam nirattam va
+      Ma te viggittha kinkanam.
+
+2. Comp. supra, .]
+
+p. 205
+
+   5. 'For him whose greediness for name and form is wholly gone, O Brahmana, for him there are no passions by which he might fall into the power of death.' (1099)
+
+ Gatukannimanavapukkha is ended.
+
+ 
+
+13. BHADRAVUDHAMANAVAPUKKHA.
+
+   1. 'I entreat the wise (Buddha), the houseless, who cuts off desire,'--so (said) the venerable Bhadravudha,--'who is free from commotion, forsakes joy, has crossed the stream, is liberated, and who leaves time behind; having heard the chief's (word), they will go away from here[1]. (1100)
+
+   2. 'Different people have come together from the provinces, longing (to hear) thy speech, O hero; do thou expound it thoroughly to them, for this Dhamma is well known to thee.' (1101)
+
+   3. 'Let one wholly subdue the desire of grasping (after everything), O Bhadravudha,'--so said Bhagavat,--'above, below, across, and in the middle; for whatever they grasp after in the world, just by that Mara follows the man. (1102)
+
+   4. 'Therefore, knowing this, let not the thoughtful Bhikkhu grasp after anything in all the world, considering as creatures of desire this generation, sticking fast in the realm of death.' (1103)
+
+Bhadravudhamanavapukkha is ended.
+
+[1. Okamgaham tanhakkhidam anegam
+      Nandimgaham oghatinnam vimuttam
+      Kappamgaham abhiyake sumedham,
+      Sutvana nagassa apanamissanti ito.]
+
+p. 206
+
+ 
+
+14. UDAYAMANAVAPUKKHA.
+
+   1. 'To Buddha who is sitting meditating, free from pollution,'--so said the venerable Udaya,--'having performed his duty, who is without passion, accomplished in all things (dhamma), I have come with a question; tell me the deliverance by knowledge, the splitting up of ignorance.' (1104)
+
+   2. '(It consists in) leaving lust and desire, O Udaya,'--so said Bhagavat,--'and both (kinds of) grief, and driving away sloth, and warding off misbehaviour. (1105)
+
+   3. 'The deliverance by knowledge which is purified by equanimity and thoughtfulness and preceded by reasoning on Dhamma I will tell thee, the splitting up of ignorance[1].' (1106)
+
+   4. Udaya: 'What is the bond of the world, what is its practice? By the leaving of what is Nibbana said to be[2]?' (1107)
+
+   5. Buddha: 'The world is bound by pleasure, reasoning is its practice; by the leaving of desire Nibbana is said to be.' (1108)
+
+   6. Udaya: 'How does consciousness cease in him that wanders thoughtful? Having come to ask thee, let us hear thy words.' (1109)
+
+[1. Upekhasatisamsuddham
+      Dhammatakkapuregavam
+      Annavimokham pabrumi
+      Aviggaya pabhedanam.
+
+2. Kim su samyogano loko,
+      Kim su tassa vikarana
+      Kiss' assa vippahanena
+      Nibbanam iti vukkati?]
+
+p. 207
+
+   7. Buddha: 'For him who both inwardly and outwardly does not delight in sensation, for him who thus wanders thoughtful, consciousness ceases.' (1110)
+
+Udayamanavapukkha is ended.
+
+ 
+
+15. POSALAMANAVAPUKKHA.
+
+   1. 'He who shows the past (births, &c.),'--so said the venerable Posala,--'who is without desire and has cut off doubt, to him who is accomplished in all things (dhamma), I have come supplicatingly with a question. (1111)
+
+   2. 'O Sakka, I ask about his knowledge who is aware of past shapes, who casts off every corporeal form, and who sees that there exists nothing either internally or externally; how can such a one be led (by anybody)[1]? (1112)
+
+   3. 'Tathagata, knowing all the faces of consciousness, O Posala,'--so said Bhagavat,--'knows (also) him who stands delivered, devoted to that (object)[2]. (1113)
+
+   4. 'Having understood that the bonds of pleasure do not originate in nothingness (?), he sees clearly in
+
+[1. Vibhutarupasannissa
+      Sabbakayapahayino
+      Agghattan ka bahiddha ka
+      Natthi kinkiti passato
+      Nanam Sakkanupukkhami,
+      Katham neyyo tathavidho.
+
+2. Vinnanatthitiyo sabba--Posala ti Bhagava--
+      Abhiganam Tathagato
+      Titthantam enam ganati
+      Vimuttam tapparayanam.]
+
+p. 208
+
+this (matter), this (is) the knowledge of a perfect, accomplished Brahmana[1].' (1114)
+
+Posalamanavapukkha is ended.
+
+ 
+
+16. MOGHARAGAMANAVAPUKKHA
+
+    1. 'Twice have I asked Sakka,'--so said the venerable Mogharagan,--'but the clearly-seeing has not explained it to me; if the divine Isi is asked for the third time, he will explain it, so I have heard. (1115)
+
+   2. 'There is this world, the other world, Brahman's world together with the world of the gods; I do not know thy view, the famous Gotama's (view). (1116)
+
+   3. 'To this man who sees what is good I have come supplicatingly with a question: How is any one to look upon the world that the king of death may not see him?' (1117)
+
+   4. 'Look upon the world as void, O Mogharagan, being always thoughtful; having destroyed the view of oneself (as really existing), so one may overcome death; the king of death will not see him who thus regards the world[2].' (1118)
+
+Mogharagamanavapukkha is ended.
+
+[1. Akinkannasambhavam
+      Nandisamyoganam iti
+      Evam evam abhinnaya
+      Tato tattha vipassati,
+      Etam nanam tathamtassa
+      Brahmanassa vusimato.
+
+2. Comp. .]
+
+p. 209
+
+ 
+
+17. PINGIYAMANAVAPUKKHA.
+
+   1. 'I am old, feeble, colourless,'--so said the venerable Pingiya,--'my eyes are not clear, my hearing is not good; lest I should perish a fool on the way, tell me the Dhamma, that I may know how to leave birth and decay in this world.' (1119)
+
+   2. 'Seeing others afflicted by the body, O Pingiya,'--so said Bhagavat,--'(seeing) heedless people suffer in their bodies;--therefore, O Pingiya, shalt thou be heedful, and leave the body behind, that thou mayest never come to exist again.' (1120)
+
+   3. Pingiya: 'Four regions, four intermediate regions, above and below, these are the ten regions; there is nothing which has not been seen, heard, or thought by thee, and (is there) anything in the world not understood (by thee)? Tell (me) the Dhamma, that I may know how to leave birth and decay in this world' (1121)
+
+   4. 'Seeing men seized with desire, O Pingiya,'--so said Bhagavat,--'tormented and overcome by decay,--therefore thou, O Pingiya, shalt be heedful, and leave desire behind, that thou mayest never come to exist again.' (1122)
+
+Pingiyamanavapukkha is ended.
+
+   This said Bhagavat, living in Magadha at Pasanaka Ketiya (the Rock Temple). Sought by sixteen Brahmanas, the followers (of Bavari, and) questioned by each of them in turn, he responded to the questions. If a man, having understood the meaning and tenor of each question, lives according to the Dhamma, then he will go to the further shore of decay and death, for these Dhammas lead to the
+
+p. 209
+
+further shore, and therefore this order of Dhamma was called 'the way to the other shore.'
+
+   1, 2. Agita, Tissametteyya, Punnaka and Mettagu, Dhotaka and Upasiva, Nanda and Hemaka, the two Todeyya and Kappa, and the wise Gatukannin, Bhadravudha and Udaya, and also the Brahmana Posala, and the wise Mogharagan, and Pingiya the great Isi, (1123, 1124)
+
+   3. These went up to Buddha, the Isi of exemplary conduct; asking subtle questions they went up to the supreme Buddha. (1125)
+
+   4. Buddha, being asked, responded to their questions truly, and in responding to the questions the Muni delighted the Brahmanas.(1126)
+
+   5. They, having been delighted by the clearly-seeing Buddha, the kinsman of the Adikkas, devoted themselves to a religious life near the man of excellent understanding. (1127)
+
+   6. He who lived according to what had been taught by Buddha (in answer) to each single question, went from this shore to the other shore. (1128)
+
+   7. From this shore he went to the other shore entering upon the most excellent way; this way is to lead to the other shore, therefore it is called 'the way to the other shore.' (1129)
+
+   8. 'I will proclaim accordingly the way to the further shore,'--so said the venerable Pingiya;--'as he saw it, so he told it; the spotless, the very wise, the passionless, the desireless lord, for what reason should he speak falsely? (1130)
+
+   9. 'Well! I will praise the beautiful voice of (Buddha), who is without stain and folly, and who has left behind arrogance and hypocrisy. (1131)
+
+   10. 'The darkness-dispelling Buddha, the all-seeing,
+
+p. 211
+
+who thoroughly understands the world[1], has overcome all existences, is free from passion, has left behind all pain, is rightly called (Buddha), he, O Brahmana, has come to me. (1132)
+
+   11. 'As the bird, having left the bush, takes up his abode in the fruitful forest, even so I, having left men of narrow views, have reached the great sea, like the hamsa[2]. (1133)
+
+   12. 'Those who before in another world explained the doctrine of Gotama, saying, "So it was, so it will be," all that was only oral tradition, all that was only something that increased my doubts[3]. (1134)
+
+   13. 'There is only one abiding dispelling darkness, that is the high-born, the luminous, Gotama of great understanding, Gotama of great wisdom, (1135)
+
+   14. 'Who taught me the Dhamma, the instantaneous, the immediate, the destruction of desire, freedom from distress, whose likeness is nowhere[4].' (1136)
+
+   15. Bavari: 'Canst thou stay away from him even for a moment, O Pingiya, from Gotama of great understanding, from Gotama of great wisdom, (1137)
+
+[1. Lokantagu.
+
+2. Digo yatha kubbanakam pahaya
+      Bahupphalam kananam avaseyya
+      Evam p' aham appadasse pahaya
+      Mahodadhim hamso-r-iv' agghapatto.
+
+3. Ye 'me pubbe viyakamsu
+      huram Gotamasasanam
+      ikk-asi iti bhavissati
+      sabban tam itihitiham
+      sabban tam takkavaddhanam.
+
+4. Yo me dhammam adesesi
+      Sanditthikam akalikam
+      Tanhakkhayam anitikam
+      Yassa n'atthi upama kvaki.]
+
+p. 212
+
+   16. 'Who taught thee the Dhamma, the instantaneous, the immediate, the destruction of desire, freedom from distress, whose likeness is nowhere?' (1138)
+
+   17. Pingiya: 'I do not stay away from him even for a moment, O Brahmana, from Gotama of great understanding, from Gotama of great wisdom, (1139)
+
+   18. 'Who taught me the Dhamma, the instantaneous, the immediate, the destruction of desire, freedom from distress, whose likeness is nowhere. (1140)
+
+   19. 'I see him in my mind and with my eye, vigilant, O Brahmana, night and day; worshipping I spend the night, therefore I think I do not stay away from him. (1141)
+
+   20. 'Belief and joy, mind and thought incline me towards the doctrine of Gotama; whichever way the very wise man goes, the very same I am inclined to[1]. (?) (1142)
+
+   21. 'Therefore, as I am worn out and feeble, my body does not go there, but in my thoughts I always go there, for my mind, O Brahmana, is joined to him. (1143)
+
+   22. 'Lying in the mud (of lusts) wriggling, I jumped from island to island; then I saw the perfectly Enlightened, who has crossed the stream, and is free from passion.' (1144)
+
+   23. Bhagavat[2]: 'As Vakkali was delivered by
+
+[1. Saddha ka piti ka mano sati ka
+      Namenti me Gotamasasanamha (?),
+      Yam yam disam vagati bhuripanno
+      Sa tena ten' eva nato 'ham asmi.
+
+2. At the conclusion of this (i.e. the preceding) gatha, Bhagavat, who stayed at Savatthi, when seeing the maturity of the minds of Pingiya and Bavari, shed a golden light. Pingiya, who sat picturing Buddha's virtues to Bavari, having seen the light, looked round, saying, 'What is this?' And when he saw Bhagavat standing, as it were, before him, he said to the Brahmana Bavari: 'Buddha has come.' The Brahmana rose from his seat and stood with folded hands. Bhagavat, shedding a light, showed himself to the Brahmana, and knowing what was beneficial for both, he said this stanza while addressing Pingiya. Commentator.]
+
+p. 213
+
+faith, (as well as) Bhadravudha and Alavi-Gotama, so thou shalt let faith deliver thee, and thou shalt go, O Pingiya, to the further shore of the realm of death[1].' (1145)
+
+   24. Pingiya: 'I am highly pleased at hearing the Muni's words; Sambuddha has removed the veil, he is free from harshness, and wise. (1146)
+
+   25. 'Having penetrated (all things) concerning the gods, he knows everything of every description; the Master will put an end to all questions of the doubtful that (will) admit (him). (1147)
+
+   26. 'To the insuperable, the unchangeable (Nibbana), whose likeness is nowhere, I shall certainly go; in this (Nibbana) there will be no doubt (left) for me, so know (me to be) of a dispossessed mind[2].' (1148)
+
+Parayanavagga is ended.
+
+Suttanipata is ended.
+
+[1. Yatha ahu Vakkali muttasaddho
+      Bhadravudho Alavi-Gotamo ka
+      Evam eva tvam pi pamunkayassu saddham,
+      Gamissasi tvam Pingiya makkudheyyaparam.
+
+2. Asamhiram asamkuppam
+      Yassa n' atthi upama kvaki
+      Addha gamissami, na me 'ttha kamkha,
+      Evam padharehi avittakittam.]
+

@@ -1,0 +1,121 @@
+---
+title: '[POLS 8500]: Problem Set 5: Learning About Religious Documents with Topic Models (Extra Credit)'
+author: "Jason Anastasopoulos"
+output:
+  html_document: default
+  html_notebook: default
+  pdf_document: default
+---
+
+### [POLS 8500] Problem Set 5
+
+For these exercises we will be estimating a topic model and exploring patterns in a collection of religious and spiritual documents [https://www.kaggle.com/metron/public-files-of-religious-and-spiritual-texts/data](https://www.kaggle.com/metron/public-files-of-religious-and-spiritual-texts/data). 
+
+In addition to figuring out the topics in these collection of documents we will also be classifying the documents themselves by topics. All of the texts can be found on our class Github Site: [https://github.com/ljanastas/WWS586A-Machine-Learning-Policy-Analysis/tree/master/Data](https://github.com/ljanastas/WWS586A-Machine-Learning-Policy-Analysis/tree/master/Data).
+
+### Due Date and Time
+
+Due on Thursday, December 12th at 11:59PM
+
+### Guidelines
+
+All problem sets must be submitted as two files:
+
+1. A *R Markdown* file with the following format: "lastname_firstname_ps5.Rmd". Ie. for me this would be: "anastasopoulos_jason_ps4.Rmd"
+
+2. A compiled *R Markdown* file in HTML with the following format: "lastname_firstname_ps5.html" Ie. for me this would be: "anastasopoulos_jason_ps5.html"
+
+Please only fill in the sections labelled "YOUR CODE HERE"
+  
+### Learning about religious texts with topic models
+
+For this problem set, we will be using topic models to learn about the content of a group of spiritual and religious texts. This problem set will involve starting with the texts in their raw form which can be found here: [https://github.com/ljanastas/WWS586A-Machine-Learning-Policy-Analysis/tree/master/Data/Kaggle%20Project%20Metron1](https://github.com/ljanastas/WWS586A-Machine-Learning-Policy-Analysis/tree/master/Data/Kaggle%20Project%20Metron1).
+
+### 1. Pre-processing. 
+
+First read the raw texts into *R*, clean them using some variant of the "text_cleaner()" function that we've been using and place them in a document term matrix with 90% sparsity using text-frequency (default value) weighting. 
+
+Be sure to use the "readtext()" function to read the documents into R. 
+
+```{r}
+##### YOUR CODE HERE ###################################
+library(pacman)
+pacman::p_load(tm,SnowballC,plyr,
+               slam,foreign,
+               caret,ranger,rpart,rpart.plot,readtext,topicmodels)
+
+
+
+
+
+
+
+# Hint: After you reduce sparsity, you will have to delete some rows from the DTM, use this code as a guide. 
+#dtmtopic <- dtm[rowSums(as.matrix(dtm))> 0, ]
+
+
+##### YOUR CODE HERE ###################################
+```
+
+
+### 2. Topic model estimation
+
+Estimate a k = 4, 6 and 8 topic topic model. Report the top 5 terms from each model. 
+
+
+```{r}
+### Code for bombings classifier
+##### YOUR CODE HERE ###################################
+
+
+
+
+
+
+
+
+
+
+##### YOUR CODE HERE ###################################
+```
+
+### 3. Interpretation
+
+Choose one of the models from the one that you estimated above. Interpret the topics the model that you chose by labeling each. 
+
+
+```{r}
+##### WRITE LABELS AND CORRESPONDING TOPICS HERE ###################################
+
+
+
+
+
+
+
+
+
+
+##### WRITE LABELS AND CORRESPONDING TOPICS HERE ###################################
+```
+
+### 4. Classification
+
+Using posterior estimation, estimate the topic proportions for each of the documents for your final model. Classify each of the documents into topics by selecting the highest probability topic. For each topic, report the filenames of the documents in each topic.
+
+Do these make sense to you?
+
+```{r}
+##### YOUR CODE HERE ###################################
+
+
+
+
+
+
+
+
+
+
+##### YOUR CODE HERE ###################################
+```
